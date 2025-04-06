@@ -1,0 +1,194 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-06 12:57:16",
+  "repositories": [
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "4453",
+      "forks": "529",
+      "today_stars": "216 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "fabric",
+      "full_name": "danielmiessler/fabric",
+      "url": "https://github.com/danielmiessler/fabric",
+      "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "stars": "30500",
+      "forks": "3145",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "2280",
+      "forks": "192",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "22986",
+      "forks": "2765",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "31524",
+      "forks": "2393",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "higress",
+      "full_name": "alibaba/higress",
+      "url": "https://github.com/alibaba/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "stars": "4717",
+      "forks": "620",
+      "today_stars": "98 stars today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "4404",
+      "forks": "817",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "owasp-amass",
+      "name": "amass",
+      "full_name": "owasp-amass/amass",
+      "url": "https://github.com/owasp-amass/amass",
+      "description": "In-depth attack surface mapping and asset discovery",
+      "language": "Go",
+      "stars": "12736",
+      "forks": "1960",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "domain-list-community",
+      "full_name": "v2fly/domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+      "language": "Go",
+      "stars": "5720",
+      "forks": "987",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mjl-",
+      "name": "mox",
+      "full_name": "mjl-/mox",
+      "url": "https://github.com/mjl-/mox",
+      "description": "modern full-featured open source secure mail server for low-maintenance self-hosted email",
+      "language": "Go",
+      "stars": "4742",
+      "forks": "140",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+      "language": "Go",
+      "stars": "136175",
+      "forks": "11328",
+      "today_stars": "100 stars today"
+    },
+    {
+      "author": "Septrum101",
+      "name": "zteOnu",
+      "full_name": "Septrum101/zteOnu",
+      "url": "https://github.com/Septrum101/zteOnu",
+      "description": "A tool that can open ZTE onu device factory mode",
+      "language": "Go",
+      "stars": "985",
+      "forks": "215",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "650",
+      "forks": "59",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "27626",
+      "forks": "1337",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "terraform-provider-cloudflare",
+      "full_name": "cloudflare/terraform-provider-cloudflare",
+      "url": "https://github.com/cloudflare/terraform-provider-cloudflare",
+      "description": "Cloudflare Terraform Provider",
+      "language": "Go",
+      "stars": "993",
+      "forks": "660",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "cyclops-ui",
+      "name": "cyclops",
+      "full_name": "cyclops-ui/cyclops",
+      "url": "https://github.com/cyclops-ui/cyclops",
+      "description": "Developer Friendly Kubernetes 👁️",
+      "language": "Go",
+      "stars": "2996",
+      "forks": "778",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "k6",
+      "full_name": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": "27239",
+      "forks": "1338",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
