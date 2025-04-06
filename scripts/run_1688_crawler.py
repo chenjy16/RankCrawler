@@ -57,14 +57,15 @@ async def crawl_1688_category(category, max_retries=3):
         }
     )
     
-    # 配置浏览器 - 使用更真实的浏览器配置
+    # 配置浏览器 - 修复参数问题
     browser_config = BrowserConfig(
         headless=True,
         user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         viewport={"width": 1920, "height": 1080},
         ignore_https_errors=True,
-        has_touch=False,
-        is_mobile=False,
+        # 移除不支持的参数
+        # has_touch=False,
+        # is_mobile=False,
     )
     
     # 创建爬虫运行配置 - 使用更健壮的等待策略和交互逻辑
