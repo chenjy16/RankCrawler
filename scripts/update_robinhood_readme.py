@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+import json
 from pathlib import Path
 from datetime import datetime
 
@@ -9,6 +10,11 @@ def update_readme_links():
     """更新README.md中的Robinhood股票数据链接"""
     readme_path = Path("README.md")
     data_dir = Path("data/robinhood")
+    
+    # 确保数据目录存在
+    if not data_dir.exists():
+        print(f"数据目录 {data_dir} 不存在")
+        return
     
     # 读取README内容
     with open(readme_path, 'r', encoding='utf-8') as f:
@@ -41,9 +47,9 @@ def update_readme_links():
         print("未找到任何Robinhood数据文件，无法更新README")
         return
     
-    # 查找README中的数据链接部分
-    robinhood_section_pattern = r'(## Robinhood Stock Data\n\n.*?)(?=\n##|\Z)'
-    robinhood_section_match = re.search(robinhood_section_pattern, content, re.DOTALL)
+    # 移除现有的Robinhood部分（如果存在）
+    robinhood_section_pattern = r"## Robinhood Stock Data\s*\n\n.*?(?=\n\n## |$)"
+    content = re.sub(robinhood_section_pattern, "", content, flags=re.DOTALL)
     
     today = datetime.now().strftime('%Y-%m-%d')
     
@@ -58,7 +64,6 @@ def update_readme_links():
             
         # 从文件中读取类别名称
         try:
-            import json
             with open(file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 category_name = data.get("category_name", category_id)
@@ -78,20 +83,27 @@ def update_readme_links():
     # 添加可视化仪表盘链接
     new_section += f"* [Stock Visualization Dashboard](https://chenjy16.github.io/RankCrawler/robinhood_stocks.html) - Interactive data visualization interface\n"
     
-    # 更新README内容
-    if robinhood_section_match:
-        # 替换现有部分
-        new_content = content[:robinhood_section_match.start()] + new_section + content[robinhood_section_match.end():]
-    else:
+    # 查找插入位置
+    # 首先尝试查找Data Links部分
+    data_links_pattern = r"(## Data Links\s*\n\n.*?)(?=\n\n## |$)"
+    data_links_match = re.search(data_links_pattern, content, flags=re.DOTALL)
+    
+    if data_links_match:
         # 在Data Links部分后添加
-        data_links_pattern = r'(## Data Links\n\n.*?)(?=\n##|\Z)'
-        data_links_match = re.search(data_links_pattern, content, re.DOTALL)
+        insert_pos = data_links_match.end()
+        new_content = content[:insert_pos] + "\n\n" + new_section + content[insert_pos:]
+    else:
+        # 查找Features部分
+        features_pattern = r"(## Features\s*\n\n.*?)(?=\n\n## |$)"
+        features_match = re.search(features_pattern, content, flags=re.DOTALL)
         
-        if data_links_match:
-            new_content = content[:data_links_match.end()] + "\n\n" + new_section + content[data_links_match.end():]
+        if features_match:
+            # 在Features部分后添加
+            insert_pos = features_match.end()
+            new_content = content[:insert_pos] + "\n\n" + new_section + content[insert_pos:]
         else:
-            # 如果没有找到Data Links部分，在文件末尾添加
-            new_content = content + "\n\n" + new_section
+            # 如果没有找到合适的位置，添加到文件末尾
+            new_content = content.rstrip() + "\n\n" + new_section + "\n"
     
     # 保存更新后的README
     with open(readme_path, 'w', encoding='utf-8') as f:
