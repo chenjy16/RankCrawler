@@ -72,18 +72,6 @@ async def crawl_1688_category(category):
     # 创建爬虫运行配置 - 使用更健壮的等待策略
     config = CrawlerRunConfig(
         js_code="""
-            // 设置中文区域
-            try {
-                Object.defineProperty(navigator, 'language', {
-                    get: function() { return 'zh-CN'; }
-                });
-                Object.defineProperty(navigator, 'languages', {
-                    get: function() { return ['zh-CN', 'zh']; }
-                });
-            } catch(e) {
-                console.error('无法设置语言:', e);
-            }
-            
             // 模拟真实用户行为
             async function simulateUserBehavior() {
                 // 随机滚动
@@ -111,7 +99,7 @@ async def crawl_1688_category(category):
                 return true;
             }
             
-            await simulateUserBehavior();
+            return await simulateUserBehavior();
         """,
         # 使用JavaScript等待条件而不是CSS选择器
         wait_for="js:() => {" +

@@ -41,6 +41,10 @@ jobs:
             echo "files_exist=false" >> $GITHUB_OUTPUT
             echo "没有找到任何JSON文件，可能爬虫未能成功获取数据"
           fi
+      
+      - name: 更新README中的数据链接
+        if: steps.check_files.outputs.files_exist == 'true'
+        run: python scripts/update_readme.py
         
       - name: 提交更新的数据
         if: steps.check_files.outputs.files_exist == 'true'
@@ -48,6 +52,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Action"
           git add data/1688/*.json
+          git add README.md
           git commit -m "更新1688排行榜数据 $(date +'%Y-%m-%d')"
           
       - name: 推送更改
