@@ -64,7 +64,8 @@ def update_readme_links():
             new_section += f"### {data_type.title()} Data\n\n"
             
             for key, (file, date_str) in sorted(latest_files.items()):
-                relative_path = file.relative_to(Path.cwd())
+                # 修复路径问题 - 使用字符串而不是Path对象的relative_to方法
+                relative_path = str(file)
                 
                 if data_type == "github":
                     language, period = key.split("_")
