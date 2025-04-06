@@ -81,6 +81,7 @@ async def crawl_1688_category(category, max_retries=3):
     )
     
     # 创建爬虫运行配置 - 增强等待策略和交互逻辑
+    # 查找类似这样的代码
     config = CrawlerRunConfig(
         js_code="""
             // 模拟真实用户行为
@@ -161,7 +162,7 @@ async def crawl_1688_category(category, max_retries=3):
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
         delay_before_return_html=15.0,  # 页面加载后额外等待15秒
-        debug=True,  # 启用调试模式，获取更多日志信息
+        verbose=True,  # 正确的参数是 verbose 而不是 debug
     )
     
     # 执行爬取，添加重试机制
