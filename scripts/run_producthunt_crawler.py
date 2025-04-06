@@ -46,7 +46,7 @@ async def crawl_producthunt():
     
     # 配置浏览器
     browser_config = BrowserConfig(
-        headless=False,
+        headless=True,  # 在GitHub Actions中必须使用无头模式
         user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         viewport={"width": 1920, "height": 1080},
         ignore_https_errors=True,
@@ -74,7 +74,7 @@ async def crawl_producthunt():
         magic=True,
     )
     
-    # 创建爬虫实例
+    # 创建爬虫实例 - 修复参数传递方式
     crawler = AsyncWebCrawler(browser_config=browser_config)
     
     # 执行爬取
