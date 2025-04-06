@@ -32,7 +32,7 @@ jobs:
         run: |
           mkdir -p data/github
           mkdir -p data/hackernews
-          mkdir -p data/producthunt
+          # 移除 ProductHunt 数据目录创建
           
       - name: 运行GitHub Trending爬虫
         run: python scripts/run_github_trending_crawler.py
@@ -40,8 +40,7 @@ jobs:
       - name: 运行HackerNews爬虫
         run: python scripts/run_hackernews_crawler.py
         
-      - name: 运行ProductHunt爬虫
-        run: python scripts/run_producthunt_crawler.py
+      # 移除 ProductHunt 爬虫执行步骤
         
       - name: 更新README
         run: python scripts/update_tech_data_readme.py

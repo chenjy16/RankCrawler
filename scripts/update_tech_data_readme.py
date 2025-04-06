@@ -10,11 +10,11 @@ def update_readme_links():
     """更新README.md中的技术数据链接"""
     readme_path = Path("README.md")
     
-    # 数据目录列表
+    # 数据目录列表 - 移除 ProductHunt
     data_dirs = {
         "github": Path("data/github"),
-        "hackernews": Path("data/hackernews"),
-        "producthunt": Path("data/producthunt")
+        "hackernews": Path("data/hackernews")
+        # 移除 producthunt
     }
     
     # 读取README内容
@@ -57,15 +57,7 @@ def update_readme_links():
                     if category not in latest_files or date_str > latest_files[category][1]:
                         latest_files[category] = (file, date_str)
         
-        elif data_type == "producthunt":
-            # ProductHunt数据文件处理
-            for file in data_dir.glob("producthunt_*.json"):
-                match = re.match(r'producthunt_(\d{4}-\d{2}-\d{2})\.json', file.name)
-                if match:
-                    date_str = match.group(1)
-                    
-                    if "daily" not in latest_files or date_str > latest_files["daily"][1]:
-                        latest_files["daily"] = (file, date_str)
+        # 移除 ProductHunt 数据文件处理部分
         
         # 添加数据链接
         if latest_files:
@@ -83,8 +75,7 @@ def update_readme_links():
                     display_name = f"{key.replace('_', ' ').title()} Stories"
                     new_section += f"* [{display_name}](https://github.com/chenjy16/RankCrawler/blob/main/{relative_path}) - Updated: {date_str}\n"
                 
-                elif data_type == "producthunt":
-                    new_section += f"* [Daily Products](https://github.com/chenjy16/RankCrawler/blob/main/{relative_path}) - Updated: {date_str}\n"
+                # 移除 ProductHunt 链接生成部分
             
             new_section += "\n"
     
