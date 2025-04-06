@@ -37,27 +37,27 @@ def update_readme_links():
         content = f.read()
     
     # 移除现有的数据链接部分（如果存在）
-    content = re.sub(r"## 数据链接\n\n.*?(?=\n\n|$)", "", content, flags=re.DOTALL)
+    content = re.sub(r"## (数据链接|Data Links)\n\n.*?(?=\n\n|$)", "", content, flags=re.DOTALL)
     
     # 构建新的数据链接部分
-    links_content = "## 数据链接\n\n通过GitHub Actions自动爬取的最新排行榜数据可以通过以下链接访问：\n\n"
+    links_content = "## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
     
     # 添加每个类别的链接
     for category_id, (filename, date_str) in data_files.items():
         # 根据类别ID确定类别名称
-        if category_id == "digital_computer":
-            category_name = "数码电脑"
-        else:
-            category_name = category_id
+        category_names = {
+            "digital_computer": "Digital & Computer"
+        }
+        category_name = category_names.get(category_id, category_id)
         
         # 正确格式化日期字符串，避免显示问题
         formatted_date = date_str.replace("_", "-")
         
         # 使用完整的URL，确保链接可点击
-        links_content += f"- [{category_name}排行榜数据下载](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - 更新时间: {formatted_date}\n"
+        links_content += f"- [{category_name} Rankings Data Download](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - Updated: {formatted_date}\n"
     
     # 添加可视化页面链接
-    links_content += f"- [排行榜可视化页面](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - 交互式数据可视化界面\n"
+    links_content += f"- [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
     
     # 将新的数据链接部分添加到README中
     # 查找Installation部分的结束位置
