@@ -1,0 +1,55 @@
+name: 爬取技术趋势数据
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC时间0点运行
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 明确指定写入权限
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 获取完整历史记录，以便正确合并
+        
+      - name: 设置Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+          pip install aiohttp playwright
+          playwright install chromium
+          
+      - name: 创建数据目录
+        run: |
+          mkdir -p data/github
+          mkdir -p data/hackernews
+          mkdir -p data/producthunt
+          
+      - name: 运行GitHub Trending爬虫
+        run: python scripts/run_github_trending_crawler.py
+        
+      - name: 运行HackerNews爬虫
+        run: python scripts/run_hackernews_crawler.py
+        
+      - name: 运行ProductHunt爬虫
+        run: python scripts/run_producthunt_crawler.py
+        
+      - name: 更新README
+        run: python scripts/update_tech_data_readme.py
+        
+      - name: 提交更新
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ README.md
+          git commit -m "更新技术趋势数据 $(date +'%Y-%m-%d')" || echo "没有变更需要提交"
+          git push
