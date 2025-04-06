@@ -26,7 +26,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -e .
           pip install playwright matplotlib pandas seaborn
-          # 移除anthropic安装
+          # 移除anthropic安装条件判断
           playwright install chromium
           
       - name: 创建数据目录
@@ -36,7 +36,7 @@ jobs:
           
       - name: 运行爬虫脚本
         run: python scripts/run_robinhood_crawler.py
-        # 移除环境变量设置
+        # 移除ANTHROPIC_API_KEY环境变量设置
         
       - name: 检查是否有新数据
         id: check_files

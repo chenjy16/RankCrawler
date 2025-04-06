@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
-import json
 import asyncio
-import base64
+import json
+import os
+import random
 from pathlib import Path
 from datetime import datetime
-import anthropic
+
+# 移除anthropic导入
 from dotenv import load_dotenv
 
 # 确保导入正确
@@ -423,7 +424,6 @@ async def main():
     # 加载环境变量
     load_dotenv()
     
-
     
     today = datetime.now().strftime('%Y-%m-%d')
     
@@ -485,13 +485,78 @@ async def main():
         except Exception as e:
             print(f"{Colors.RED}处理股票 {symbol} 时出错: {str(e)}{Colors.RESET}")
     
-    # 分析股票数据（如果有Anthropic客户端）
-    if category_results and client:
-        analyze_stocks(category_results, client)
-    elif category_results:
-        print(f"{Colors.YELLOW}由于缺少Anthropic API密钥，跳过股票数据分析{Colors.RESET}")
-    else:
-        print(f"{Colors.RED}没有可用的股票数据进行分析{Colors.RESET}")
+    # 移除analyze_stocks函数，或者保留函数但不在main中调用它
+
+async def main():
+    """主函数"""
+    print(f"{Colors.MAGENTA}===== Robinhood股票数据爬取 ====={Colors.RESET}")
+    
+    # 加载环境变量
+    load_dotenv()
+    
+    
+    today = datetime.now().strftime('%Y-%m-%d')
+    
+    # 爬取类别数据
+    category_results = []
+    for category in STOCK_CATEGORIES:
+        try:
+            print(f"{Colors.BLUE}===== 开始处理类别: {category['name']} ====={Colors.RESET}")
+            
+            # 检查是否已有缓存数据
+            cache_file = output_dir / f"{category['id']}_{today}.json"
+            if cache_file.exists():
+                print(f"{Colors.YELLOW}发现缓存数据，正在加载: {cache_file}{Colors.RESET}")
+                with open(cache_file, 'r', encoding='utf-8') as f:
+                    result = json.load(f)
+                print(f"{Colors.GREEN}成功加载缓存数据，包含 {len(result['stocks'])} 只股票{Colors.RESET}")
+            else:
+                # 爬取数据
+                result = await crawl_robinhood_category(category)
+                
+                if result:
+                    # 保存结果
+                    with open(cache_file, 'w', encoding='utf-8') as f:
+                        json.dump(result, f, ensure_ascii=False, indent=2)
+                    
+                    print(f"{Colors.GREEN}成功保存类别 {category['name']} 的数据到 {cache_file}{Colors.RESET}")
+                else:
+                    print(f"{Colors.RED}未能获取类别 {category['name']} 的数据{Colors.RESET}")
+                    continue
+            
+            category_results.append(result)
+                
+        except Exception as e:
+            print(f"{Colors.RED}处理类别 {category['name']} 时出错: {str(e)}{Colors.RESET}")
+    
+    # 爬取单个股票详情
+    for symbol in STOCK_SEARCH_TERMS:
+        try:
+            print(f"{Colors.BLUE}===== 开始处理股票: {symbol} ====={Colors.RESET}")
+            
+            # 检查是否已有缓存数据
+            cache_file = output_dir / f"stock_{symbol}_{today}.json"
+            if cache_file.exists():
+                print(f"{Colors.YELLOW}发现缓存数据，正在加载: {cache_file}{Colors.RESET}")
+                continue
+            
+            # 爬取数据
+            result = await crawl_stock_detail(symbol)
+            
+            if result:
+                # 保存结果
+                with open(cache_file, 'w', encoding='utf-8') as f:
+                    json.dump(result, f, ensure_ascii=False, indent=2)
+                
+                print(f"{Colors.GREEN}成功保存股票 {symbol} 的详情数据到 {cache_file}{Colors.RESET}")
+            else:
+                print(f"{Colors.RED}未能获取股票 {symbol} 的详情数据{Colors.RESET}")
+                
+        except Exception as e:
+            print(f"{Colors.RED}处理股票 {symbol} 时出错: {str(e)}{Colors.RESET}")
+    
+    # 移除分析股票数据的部分
+    print(f"{Colors.GREEN}爬取完成，共获取 {len(category_results)} 个类别的股票数据{Colors.RESET}")
 
 if __name__ == "__main__":
     asyncio.run(main())

@@ -24,15 +24,16 @@ def update_readme_links():
     latest_files = {}
     for file in data_dir.glob("*.json"):
         if file.name.startswith("stock_analysis_"):
-            # 分析文件
-            match = re.match(r'stock_analysis_(\d{4}-\d{2}-\d{2})\.json', file.name)
-            if match:
-                date_str = match.group(1)
-                if "analysis" not in latest_files or date_str > latest_files["analysis"][1]:
-                    latest_files["analysis"] = (file, date_str)
-        elif file.name.startswith("stock_"):
-            # 股票详情文件，忽略
+            # 忽略分析文件，因为我们不再生成它们
             continue
+        elif file.name.startswith("stock_"):
+            # 股票详情文件
+            match = re.match(r'stock_([A-Z]+)_(\d{4}-\d{2}-\d{2})\.json', file.name)
+            if match:
+                symbol = match.group(1)
+                date_str = match.group(2)
+                if f"stock_{symbol}" not in latest_files or date_str > latest_files[f"stock_{symbol}"][1]:
+                    latest_files[f"stock_{symbol}"] = (file, date_str)
         else:
             # 类别文件
             match = re.match(r'(.+)_(\d{4}-\d{2}-\d{2})\.json', file.name)
@@ -81,11 +82,7 @@ def update_readme_links():
         relative_path = file.relative_to(Path.cwd())
         new_section += f"* [{category_name} Data](https://github.com/chenjy16/RankCrawler/blob/main/{relative_path}) - Updated: {date_str}\n"
     
-    # 添加分析数据链接
-    if "analysis" in latest_files:
-        file, date_str = latest_files["analysis"]
-        relative_path = file.relative_to(Path.cwd())
-        new_section += f"* [Stock Analysis Results](https://github.com/chenjy16/RankCrawler/blob/main/{relative_path}) - Updated: {date_str}\n"
+    # 移除分析数据链接
     
     # 添加可视化仪表盘链接
     new_section += f"* [Stock Visualization Dashboard](https://chenjy16.github.io/RankCrawler/robinhood_stocks.html) - Interactive data visualization interface\n"

@@ -22,7 +22,7 @@ def get_latest_data_files():
     # 获取类别数据文件
     for file in DATA_DIR.glob("*.json"):
         if file.name.startswith("stock_analysis_"):
-            continue
+            continue  # 忽略分析文件，因为我们不再生成它们
             
         if file.name.startswith("stock_"):
             # 股票详情文件
@@ -43,11 +43,7 @@ def get_latest_data_files():
                 if category_id not in latest_files or date_str > latest_files[category_id][1]:
                     latest_files[category_id] = (file, date_str)
     
-    # 获取最新的分析文件
-    analysis_files = list(DATA_DIR.glob("stock_analysis_*.json"))
-    if analysis_files:
-        latest_analysis = max(analysis_files, key=lambda f: f.stat().st_mtime)
-        latest_files["analysis"] = (latest_analysis, "")
+    # 移除获取分析文件的逻辑，因为我们不再生成它们
     
     return {k: v[0] for k, v in latest_files.items()}
 
@@ -339,17 +335,12 @@ def generate_main_page(data_files):
     
     # 加载数据
     category_data = {}
-    analysis_data = None
     
     for key, file_path in data_files.items():
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                
-                if key == "analysis":
-                    analysis_data = data
-                else:
-                    category_data[key] = data
+                category_data[key] = data
         except Exception as e:
             print(f"加载数据文件 {file_path} 时出错: {str(e)}")
     
@@ -363,10 +354,7 @@ def generate_main_page(data_files):
             charts_html += generate_category_chart(data, category_id)
             tables_html += generate_stock_table(data)
     
-    # 添加分析图表和表格（如果有分析数据）
-    if analysis_data and "scores" in analysis_data and analysis_data["scores"]:
-        charts_html += generate_analysis_chart(analysis_data)
-        tables_html += generate_analysis_table(analysis_data)
+    # 移除分析图表和表格生成逻辑
     
     # 生成完整HTML
     html = f"""<!DOCTYPE html>
