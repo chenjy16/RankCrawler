@@ -35,144 +35,229 @@ CATEGORIES = [
     }
 ]
 
-async def crawl_1688_category(category):
+async def crawl_1688_category(category, max_retries=3):
     """爬取1688类目销量排行数据"""
     logger.info(f"开始爬取类目: {category['name']} (ID: {category['id']})")
     
-    # 创建提取策略 - 更新选择器以匹配1688当前DOM结构
+    # 创建提取策略 - 更新选择器以匹配1688最新DOM结构
     extraction_strategy = JsonCssExtractionStrategy(
         schema={
             "name": "1688类目销量排行",
-            # 更新选择器以匹配数码电脑页面
-            "baseSelector": ".offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item", 
+            # 更新选择器以匹配最新的1688页面结构
+            "baseSelector": ".offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card", 
             "fields": [
-                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title", "type": "text"},
-                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a", "type": "attribute", "attribute": "href"},
-                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum", "type": "text"},
-                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade", "type": "text"},
-                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName", "type": "text"},
-                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a", "type": "attribute", "attribute": "href"},
-                {"name": "rating", "selector": ".star-rating, .rating, .rate", "type": "text"},
-                {"name": "location", "selector": ".location, .address, .sm-offer-location", "type": "text"},
-                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img", "type": "attribute", "attribute": "src"},
-                {"name": "tags", "selector": ".tags, .offer-tags, .sm-offer-tags", "type": "text"},
-                {"name": "min_order", "selector": ".min-order, .offer-min-order, .sm-offer-moq", "type": "text"},
-                {"name": "delivery_time", "selector": ".delivery-time, .offer-delivery-time", "type": "text"},
+                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title", "type": "text"},
+                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a", "type": "attribute", "attribute": "href"},
+                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container", "type": "text"},
+                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade", "type": "text"},
+                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company", "type": "text"},
+                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a", "type": "attribute", "attribute": "href"},
+                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img", "type": "attribute", "attribute": "src"},
             ]
         }
     )
     
-    # 配置浏览器 - 移除不支持的locale参数
+    # 配置浏览器 - 使用更真实的浏览器配置
     browser_config = BrowserConfig(
         headless=True,
-        user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        viewport={"width": 1920, "height": 1080},  # 使用更大的视口
+        user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        viewport={"width": 1920, "height": 1080},
+        ignore_https_errors=True,
+        has_touch=False,
+        is_mobile=False,
     )
     
-    # 创建爬虫运行配置 - 使用更健壮的等待策略
+    # 创建爬虫运行配置 - 使用更健壮的等待策略和交互逻辑
     config = CrawlerRunConfig(
         js_code="""
             // 模拟真实用户行为
             async function simulateUserBehavior() {
-                // 随机滚动
-                for (let i = 0; i < 8; i++) {
-                    const scrollAmount = Math.floor(Math.random() * 500) + 100;
-                    window.scrollBy(0, scrollAmount);
-                    await new Promise(r => setTimeout(r, Math.random() * 1000 + 500));
+                // 等待页面完全加载
+                await new Promise(r => setTimeout(r, 3000));
+                
+                // 检查是否有弹窗并关闭
+                const closeButtons = document.querySelectorAll('.close-btn, .modal-close, .popup-close, .dialog-close');
+                for (const btn of closeButtons) {
+                    try {
+                        btn.click();
+                        console.log('关闭了弹窗');
+                        await new Promise(r => setTimeout(r, 1000));
+                    } catch (e) {}
                 }
                 
-                // 滚动到底部
+                // 随机滚动模拟真实用户
+                for (let i = 0; i < 12; i++) {
+                    const scrollAmount = Math.floor(Math.random() * 500) + 200;
+                    window.scrollBy(0, scrollAmount);
+                    await new Promise(r => setTimeout(r, Math.random() * 800 + 300));
+                    
+                    // 随机暂停，模拟用户查看内容
+                    if (i % 3 === 0) {
+                        await new Promise(r => setTimeout(r, Math.random() * 1500 + 500));
+                    }
+                }
+                
+                // 滚动到底部以加载更多内容
+                window.scrollTo(0, document.body.scrollHeight * 0.7);
+                await new Promise(r => setTimeout(r, 2500));
+                window.scrollTo(0, document.body.scrollHeight);
+                await new Promise(r => setTimeout(r, 2500));
+                
+                // 尝试点击"加载更多"按钮（如果存在）
+                const loadMoreSelectors = [
+                    '.load-more', '.sm-pagination-next', '.next-btn', 
+                    '.pagination-next', '.next-page', '[data-spm-click*="loadmore"]',
+                    '.pagination .next', '.load-more-btn'
+                ];
+                
+                for (const selector of loadMoreSelectors) {
+                    const loadMoreBtn = document.querySelector(selector);
+                    if (loadMoreBtn) {
+                        try {
+                            loadMoreBtn.click();
+                            console.log('点击了加载更多按钮');
+                            await new Promise(r => setTimeout(r, 3500));
+                            window.scrollTo(0, document.body.scrollHeight);
+                            await new Promise(r => setTimeout(r, 2000));
+                        } catch (e) {}
+                    }
+                }
+                
+                // 最后再滚动一次确保所有内容都已加载
+                window.scrollTo(0, 0);
+                await new Promise(r => setTimeout(r, 1000));
                 window.scrollTo(0, document.body.scrollHeight);
                 await new Promise(r => setTimeout(r, 2000));
                 
-                // 再次滚动确保加载完成
-                window.scrollTo(0, document.body.scrollHeight);
-                
-                // 尝试点击"加载更多"按钮（如果存在）
-                const loadMoreBtn = document.querySelector('.load-more, .sm-pagination-next, .next-btn');
-                if (loadMoreBtn) {
-                    loadMoreBtn.click();
-                    await new Promise(r => setTimeout(r, 3000));
-                    window.scrollTo(0, document.body.scrollHeight);
-                }
+                // 检查是否有商品数据
+                const productCount = document.querySelectorAll('.offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card').length;
+                console.log(`找到 ${productCount} 个商品`);
                 
                 return true;
             }
             
             return await simulateUserBehavior();
         """,
-        # 使用JavaScript等待条件而不是CSS选择器
+        # 使用更灵活的等待条件
         wait_for="js:() => {" +
-                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list'];" +
-                "return selectors.some(selector => document.querySelector(selector) !== null);" +
+                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list', '.common-offer-card', '.card-container', '.offer-card'];" +
+                "return selectors.some(selector => document.querySelector(selector) !== null) || document.readyState === 'complete';" +
                 "}",
         extraction_strategy=extraction_strategy,
         # 增加页面超时时间
-        page_timeout=180000,  # 增加到180秒
+        page_timeout=300000,  # 增加到300秒
         # 添加更多反爬虫设置
         magic=True,  # 启用魔法模式
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
-        delay_before_return_html=5.0,  # 页面加载后额外等待5秒
+        delay_before_return_html=8.0,  # 页面加载后额外等待8秒
+        extra_http_headers={
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Cache-Control": "max-age=0",
+            "Sec-Ch-Ua": '"Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"',
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Sec-Ch-Ua-Platform": '"macOS"',
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1",
+        },
     )
     
-    # 执行爬取
-    async with AsyncWebCrawler(config=browser_config) as crawler:
+    # 执行爬取，添加重试机制
+    for attempt in range(max_retries):
         try:
-            result = await crawler.arun(url=category['url'], config=config)
-            
-            if not result.success:
-                # 修复错误处理，使用result.message而不是result.error
-                logger.error(f"爬取失败: {result.message if hasattr(result, 'message') else '未知错误'}")
-                return None
-            
-            # 解析结果
-            try:
-                products = json.loads(result.extracted_content)
+            logger.info(f"尝试第 {attempt+1}/{max_retries} 次爬取")
+            async with AsyncWebCrawler(config=browser_config) as crawler:
+                result = await crawler.arun(url=category['url'], config=config)
                 
-                # 按销量排序
-                def extract_sales_number(sales_text):
-                    try:
-                        import re
-                        if not sales_text:
+                if not result.success:
+                    logger.error(f"爬取失败: {result.message if hasattr(result, 'message') else '未知错误'}")
+                    if attempt < max_retries - 1:
+                        wait_time = (attempt + 1) * 5  # 递增等待时间
+                        logger.info(f"等待 {wait_time} 秒后重试...")
+                        await asyncio.sleep(wait_time)
+                        continue
+                    return None
+                
+                # 检查是否有提取到内容
+                if not result.extracted_content or result.extracted_content == "[]":
+                    logger.error("提取内容为空，可能选择器不匹配")
+                    if attempt < max_retries - 1:
+                        wait_time = (attempt + 1) * 5
+                        logger.info(f"等待 {wait_time} 秒后重试...")
+                        await asyncio.sleep(wait_time)
+                        continue
+                    return None
+                
+                # 解析结果
+                try:
+                    products = json.loads(result.extracted_content)
+                    
+                    # 记录原始数据数量
+                    logger.info(f"提取到 {len(products)} 个商品")
+                    
+                    # 按销量排序
+                    def extract_sales_number(sales_text):
+                        try:
+                            import re
+                            if not sales_text:
+                                return 0
+                            # 匹配数字，包括带单位的数字（如1万+）
+                            numbers = re.findall(r'(\d+(?:\.\d+)?)[万+]*', sales_text)
+                            if not numbers:
+                                return 0
+                                
+                            num = float(numbers[0])
+                            # 处理"万"单位
+                            if "万" in sales_text:
+                                num *= 10000
+                            return int(num)
+                        except:
                             return 0
-                        numbers = re.findall(r'\d+', sales_text)
-                        if numbers:
-                            return int(numbers[0])
-                        return 0
-                    except:
-                        return 0
-                
-                # 过滤掉没有销量数据的产品
-                valid_products = [p for p in products if p.get("sales")]
-                
-                # 按销量排序
-                valid_products.sort(key=lambda x: extract_sales_number(x.get("sales", "0")), reverse=True)
-                
-                # 截取前100个
-                top_products = valid_products[:100]
-                
-                # 添加排名信息
-                for i, product in enumerate(top_products):
-                    product["rank"] = i + 1
-                
-                # 添加元数据
-                result_data = {
-                    "category_id": category['id'],
-                    "category_name": category['name'],
-                    "category_url": category['url'],
-                    "crawl_time": datetime.now().isoformat(),
-                    "total_products": len(valid_products),
-                    "products": top_products
-                }
-                
-                return result_data
-            except Exception as e:
-                logger.error(f"处理数据失败: {str(e)}")
-                return None
+                    
+                    # 过滤掉没有销量数据的产品
+                    valid_products = [p for p in products if p.get("sales")]
+                    logger.info(f"有效商品（含销量数据）: {len(valid_products)} 个")
+                    
+                    # 按销量排序
+                    valid_products.sort(key=lambda x: extract_sales_number(x.get("sales", "0")), reverse=True)
+                    
+                    # 截取前100个
+                    top_products = valid_products[:100]
+                    
+                    # 添加排名信息
+                    for i, product in enumerate(top_products):
+                        product["rank"] = i + 1
+                    
+                    # 添加元数据
+                    result_data = {
+                        "category_id": category['id'],
+                        "category_name": category['name'],
+                        "category_url": category['url'],
+                        "crawl_time": datetime.now().isoformat(),
+                        "total_products": len(valid_products),
+                        "products": top_products
+                    }
+                    
+                    return result_data
+                except Exception as e:
+                    logger.error(f"处理数据失败: {str(e)}")
+                    if attempt < max_retries - 1:
+                        continue
+                    return None
         except Exception as e:
             logger.error(f"爬取过程中发生错误: {str(e)}")
+            if attempt < max_retries - 1:
+                wait_time = (attempt + 1) * 5
+                logger.info(f"等待 {wait_time} 秒后重试...")
+                await asyncio.sleep(wait_time)
+                continue
             return None
+    
+    return None
 
 async def main():
     """主函数"""
