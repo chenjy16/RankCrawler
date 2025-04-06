@@ -36,64 +36,70 @@ def update_readme_links():
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
     
-    # 完全移除现有的Data Links部分（包括其中的所有内容）
-    data_links_pattern = r"## Data Links\s*\n\nAccess the latest ranking data.*?(?=\n\n## |$)"
-    content = re.sub(data_links_pattern, "", content, flags=re.DOTALL)
+    # 修改这部分，避免移除整个Data Links部分
+    # 而是只替换1688相关的内容
+    data_links_pattern = r"(## Data Links\s*\n\nAccess the latest ranking data.*?)(?=\n\n## Robinhood Stock Data|\n\n## |$)"
+    data_links_match = re.search(data_links_pattern, content, flags=re.DOTALL)
     
-    # 移除Features部分下可能存在的重复链接
-    features_pattern = r"(## Features\n\n.*?)(\* digital Rankings.*?interface)(\n\n)"
-    features_match = re.search(features_pattern, content, re.DOTALL)
-    if features_match:
-        # 保留Features部分，但移除重复的链接
-        content = content.replace(features_match.group(0), features_match.group(1) + "\n\n")
-    
-    # 构建新的数据链接部分，确保有足够的空行
-    links_content = "\n\n## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
-    
-    # 添加每个类别的链接
-    for category_id, (filename, date_str) in data_files.items():
-        # 根据类别ID确定类别名称
-        category_names = {
-            "digital_computer": "Digital & Computer"
-        }
-        category_name = category_names.get(category_id, category_id)
-        
-        # 正确格式化日期字符串，避免显示问题
-        formatted_date = date_str.replace("_", "-")
-        
-        # 使用完整的URL，确保链接可点击
-        links_content += f"* [{category_name} Rankings Data Download](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - Updated: {formatted_date}\n"
-    
-    # 添加可视化页面链接
-    links_content += f"* [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
-    
-    # 将新的数据链接部分添加到README中
-    # 查找Features部分的结束位置
-    features_pattern = r"(## Features\n\n.*?Interactive web dashboard for viewing ranking data\n)"
-    features_match = re.search(features_pattern, content, re.DOTALL)
-    
-    if features_match:
-        # 在Features部分后添加数据链接部分，确保有足够的空行
-        insert_pos = features_match.end()
-        content = content[:insert_pos] + links_content + content[insert_pos:]
+    if data_links_match:
+        # 只替换1688相关的部分，保留其他部分
+        content = content.replace(data_links_match.group(0), links_content)
     else:
-        # 如果没有找到Features部分，使用原来的逻辑
-        installation_pattern = r"## Installation\n\n```bash[\s\S]*?```"
-        installation_match = re.search(installation_pattern, content)
+        # 如果没有找到Data Links部分，则添加新的部分
+        # 移除Features部分下可能存在的重复链接
+        features_pattern = r"(## Features\n\n.*?)(\* digital Rankings.*?interface)(\n\n)"
+        features_match = re.search(features_pattern, content, re.DOTALL)
+        if features_match:
+            # 保留Features部分，但移除重复的链接
+            content = content.replace(features_match.group(0), features_match.group(1) + "\n\n")
         
-        if installation_match:
-            # 在Installation部分后添加数据链接部分
-            insert_pos = installation_match.end()
-            content = content[:insert_pos] + "\n\n" + links_content + content[insert_pos+1:]
+        # 构建新的数据链接部分，确保有足够的空行
+        links_content = "\n\n## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
+        
+        # 添加每个类别的链接
+        for category_id, (filename, date_str) in data_files.items():
+            # 根据类别ID确定类别名称
+            category_names = {
+                "digital_computer": "Digital & Computer"
+            }
+            category_name = category_names.get(category_id, category_id)
+            
+            # 正确格式化日期字符串，避免显示问题
+            formatted_date = date_str.replace("_", "-")
+            
+            # 使用完整的URL，确保链接可点击
+            links_content += f"* [{category_name} Rankings Data Download](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - Updated: {formatted_date}\n"
+        
+        # 添加可视化页面链接
+        links_content += f"* [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
+        
+        # 将新的数据链接部分添加到README中
+        # 查找Features部分的结束位置
+        features_pattern = r"(## Features\n\n.*?Interactive web dashboard for viewing ranking data\n)"
+        features_match = re.search(features_pattern, content, re.DOTALL)
+        
+        if features_match:
+            # 在Features部分后添加数据链接部分，确保有足够的空行
+            insert_pos = features_match.end()
+            content = content[:insert_pos] + links_content + content[insert_pos:]
         else:
-            # 如果没有找到Installation部分，直接添加到末尾
-            content = content.rstrip() + "\n\n" + links_content + "\n"
-    
-    # 写入更新后的README
-    with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    
-    print(f"README.md 数据链接已更新")
+            # 如果没有找到Features部分，使用原来的逻辑
+            installation_pattern = r"## Installation\n\n```bash[\s\S]*?```"
+            installation_match = re.search(installation_pattern, content)
+            
+            if installation_match:
+                # 在Installation部分后添加数据链接部分
+                insert_pos = installation_match.end()
+                content = content[:insert_pos] + "\n\n" + links_content + content[insert_pos+1:]
+            else:
+                # 如果没有找到Installation部分，直接添加到末尾
+                content = content.rstrip() + "\n\n" + links_content + "\n"
+        
+        # 写入更新后的README
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(content)
+        
+        print(f"README.md 数据链接已更新")
 
 if __name__ == "__main__":
     update_readme_links()

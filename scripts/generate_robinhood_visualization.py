@@ -56,6 +56,16 @@ def extract_percent_change(percent_text):
     if not percent_text:
         return 0
         
+    # 移除所有非数字、小数点和正负号字符
+    cleaned_text = ''.join(c for c in percent_text if c.isdigit() or c in '.-+')
+    
+    # 尝试转换为浮点数
+    try:
+        return float(cleaned_text)
+    except ValueError:
+        print(f"无法解析百分比文本: {percent_text}")
+        return 0
+        
     # 匹配数字，包括带符号的百分比
     match = re.search(r'([+-]?\d+(?:\.\d+)?)%?', percent_text)
     if match:
@@ -347,16 +357,16 @@ def generate_main_page(data_files):
     charts_html = ""
     tables_html = ""
     
-    # 添加分析图表
-    if analysis_data:
-        charts_html += generate_analysis_chart(analysis_data)
-        tables_html += generate_analysis_table(analysis_data)
-    
     # 添加类别图表和表格
     for category_id, data in category_data.items():
         if not category_id.startswith("stock_"):  # 只处理类别数据
             charts_html += generate_category_chart(data, category_id)
             tables_html += generate_stock_table(data)
+    
+    # 添加分析图表和表格（如果有分析数据）
+    if analysis_data and "scores" in analysis_data and analysis_data["scores"]:
+        charts_html += generate_analysis_chart(analysis_data)
+        tables_html += generate_analysis_table(analysis_data)
     
     # 生成完整HTML
     html = f"""<!DOCTYPE html>

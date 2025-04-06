@@ -47,9 +47,16 @@ def update_readme_links():
         print("未找到任何Robinhood数据文件，无法更新README")
         return
     
-    # 移除现有的Robinhood部分（如果存在）
+    # 修改这部分，使其更精确地只替换Robinhood部分
     robinhood_section_pattern = r"## Robinhood Stock Data\s*\n\n.*?(?=\n\n## |$)"
-    content = re.sub(robinhood_section_pattern, "", content, flags=re.DOTALL)
+    robinhood_match = re.search(robinhood_section_pattern, content, flags=re.DOTALL)
+    
+    if robinhood_match:
+        # 只替换Robinhood部分
+        content = content.replace(robinhood_match.group(0), new_section)
+    else:
+        # 如果没有找到Robinhood部分，则添加新的部分
+        content = re.sub(robinhood_section_pattern, "", content, flags=re.DOTALL)
     
     today = datetime.now().strftime('%Y-%m-%d')
     

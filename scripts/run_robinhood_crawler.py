@@ -79,9 +79,11 @@ async def crawl_robinhood_category(category, max_retries=3):
     extraction_strategy = JsonCssExtractionStrategy(
         schema={
             "name": "Robinhood股票列表",
-            "baseSelector": ".rh-hyperlink, [data-testid='stock-card'], [data-testid='stock-item'], .instrument-card, .stock-card, .list-item, .stock-list-item", 
+            # 增加更多可能的选择器，提高健壮性
+            "baseSelector": ".rh-hyperlink, [data-testid='stock-card'], [data-testid='stock-item'], .instrument-card, .stock-card, .list-item, .stock-list-item, .equity-card, .equity-item, .stock-container", 
             "fields": [
-                {"name": "stock_symbol", "selector": ".symbol, [data-testid='symbol'], .ticker, .ticker-symbol", "type": "text"},
+                # 增加更多可能的选择器
+                {"name": "stock_symbol", "selector": ".symbol, [data-testid='symbol'], .ticker, .ticker-symbol, [data-testid*='ticker'], [class*='symbol'], [class*='ticker']", "type": "text"},
                 {"name": "stock_name", "selector": ".company-name, [data-testid='name'], .name, .stock-name", "type": "text"},
                 {"name": "stock_price", "selector": ".price, [data-testid='price'], .current-price, .stock-price", "type": "text"},
                 {"name": "price_change", "selector": ".price-change, [data-testid='price-change'], .change, .stock-change", "type": "text"},
@@ -95,9 +97,13 @@ async def crawl_robinhood_category(category, max_retries=3):
     
     # 配置浏览器 - 增强反爬虫能力
     browser_config = BrowserConfig(
-        headless=False,  # 非无头模式，更容易通过反爬检测
-        user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        viewport={"width": 1920, "height": 1080},
+        headless=False,
+        user_agent=random.choice([
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+        ]),
+        viewport={"width": random.randint(1200, 1920), "height": random.randint(800, 1080)},
         ignore_https_errors=True,
         headers={
             "Accept-Language": "en-US,en;q=0.9",
@@ -417,13 +423,7 @@ async def main():
     # 加载环境变量
     load_dotenv()
     
-    # 初始化Anthropic客户端
-    anthropic_api_key = os.getenv("ANTHROPIC_API_KEY")
-    if not anthropic_api_key:
-        print(f"{Colors.RED}未找到ANTHROPIC_API_KEY环境变量{Colors.RESET}")
-        return
-        
-    client = anthropic.Anthropic(api_key=anthropic_api_key)
+
     
     today = datetime.now().strftime('%Y-%m-%d')
     
@@ -485,9 +485,11 @@ async def main():
         except Exception as e:
             print(f"{Colors.RED}处理股票 {symbol} 时出错: {str(e)}{Colors.RESET}")
     
-    # 分析股票数据
-    if category_results:
+    # 分析股票数据（如果有Anthropic客户端）
+    if category_results and client:
         analyze_stocks(category_results, client)
+    elif category_results:
+        print(f"{Colors.YELLOW}由于缺少Anthropic API密钥，跳过股票数据分析{Colors.RESET}")
     else:
         print(f"{Colors.RED}没有可用的股票数据进行分析{Colors.RESET}")
 
