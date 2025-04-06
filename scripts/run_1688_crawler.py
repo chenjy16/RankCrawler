@@ -43,29 +43,30 @@ async def crawl_1688_category(category, max_retries=3):
     extraction_strategy = JsonCssExtractionStrategy(
         schema={
             "name": "1688类目销量排行",
-            # 简化基础选择器，专注于最可能的元素
-            "baseSelector": ".offer-item, .sm-offer-item, .item, .product-item, [data-offer-id], [data-spm-anchor-id*='offer'], .offer-list > div, .sm-offer-list > div, .grid-offer > div, .organic-offer-list > div, .m-gallery2 > div, .m-offer-list > div, .pc-offer-list > div, .goods-list > div, .search-list > div, .result-list > div, .list-items > div, .list-container > div, .offer-container > div, .product-container > div, .goods-container > div, .search-container > div, .result-container > div", 
+            # 根据截图更新基础选择器，专注于商品卡片元素
+            "baseSelector": ".grid-offer .offer-item, .grid-offer > div, .offer-list > div, .sm-offer-list > div, .m-offer-list > div, .pc-offer-list > div, .goods-list > div, .search-list > div, .result-list > div, [data-offer-id], [data-spm-anchor-id*='offer']", 
             "fields": [
-                # 保持现有字段选择器不变
-                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title, .product-title, .item-title, a[title], .subject, .name, .product-name, .product-info .name, .description, .desc, .product-info .title, .product-info h4, .product-info a", "type": "text"},
-                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a, a[href*='detail.1688.com'], a[href*='offer'], a.item-link, a.product-link, a.offer-link, a[data-spm-anchor-id*='offer'], a[href*='detail'], a[href*='product'], a[href*='item']", "type": "attribute", "attribute": "href"},
-                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container, .price-original, .price-current, .price-num, .value, .price-value, .price-area, .price-wrap, .price-box, [class*='price']", "type": "text"},
-                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade, .transaction, .sold, .deal-cnt, .sale, .sale-num, .sale-count, .trade, .trade-amount, [class*='sale'], [class*='trade']", "type": "text"},
-                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company, .store-name, .seller-name, .supplier, .merchant, .vendor, .store, .shop, [class*='company'], [class*='shop']", "type": "text"},
-                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a, a[href*='winport.1688.com'], a[href*='shop'], a[href*='company'], a.company-link, a.shop-link, a.supplier-link, a[data-spm-anchor-id*='company']", "type": "attribute", "attribute": "href"},
-                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img, .img img, .pic img, img.offer-image, img[src*='img.alicdn.com'], .product-image img, .item-image img, .main-pic img, .pic-box img, img.main, img.primary, img.product-img, img[alt], img[src]", "type": "attribute", "attribute": "src"},
+                # 根据截图中的商品卡片结构更新选择器
+                {"name": "product_name", "selector": ".title, .offer-title, h4, a[title], .subject, .name, .product-name", "type": "text"},
+                {"name": "product_url", "selector": "a[href*='detail.1688.com'], a[href*='offer'], a.item-link, a.product-link, a.offer-link", "type": "attribute", "attribute": "href"},
+                {"name": "price", "selector": ".price, .offer-price, [class*='price']", "type": "text"},
+                {"name": "sales", "selector": ".sale-quantity, .sales, [class*='sale'], [class*='trade']", "type": "text"},
+                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, [class*='company'], [class*='shop']", "type": "text"},
+                {"name": "shop_url", "selector": ".company-name a, .shop-name a, a[href*='winport.1688.com'], a[href*='shop'], a[href*='company']", "type": "attribute", "attribute": "href"},
+                {"name": "image_url", "selector": "img[src*='img.alicdn.com'], img.offer-image, img.main, img.primary, img.product-img, img[alt], img[src]", "type": "attribute", "attribute": "src"},
             ]
         }
     )
     
     # 配置浏览器 - 增强反爬虫能力
     browser_config = BrowserConfig(
-        headless=False,  # 改为非无头模式，更容易通过反爬检测
+        headless=False,  # 非无头模式，更容易通过反爬检测
         user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         viewport={"width": 1920, "height": 1080},
         ignore_https_errors=True,
         headers={
-            # 保持现有headers不变
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Referer": "https://www.1688.com/",
         },
     )
     
@@ -74,8 +75,10 @@ async def crawl_1688_category(category, max_retries=3):
         js_code="""
             // 模拟真实用户行为
             async function simulateUserBehavior() {
+                console.log('开始模拟用户行为...');
+                
                 // 等待页面完全加载
-                await new Promise(r => setTimeout(r, 12000));  // 增加等待时间到12秒
+                await new Promise(r => setTimeout(r, 15000));  // 增加等待时间到15秒
                 
                 // 检查是否有弹窗并关闭
                 const closeButtons = document.querySelectorAll('.close-btn, .modal-close, .popup-close, .dialog-close, .btn-close, .close, button[aria-label="Close"], .baxia-dialog-close');
@@ -105,149 +108,29 @@ async def crawl_1688_category(category, max_retries=3):
                 window.scrollTo(0, document.body.scrollHeight);
                 await new Promise(r => setTimeout(r, 3000));
                 
-                // 添加调试信息 - 输出页面结构
-                console.log('页面DOM结构分析:');
+                // 根据截图分析页面结构
+                console.log('分析页面结构...');
                 
-                // 分析页面主要容器
-                const containers = [
-                    '.offer-list', '.sm-offer-list', '.grid-offer', '.organic-offer-list',
-                    '.m-gallery2', '.m-offer-list', '.m-content', '.m-item-list',
-                    '#sm-offer-list', '#offer-list', '.list-content', '.search-content',
-                    '.pc-offer-list', '.pc-offer', '.offer-container', '.product-list',
-                    '.goods-list', '.item-list', '.search-list', '.result-list',
-                    // 添加新的可能容器
-                    '.list-items', '.list-container', '.search-container', '.result-container',
-                    '.items-container', '.products-container', '.goods-container',
-                    '.search-results', '.result-items', '.offer-results', '.product-results'
-                ];
+                // 直接分析商品元素
+                const productElements = document.querySelectorAll('.grid-offer .offer-item, .grid-offer > div, .offer-list > div, [data-offer-id]');
+                console.log(`找到 ${productElements.length} 个商品元素`);
                 
-                // 记录所有找到的容器
-                let foundContainers = [];
-                
-                for (const selector of containers) {
-                    const container = document.querySelector(selector);
-                    if (container) {
-                        console.log(`找到容器: ${selector}, 子元素数量: ${container.children.length}`);
-                        foundContainers.push({
-                            selector: selector,
-                            childCount: container.children.length,
-                            firstChildClass: container.children.length > 0 ? container.children[0].className : 'none'
-                        });
-                        
-                        // 输出第一个子元素的类名，帮助确定正确的选择器
-                        if (container.children.length > 0) {
-                            console.log(`第一个子元素类名: ${container.children[0].className}`);
-                            console.log(`第一个子元素HTML: ${container.children[0].outerHTML.substring(0, 200)}...`);
-                        }
-                    }
-                }
-                
-                // 如果没有找到任何容器，尝试分析页面结构
-                if (foundContainers.length === 0) {
-                    console.log('未找到任何已知容器，分析页面结构...');
+                if (productElements.length > 0) {
+                    // 分析第一个商品元素的结构
+                    const firstProduct = productElements[0];
+                    console.log('第一个商品元素类名:', firstProduct.className);
+                    console.log('第一个商品元素HTML:', firstProduct.outerHTML.substring(0, 300));
                     
-                    // 获取所有可能的商品容器
-                    const allDivs = document.querySelectorAll('div');
-                    const potentialContainers = Array.from(allDivs).filter(div => {
-                        // 查找包含多个子元素的div，可能是商品列表
-                        return div.children.length > 5 && 
-                               (div.className.includes('list') || 
-                                div.className.includes('item') || 
-                                div.className.includes('offer') || 
-                                div.className.includes('product') || 
-                                div.className.includes('goods') || 
-                                div.className.includes('result'));
-                    });
+                    // 尝试提取关键信息
+                    const productInfo = {
+                        name: firstProduct.querySelector('.title, h4, a[title]')?.textContent?.trim(),
+                        url: firstProduct.querySelector('a[href*="detail"], a[href*="offer"]')?.href,
+                        price: firstProduct.querySelector('.price, [class*="price"]')?.textContent?.trim(),
+                        sales: firstProduct.querySelector('.sale-quantity, .sales, [class*="sale"], [class*="trade"]')?.textContent?.trim(),
+                        image: firstProduct.querySelector('img')?.src
+                    };
                     
-                    console.log(`找到 ${potentialContainers.length} 个潜在商品容器`);
-                    
-                    // 输出前3个潜在容器的信息
-                    potentialContainers.slice(0, 3).forEach((container, index) => {
-                        console.log(`潜在容器 ${index+1}:`);
-                        console.log(`- 类名: ${container.className}`);
-                        console.log(`- 子元素数量: ${container.children.length}`);
-                        console.log(`- 第一个子元素类名: ${container.children.length > 0 ? container.children[0].className : 'none'}`);
-                        console.log(`- HTML片段: ${container.outerHTML.substring(0, 200)}...`);
-                    });
-                }
-                
-                // 尝试查找所有可能的商品元素
-                const selectors = [
-                    '[data-offer-id]', 
-                    '[data-spm-anchor-id*="offer"]', 
-                    '.item', 
-                    '.product-item', 
-                    '.offer',
-                    '.goods-item',
-                    '.search-item',
-                    '.result-item',
-                    '.product',
-                    '.offer-card',
-                    '.product-card',
-                    '.item-card',
-                    '.goods-card',
-                    '.search-card',
-                    '.result-card',
-                    // 添加新的可能选择器
-                    '[data-index]',
-                    '[data-product-id]',
-                    '[data-item-id]',
-                    '[data-goods-id]',
-                    '[data-spm]',
-                    '.list-item',
-                    '.search-result-item',
-                    '.product-list-item',
-                    '.offer-list-item',
-                    '.goods-list-item'
-                ];
-                
-                // 对每个选择器进行查询并记录结果
-                for (const selector of selectors) {
-                    const elements = document.querySelectorAll(selector);
-                    if (elements.length > 0) {
-                        console.log(`选择器 "${selector}" 找到 ${elements.length} 个元素`);
-                        if (elements.length > 0) {
-                            console.log(`- 第一个元素类名: ${elements[0].className}`);
-                            console.log(`- HTML片段: ${elements[0].outerHTML.substring(0, 200)}...`);
-                        }
-                    }
-                }
-                
-                // 输出页面HTML结构，帮助分析
-                console.log('页面HTML结构:');
-                console.log(document.documentElement.outerHTML.substring(0, 5000) + '...');
-                
-                // 尝试直接提取商品信息并输出
-                try {
-                    const products = [];
-                    // 尝试多种可能的商品容器选择器
-                    const itemSelectors = [
-                        '.offer-item', '.sm-offer-item', '.item', '.product-item', 
-                        '[data-offer-id]', '[data-spm-anchor-id*="offer"]', 
-                        '.offer-list > div', '.sm-offer-list > div', '.grid-offer > div',
-                        '.list-items > div', '.list-container > div'
-                    ];
-                    
-                    for (const selector of itemSelectors) {
-                        const items = document.querySelectorAll(selector);
-                        if (items.length > 0) {
-                            console.log(`使用选择器 "${selector}" 找到 ${items.length} 个商品`);
-                            
-                            // 尝试从第一个商品中提取信息
-                            const firstItem = items[0];
-                            const productInfo = {
-                                name: firstItem.querySelector('.title, .offer-title, h4, a[title]')?.textContent?.trim(),
-                                url: firstItem.querySelector('a[href*="detail"], a[href*="offer"]')?.href,
-                                price: firstItem.querySelector('.price, [class*="price"]')?.textContent?.trim(),
-                                sales: firstItem.querySelector('.sale-quantity, .sales, [class*="sale"], [class*="trade"]')?.textContent?.trim()
-                            };
-                            
-                            console.log('提取到的第一个商品信息:', productInfo);
-                            break;
-                        }
-                    }
-                } catch (e) {
-                    console.log('尝试直接提取商品信息失败:', e);
+                    console.log('提取到的商品信息:', productInfo);
                 }
                 
                 return true;
@@ -255,20 +138,16 @@ async def crawl_1688_category(category, max_retries=3):
             
             return await simulateUserBehavior();
         """,
-        # 使用更灵活的等待条件
-        wait_for="networkidle",  # 改为等待网络空闲
+        wait_for="networkidle",  # 等待网络空闲
         extraction_strategy=extraction_strategy,
-        # 增加页面超时时间
-        page_timeout=600000,  # 保持600秒
-        # 添加更多反爬虫设置
+        page_timeout=600000,  # 10分钟超时
         magic=True,  # 启用魔法模式
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
-        delay_before_return_html=30.0,  # 增加到30秒
+        delay_before_return_html=45.0,  # 增加到45秒
         verbose=True,  # 启用详细日志
-        # 添加截图功能，帮助调试
         screenshot=True,
-        screenshot_path=str(Path("debug/screenshots").absolute()),
+        screenshot_full_path=str(Path("debug/screenshots").absolute()),
     )
     
     # 确保截图目录存在
