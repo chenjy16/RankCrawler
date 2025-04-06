@@ -44,15 +44,15 @@ async def crawl_1688_category(category, max_retries=3):
         schema={
             "name": "1688类目销量排行",
             # 更新选择器以匹配最新的1688页面结构 - 使用更广泛的选择器
-            "baseSelector": ".offer-list-row-offer, .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card, .offer, .item, .product-item, .product-card", 
+            "baseSelector": ".offer-list-row-offer, .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card, .offer, .item, .product-item, .product-card, .list-item, .m-gallery2-product-item, .m-offer-list .item, .m-content .item, .m-item, [data-offer-id], [data-spm-anchor-id*='offer']", 
             "fields": [
-                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title, .product-title, .item-title, a[title]", "type": "text"},
-                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a, a[href*='detail.1688.com'], a[href*='offer']", "type": "attribute", "attribute": "href"},
-                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container, .price-original, .price-current, .price-num", "type": "text"},
-                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade, .transaction, .sold, .deal-cnt", "type": "text"},
-                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company, .store-name, .seller-name", "type": "text"},
-                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a, a[href*='winport.1688.com'], a[href*='shop']", "type": "attribute", "attribute": "href"},
-                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img, .img img, .pic img, img.offer-image, img[src*='img.alicdn.com']", "type": "attribute", "attribute": "src"},
+                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title, .product-title, .item-title, a[title], .subject, .name, .product-name, .product-info .name, .description, .desc", "type": "text"},
+                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a, a[href*='detail.1688.com'], a[href*='offer'], a.item-link, a.product-link, a.offer-link, a[data-spm-anchor-id*='offer']", "type": "attribute", "attribute": "href"},
+                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container, .price-original, .price-current, .price-num, .value, .price-value, .price-area, .price-wrap, .price-box, [class*='price']", "type": "text"},
+                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade, .transaction, .sold, .deal-cnt, .sale, .sale-num, .sale-count, .trade, .trade-amount, [class*='sale'], [class*='trade']", "type": "text"},
+                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company, .store-name, .seller-name, .supplier, .merchant, .vendor, .store, .shop, [class*='company'], [class*='shop']", "type": "text"},
+                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a, a[href*='winport.1688.com'], a[href*='shop'], a[href*='company'], a.company-link, a.shop-link, a.supplier-link, a[data-spm-anchor-id*='company']", "type": "attribute", "attribute": "href"},
+                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img, .img img, .pic img, img.offer-image, img[src*='img.alicdn.com'], .product-image img, .item-image img, .main-pic img, .pic-box img, img.main, img.primary, img.product-img, img[alt]", "type": "attribute", "attribute": "src"},
             ]
         }
     )
@@ -116,58 +116,32 @@ async def crawl_1688_category(category, max_retries=3):
                 window.scrollTo(0, document.body.scrollHeight);
                 await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
                 
-                // 尝试点击"加载更多"按钮（如果存在）
-                const loadMoreSelectors = [
-                    '.load-more', '.sm-pagination-next', '.next-btn', 
-                    '.pagination-next', '.next-page', '[data-spm-click*="loadmore"]',
-                    '.pagination .next', '.load-more-btn', '.next', '.btn-next',
-                    'button:contains("加载更多")', 'a:contains("下一页")'
+                // 添加调试信息 - 输出页面结构
+                console.log('页面DOM结构分析:');
+                const offerElements = document.querySelectorAll('.offer-list-row-offer, .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card, .offer, .item, .product-item, .product-card, .list-item, .m-gallery2-product-item');
+                console.log(`找到 ${offerElements.length} 个可能的商品元素`);
+                
+                // 分析页面主要容器
+                const containers = [
+                    '.offer-list', '.sm-offer-list', '.grid-offer', '.organic-offer-list',
+                    '.m-gallery2', '.m-offer-list', '.m-content', '.m-item-list',
+                    '#sm-offer-list', '#offer-list', '.list-content', '.search-content'
                 ];
                 
-                for (const selector of loadMoreSelectors) {
-                    const loadMoreBtn = document.querySelector(selector);
-                    if (loadMoreBtn) {
-                        try {
-                            loadMoreBtn.click();
-                            console.log('点击了加载更多按钮');
-                            await new Promise(r => setTimeout(r, 4000));  // 增加等待时间
-                            window.scrollTo(0, document.body.scrollHeight);
-                            await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
-                        } catch (e) {}
+                for (const selector of containers) {
+                    const container = document.querySelector(selector);
+                    if (container) {
+                        console.log(`找到容器: ${selector}, 子元素数量: ${container.children.length}`);
+                        // 输出第一个子元素的类名，帮助确定正确的选择器
+                        if (container.children.length > 0) {
+                            console.log(`第一个子元素类名: ${container.children[0].className}`);
+                        }
                     }
                 }
                 
-                // 最后再滚动一次确保所有内容都已加载
-                window.scrollTo(0, 0);
-                await new Promise(r => setTimeout(r, 1500));  // 增加等待时间
-                window.scrollTo(0, document.body.scrollHeight);
-                await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
-                
-                // 检查是否有商品数据并输出调试信息
-                const selectors = [
-                    '.offer-list-row-offer', '.sm-offer-item', '.grid-offer .offer-item', 
-                    '.organic-offer-list .organic-offer-item', '.sm-offer-list .sm-offer-item', 
-                    '.common-offer-card', '.card-container', '.offer-card', '.offer', 
-                    '.item', '.product-item', '.product-card'
-                ];
-                
-                let productCount = 0;
-                for (const selector of selectors) {
-                    const elements = document.querySelectorAll(selector);
-                    if (elements.length > 0) {
-                        console.log(`找到 ${elements.length} 个商品，使用选择器: ${selector}`);
-                        productCount += elements.length;
-                    }
-                }
-                
-                console.log(`总共找到 ${productCount} 个商品`);
-                
-                // 输出页面结构调试信息
-                console.log('页面主要容器:');
-                ['#sm-offer-list', '.offer-list', '.grid-offer', '.organic-offer-list'].forEach(selector => {
-                    const el = document.querySelector(selector);
-                    if (el) console.log(`找到容器: ${selector}`);
-                });
+                // 尝试查找所有可能的商品元素
+                const allPossibleItems = document.querySelectorAll('[data-offer-id], [data-spm-anchor-id*="offer"], .item, .product-item, .offer');
+                console.log(`找到 ${allPossibleItems.length} 个可能的商品元素（扩展查询）`);
                 
                 return true;
             }
@@ -176,7 +150,7 @@ async def crawl_1688_category(category, max_retries=3):
         """,
         # 使用更灵活的等待条件
         wait_for="js:() => {" +
-                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list', '.common-offer-card', '.card-container', '.offer-card', '.offer', '.item', '.product-item', '.product-card'];" +
+                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list', '.common-offer-card', '.card-container', '.offer-card', '.offer', '.item', '.product-item', '.product-card', '.m-gallery2', '.m-offer-list', '.m-content'];" +
                 "return selectors.some(selector => document.querySelector(selector) !== null) || document.readyState === 'complete';" +
                 "}",
         extraction_strategy=extraction_strategy,
@@ -186,7 +160,8 @@ async def crawl_1688_category(category, max_retries=3):
         magic=True,  # 启用魔法模式
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
-        delay_before_return_html=12.0,  # 页面加载后额外等待12秒
+        delay_before_return_html=15.0,  # 页面加载后额外等待15秒
+        debug=True,  # 启用调试模式，获取更多日志信息
     )
     
     # 执行爬取，添加重试机制

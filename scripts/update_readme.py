@@ -36,8 +36,9 @@ def update_readme_links():
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
     
-    # 移除现有的数据链接部分（如果存在）
-    content = re.sub(r"## (数据链接|Data Links)\n\n.*?(?=\n\n|$)", "", content, flags=re.DOTALL)
+    # 完全移除现有的Data Links部分（包括其中的所有内容）
+    data_links_pattern = r"## Data Links\s*\n\nAccess the latest ranking data.*?(?=\n\n## |$)"
+    content = re.sub(data_links_pattern, "", content, flags=re.DOTALL)
     
     # 移除Features部分下可能存在的重复链接
     features_pattern = r"(## Features\n\n.*?)(\* digital Rankings.*?interface)(\n\n)"
