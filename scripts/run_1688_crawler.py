@@ -62,17 +62,28 @@ async def crawl_1688_category(category):
         }
     )
     
-    # 配置浏览器 - 添加更多反爬虫设置
+    # 配置浏览器 - 移除不支持的locale参数
     browser_config = BrowserConfig(
         headless=True,
         user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         viewport={"width": 1920, "height": 1080},  # 使用更大的视口
-        locale="zh-CN",  # 设置中文区域
     )
     
     # 创建爬虫运行配置 - 使用更健壮的等待策略
     config = CrawlerRunConfig(
         js_code="""
+            // 设置中文区域
+            try {
+                Object.defineProperty(navigator, 'language', {
+                    get: function() { return 'zh-CN'; }
+                });
+                Object.defineProperty(navigator, 'languages', {
+                    get: function() { return ['zh-CN', 'zh']; }
+                });
+            } catch(e) {
+                console.error('无法设置语言:', e);
+            }
+            
             // 模拟真实用户行为
             async function simulateUserBehavior() {
                 // 随机滚动
