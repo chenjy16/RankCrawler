@@ -25,6 +25,9 @@ def update_readme_links():
     new_section = f"## Tech Trending Data\n\n"
     new_section += "Access the latest technology trending data automatically crawled via GitHub Actions:\n\n"
     
+    # 添加可视化链接
+    new_section += "* [Tech Trending Visualization Dashboard](https://chenjy16.github.io/RankCrawler/tech_trending.html) - Interactive technology trending visualization interface\n\n"
+    
     # 处理每个数据目录
     for data_type, data_dir in data_dirs.items():
         if not data_dir.exists():
