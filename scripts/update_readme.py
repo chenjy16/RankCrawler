@@ -39,6 +39,13 @@ def update_readme_links():
     # 移除现有的数据链接部分（如果存在）
     content = re.sub(r"## (数据链接|Data Links)\n\n.*?(?=\n\n|$)", "", content, flags=re.DOTALL)
     
+    # 移除Features部分下可能存在的重复链接
+    features_pattern = r"(## Features\n\n.*?)(\* digital Rankings.*?interface)(\n\n)"
+    features_match = re.search(features_pattern, content, re.DOTALL)
+    if features_match:
+        # 保留Features部分，但移除重复的链接
+        content = content.replace(features_match.group(0), features_match.group(1) + "\n\n")
+    
     # 构建新的数据链接部分
     links_content = "## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
     
@@ -60,17 +67,26 @@ def update_readme_links():
     links_content += f"- [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
     
     # 将新的数据链接部分添加到README中
-    # 查找Installation部分的结束位置
-    installation_pattern = r"## Installation\n\n```bash[\s\S]*?```"
-    installation_match = re.search(installation_pattern, content)
+    # 查找Features部分的结束位置
+    features_pattern = r"## Features\n\n.*?(\n\n)"
+    features_match = re.search(features_pattern, content, re.DOTALL)
     
-    if installation_match:
-        # 在Installation部分后添加数据链接部分
-        insert_pos = installation_match.end()
-        content = content[:insert_pos] + "\n\n" + links_content + content[insert_pos+1:]
+    if features_match:
+        # 在Features部分后添加数据链接部分
+        insert_pos = features_match.end() - 2  # 减去2是为了避免多余的空行
+        content = content[:insert_pos] + links_content + content[insert_pos:]
     else:
-        # 如果没有找到Installation部分，直接添加到末尾
-        content = content.rstrip() + "\n\n" + links_content + "\n"
+        # 如果没有找到Features部分，使用原来的逻辑
+        installation_pattern = r"## Installation\n\n```bash[\s\S]*?```"
+        installation_match = re.search(installation_pattern, content)
+        
+        if installation_match:
+            # 在Installation部分后添加数据链接部分
+            insert_pos = installation_match.end()
+            content = content[:insert_pos] + "\n\n" + links_content + content[insert_pos+1:]
+        else:
+            # 如果没有找到Installation部分，直接添加到末尾
+            content = content.rstrip() + "\n\n" + links_content + "\n"
     
     # 写入更新后的README
     with open(readme_path, "w", encoding="utf-8") as f:
