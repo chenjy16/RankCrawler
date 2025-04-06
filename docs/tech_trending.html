@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Trending 数据可视化</title>
+    <title>Tech Trending Data Visualization</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
@@ -82,8 +82,8 @@
 <body>
     <div class="header">
         <div class="container">
-            <h1>Tech Trending 数据可视化</h1>
-            <p class="lead">GitHub Trending 和 HackerNews 热门数据可视化展示</p>
+            <h1>Tech Trending Data Visualization</h1>
+            <p class="lead">GitHub Trending and HackerNews popular data visualization</p>
         </div>
     </div>
 
@@ -94,7 +94,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-6">
-                                <label for="dateSelect" class="form-label">选择日期:</label>
+                                <label for="dateSelect" class="form-label">Select Date:</label>
                                 <select id="dateSelect" class="form-select"></select>
                             </div>
                         </div>
@@ -121,16 +121,16 @@
                             <div class="card-header">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <h5>GitHub Trending 仓库</h5>
+                                        <h5>GitHub Trending Repositories</h5>
                                     </div>
                                     <div class="col-md-6 text-end">
                                         <select id="languageSelect" class="form-select form-select-sm d-inline-block w-auto">
-                                            <option value="all">所有语言</option>
+                                            <option value="all">All Languages</option>
                                         </select>
                                         <select id="periodSelect" class="form-select form-select-sm d-inline-block w-auto ms-2">
-                                            <option value="daily">每日</option>
-                                            <option value="weekly">每周</option>
-                                            <option value="monthly">每月</option>
+                                            <option value="daily">Daily</option>
+                                            <option value="weekly">Weekly</option>
+                                            <option value="monthly">Monthly</option>
                                         </select>
                                     </div>
                                 </div>
@@ -142,9 +142,9 @@
                                 <div id="githubContent" class="mt-4">
                                     <div class="loading">
                                         <div class="spinner-border text-primary" role="status">
-                                            <span class="visually-hidden">加载中...</span>
+                                            <span class="visually-hidden">Loading...</span>
                                         </div>
-                                        <p class="mt-2">加载中...</p>
+                                        <p class="mt-2">Loading...</p>
                                     </div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                     <div class="tab-pane fade" id="hackernews" role="tabpanel">
                         <div class="card">
                             <div class="card-header">
-                                <h5>HackerNews 热门故事</h5>
+                                <h5>HackerNews Popular Stories</h5>
                             </div>
                             <div class="card-body">
                                 <div class="chart-container">
@@ -164,9 +164,9 @@
                                 <div id="hnContent" class="mt-4">
                                     <div class="loading">
                                         <div class="spinner-border text-danger" role="status">
-                                            <span class="visually-hidden">加载中...</span>
+                                            <span class="visually-hidden">Loading...</span>
                                         </div>
-                                        <p class="mt-2">加载中...</p>
+                                        <p class="mt-2">Loading...</p>
                                     </div>
                                 </div>
                             </div>
@@ -179,23 +179,23 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // 全局变量
+        // Global variables
         let availableDates = [];
         let availableLanguages = [];
         let githubChart = null;
         let hnChart = null;
 
-        // 初始化页面
+        // Initialize page
         document.addEventListener('DOMContentLoaded', async function() {
             await fetchAvailableData();
             setupEventListeners();
             loadInitialData();
         });
 
-        // 获取可用数据
+        // Fetch available data
         async function fetchAvailableData() {
             try {
-                // 使用GitHub API获取仓库内容
+                // Use GitHub API to get repository content
                 const githubApiUrl = 'https://api.github.com/repos/chenjy16/RankCrawler/contents/data/github';
                 const hnApiUrl = 'https://api.github.com/repos/chenjy16/RankCrawler/contents/data/hackernews';
                 
@@ -205,17 +205,17 @@
                 ]);
                 
                 if (!githubResponse.ok || !hnResponse.ok) {
-                    throw new Error('无法获取仓库内容');
+                    throw new Error('Unable to fetch repository content');
                 }
                 
                 const githubFiles = await githubResponse.json();
                 const hnFiles = await hnResponse.json();
                 
-                // 解析文件名获取日期、语言和周期
+                // Parse filenames to get dates, languages and periods
                 const githubDataFiles = githubFiles.filter(file => file.name.endsWith('.json'));
                 const hnDataFiles = hnFiles.filter(file => file.name.endsWith('.json'));
                 
-                // 提取唯一的日期和语言
+                // Extract unique dates and languages
                 const dates = new Set();
                 const languages = new Set();
                 
@@ -238,11 +238,11 @@
                     }
                 });
                 
-                // 转换为数组并排序
+                // Convert to arrays and sort
                 availableDates = Array.from(dates).sort().reverse();
                 availableLanguages = Array.from(languages).sort();
                 
-                // 填充选择器
+                // Populate selectors
                 const dateSelect = document.getElementById('dateSelect');
                 availableDates.forEach(date => {
                     const option = document.createElement('option');
@@ -261,18 +261,18 @@
                     }
                 });
             } catch (error) {
-                console.error('获取数据失败:', error);
-                alert('获取数据失败，请稍后再试');
+                console.error('Failed to fetch data:', error);
+                alert('Failed to fetch data, please try again later');
             }
         }
 
-        // 设置事件监听器
+        // Setup event listeners
         function setupEventListeners() {
             document.getElementById('dateSelect').addEventListener('change', loadData);
             document.getElementById('languageSelect').addEventListener('change', loadGitHubData);
             document.getElementById('periodSelect').addEventListener('change', loadGitHubData);
             
-            // 标签页切换事件
+            // Tab switching events
             document.getElementById('github-tab').addEventListener('click', function() {
                 if (githubChart) {
                     setTimeout(() => {
@@ -291,12 +291,12 @@
             });
         }
 
-        // 加载初始数据
+        // Load initial data
         function loadInitialData() {
             loadGitHubData();
         }
 
-        // 加载数据
+        // Load data
         function loadData() {
             const activeTab = document.querySelector('.nav-link.active').id;
             
@@ -307,7 +307,7 @@
             }
         }
 
-        // 加载GitHub数据
+        // Load GitHub data
         async function loadGitHubData() {
             const date = document.getElementById('dateSelect').value;
             const language = document.getElementById('languageSelect').value;
@@ -319,9 +319,9 @@
             contentDiv.innerHTML = `
                 <div class="loading">
                     <div class="spinner-border text-primary" role="status">
-                        <span class="visually-hidden">加载中...</span>
+                        <span class="visually-hidden">Loading...</span>
                     </div>
-                    <p class="mt-2">加载中...</p>
+                    <p class="mt-2">Loading...</p>
                 </div>
             `;
             
@@ -336,24 +336,24 @@
                 displayGitHubData(data);
                 createGitHubChart(data);
             } catch (error) {
-                console.error('加载GitHub数据失败:', error);
-                contentDiv.innerHTML = `<div class="alert alert-danger">加载数据失败: ${error.message}</div>`;
+                console.error('Failed to load GitHub data:', error);
+                contentDiv.innerHTML = `<div class="alert alert-danger">Failed to load data: ${error.message}</div>`;
             }
         }
 
-        // 显示GitHub数据
+        // Display GitHub data
         function displayGitHubData(data) {
             const contentDiv = document.getElementById('githubContent');
             
             if (!data || !data.repositories || data.repositories.length === 0) {
-                contentDiv.innerHTML = '<div class="alert alert-info">没有找到数据</div>';
+                contentDiv.innerHTML = '<div class="alert alert-info">No data found</div>';
                 return;
             }
             
             let html = `
-                <h6>语言: ${data.language === 'all' ? '所有语言' : data.language}</h6>
-                <h6>周期: ${data.period}</h6>
-                <h6>获取时间: ${data.fetch_time}</h6>
+                <h6>Language: ${data.language === 'all' ? 'All Languages' : data.language}</h6>
+                <h6>Period: ${data.period}</h6>
+                <h6>Fetch Time: ${data.fetch_time}</h6>
                 <hr>
             `;
             
@@ -367,12 +367,12 @@
                                     <span class="badge bg-secondary">${index + 1}</span>
                                     <a href="${repo.url}" target="_blank">${repo.full_name}</a>
                                 </h5>
-                                <p>${repo.description || '无描述'}</p>
+                                <p>${repo.description || 'No description'}</p>
                             </div>
                             <div class="col-md-4 text-end">
                                 <div>
                                     <span class="repo-stars">⭐ ${repo.stars}</span>
-                                    ${repo.today_stars ? `<span class="badge bg-success ms-2">${repo.today_stars} 今日</span>` : ''}
+                                    ${repo.today_stars ? `<span class="badge bg-success ms-2">${repo.today_stars} today</span>` : ''}
                                 </div>
                                 <div class="mt-2">
                                     <span class="text-muted">🍴 ${repo.forks}</span>
@@ -387,7 +387,7 @@
             contentDiv.innerHTML = html;
         }
 
-        // 创建GitHub图表
+        // Create GitHub chart
         function createGitHubChart(data) {
             const ctx = document.getElementById('githubChart').getContext('2d');
             
@@ -399,7 +399,7 @@
                 return;
             }
             
-            // 只取前10个仓库
+            // Only take top 10 repositories
             const topRepos = data.repositories.slice(0, 10);
             
             githubChart = new Chart(ctx, {
@@ -407,7 +407,7 @@
                 data: {
                     labels: topRepos.map(repo => repo.name),
                     datasets: [{
-                        label: '星标数',
+                        label: 'Stars',
                         data: topRepos.map(repo => parseInt(repo.stars)),
                         backgroundColor: 'rgba(52, 152, 219, 0.7)',
                         borderColor: 'rgba(52, 152, 219, 1)',
@@ -420,7 +420,7 @@
                     plugins: {
                         title: {
                             display: true,
-                            text: '热门仓库星标数'
+                            text: 'Popular Repository Stars'
                         },
                         legend: {
                             display: false
@@ -428,7 +428,7 @@
                         tooltip: {
                             callbacks: {
                                 label: function(context) {
-                                    return `星标数: ${context.raw}`;
+                                    return `Stars: ${context.raw}`;
                                 }
                             }
                         }
@@ -438,13 +438,13 @@
                             beginAtZero: true,
                             title: {
                                 display: true,
-                                text: '星标数'
+                                text: 'Stars'
                             }
                         },
                         x: {
                             title: {
                                 display: true,
-                                text: '仓库名称'
+                                text: 'Repository Name'
                             },
                             ticks: {
                                 maxRotation: 45,
@@ -456,7 +456,7 @@
             });
         }
 
-        // 加载HackerNews数据
+        // Load HackerNews data
         async function loadHackerNewsData() {
             const date = document.getElementById('dateSelect').value;
             
@@ -466,9 +466,9 @@
             contentDiv.innerHTML = `
                 <div class="loading">
                     <div class="spinner-border text-danger" role="status">
-                        <span class="visually-hidden">加载中...</span>
+                        <span class="visually-hidden">Loading...</span>
                     </div>
-                    <p class="mt-2">加载中...</p>
+                    <p class="mt-2">Loading...</p>
                 </div>
             `;
             
@@ -483,23 +483,23 @@
                 displayHackerNewsData(data);
                 createHackerNewsChart(data);
             } catch (error) {
-                console.error('加载HackerNews数据失败:', error);
-                contentDiv.innerHTML = `<div class="alert alert-danger">加载数据失败: ${error.message}</div>`;
+                console.error('Failed to load HackerNews data:', error);
+                contentDiv.innerHTML = `<div class="alert alert-danger">Failed to load data: ${error.message}</div>`;
             }
         }
 
-        // 显示HackerNews数据
+        // Display HackerNews data
         function displayHackerNewsData(data) {
             const contentDiv = document.getElementById('hnContent');
             
             if (!data || !data.stories || data.stories.length === 0) {
-                contentDiv.innerHTML = '<div class="alert alert-info">没有找到数据</div>';
+                contentDiv.innerHTML = '<div class="alert alert-info">No data found</div>';
                 return;
             }
             
             let html = `
-                <h6>类型: ${data.type || '热门故事'}</h6>
-                <h6>获取时间: ${data.fetch_time}</h6>
+                <h6>Type: ${data.type || 'Popular Stories'}</h6>
+                <h6>Fetch Time: ${data.fetch_time}</h6>
                 <hr>
             `;
             
@@ -513,8 +513,8 @@
                                     <a href="${story.url}" target="_blank">${story.title}</a>
                                 </h5>
                                 <p class="text-muted">
-                                    ${story.by ? `作者: ${story.by}` : ''}
-                                    ${story.time ? ` | 时间: ${new Date(story.time * 1000).toLocaleString()}` : ''}
+                                    ${story.by ? `Author: ${story.by}` : ''}
+                                    ${story.time ? ` | Time: ${new Date(story.time * 1000).toLocaleString()}` : ''}
                                 </p>
                             </div>
                             <div class="col-md-3 text-end">
@@ -522,7 +522,7 @@
                                     <span class="hn-score">👍 ${story.score || 0}</span>
                                 </div>
                                 <div class="mt-2">
-                                    <span class="text-muted">💬 ${story.descendants || 0} 评论</span>
+                                    <span class="text-muted">💬 ${story.descendants || 0} comments</span>
                                 </div>
                             </div>
                         </div>
@@ -533,7 +533,7 @@
             contentDiv.innerHTML = html;
         }
 
-        // 创建HackerNews图表
+        // Create HackerNews chart
         function createHackerNewsChart(data) {
             const ctx = document.getElementById('hnChart').getContext('2d');
             
@@ -545,19 +545,19 @@
                 return;
             }
             
-            // 只取前10个故事
+            // Only take top 10 stories
             const topStories = data.stories.slice(0, 10);
             
             hnChart = new Chart(ctx, {
                 type: 'bar',
                 data: {
                     labels: topStories.map(story => {
-                        // 截断标题，避免太长
+                        // Truncate title if too long
                         const title = story.title;
                         return title.length > 30 ? title.substring(0, 27) + '...' : title;
                     }),
                     datasets: [{
-                        label: '得分',
+                        label: 'Score',
                         data: topStories.map(story => story.score || 0),
                         backgroundColor: 'rgba(231, 76, 60, 0.7)',
                         borderColor: 'rgba(231, 76, 60, 1)',
@@ -570,7 +570,7 @@
                     plugins: {
                         title: {
                             display: true,
-                            text: '热门故事得分'
+                            text: 'Popular Stories Score'
                         },
                         legend: {
                             display: false
@@ -578,7 +578,7 @@
                         tooltip: {
                             callbacks: {
                                 label: function(context) {
-                                    return `得分: ${context.raw}`;
+                                    return `Score: ${context.raw}`;
                                 },
                                 title: function(context) {
                                     return topStories[context[0].dataIndex].title;
@@ -591,13 +591,13 @@
                             beginAtZero: true,
                             title: {
                                 display: true,
-                                text: '得分'
+                                text: 'Score'
                             }
                         },
                         x: {
                             title: {
                                 display: true,
-                                text: '故事标题'
+                                text: 'Story Title'
                             },
                             ticks: {
                                 maxRotation: 45,
