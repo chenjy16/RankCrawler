@@ -17,6 +17,20 @@
         .category-section {
             margin-bottom: 40px;
         }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 18px;
+        }
+        .error-message {
+            color: #dc3545;
+            text-align: center;
+            padding: 20px;
+        }
+        .product-image {
+            max-height: 150px;
+            object-fit: contain;
+        }
     </style>
 </head>
 <body>
@@ -40,86 +54,140 @@
         </div>
         
         <div id="productContainer" class="row">
-            <!-- 产品数据将通过JavaScript动态填充 -->
-            <div class="text-center">
-                <div class="spinner-border" role="status">
-                    <span class="visually-hidden">加载中...</span>
-                </div>
+            <div class="col-12 loading">
+                加载中，请稍候...
             </div>
         </div>
     </div>
-    
-    <!-- 将文件中的 YOUR_USERNAME 替换为你的实际GitHub用户名 -->
+
     <script>
-        // 获取可用的日期和类目
+        // 类目映射
+        const CATEGORIES = {
+            'digital_computer': '数码电脑'
+        };
+        
+        // 初始化变量
+        let availableDates = [];
+        let availableCategories = [];
+        
+        // 页面加载完成后执行
+        document.addEventListener('DOMContentLoaded', async function() {
+            try {
+                // 获取可用的数据文件
+                await fetchAvailableData();
+                
+                // 设置选择器事件监听
+                document.getElementById('dateSelector').addEventListener('change', loadData);
+                document.getElementById('categorySelector').addEventListener('change', loadData);
+                
+                // 加载初始数据
+                if (availableDates.length > 0 && availableCategories.length > 0) {
+                    loadData();
+                }
+            } catch (error) {
+                showError('初始化失败: ' + error.message);
+            }
+        });
+        
+        // 获取可用的数据文件
         async function fetchAvailableData() {
             try {
-                const response = await fetch('https://api.github.com/repos/chenjy16/RankCrawler/contents/data/1688');
+                // 这里我们使用GitHub API获取仓库内容
+                const apiUrl = 'https://api.github.com/repos/chenjy16/RankCrawler/contents/data/1688';
+                const response = await fetch(apiUrl);
+                
+                if (!response.ok) {
+                    throw new Error('无法获取仓库内容');
+                }
+                
                 const files = await response.json();
                 
+                // 解析文件名获取日期和类目
+                const dataFiles = files.filter(file => file.name.endsWith('.json'));
+                
+                // 提取唯一的日期和类目
                 const dates = new Set();
                 const categories = new Set();
                 
-                files.forEach(file => {
-                    if (file.name.endsWith('.json')) {
-                        const parts = file.name.replace('.json', '').split('_');
-                        const category = parts[0];
-                        const date = parts[1];
-                        
-                        dates.add(date);
-                        categories.add(category);
-                    }
+                dataFiles.forEach(file => {
+                    const parts = file.name.split('_');
+                    const category = parts[0];
+                    const dateStr = parts.slice(1).join('_').replace('.json', '');
+                    
+                    dates.add(dateStr);
+                    categories.add(category);
                 });
                 
-                // 填充日期选择器
-                const dateSelector = document.getElementById('dateSelector');
-                Array.from(dates).sort().reverse().forEach(date => {
-                    const option = document.createElement('option');
-                    option.value = date;
-                    option.textContent = date;
-                    dateSelector.appendChild(option);
-                });
+                // 转换为数组并排序
+                availableDates = Array.from(dates).sort().reverse();
+                availableCategories = Array.from(categories);
                 
-                // 填充类目选择器
-                const categorySelector = document.getElementById('categorySelector');
-                Array.from(categories).sort().forEach(category => {
-                    const option = document.createElement('option');
-                    option.value = category;
-                    option.textContent = getCategoryName(category);
-                    categorySelector.appendChild(option);
-                });
+                // 填充选择器
+                populateSelector('dateSelector', availableDates, date => date);
+                populateSelector('categorySelector', availableCategories, category => CATEGORIES[category] || category);
                 
-                // 加载初始数据
-                if (dates.size > 0 && categories.size > 0) {
-                    loadData(Array.from(dates)[0], Array.from(categories)[0]);
-                }
             } catch (error) {
-                console.error('获取数据列表失败:', error);
+                showError('获取数据文件列表失败: ' + error.message);
             }
         }
         
-        // 获取类目名称
-        function getCategoryName(categoryId) {
-            const categoryMap = {
-                '1037039': '服装',
-                '1031704': '家居',
-                '1050009': '数码'
-                // 可添加更多类目映射
-            };
+        // 填充选择器选项
+        function populateSelector(selectorId, options, labelFn) {
+            const selector = document.getElementById(selectorId);
+            selector.innerHTML = '';
             
-            return categoryMap[categoryId] || categoryId;
+            options.forEach(option => {
+                const optElement = document.createElement('option');
+                optElement.value = option;
+                optElement.textContent = labelFn(option);
+                selector.appendChild(optElement);
+            });
         }
         
-        // 加载特定日期和类目的数据
-        async function loadData(date, category) {
+        // 加载数据
+        async function loadData() {
+            const dateSelector = document.getElementById('dateSelector');
+            const categorySelector = document.getElementById('categorySelector');
+            
+            const date = dateSelector.value;
+            const category = categorySelector.value;
+            
+            if (!date || !category) {
+                return;
+            }
+            
+            showLoading();
+            
             try {
                 const response = await fetch(`https://raw.githubusercontent.com/chenjy16/RankCrawler/main/data/1688/${category}_${date}.json`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP错误: ${response.status}`);
+                }
+                
                 const data = await response.json();
+                
+                if (!data.products || !Array.isArray(data.products)) {
+                    throw new Error('数据格式不正确');
+                }
                 
                 renderProducts(data.products);
             } catch (error) {
-                console.error('加载数据失败:', error);
+                showError('加载数据失败: ' + error.message);
             }
+        }
+        
+        // 显示加载中
+        function showLoading() {
+            const container = document.getElementById('productContainer');
+            container.innerHTML = '<div class="col-12 loading">加载中，请稍候...</div>';
+        }
+        
+        // 显示错误信息
+        function showError(message) {
+            const container = document.getElementById('productContainer');
+            container.innerHTML = `<div class="col-12 error-message">${message}</div>`;
+            console.error(message);
         }
         
         // 渲染产品列表
@@ -127,26 +195,41 @@
             const container = document.getElementById('productContainer');
             container.innerHTML = '';
             
+            if (products.length === 0) {
+                container.innerHTML = '<div class="col-12 text-center">没有找到产品数据</div>';
+                return;
+            }
+            
             products.forEach((product, index) => {
                 const card = document.createElement('div');
                 card.className = 'col-md-4 product-card';
                 
+                // 处理可能的空值
+                const productName = product.product_name || '未知产品';
+                const price = product.price || '暂无价格';
+                const sales = product.sales || '暂无销量';
+                const shopName = product.shop_name || '未知店铺';
+                const imageUrl = product.image_url || '';
+                const productUrl = product.product_url || '#';
+                
                 card.innerHTML = `
                     <div class="card h-100">
                         <div class="card-header bg-primary text-white">
-                            排名 #${index + 1}
+                            排名 #${product.rank || (index + 1)}
                         </div>
+                        ${imageUrl ? `<img src="${imageUrl}" class="card-img-top product-image" alt="${productName}">` : ''}
                         <div class="card-body">
-                            <h5 class="card-title">${product.product_name}</h5>
+                            <h5 class="card-title">
+                                <a href="${productUrl}" target="_blank" title="${productName}">${truncateText(productName, 50)}</a>
+                            </h5>
                             <p class="card-text">
-                                <strong>价格:</strong> ${product.price}<br>
-                                <strong>销量:</strong> ${product.sales}<br>
-                                <strong>店铺:</strong> ${product.shop_name}
+                                <strong>价格:</strong> ${price}<br>
+                                <strong>销量:</strong> ${sales}<br>
+                                <strong>店铺:</strong> ${shopName}
                             </p>
                         </div>
                         <div class="card-footer">
-                            <a href="${product.product_url}" target="_blank" class="btn btn-sm btn-outline-primary">查看商品</a>
-                            <a href="${product.shop_url}" target="_blank" class="btn btn-sm btn-outline-secondary">查看店铺</a>
+                            <a href="${productUrl}" class="btn btn-sm btn-outline-primary" target="_blank">查看详情</a>
                         </div>
                     </div>
                 `;
@@ -155,22 +238,11 @@
             });
         }
         
-        // 设置事件监听器
-        document.addEventListener('DOMContentLoaded', () => {
-            fetchAvailableData();
-            
-            document.getElementById('dateSelector').addEventListener('change', (e) => {
-                const date = e.target.value;
-                const category = document.getElementById('categorySelector').value;
-                loadData(date, category);
-            });
-            
-            document.getElementById('categorySelector').addEventListener('change', (e) => {
-                const category = e.target.value;
-                const date = document.getElementById('dateSelector').value;
-                loadData(date, category);
-            });
-        });
+        // 截断文本
+        function truncateText(text, maxLength) {
+            if (!text) return '';
+            return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+        }
     </script>
 </body>
 </html>

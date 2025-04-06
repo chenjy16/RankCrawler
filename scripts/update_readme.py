@@ -50,6 +50,7 @@ def update_readme_links():
         else:
             category_name = category_id
             
+        # 使用完整的URL，确保链接可点击
         links_content += f"- [{category_name}排行榜](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - 更新时间: {date_str}\n"
     
     # 添加可视化页面链接

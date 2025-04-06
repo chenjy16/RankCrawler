@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: 检出代码
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 获取完整历史记录，以便正确合并
         
       - name: 设置Python
         uses: actions/setup-python@v4
@@ -46,21 +48,23 @@ jobs:
         if: steps.check_files.outputs.files_exist == 'true'
         run: python scripts/update_readme.py
         
-      - name: 提交更新的数据
+      - name: 提交并推送更改
         if: steps.check_files.outputs.files_exist == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Action"
+          
+          # 拉取最新更改并合并
+          git pull origin ${{ github.ref_name }} --rebase
+          
+          # 添加并提交更改
           git add data/1688/*.json
           git add README.md
+          git add docs/1688_rankings.html
           git commit -m "更新1688排行榜数据 $(date +'%Y-%m-%d')"
           
-      - name: 推送更改
-        if: steps.check_files.outputs.files_exist == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          # 推送更改
+          git push origin ${{ github.ref_name }}
           
       - name: 记录无数据情况
         if: steps.check_files.outputs.files_exist == 'false'
