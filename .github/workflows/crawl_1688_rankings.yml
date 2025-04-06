@@ -1,0 +1,62 @@
+name: 爬取1688排行榜数据
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC时间0点运行（北京时间8点）
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 明确指定写入权限
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        
+      - name: 设置Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+          pip install playwright
+          playwright install chromium
+          
+      - name: 创建数据目录
+        run: mkdir -p data/1688
+          
+      - name: 运行爬虫脚本
+        run: python scripts/run_1688_crawler.py
+        
+      - name: 检查是否有新数据
+        id: check_files
+        run: |
+          if ls data/1688/*.json 1> /dev/null 2>&1; then
+            echo "files_exist=true" >> $GITHUB_OUTPUT
+          else
+            echo "files_exist=false" >> $GITHUB_OUTPUT
+            echo "没有找到任何JSON文件，可能爬虫未能成功获取数据"
+          fi
+        
+      - name: 提交更新的数据
+        if: steps.check_files.outputs.files_exist == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add data/1688/*.json
+          git commit -m "更新1688排行榜数据 $(date +'%Y-%m-%d')"
+          
+      - name: 推送更改
+        if: steps.check_files.outputs.files_exist == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          
+      - name: 记录无数据情况
+        if: steps.check_files.outputs.files_exist == 'false'
+        run: echo "爬虫运行完成，但没有生成任何JSON文件。请检查爬虫脚本或目标网站是否有变化。"

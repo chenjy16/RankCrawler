@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1688类目销量排行榜</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .product-card {
+            margin-bottom: 20px;
+            transition: transform 0.3s;
+        }
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        .category-section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-5">1688类目销量排行榜</h1>
+        
+        <div class="row mb-4">
+            <div class="col-md-6 offset-md-3">
+                <select id="dateSelector" class="form-select">
+                    <!-- 日期选项将通过JavaScript动态填充 -->
+                </select>
+            </div>
+        </div>
+        
+        <div class="row mb-4">
+            <div class="col-md-6 offset-md-3">
+                <select id="categorySelector" class="form-select">
+                    <!-- 类目选项将通过JavaScript动态填充 -->
+                </select>
+            </div>
+        </div>
+        
+        <div id="productContainer" class="row">
+            <!-- 产品数据将通过JavaScript动态填充 -->
+            <div class="text-center">
+                <div class="spinner-border" role="status">
+                    <span class="visually-hidden">加载中...</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 将文件中的 YOUR_USERNAME 替换为你的实际GitHub用户名 -->
+    <script>
+        // 获取可用的日期和类目
+        async function fetchAvailableData() {
+            try {
+                const response = await fetch('https://api.github.com/repos/chenjy16/RankCrawler/contents/data/1688');
+                const files = await response.json();
+                
+                const dates = new Set();
+                const categories = new Set();
+                
+                files.forEach(file => {
+                    if (file.name.endsWith('.json')) {
+                        const parts = file.name.replace('.json', '').split('_');
+                        const category = parts[0];
+                        const date = parts[1];
+                        
+                        dates.add(date);
+                        categories.add(category);
+                    }
+                });
+                
+                // 填充日期选择器
+                const dateSelector = document.getElementById('dateSelector');
+                Array.from(dates).sort().reverse().forEach(date => {
+                    const option = document.createElement('option');
+                    option.value = date;
+                    option.textContent = date;
+                    dateSelector.appendChild(option);
+                });
+                
+                // 填充类目选择器
+                const categorySelector = document.getElementById('categorySelector');
+                Array.from(categories).sort().forEach(category => {
+                    const option = document.createElement('option');
+                    option.value = category;
+                    option.textContent = getCategoryName(category);
+                    categorySelector.appendChild(option);
+                });
+                
+                // 加载初始数据
+                if (dates.size > 0 && categories.size > 0) {
+                    loadData(Array.from(dates)[0], Array.from(categories)[0]);
+                }
+            } catch (error) {
+                console.error('获取数据列表失败:', error);
+            }
+        }
+        
+        // 获取类目名称
+        function getCategoryName(categoryId) {
+            const categoryMap = {
+                '1037039': '服装',
+                '1031704': '家居',
+                '1050009': '数码'
+                // 可添加更多类目映射
+            };
+            
+            return categoryMap[categoryId] || categoryId;
+        }
+        
+        // 加载特定日期和类目的数据
+        async function loadData(date, category) {
+            try {
+                const response = await fetch(`https://raw.githubusercontent.com/chenjy16/RankCrawler/main/data/1688/${category}_${date}.json`);
+                const data = await response.json();
+                
+                renderProducts(data.products);
+            } catch (error) {
+                console.error('加载数据失败:', error);
+            }
+        }
+        
+        // 渲染产品列表
+        function renderProducts(products) {
+            const container = document.getElementById('productContainer');
+            container.innerHTML = '';
+            
+            products.forEach((product, index) => {
+                const card = document.createElement('div');
+                card.className = 'col-md-4 product-card';
+                
+                card.innerHTML = `
+                    <div class="card h-100">
+                        <div class="card-header bg-primary text-white">
+                            排名 #${index + 1}
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">${product.product_name}</h5>
+                            <p class="card-text">
+                                <strong>价格:</strong> ${product.price}<br>
+                                <strong>销量:</strong> ${product.sales}<br>
+                                <strong>店铺:</strong> ${product.shop_name}
+                            </p>
+                        </div>
+                        <div class="card-footer">
+                            <a href="${product.product_url}" target="_blank" class="btn btn-sm btn-outline-primary">查看商品</a>
+                            <a href="${product.shop_url}" target="_blank" class="btn btn-sm btn-outline-secondary">查看店铺</a>
+                        </div>
+                    </div>
+                `;
+                
+                container.appendChild(card);
+            });
+        }
+        
+        // 设置事件监听器
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchAvailableData();
+            
+            document.getElementById('dateSelector').addEventListener('change', (e) => {
+                const date = e.target.value;
+                const category = document.getElementById('categorySelector').value;
+                loadData(date, category);
+            });
+            
+            document.getElementById('categorySelector').addEventListener('change', (e) => {
+                const category = e.target.value;
+                const date = document.getElementById('dateSelector').value;
+                loadData(date, category);
+            });
+        });
+    </script>
+</body>
+</html>
