@@ -29,19 +29,9 @@ output_dir.mkdir(parents=True, exist_ok=True)
 # 1688类目URL列表
 CATEGORIES = [
     {
-        "id": "1037039",
-        "name": "服装",
-        "url": "https://s.1688.com/selloffer/offer_search.htm?sortType=va_sales&cat=1037039"
-    },
-    {
-        "id": "1031704",
-        "name": "家居",
-        "url": "https://s.1688.com/selloffer/offer_search.htm?sortType=va_sales&cat=1031704"
-    },
-    {
-        "id": "1050009",
-        "name": "数码",
-        "url": "https://s.1688.com/selloffer/offer_search.htm?sortType=va_sales&cat=1050009"
+        "id": "digital_computer",
+        "name": "数码电脑",
+        "url": "https://s.1688.com/selloffer/offer_search.htm?keywords=%E6%95%B0%E7%A0%81%E7%94%B5%E8%84%91&charset=utf8&sortType=va_sales"
     }
 ]
 
@@ -53,16 +43,21 @@ async def crawl_1688_category(category):
     extraction_strategy = JsonCssExtractionStrategy(
         schema={
             "name": "1688类目销量排行",
-            # 尝试更多可能的选择器组合
-            "baseSelector": ".offer-list, .sm-offer-list, .grid-offer, .offer-item", 
+            # 更新选择器以匹配数码电脑页面
+            "baseSelector": ".offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item", 
             "fields": [
-                {"name": "product_name", "selector": ".title, .offer-title, .title-text", "type": "text"},
-                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link", "type": "attribute", "attribute": "href"},
-                {"name": "price", "selector": ".price, .offer-price, .price-text", "type": "text"},
-                {"name": "sales", "selector": ".sale-quantity, .sales, .volume", "type": "text"},
-                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name", "type": "text"},
-                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link", "type": "attribute", "attribute": "href"},
+                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title", "type": "text"},
+                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a", "type": "attribute", "attribute": "href"},
+                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum", "type": "text"},
+                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade", "type": "text"},
+                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName", "type": "text"},
+                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a", "type": "attribute", "attribute": "href"},
                 {"name": "rating", "selector": ".star-rating, .rating, .rate", "type": "text"},
+                {"name": "location", "selector": ".location, .address, .sm-offer-location", "type": "text"},
+                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img", "type": "attribute", "attribute": "src"},
+                {"name": "tags", "selector": ".tags, .offer-tags, .sm-offer-tags", "type": "text"},
+                {"name": "min_order", "selector": ".min-order, .offer-min-order, .sm-offer-moq", "type": "text"},
+                {"name": "delivery_time", "selector": ".delivery-time, .offer-delivery-time", "type": "text"},
             ]
         }
     )
@@ -81,7 +76,7 @@ async def crawl_1688_category(category):
             // 模拟真实用户行为
             async function simulateUserBehavior() {
                 // 随机滚动
-                for (let i = 0; i < 5; i++) {
+                for (let i = 0; i < 8; i++) {
                     const scrollAmount = Math.floor(Math.random() * 500) + 100;
                     window.scrollBy(0, scrollAmount);
                     await new Promise(r => setTimeout(r, Math.random() * 1000 + 500));
@@ -94,6 +89,14 @@ async def crawl_1688_category(category):
                 // 再次滚动确保加载完成
                 window.scrollTo(0, document.body.scrollHeight);
                 
+                // 尝试点击"加载更多"按钮（如果存在）
+                const loadMoreBtn = document.querySelector('.load-more, .sm-pagination-next, .next-btn');
+                if (loadMoreBtn) {
+                    loadMoreBtn.click();
+                    await new Promise(r => setTimeout(r, 3000));
+                    window.scrollTo(0, document.body.scrollHeight);
+                }
+                
                 return true;
             }
             
@@ -101,7 +104,7 @@ async def crawl_1688_category(category):
         """,
         # 使用JavaScript等待条件而不是CSS选择器
         wait_for="js:() => {" +
-                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item'];" +
+                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list'];" +
                 "return selectors.some(selector => document.querySelector(selector) !== null);" +
                 "}",
         extraction_strategy=extraction_strategy,
@@ -111,7 +114,7 @@ async def crawl_1688_category(category):
         magic=True,  # 启用魔法模式
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
-        delay_before_return_html=3.0,  # 页面加载后额外等待3秒
+        delay_before_return_html=5.0,  # 页面加载后额外等待5秒
     )
     
     # 执行爬取
@@ -132,6 +135,8 @@ async def crawl_1688_category(category):
                 def extract_sales_number(sales_text):
                     try:
                         import re
+                        if not sales_text:
+                            return 0
                         numbers = re.findall(r'\d+', sales_text)
                         if numbers:
                             return int(numbers[0])
@@ -139,10 +144,18 @@ async def crawl_1688_category(category):
                     except:
                         return 0
                 
-                products.sort(key=lambda x: extract_sales_number(x.get("sales", "0")), reverse=True)
+                # 过滤掉没有销量数据的产品
+                valid_products = [p for p in products if p.get("sales")]
+                
+                # 按销量排序
+                valid_products.sort(key=lambda x: extract_sales_number(x.get("sales", "0")), reverse=True)
                 
                 # 截取前100个
-                top_products = products[:100]
+                top_products = valid_products[:100]
+                
+                # 添加排名信息
+                for i, product in enumerate(top_products):
+                    product["rank"] = i + 1
                 
                 # 添加元数据
                 result_data = {
@@ -150,6 +163,7 @@ async def crawl_1688_category(category):
                     "category_name": category['name'],
                     "category_url": category['url'],
                     "crawl_time": datetime.now().isoformat(),
+                    "total_products": len(valid_products),
                     "products": top_products
                 }
                 
