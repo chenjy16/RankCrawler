@@ -23,6 +23,8 @@ Access the latest ranking data automatically crawled via GitHub Actions through 
 
 Access the latest technology trending data automatically crawled via GitHub Actions:
 
+* [Tech Trending Visualization Dashboard](https://chenjy16.github.io/RankCrawler/tech_trending.html) - Interactive technology trending visualization interface
+
 ### Github Data
 
 * [All - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_daily_2025-04-06.json) - Updated: 2025-04-06
