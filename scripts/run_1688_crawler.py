@@ -43,27 +43,26 @@ async def crawl_1688_category(category, max_retries=3):
     extraction_strategy = JsonCssExtractionStrategy(
         schema={
             "name": "1688类目销量排行",
-            # 更新选择器以匹配最新的1688页面结构
-            "baseSelector": ".offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card", 
+            # 更新选择器以匹配最新的1688页面结构 - 使用更广泛的选择器
+            "baseSelector": ".offer-list-row-offer, .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card, .offer, .item, .product-item, .product-card", 
             "fields": [
-                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title", "type": "text"},
-                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a", "type": "attribute", "attribute": "href"},
-                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container", "type": "text"},
-                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade", "type": "text"},
-                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company", "type": "text"},
-                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a", "type": "attribute", "attribute": "href"},
-                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img", "type": "attribute", "attribute": "src"},
+                {"name": "product_name", "selector": ".title, .offer-title, .title-text, .title a, h4.title, .title-container, .title-text, .offer-card-title, .product-title, .item-title, a[title]", "type": "text"},
+                {"name": "product_url", "selector": ".title a, .offer-title a, a.title-link, h4.title a, .title-container a, .offer-card-title a, a[href*='detail.1688.com'], a[href*='offer']", "type": "attribute", "attribute": "href"},
+                {"name": "price", "selector": ".price, .offer-price, .price-text, .price strong, .sm-offer-priceNum, .price-container, .price-info, .offer-price-container, .price-original, .price-current, .price-num", "type": "text"},
+                {"name": "sales", "selector": ".sale-quantity, .sales, .volume, .sm-offer-trade, .trade-container, .trade-count, .offer-trade, .transaction, .sold, .deal-cnt", "type": "text"},
+                {"name": "shop_name", "selector": ".company-name, .shop-name, .supplier-name, .sm-offer-companyName, .company-container, .company-info, .offer-company, .store-name, .seller-name", "type": "text"},
+                {"name": "shop_url", "selector": ".company-name a, .shop-name a, .supplier-link, .sm-offer-companyName a, .company-container a, a[href*='winport.1688.com'], a[href*='shop']", "type": "attribute", "attribute": "href"},
+                {"name": "image_url", "selector": ".image img, .offer-image img, .sm-offer-item img, .product-img img, .offer-card-img img, .img img, .pic img, img.offer-image, img[src*='img.alicdn.com']", "type": "attribute", "attribute": "src"},
             ]
         }
     )
     
-    # 配置浏览器 - 修复参数问题
+    # 配置浏览器 - 增强反爬虫能力
     browser_config = BrowserConfig(
         headless=True,
         user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         viewport={"width": 1920, "height": 1080},
         ignore_https_errors=True,
-        # 将extra_http_headers移到这里
         headers={
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
             "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
@@ -76,19 +75,21 @@ async def crawl_1688_category(category, max_retries=3):
             "Sec-Fetch-Site": "none",
             "Sec-Fetch-User": "?1",
             "Upgrade-Insecure-Requests": "1",
+            "Referer": "https://www.1688.com/",  # 添加Referer头
+            "Cookie": "cna=random; _m_h5_tk=random; _m_h5_tk_enc=random",  # 添加一些基本Cookie
         },
     )
     
-    # 创建爬虫运行配置 - 使用更健壮的等待策略和交互逻辑
+    # 创建爬虫运行配置 - 增强等待策略和交互逻辑
     config = CrawlerRunConfig(
         js_code="""
             // 模拟真实用户行为
             async function simulateUserBehavior() {
                 // 等待页面完全加载
-                await new Promise(r => setTimeout(r, 3000));
+                await new Promise(r => setTimeout(r, 5000));  // 增加等待时间
                 
                 // 检查是否有弹窗并关闭
-                const closeButtons = document.querySelectorAll('.close-btn, .modal-close, .popup-close, .dialog-close');
+                const closeButtons = document.querySelectorAll('.close-btn, .modal-close, .popup-close, .dialog-close, .btn-close, .close, button[aria-label="Close"]');
                 for (const btn of closeButtons) {
                     try {
                         btn.click();
@@ -98,28 +99,29 @@ async def crawl_1688_category(category, max_retries=3):
                 }
                 
                 // 随机滚动模拟真实用户
-                for (let i = 0; i < 12; i++) {
+                for (let i = 0; i < 15; i++) {  // 增加滚动次数
                     const scrollAmount = Math.floor(Math.random() * 500) + 200;
                     window.scrollBy(0, scrollAmount);
-                    await new Promise(r => setTimeout(r, Math.random() * 800 + 300));
+                    await new Promise(r => setTimeout(r, Math.random() * 800 + 500));  // 增加滚动间隔
                     
                     // 随机暂停，模拟用户查看内容
                     if (i % 3 === 0) {
-                        await new Promise(r => setTimeout(r, Math.random() * 1500 + 500));
+                        await new Promise(r => setTimeout(r, Math.random() * 2000 + 1000));  // 增加暂停时间
                     }
                 }
                 
                 // 滚动到底部以加载更多内容
                 window.scrollTo(0, document.body.scrollHeight * 0.7);
-                await new Promise(r => setTimeout(r, 2500));
+                await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
                 window.scrollTo(0, document.body.scrollHeight);
-                await new Promise(r => setTimeout(r, 2500));
+                await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
                 
                 // 尝试点击"加载更多"按钮（如果存在）
                 const loadMoreSelectors = [
                     '.load-more', '.sm-pagination-next', '.next-btn', 
                     '.pagination-next', '.next-page', '[data-spm-click*="loadmore"]',
-                    '.pagination .next', '.load-more-btn'
+                    '.pagination .next', '.load-more-btn', '.next', '.btn-next',
+                    'button:contains("加载更多")', 'a:contains("下一页")'
                 ];
                 
                 for (const selector of loadMoreSelectors) {
@@ -128,22 +130,44 @@ async def crawl_1688_category(category, max_retries=3):
                         try {
                             loadMoreBtn.click();
                             console.log('点击了加载更多按钮');
-                            await new Promise(r => setTimeout(r, 3500));
+                            await new Promise(r => setTimeout(r, 4000));  // 增加等待时间
                             window.scrollTo(0, document.body.scrollHeight);
-                            await new Promise(r => setTimeout(r, 2000));
+                            await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
                         } catch (e) {}
                     }
                 }
                 
                 // 最后再滚动一次确保所有内容都已加载
                 window.scrollTo(0, 0);
-                await new Promise(r => setTimeout(r, 1000));
+                await new Promise(r => setTimeout(r, 1500));  // 增加等待时间
                 window.scrollTo(0, document.body.scrollHeight);
-                await new Promise(r => setTimeout(r, 2000));
+                await new Promise(r => setTimeout(r, 3000));  // 增加等待时间
                 
-                // 检查是否有商品数据
-                const productCount = document.querySelectorAll('.offer-list .sm-offer-item, .grid-offer .offer-item, .organic-offer-list .organic-offer-item, .sm-offer-list .sm-offer-item, .common-offer-card, .card-container, .offer-card').length;
-                console.log(`找到 ${productCount} 个商品`);
+                // 检查是否有商品数据并输出调试信息
+                const selectors = [
+                    '.offer-list-row-offer', '.sm-offer-item', '.grid-offer .offer-item', 
+                    '.organic-offer-list .organic-offer-item', '.sm-offer-list .sm-offer-item', 
+                    '.common-offer-card', '.card-container', '.offer-card', '.offer', 
+                    '.item', '.product-item', '.product-card'
+                ];
+                
+                let productCount = 0;
+                for (const selector of selectors) {
+                    const elements = document.querySelectorAll(selector);
+                    if (elements.length > 0) {
+                        console.log(`找到 ${elements.length} 个商品，使用选择器: ${selector}`);
+                        productCount += elements.length;
+                    }
+                }
+                
+                console.log(`总共找到 ${productCount} 个商品`);
+                
+                // 输出页面结构调试信息
+                console.log('页面主要容器:');
+                ['#sm-offer-list', '.offer-list', '.grid-offer', '.organic-offer-list'].forEach(selector => {
+                    const el = document.querySelector(selector);
+                    if (el) console.log(`找到容器: ${selector}`);
+                });
                 
                 return true;
             }
@@ -152,19 +176,17 @@ async def crawl_1688_category(category, max_retries=3):
         """,
         # 使用更灵活的等待条件
         wait_for="js:() => {" +
-                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list', '.common-offer-card', '.card-container', '.offer-card'];" +
+                "const selectors = ['.offer-list', '.sm-offer-list', '.grid-offer', '.offer-item', '.sm-offer-item', '.organic-offer-list', '.common-offer-card', '.card-container', '.offer-card', '.offer', '.item', '.product-item', '.product-card'];" +
                 "return selectors.some(selector => document.querySelector(selector) !== null) || document.readyState === 'complete';" +
                 "}",
         extraction_strategy=extraction_strategy,
         # 增加页面超时时间
-        page_timeout=300000,  # 增加到300秒
+        page_timeout=600000,  # 增加到600秒
         # 添加更多反爬虫设置
         magic=True,  # 启用魔法模式
         simulate_user=True,  # 模拟用户行为
         override_navigator=True,  # 覆盖navigator属性
-        delay_before_return_html=8.0,  # 页面加载后额外等待8秒
-        # 移除不支持的参数
-        # extra_http_headers={...},  # 这个参数不存在，已移到browser_config中
+        delay_before_return_html=12.0,  # 页面加载后额外等待12秒
     )
     
     # 执行爬取，添加重试机制

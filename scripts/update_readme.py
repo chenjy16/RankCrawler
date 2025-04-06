@@ -46,8 +46,8 @@ def update_readme_links():
         # 保留Features部分，但移除重复的链接
         content = content.replace(features_match.group(0), features_match.group(1) + "\n\n")
     
-    # 构建新的数据链接部分
-    links_content = "## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
+    # 构建新的数据链接部分，确保有足够的空行
+    links_content = "\n\n## Data Links\n\nAccess the latest ranking data automatically crawled via GitHub Actions through the following links:\n\n"
     
     # 添加每个类别的链接
     for category_id, (filename, date_str) in data_files.items():
@@ -61,19 +61,19 @@ def update_readme_links():
         formatted_date = date_str.replace("_", "-")
         
         # 使用完整的URL，确保链接可点击
-        links_content += f"- [{category_name} Rankings Data Download](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - Updated: {formatted_date}\n"
+        links_content += f"* [{category_name} Rankings Data Download](https://github.com/chenjy16/RankCrawler/blob/main/data/1688/{filename}) - Updated: {formatted_date}\n"
     
     # 添加可视化页面链接
-    links_content += f"- [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
+    links_content += f"* [Rankings Visualization Dashboard](https://chenjy16.github.io/RankCrawler/1688_rankings.html) - Interactive data visualization interface\n"
     
     # 将新的数据链接部分添加到README中
     # 查找Features部分的结束位置
-    features_pattern = r"## Features\n\n.*?(\n\n)"
+    features_pattern = r"(## Features\n\n.*?Interactive web dashboard for viewing ranking data\n)"
     features_match = re.search(features_pattern, content, re.DOTALL)
     
     if features_match:
-        # 在Features部分后添加数据链接部分
-        insert_pos = features_match.end() - 2  # 减去2是为了避免多余的空行
+        # 在Features部分后添加数据链接部分，确保有足够的空行
+        insert_pos = features_match.end()
         content = content[:insert_pos] + links_content + content[insert_pos:]
     else:
         # 如果没有找到Features部分，使用原来的逻辑
