@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-07 01:11:26",
+  "repositories": [
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22068",
+      "forks": "11029",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5000",
+      "forks": "2676",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "11917",
+      "forks": "2074",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "6902",
+      "forks": "503",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23032",
+      "forks": "4892",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "13962",
+      "forks": "3942",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28403",
+      "forks": "7791",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15215",
+      "forks": "1139",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "zmkfirmware",
+      "name": "zmk",
+      "full_name": "zmkfirmware/zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "stars": "3176",
+      "forks": "3119",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13654",
+      "forks": "5474",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "63332",
+      "forks": "8306",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "18949",
+      "forks": "41097",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9006",
+      "forks": "956",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11134",
+      "forks": "1870",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "86Box",
+      "name": "86Box",
+      "full_name": "86Box/86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "language": "C",
+      "stars": "3211",
+      "forks": "393",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "TsudaKageyu",
+      "name": "minhook",
+      "full_name": "TsudaKageyu/minhook",
+      "url": "https://github.com/TsudaKageyu/minhook",
+      "description": "The Minimalistic x86/x64 API Hooking Library for Windows",
+      "language": "C",
+      "stars": "4674",
+      "forks": "926",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pret",
+      "name": "pokeemerald",
+      "full_name": "pret/pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "stars": "2463",
+      "forks": "2983",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-examples",
+      "full_name": "raspberrypi/pico-examples",
+      "url": "https://github.com/raspberrypi/pico-examples",
+      "description": "",
+      "language": "C",
+      "stars": "3229",
+      "forks": "903",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vial-kb",
+      "name": "vial-qmk",
+      "full_name": "vial-kb/vial-qmk",
+      "url": "https://github.com/vial-kb/vial-qmk",
+      "description": "QMK fork with Vial-specific features.",
+      "language": "C",
+      "stars": "984",
+      "forks": "2855",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74005",
+      "forks": "6038",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "30847",
+      "forks": "2713",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "oxters168",
+      "name": "Pluvia",
+      "full_name": "oxters168/Pluvia",
+      "url": "https://github.com/oxters168/Pluvia",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "1019",
+      "forks": "23",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

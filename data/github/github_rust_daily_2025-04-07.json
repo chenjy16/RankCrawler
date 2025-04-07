@@ -1,0 +1,216 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-07 01:10:46",
+  "repositories": [
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "52305",
+      "forks": "2630",
+      "today_stars": "351 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56657",
+      "forks": "3840",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "11368",
+      "forks": "381",
+      "today_stars": "156 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "57454",
+      "forks": "10538",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "20682",
+      "forks": "2279",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "15945",
+      "forks": "3584",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "full_name": "getzola/zola",
+      "url": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": "15044",
+      "forks": "1025",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16416",
+      "forks": "856",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102489",
+      "forks": "5546",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "14913",
+      "forks": "1719",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "full_name": "solana-labs/solana",
+      "url": "https://github.com/solana-labs/solana",
+      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "language": "Rust",
+      "stars": "14025",
+      "forks": "4742",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "near",
+      "name": "nearcore",
+      "full_name": "near/nearcore",
+      "url": "https://github.com/near/nearcore",
+      "description": "Reference client for NEAR Protocol",
+      "language": "Rust",
+      "stars": "2447",
+      "forks": "692",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "38838",
+      "forks": "3826",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "full_name": "rust-lang/cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": "13375",
+      "forks": "2551",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "modrinth",
+      "name": "code",
+      "full_name": "modrinth/code",
+      "url": "https://github.com/modrinth/code",
+      "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+      "language": "Rust",
+      "stars": "1259",
+      "forks": "260",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "7558",
+      "forks": "1464",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "23823",
+      "forks": "523",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "102535",
+      "forks": "13236",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "serde-rs",
+      "name": "json",
+      "full_name": "serde-rs/json",
+      "url": "https://github.com/serde-rs/json",
+      "description": "Strongly typed JSON library for Rust",
+      "language": "Rust",
+      "stars": "5140",
+      "forks": "579",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

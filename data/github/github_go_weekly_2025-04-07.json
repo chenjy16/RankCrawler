@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-04-07 01:10:33",
+  "repositories": [
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "3317",
+      "forks": "521",
+      "today_stars": "595 stars this week"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "2351",
+      "forks": "195",
+      "today_stars": "725 stars this week"
+    },
+    {
+      "author": "alibaba",
+      "name": "higress",
+      "full_name": "alibaba/higress",
+      "url": "https://github.com/alibaba/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "stars": "4733",
+      "forks": "622",
+      "today_stars": "522 stars this week"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "4549",
+      "forks": "534",
+      "today_stars": "830 stars this week"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24106",
+      "forks": "4067",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-contrib",
+      "full_name": "open-telemetry/opentelemetry-go-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+      "description": "Collection of extensions for OpenTelemetry-Go.",
+      "language": "Go",
+      "stars": "1367",
+      "forks": "643",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "mcp-grafana",
+      "full_name": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "language": "Go",
+      "stars": "343",
+      "forks": "29",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "1513",
+      "forks": "160",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "16691",
+      "forks": "1440",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "26945",
+      "forks": "1440",
+      "today_stars": "607 stars this week"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4828",
+      "forks": "23471",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "full_name": "99designs/gqlgen",
+      "url": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": "10227",
+      "forks": "1203",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "58516",
+      "forks": "2007",
+      "today_stars": "339 stars this week"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11587",
+      "forks": "899",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32152",
+      "forks": "4331",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "69215",
+      "forks": "2486",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "31535",
+      "forks": "2395",
+      "today_stars": "237 stars this week"
+    },
+    {
+      "author": "iawia002",
+      "name": "lux",
+      "full_name": "iawia002/lux",
+      "url": "https://github.com/iawia002/lux",
+      "description": "👾 Fast and simple video download library and CLI tool written in Go",
+      "language": "Go",
+      "stars": "29048",
+      "forks": "3101",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "25334",
+      "forks": "2487",
+      "today_stars": "122 stars this week"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Provision remote development environments via Terraform",
+      "language": "Go",
+      "stars": "9400",
+      "forks": "837",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcphost",
+      "full_name": "mark3labs/mcphost",
+      "url": "https://github.com/mark3labs/mcphost",
+      "description": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+      "language": "Go",
+      "stars": "503",
+      "forks": "69",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "9966",
+      "forks": "688",
+      "today_stars": "168 stars this week"
+    }
+  ]
+}
