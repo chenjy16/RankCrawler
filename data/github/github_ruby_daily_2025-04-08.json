@@ -1,0 +1,194 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-04-08 01:10:38",
+  "repositories": [
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22497",
+      "forks": "5390",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3829",
+      "forks": "1399",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "maybe-finance",
+      "name": "maybe",
+      "full_name": "maybe-finance/maybe",
+      "url": "https://github.com/maybe-finance/maybe",
+      "description": "The OS for your personal finances",
+      "language": "Ruby",
+      "stars": "42664",
+      "forks": "3065",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14521",
+      "forks": "5065",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24163",
+      "forks": "5537",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+      "language": "Ruby",
+      "stars": "4461",
+      "forks": "118",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48066",
+      "forks": "7147",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "43658",
+      "forks": "8494",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "full_name": "fluent/fluentd",
+      "url": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": "13099",
+      "forks": "1360",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "otwcode",
+      "name": "otwarchive",
+      "full_name": "otwcode/otwarchive",
+      "url": "https://github.com/otwcode/otwarchive",
+      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
+      "language": "Ruby",
+      "stars": "1499",
+      "forks": "544",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "35262",
+      "forks": "14244",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "citation-style-language",
+      "name": "styles",
+      "full_name": "citation-style-language/styles",
+      "url": "https://github.com/citation-style-language/styles",
+      "description": "Official repository for Citation Style Language (CSL) citation styles.",
+      "language": "Ruby",
+      "stars": "3453",
+      "forks": "3852",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21239",
+      "forks": "10908",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "gitlabhq",
+      "name": "gitlabhq",
+      "full_name": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": "23950",
+      "forks": "5758",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1026",
+      "forks": "221",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "openstreetmap",
+      "name": "openstreetmap-website",
+      "full_name": "openstreetmap/openstreetmap-website",
+      "url": "https://github.com/openstreetmap/openstreetmap-website",
+      "description": "The Rails application that powers OpenStreetMap",
+      "language": "Ruby",
+      "stars": "2335",
+      "forks": "956",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "reline",
+      "full_name": "ruby/reline",
+      "url": "https://github.com/ruby/reline",
+      "description": "The compatible library with the API of Ruby's stdlib 'readline'",
+      "language": "Ruby",
+      "stars": "282",
+      "forks": "89",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
