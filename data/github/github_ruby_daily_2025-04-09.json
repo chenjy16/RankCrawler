@@ -1,0 +1,271 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-04-09 01:10:55",
+  "repositories": [
+    {
+      "author": "redmine",
+      "name": "redmine",
+      "full_name": "redmine/redmine",
+      "url": "https://github.com/redmine/redmine",
+      "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
+      "language": "Ruby",
+      "stars": "5513",
+      "forks": "2359",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+      "language": "Ruby",
+      "stars": "4478",
+      "forks": "120",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "43671",
+      "forks": "8495",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "onetimesecret",
+      "name": "onetimesecret",
+      "full_name": "onetimesecret/onetimesecret",
+      "url": "https://github.com/onetimesecret/onetimesecret",
+      "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+      "language": "Ruby",
+      "stars": "2318",
+      "forks": "395",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "SAML-Toolkits",
+      "name": "ruby-saml",
+      "full_name": "SAML-Toolkits/ruby-saml",
+      "url": "https://github.com/SAML-Toolkits/ruby-saml",
+      "description": "SAML SSO for Ruby",
+      "language": "Ruby",
+      "stars": "944",
+      "forks": "581",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "56713",
+      "forks": "21809",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3757",
+      "forks": "1790",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40053",
+      "forks": "5792",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "wpscanteam",
+      "name": "wpscan",
+      "full_name": "wpscanteam/wpscan",
+      "url": "https://github.com/wpscanteam/wpscan",
+      "description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com",
+      "language": "Ruby",
+      "stars": "8933",
+      "forks": "1283",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "full_name": "fluent/fluentd",
+      "url": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": "13101",
+      "forks": "1360",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog Tracing Ruby Client",
+      "language": "Ruby",
+      "stars": "338",
+      "forks": "384",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "varvet",
+      "name": "pundit",
+      "full_name": "varvet/pundit",
+      "url": "https://github.com/varvet/pundit",
+      "description": "Minimal authorization through OO design and pure Ruby classes",
+      "language": "Ruby",
+      "stars": "8371",
+      "forks": "642",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "brianmario",
+      "name": "mysql2",
+      "full_name": "brianmario/mysql2",
+      "url": "https://github.com/brianmario/mysql2",
+      "description": "A modern, simple and very fast Mysql library for Ruby - binding to libmysql",
+      "language": "Ruby",
+      "stars": "2252",
+      "forks": "548",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "prawnpdf",
+      "name": "prawn",
+      "full_name": "prawnpdf/prawn",
+      "url": "https://github.com/prawnpdf/prawn",
+      "description": "Fast, Nimble PDF Writer for Ruby",
+      "language": "Ruby",
+      "stars": "4710",
+      "forks": "696",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "puma",
+      "name": "puma",
+      "full_name": "puma/puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "stars": "7743",
+      "forks": "1456",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21241",
+      "forks": "10905",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24162",
+      "forks": "5536",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "hotwired",
+      "name": "turbo-rails",
+      "full_name": "hotwired/turbo-rails",
+      "url": "https://github.com/hotwired/turbo-rails",
+      "description": "Use Turbo in your Ruby on Rails app",
+      "language": "Ruby",
+      "stars": "2205",
+      "forks": "337",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "forem",
+      "name": "forem",
+      "full_name": "forem/forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "stars": "22229",
+      "forks": "4097",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "10317",
+      "forks": "2531",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3829",
+      "forks": "1399",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "35269",
+      "forks": "14250",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13281",
+      "forks": "2444",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "4971",
+      "forks": "1095",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

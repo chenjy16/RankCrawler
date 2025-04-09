@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-09 01:08:11",
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "81464",
+      "forks": "8163",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "katana",
+      "full_name": "projectdiscovery/katana",
+      "url": "https://github.com/projectdiscovery/katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "language": "Go",
+      "stars": "13304",
+      "forks": "705",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "full_name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+      "language": "Go",
+      "stars": "13135",
+      "forks": "637",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "1191",
+      "forks": "102",
+      "today_stars": "290 stars today"
+    },
+    {
+      "author": "schollz",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": "29739",
+      "forks": "1186",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "22289",
+      "forks": "882",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "2653",
+      "forks": "216",
+      "today_stars": "141 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21703",
+      "forks": "4482",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "full_name": "fsnotify/fsnotify",
+      "url": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform filesystem notifications for Go.",
+      "language": "Go",
+      "stars": "9954",
+      "forks": "937",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "2990",
+      "forks": "675",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "alertmanager",
+      "full_name": "prometheus/alertmanager",
+      "url": "https://github.com/prometheus/alertmanager",
+      "description": "Prometheus Alertmanager",
+      "language": "Go",
+      "stars": "6917",
+      "forks": "2206",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "30576",
+      "forks": "881",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15484",
+      "forks": "5640",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2203",
+      "forks": "192",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5635",
+      "forks": "1145",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "go-github",
+      "full_name": "google/go-github",
+      "url": "https://github.com/google/go-github",
+      "description": "Go library for accessing the GitHub v3 API",
+      "language": "Go",
+      "stars": "10745",
+      "forks": "2122",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40043",
+      "forks": "2914",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "robfig",
+      "name": "cron",
+      "full_name": "robfig/cron",
+      "url": "https://github.com/robfig/cron",
+      "description": "a cron library for go",
+      "language": "Go",
+      "stars": "13447",
+      "forks": "1651",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "59141",
+      "forks": "1502",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "full_name": "tidwall/gjson",
+      "url": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": "14812",
+      "forks": "865",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "3932",
+      "forks": "1380",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "full_name": "hashicorp/packer",
+      "url": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": "15311",
+      "forks": "3329",
+      "today_stars": "1 star today"
+    }
+  ]
+}

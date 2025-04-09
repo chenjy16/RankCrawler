@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-09 01:09:20",
+  "repositories": [
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "5836",
+      "forks": "1003",
+      "today_stars": "107 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25066",
+      "forks": "3677",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15683",
+      "forks": "1378",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4487",
+      "forks": "1324",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NixOS",
+      "name": "patchelf",
+      "full_name": "NixOS/patchelf",
+      "url": "https://github.com/NixOS/patchelf",
+      "description": "A small utility to modify the dynamic linker and RPATH of ELF executables",
+      "language": "C",
+      "stars": "3795",
+      "forks": "496",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37488",
+      "forks": "6642",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22095",
+      "forks": "11042",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1048",
+      "forks": "1294",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6743",
+      "forks": "1659",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6550",
+      "forks": "1290",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4579",
+      "forks": "900",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "3840",
+      "forks": "1224",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "18715",
+      "forks": "925",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "3955",
+      "forks": "1510",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Xilinx",
+      "name": "dma_ip_drivers",
+      "full_name": "Xilinx/dma_ip_drivers",
+      "url": "https://github.com/Xilinx/dma_ip_drivers",
+      "description": "Xilinx QDMA IP Drivers",
+      "language": "C",
+      "stars": "647",
+      "forks": "446",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "libusb",
+      "name": "hidapi",
+      "full_name": "libusb/hidapi",
+      "url": "https://github.com/libusb/hidapi",
+      "description": "A Simple cross-platform library for communicating with HID devices",
+      "language": "C",
+      "stars": "1828",
+      "forks": "425",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "full_name": "mattn/go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": "8391",
+      "forks": "1124",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "TrungNguyen1909",
+      "name": "qemu-t8030",
+      "full_name": "TrungNguyen1909/qemu-t8030",
+      "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+      "description": "iPhone 11 emulated on QEMU",
+      "language": "C",
+      "stars": "2072",
+      "forks": "222",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "guanzhi",
+      "name": "GmSSL",
+      "full_name": "guanzhi/GmSSL",
+      "url": "https://github.com/guanzhi/GmSSL",
+      "description": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+      "language": "C",
+      "stars": "5456",
+      "forks": "1710",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pjsip",
+      "name": "pjproject",
+      "full_name": "pjsip/pjproject",
+      "url": "https://github.com/pjsip/pjproject",
+      "description": "PJSIP project",
+      "language": "C",
+      "stars": "2266",
+      "forks": "840",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

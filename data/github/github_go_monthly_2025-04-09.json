@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-04-09 01:08:29",
+  "repositories": [
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "22019",
+      "forks": "811",
+      "today_stars": "10,653 stars this month"
+    },
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "9887",
+      "forks": "1308",
+      "today_stars": "2,192 stars this month"
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "full_name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": "18369",
+      "forks": "8354",
+      "today_stars": "453 stars this month"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "3378",
+      "forks": "527",
+      "today_stars": "835 stars this month"
+    },
+    {
+      "author": "alibaba",
+      "name": "higress",
+      "full_name": "alibaba/higress",
+      "url": "https://github.com/alibaba/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "stars": "4805",
+      "forks": "627",
+      "today_stars": "827 stars this month"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "33916",
+      "forks": "3143",
+      "today_stars": "966 stars this month"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24117",
+      "forks": "4069",
+      "today_stars": "285 stars this month"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "16706",
+      "forks": "1440",
+      "today_stars": "316 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "69243",
+      "forks": "4470",
+      "today_stars": "1,197 stars this month"
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "full_name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "language": "Go",
+      "stars": "22606",
+      "forks": "6626",
+      "today_stars": "306 stars this month"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "karpenter",
+      "full_name": "kubernetes-sigs/karpenter",
+      "url": "https://github.com/kubernetes-sigs/karpenter",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "866",
+      "forks": "257",
+      "today_stars": "92 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "25354",
+      "forks": "2490",
+      "today_stars": "440 stars this month"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "28250",
+      "forks": "2046",
+      "today_stars": "308 stars this month"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21703",
+      "forks": "4482",
+      "today_stars": "223 stars this month"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "13019",
+      "forks": "623",
+      "today_stars": "550 stars this month"
+    },
+    {
+      "author": "dagger",
+      "name": "dagger",
+      "full_name": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+      "language": "Go",
+      "stars": "13495",
+      "forks": "710",
+      "today_stars": "1,182 stars this month"
+    },
+    {
+      "author": "gogf",
+      "name": "gf",
+      "full_name": "gogf/gf",
+      "url": "https://github.com/gogf/gf",
+      "description": "A powerful framework for faster, easier, and more efficient project development.",
+      "language": "Go",
+      "stars": "12208",
+      "forks": "1638",
+      "today_stars": "159 stars this month"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "141446",
+      "forks": "12199",
+      "today_stars": "2,247 stars this month"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "45204",
+      "forks": "2210",
+      "today_stars": "1,091 stars this month"
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "full_name": "gogs/gogs",
+      "url": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service",
+      "language": "Go",
+      "stars": "46175",
+      "forks": "5019",
+      "today_stars": "678 stars this month"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "58051",
+      "forks": "9496",
+      "today_stars": "592 stars this month"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19147",
+      "forks": "5878",
+      "today_stars": "306 stars this month"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "13893",
+      "forks": "1016",
+      "today_stars": "485 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "language": "csharp",
+  "period": "weekly",
+  "fetch_time": "2025-04-09 01:10:14",
+  "repositories": [
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5725",
+      "forks": "4916",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Windows system utilities to maximize productivity",
+      "language": "C#",
+      "stars": "117122",
+      "forks": "6921",
+      "today_stars": "399 stars this week"
+    },
+    {
+      "author": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": "38582",
+      "forks": "3443",
+      "today_stars": "241 stars this week"
+    },
+    {
+      "author": "Cysharp",
+      "name": "UniTask",
+      "full_name": "Cysharp/UniTask",
+      "url": "https://github.com/Cysharp/UniTask",
+      "description": "Provides an efficient allocation free async/await integration for Unity.",
+      "language": "C#",
+      "stars": "9066",
+      "forks": "888",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "dockersamples",
+      "name": "example-voting-app",
+      "full_name": "dockersamples/example-voting-app",
+      "url": "https://github.com/dockersamples/example-voting-app",
+      "description": "Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",
+      "language": "C#",
+      "stars": "5083",
+      "forks": "12418",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "Tyrrrz",
+      "name": "YoutubeDownloader",
+      "full_name": "Tyrrrz/YoutubeDownloader",
+      "url": "https://github.com/Tyrrrz/YoutubeDownloader",
+      "description": "Downloads videos and playlists from YouTube",
+      "language": "C#",
+      "stars": "11024",
+      "forks": "1446",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "git-ecosystem",
+      "name": "git-credential-manager",
+      "full_name": "git-ecosystem/git-credential-manager",
+      "url": "https://github.com/git-ecosystem/git-credential-manager",
+      "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+      "language": "C#",
+      "stars": "7451",
+      "forks": "2047",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "46968",
+      "forks": "7579",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "TechnitiumSoftware",
+      "name": "DnsServer",
+      "full_name": "TechnitiumSoftware/DnsServer",
+      "url": "https://github.com/TechnitiumSoftware/DnsServer",
+      "description": "Technitium DNS Server",
+      "language": "C#",
+      "stars": "5223",
+      "forks": "475",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "tModLoader",
+      "name": "tModLoader",
+      "full_name": "tModLoader/tModLoader",
+      "url": "https://github.com/tModLoader/tModLoader",
+      "description": "A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations",
+      "language": "C#",
+      "stars": "4437",
+      "forks": "1936",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19424",
+      "forks": "4112",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "semantic-kernel",
+      "full_name": "microsoft/semantic-kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "language": "C#",
+      "stars": "23898",
+      "forks": "3684",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "RayWangQvQ",
+      "name": "BiliBiliToolPro",
+      "full_name": "RayWangQvQ/BiliBiliToolPro",
+      "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+      "description": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+      "language": "C#",
+      "stars": "7119",
+      "forks": "1853",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14033",
+      "forks": "3246",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "AspNetCore.Docs",
+      "full_name": "dotnet/AspNetCore.Docs",
+      "url": "https://github.com/dotnet/AspNetCore.Docs",
+      "description": "Documentation for ASP.NET Core",
+      "language": "C#",
+      "stars": "12833",
+      "forks": "25210",
+      "today_stars": "15 stars this week"
+    },
+    {
+      "author": "Radarr",
+      "name": "Radarr",
+      "full_name": "Radarr/Radarr",
+      "url": "https://github.com/Radarr/Radarr",
+      "description": "Movie organizer/manager for usenet and torrent users.",
+      "language": "C#",
+      "stars": "11297",
+      "forks": "1041",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "NethermindEth",
+      "name": "nethermind",
+      "full_name": "NethermindEth/nethermind",
+      "url": "https://github.com/NethermindEth/nethermind",
+      "description": "A robust execution client for Ethereum node operators.",
+      "language": "C#",
+      "stars": "1374",
+      "forks": "505",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "abpframework",
+      "name": "abp",
+      "full_name": "abpframework/abp",
+      "url": "https://github.com/abpframework/abp",
+      "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
+      "language": "C#",
+      "stars": "13366",
+      "forks": "3530",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "27318",
+      "forks": "2358",
+      "today_stars": "77 stars this week"
+    }
+  ]
+}
