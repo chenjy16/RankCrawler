@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-10 01:08:41",
+  "repositories": [
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "12386",
+      "forks": "411",
+      "today_stars": "340 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "48725",
+      "forks": "1366",
+      "today_stars": "196 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "23946",
+      "forks": "527",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "TabbyML",
+      "name": "tabby",
+      "full_name": "TabbyML/tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "description": "Self-hosted AI coding assistant",
+      "language": "Rust",
+      "stars": "30735",
+      "forks": "1436",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "14969",
+      "forks": "585",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6077",
+      "forks": "442",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "27530",
+      "forks": "1903",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "AppFlowy-IO",
+      "name": "AppFlowy-Cloud",
+      "full_name": "AppFlowy-IO/AppFlowy-Cloud",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+      "language": "Rust",
+      "stars": "1398",
+      "forks": "336",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nvim-neorocks",
+      "name": "lux",
+      "full_name": "nvim-neorocks/lux",
+      "url": "https://github.com/nvim-neorocks/lux",
+      "description": "A luxurious package manager for Lua",
+      "language": "Rust",
+      "stars": "512",
+      "forks": "4",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "28303",
+      "forks": "2598",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56807",
+      "forks": "3859",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "katanemo",
+      "name": "archgw",
+      "full_name": "katanemo/archgw",
+      "url": "https://github.com/katanemo/archgw",
+      "description": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+      "language": "Rust",
+      "stars": "2292",
+      "forks": "119",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "23821",
+      "forks": "720",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4534",
+      "forks": "1526",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "12209",
+      "forks": "444",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "lusingander",
+      "name": "stu",
+      "full_name": "lusingander/stu",
+      "url": "https://github.com/lusingander/stu",
+      "description": "TUI explorer application for Amazon S3 (AWS S3) 🪣",
+      "language": "Rust",
+      "stars": "525",
+      "forks": "16",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "18128",
+      "forks": "733",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed data engine for Python/SQL designed for the cloud, powered by Rust",
+      "language": "Rust",
+      "stars": "2701",
+      "forks": "200",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "0xlane",
+      "name": "wechat-dump-rs",
+      "full_name": "0xlane/wechat-dump-rs",
+      "url": "https://github.com/0xlane/wechat-dump-rs",
+      "description": "该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。",
+      "language": "Rust",
+      "stars": "1184",
+      "forks": "198",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "full_name": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": "15707",
+      "forks": "2176",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "quickwit",
+      "full_name": "quickwit-oss/quickwit",
+      "url": "https://github.com/quickwit-oss/quickwit",
+      "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+      "language": "Rust",
+      "stars": "9873",
+      "forks": "446",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

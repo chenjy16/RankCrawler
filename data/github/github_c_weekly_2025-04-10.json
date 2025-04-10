@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-04-10 01:09:38",
+  "repositories": [
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5196",
+      "forks": "1475",
+      "today_stars": "171 stars this week"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37531",
+      "forks": "6647",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54245",
+      "forks": "26091",
+      "today_stars": "156 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "24678",
+      "forks": "2211",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "556",
+      "forks": "3187",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74036",
+      "forks": "6039",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "mgba-emu",
+      "name": "mgba",
+      "full_name": "mgba-emu/mgba",
+      "url": "https://github.com/mgba-emu/mgba",
+      "description": "mGBA Game Boy Advance Emulator",
+      "language": "C",
+      "stars": "6057",
+      "forks": "827",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "clockworkpi",
+      "name": "PicoCalc",
+      "full_name": "clockworkpi/PicoCalc",
+      "url": "https://github.com/clockworkpi/PicoCalc",
+      "description": "A calculator like nothing you've ever seen before, right?",
+      "language": "C",
+      "stars": "165",
+      "forks": "22",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "11856",
+      "forks": "7187",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "18973",
+      "forks": "41132",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22104",
+      "forks": "11045",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "26566",
+      "forks": "1988",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "Shipwright",
+      "full_name": "HarbourMasters/Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "stars": "3658",
+      "forks": "543",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6751",
+      "forks": "1660",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6091",
+      "forks": "2528",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "10813",
+      "forks": "766",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "NixOS",
+      "name": "patchelf",
+      "full_name": "NixOS/patchelf",
+      "url": "https://github.com/NixOS/patchelf",
+      "description": "A small utility to modify the dynamic linker and RPATH of ELF executables",
+      "language": "C",
+      "stars": "3798",
+      "forks": "497",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "30885",
+      "forks": "2715",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4587",
+      "forks": "900",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "FRRouting",
+      "name": "frr",
+      "full_name": "FRRouting/frr",
+      "url": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "stars": "3607",
+      "forks": "1320",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "pret",
+      "name": "pokeemerald",
+      "full_name": "pret/pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "stars": "2472",
+      "forks": "3000",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "14848",
+      "forks": "1669",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "10625",
+      "forks": "1180",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9258",
+      "forks": "3199",
+      "today_stars": "56 stars this week"
+    }
+  ]
+}

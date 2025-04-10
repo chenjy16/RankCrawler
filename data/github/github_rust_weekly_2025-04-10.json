@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-04-10 01:08:47",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "86541",
+      "forks": "12166",
+      "today_stars": "872 stars this week"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "39073",
+      "forks": "1072",
+      "today_stars": "329 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10088",
+      "forks": "370",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": "11437",
+      "forks": "572",
+      "today_stars": "195 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56807",
+      "forks": "3859",
+      "today_stars": "381 stars this week"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "mail-server",
+      "full_name": "stalwartlabs/mail-server",
+      "url": "https://github.com/stalwartlabs/mail-server",
+      "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+      "language": "Rust",
+      "stars": "7233",
+      "forks": "340",
+      "today_stars": "179 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43347",
+      "forks": "2050",
+      "today_stars": "243 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+      "language": "Rust",
+      "stars": "308",
+      "forks": "58",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6782",
+      "forks": "11404",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "raphamorim",
+      "name": "rio",
+      "full_name": "raphamorim/rio",
+      "url": "https://github.com/raphamorim/rio",
+      "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+      "language": "Rust",
+      "stars": "4957",
+      "forks": "174",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "34690",
+      "forks": "1787",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "32967",
+      "forks": "2161",
+      "today_stars": "196 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "27530",
+      "forks": "1903",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "12209",
+      "forks": "444",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "picahq",
+      "name": "pica",
+      "full_name": "picahq/pica",
+      "url": "https://github.com/picahq/pica",
+      "description": "The Complete Agentic Tooling Platform",
+      "language": "Rust",
+      "stars": "764",
+      "forks": "42",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "dora-rs",
+      "name": "dora",
+      "full_name": "dora-rs/dora",
+      "url": "https://github.com/dora-rs/dora",
+      "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+      "language": "Rust",
+      "stars": "2051",
+      "forks": "164",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "neovide",
+      "name": "neovide",
+      "full_name": "neovide/neovide",
+      "url": "https://github.com/neovide/neovide",
+      "description": "No Nonsense Neovim Client in Rust",
+      "language": "Rust",
+      "stars": "13862",
+      "forks": "555",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16432",
+      "forks": "857",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "57520",
+      "forks": "10550",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102528",
+      "forks": "5548",
+      "today_stars": "131 stars this week"
+    },
+    {
+      "author": "rerun-io",
+      "name": "rerun",
+      "full_name": "rerun-io/rerun",
+      "url": "https://github.com/rerun-io/rerun",
+      "description": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+      "language": "Rust",
+      "stars": "8149",
+      "forks": "437",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "hyperlight-dev",
+      "name": "hyperlight",
+      "full_name": "hyperlight-dev/hyperlight",
+      "url": "https://github.com/hyperlight-dev/hyperlight",
+      "description": "Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.",
+      "language": "Rust",
+      "stars": "3460",
+      "forks": "115",
+      "today_stars": "177 stars this week"
+    }
+  ]
+}

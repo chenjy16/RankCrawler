@@ -1,0 +1,194 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-10 01:09:29",
+  "repositories": [
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37531",
+      "forks": "6647",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54245",
+      "forks": "26091",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25072",
+      "forks": "3678",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "5965",
+      "forks": "1029",
+      "today_stars": "126 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4489",
+      "forks": "1324",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "8856",
+      "forks": "2240",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5796",
+      "forks": "2673",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "analogdevicesinc",
+      "name": "no-OS",
+      "full_name": "analogdevicesinc/no-OS",
+      "url": "https://github.com/analogdevicesinc/no-OS",
+      "description": "Software drivers in C for systems without an operating system",
+      "language": "C",
+      "stars": "1083",
+      "forks": "1706",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "unicorn-engine",
+      "name": "unicorn",
+      "full_name": "unicorn-engine/unicorn",
+      "url": "https://github.com/unicorn-engine/unicorn",
+      "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+      "language": "C",
+      "stars": "8047",
+      "forks": "1388",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15697",
+      "forks": "1379",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "u-boot",
+      "name": "u-boot",
+      "full_name": "u-boot/u-boot",
+      "url": "https://github.com/u-boot/u-boot",
+      "description": "\"Das U-Boot\" Source Tree",
+      "language": "C",
+      "stars": "4366",
+      "forks": "3844",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12159",
+      "forks": "2099",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7392",
+      "forks": "1325",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6553",
+      "forks": "1291",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10412",
+      "forks": "2894",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11144",
+      "forks": "1815",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tukaani-project",
+      "name": "xz",
+      "full_name": "tukaani-project/xz",
+      "url": "https://github.com/tukaani-project/xz",
+      "description": "XZ Utils",
+      "language": "C",
+      "stars": "740",
+      "forks": "141",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
