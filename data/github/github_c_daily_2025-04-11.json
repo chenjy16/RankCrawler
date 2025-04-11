@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-11 01:09:34",
+  "repositories": [
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4592",
+      "forks": "900",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "6121",
+      "forks": "1052",
+      "today_stars": "152 stars today"
+    },
+    {
+      "author": "stephane",
+      "name": "libmodbus",
+      "full_name": "stephane/libmodbus",
+      "url": "https://github.com/stephane/libmodbus",
+      "description": "A Modbus library for Linux, Mac OS, FreeBSD and Windows",
+      "language": "C",
+      "stars": "3687",
+      "forks": "1813",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12165",
+      "forks": "2100",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "557",
+      "forks": "3188",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "18733",
+      "forks": "927",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5527",
+      "forks": "1097",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pjsip",
+      "name": "pjproject",
+      "full_name": "pjsip/pjproject",
+      "url": "https://github.com/pjsip/pjproject",
+      "description": "PJSIP project",
+      "language": "C",
+      "stars": "2271",
+      "forks": "841",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "14951",
+      "forks": "7588",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15056",
+      "forks": "731",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "open5gs",
+      "name": "open5gs",
+      "full_name": "open5gs/open5gs",
+      "url": "https://github.com/open5gs/open5gs",
+      "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",
+      "language": "C",
+      "stars": "2027",
+      "forks": "816",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "3888",
+      "forks": "406",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mydumper",
+      "name": "mydumper",
+      "full_name": "mydumper/mydumper",
+      "url": "https://github.com/mydumper/mydumper",
+      "description": "Official MyDumper Project",
+      "language": "C",
+      "stars": "2686",
+      "forks": "469",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11584",
+      "forks": "2773",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "libbpf",
+      "name": "libbpf",
+      "full_name": "libbpf/libbpf",
+      "url": "https://github.com/libbpf/libbpf",
+      "description": "Automated upstream mirror for libbpf stand-alone build.",
+      "language": "C",
+      "stars": "2335",
+      "forks": "435",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5628",
+      "forks": "1099",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3636",
+      "forks": "1289",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "u-boot",
+      "name": "u-boot",
+      "full_name": "u-boot/u-boot",
+      "url": "https://github.com/u-boot/u-boot",
+      "description": "\"Das U-Boot\" Source Tree",
+      "language": "C",
+      "stars": "4366",
+      "forks": "3845",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4415",
+      "forks": "1018",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "wuffs",
+      "full_name": "google/wuffs",
+      "url": "https://github.com/google/wuffs",
+      "description": "Wrangling Untrusted File Formats Safely",
+      "language": "C",
+      "stars": "4460",
+      "forks": "139",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6556",
+      "forks": "1291",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6671",
+      "forks": "1542",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

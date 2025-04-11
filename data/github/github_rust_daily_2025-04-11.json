@@ -1,0 +1,205 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-11 01:08:55",
+  "repositories": [
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "12830",
+      "forks": "422",
+      "today_stars": "451 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "48907",
+      "forks": "1369",
+      "today_stars": "182 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "11530",
+      "forks": "852",
+      "today_stars": "101 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "6579",
+      "forks": "979",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7006",
+      "forks": "1442",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "18146",
+      "forks": "733",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "53489",
+      "forks": "2691",
+      "today_stars": "207 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19139",
+      "forks": "1717",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "29826",
+      "forks": "3596",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "full_name": "seanmonstar/reqwest",
+      "url": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": "10496",
+      "forks": "1213",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "full_name": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": "15714",
+      "forks": "2175",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "text-embeddings-inference",
+      "full_name": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "language": "Rust",
+      "stars": "3405",
+      "forks": "239",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "axum",
+      "full_name": "tokio-rs/axum",
+      "url": "https://github.com/tokio-rs/axum",
+      "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+      "language": "Rust",
+      "stars": "21146",
+      "forks": "1147",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "prefix-dev",
+      "name": "pixi",
+      "full_name": "prefix-dev/pixi",
+      "url": "https://github.com/prefix-dev/pixi",
+      "description": "Package management made easy",
+      "language": "Rust",
+      "stars": "4192",
+      "forks": "256",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56865",
+      "forks": "3863",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "32997",
+      "forks": "2161",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "26466",
+      "forks": "1041",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6099",
+      "forks": "442",
+      "today_stars": "18 stars today"
+    }
+  ]
+}

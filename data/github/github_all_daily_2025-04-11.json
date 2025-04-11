@@ -1,0 +1,150 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-04-11 01:07:17",
+  "repositories": [
+    {
+      "author": "girafe-ai",
+      "name": "ml-course",
+      "full_name": "girafe-ai/ml-course",
+      "url": "https://github.com/girafe-ai/ml-course",
+      "description": "Open Machine Learning course",
+      "language": "Jupyter Notebook",
+      "stars": "2853",
+      "forks": "1191",
+      "today_stars": "207 stars today"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "63102",
+      "forks": "4244",
+      "today_stars": "103 stars today"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "12830",
+      "forks": "422",
+      "today_stars": "451 stars today"
+    },
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "1707",
+      "forks": "138",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "10 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": "12053",
+      "forks": "3017",
+      "today_stars": "436 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-python",
+      "full_name": "NVIDIA/cuda-python",
+      "url": "https://github.com/NVIDIA/cuda-python",
+      "description": "CUDA Python: Performance meets Productivity",
+      "language": "Python",
+      "stars": "1919",
+      "forks": "128",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "datawhalechina",
+      "name": "llm-cookbook",
+      "full_name": "datawhalechina/llm-cookbook",
+      "url": "https://github.com/datawhalechina/llm-cookbook",
+      "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+      "language": "Jupyter Notebook",
+      "stars": "18292",
+      "forks": "2228",
+      "today_stars": "371 stars today"
+    },
+    {
+      "author": "getmaxun",
+      "name": "maxun",
+      "full_name": "getmaxun/maxun",
+      "url": "https://github.com/getmaxun/maxun",
+      "description": "🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥",
+      "language": "TypeScript",
+      "stars": "10873",
+      "forks": "865",
+      "today_stars": "186 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "4077",
+      "forks": "1399",
+      "today_stars": "101 stars today"
+    },
+    {
+      "author": "mendableai",
+      "name": "firecrawl",
+      "full_name": "mendableai/firecrawl",
+      "url": "https://github.com/mendableai/firecrawl",
+      "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+      "language": "TypeScript",
+      "stars": "34928",
+      "forks": "3060",
+      "today_stars": "169 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "47765",
+      "forks": "2249",
+      "today_stars": "642 stars today"
+    },
+    {
+      "author": "langgenius",
+      "name": "dify",
+      "full_name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+      "language": "TypeScript",
+      "stars": "90667",
+      "forks": "13515",
+      "today_stars": "267 stars today"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "81597",
+      "forks": "8172",
+      "today_stars": "35 stars today"
+    }
+  ]
+}
