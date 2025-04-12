@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-04-12 01:07:49",
+  "repositories": [
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "13168",
+      "forks": "433",
+      "today_stars": "1,986 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56905",
+      "forks": "3870",
+      "today_stars": "413 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "86639",
+      "forks": "12185",
+      "today_stars": "580 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43425",
+      "forks": "2053",
+      "today_stars": "260 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "53750",
+      "forks": "2694",
+      "today_stars": "2,318 stars this week"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16446",
+      "forks": "860",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6116",
+      "forks": "443",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "57559",
+      "forks": "10550",
+      "today_stars": "192 stars this week"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "24373",
+      "forks": "1713",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6789",
+      "forks": "11404",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "13864",
+      "forks": "1029",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10113",
+      "forks": "372",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "12235",
+      "forks": "448",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "mail-server",
+      "full_name": "stalwartlabs/mail-server",
+      "url": "https://github.com/stalwartlabs/mail-server",
+      "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+      "language": "Rust",
+      "stars": "7266",
+      "forks": "342",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "full_name": "getzola/zola",
+      "url": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": "15068",
+      "forks": "1027",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32053",
+      "forks": "1278",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+      "language": "Rust",
+      "stars": "333",
+      "forks": "64",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "tuananh",
+      "name": "hyper-mcp",
+      "full_name": "tuananh/hyper-mcp",
+      "url": "https://github.com/tuananh/hyper-mcp",
+      "description": "A fast, secure MCP server that extends its capabilities through WebAssembly plugins.",
+      "language": "Rust",
+      "stars": "318",
+      "forks": "23",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102565",
+      "forks": "5550",
+      "today_stars": "128 stars this week"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "quickwit",
+      "full_name": "quickwit-oss/quickwit",
+      "url": "https://github.com/quickwit-oss/quickwit",
+      "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+      "language": "Rust",
+      "stars": "9880",
+      "forks": "447",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "raphamorim",
+      "name": "rio",
+      "full_name": "raphamorim/rio",
+      "url": "https://github.com/raphamorim/rio",
+      "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+      "language": "Rust",
+      "stars": "4973",
+      "forks": "174",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "28327",
+      "forks": "2600",
+      "today_stars": "66 stars this week"
+    }
+  ]
+}

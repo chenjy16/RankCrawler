@@ -1,0 +1,205 @@
+{
+  "language": "typescript",
+  "period": "daily",
+  "fetch_time": "2025-04-12 01:07:01",
+  "repositories": [
+    {
+      "author": "vercel",
+      "name": "ai-chatbot",
+      "full_name": "vercel/ai-chatbot",
+      "url": "https://github.com/vercel/ai-chatbot",
+      "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+      "language": "TypeScript",
+      "stars": "14748",
+      "forks": "3924",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "langgenius",
+      "name": "dify",
+      "full_name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+      "language": "TypeScript",
+      "stars": "91135",
+      "forks": "13573",
+      "today_stars": "501 stars today"
+    },
+    {
+      "author": "anthropics",
+      "name": "anthropic-quickstarts",
+      "full_name": "anthropics/anthropic-quickstarts",
+      "url": "https://github.com/anthropics/anthropic-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API",
+      "language": "TypeScript",
+      "stars": "8598",
+      "forks": "1463",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "bitwarden",
+      "name": "clients",
+      "full_name": "bitwarden/clients",
+      "url": "https://github.com/bitwarden/clients",
+      "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+      "language": "TypeScript",
+      "stars": "10034",
+      "forks": "1360",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "refly-ai",
+      "name": "refly",
+      "full_name": "refly-ai/refly",
+      "url": "https://github.com/refly-ai/refly",
+      "description": "🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.",
+      "language": "TypeScript",
+      "stars": "3502",
+      "forks": "301",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "genkit",
+      "full_name": "firebase/genkit",
+      "url": "https://github.com/firebase/genkit",
+      "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.",
+      "language": "TypeScript",
+      "stars": "1478",
+      "forks": "209",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "primefaces",
+      "name": "primeng",
+      "full_name": "primefaces/primeng",
+      "url": "https://github.com/primefaces/primeng",
+      "description": "The Most Complete Angular UI Component Library",
+      "language": "TypeScript",
+      "stars": "11374",
+      "forks": "4801",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": "169909",
+      "forks": "31493",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "lobehub",
+      "name": "lobe-chat",
+      "full_name": "lobehub/lobe-chat",
+      "url": "https://github.com/lobehub/lobe-chat",
+      "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+      "language": "TypeScript",
+      "stars": "58760",
+      "forks": "12454",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "Chainlit",
+      "name": "chainlit",
+      "full_name": "Chainlit/chainlit",
+      "url": "https://github.com/Chainlit/chainlit",
+      "description": "Build Conversational AI in minutes ⚡️",
+      "language": "TypeScript",
+      "stars": "9239",
+      "forks": "1243",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "Canner",
+      "name": "WrenAI",
+      "full_name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, dashboards and BI. 📈📊📋🧑‍💻",
+      "language": "TypeScript",
+      "stars": "7438",
+      "forks": "698",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-node",
+      "full_name": "testcontainers/testcontainers-node",
+      "url": "https://github.com/testcontainers/testcontainers-node",
+      "description": "Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+      "language": "TypeScript",
+      "stars": "2114",
+      "forks": "225",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "mendableai",
+      "name": "firecrawl",
+      "full_name": "mendableai/firecrawl",
+      "url": "https://github.com/mendableai/firecrawl",
+      "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+      "language": "TypeScript",
+      "stars": "35213",
+      "forks": "3084",
+      "today_stars": "335 stars today"
+    },
+    {
+      "author": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "78887",
+      "forks": "20986",
+      "today_stars": "1,021 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "superset",
+      "full_name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "stars": "65636",
+      "forks": "14826",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "wzc520pyfm",
+      "name": "ant-design-x-vue",
+      "full_name": "wzc520pyfm/ant-design-x-vue",
+      "url": "https://github.com/wzc520pyfm/ant-design-x-vue",
+      "description": "Ant Design X For Vue. 🔥",
+      "language": "TypeScript",
+      "stars": "1146",
+      "forks": "78",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "element-plus",
+      "name": "element-plus",
+      "full_name": "element-plus/element-plus",
+      "url": "https://github.com/element-plus/element-plus",
+      "description": "🎉 A Vue.js 3 UI Library made by Element team",
+      "language": "TypeScript",
+      "stars": "25542",
+      "forks": "18161",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google-gemini",
+      "name": "starter-applets",
+      "full_name": "google-gemini/starter-applets",
+      "url": "https://github.com/google-gemini/starter-applets",
+      "description": "Google AI Studio Starter Apps",
+      "language": "TypeScript",
+      "stars": "1062",
+      "forks": "413",
+      "today_stars": "17 stars today"
+    }
+  ]
+}

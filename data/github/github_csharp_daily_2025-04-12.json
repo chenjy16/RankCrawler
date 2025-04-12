@@ -1,0 +1,260 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-04-12 01:09:31",
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4388",
+      "forks": "586",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36440",
+      "forks": "10293",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "46991",
+      "forks": "7584",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "eShop",
+      "full_name": "dotnet/eShop",
+      "url": "https://github.com/dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "language": "C#",
+      "stars": "7667",
+      "forks": "2507",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Cysharp",
+      "name": "UniTask",
+      "full_name": "Cysharp/UniTask",
+      "url": "https://github.com/Cysharp/UniTask",
+      "description": "Provides an efficient allocation free async/await integration for Unity.",
+      "language": "C#",
+      "stars": "9084",
+      "forks": "890",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "extensions",
+      "full_name": "dotnet/extensions",
+      "url": "https://github.com/dotnet/extensions",
+      "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+      "language": "C#",
+      "stars": "2881",
+      "forks": "796",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "runtime",
+      "full_name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "language": "C#",
+      "stars": "16113",
+      "forks": "4942",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "maui",
+      "full_name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": "22580",
+      "forks": "1813",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "semantic-kernel",
+      "full_name": "microsoft/semantic-kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "language": "C#",
+      "stars": "23967",
+      "forks": "3701",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "YSGStudyHards",
+      "name": "DotNetGuide",
+      "full_name": "YSGStudyHards/DotNetGuide",
+      "url": "https://github.com/YSGStudyHards/DotNetGuide",
+      "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
+      "language": "C#",
+      "stars": "8137",
+      "forks": "1205",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "mob-sakai",
+      "name": "ParticleEffectForUGUI",
+      "full_name": "mob-sakai/ParticleEffectForUGUI",
+      "url": "https://github.com/mob-sakai/ParticleEffectForUGUI",
+      "description": "Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.",
+      "language": "C#",
+      "stars": "4780",
+      "forks": "662",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5731",
+      "forks": "4926",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14042",
+      "forks": "3251",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "QuestPDF",
+      "name": "QuestPDF",
+      "full_name": "QuestPDF/QuestPDF",
+      "url": "https://github.com/QuestPDF/QuestPDF",
+      "description": "QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.",
+      "language": "C#",
+      "stars": "12715",
+      "forks": "673",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "OrchardCMS",
+      "name": "OrchardCore",
+      "full_name": "OrchardCMS/OrchardCore",
+      "url": "https://github.com/OrchardCMS/OrchardCore",
+      "description": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+      "language": "C#",
+      "stars": "7652",
+      "forks": "2450",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "spectreconsole",
+      "name": "spectre.console",
+      "full_name": "spectreconsole/spectre.console",
+      "url": "https://github.com/spectreconsole/spectre.console",
+      "description": "A .NET library that makes it easier to create beautiful console applications.",
+      "language": "C#",
+      "stars": "10031",
+      "forks": "545",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Windows system utilities to maximize productivity",
+      "language": "C#",
+      "stars": "117278",
+      "forks": "6930",
+      "today_stars": "66 stars today"
+    },
+    {
+      "author": "NuGet",
+      "name": "NuGet.Client",
+      "full_name": "NuGet/NuGet.Client",
+      "url": "https://github.com/NuGet/NuGet.Client",
+      "description": "Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)",
+      "language": "C#",
+      "stars": "782",
+      "forks": "712",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "metatube-community",
+      "name": "jellyfin-plugin-metatube",
+      "full_name": "metatube-community/jellyfin-plugin-metatube",
+      "url": "https://github.com/metatube-community/jellyfin-plugin-metatube",
+      "description": "MetaTube Plugin for Jellyfin/Emby",
+      "language": "C#",
+      "stars": "3421",
+      "forks": "292",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "QL-Win",
+      "name": "QuickLook",
+      "full_name": "QL-Win/QuickLook",
+      "url": "https://github.com/QL-Win/QuickLook",
+      "description": "Bring macOS “Quick Look” feature to Windows",
+      "language": "C#",
+      "stars": "18613",
+      "forks": "1118",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "wisedev-code",
+      "name": "MaIN.NET",
+      "full_name": "wisedev-code/MaIN.NET",
+      "url": "https://github.com/wisedev-code/MaIN.NET",
+      "description": "NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NET",
+      "language": "C#",
+      "stars": "63",
+      "forks": "7",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "lepoco",
+      "name": "wpfui",
+      "full_name": "lepoco/wpfui",
+      "url": "https://github.com/lepoco/wpfui",
+      "description": "WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",
+      "language": "C#",
+      "stars": "8241",
+      "forks": "821",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "sbom-tool",
+      "full_name": "microsoft/sbom-tool",
+      "url": "https://github.com/microsoft/sbom-tool",
+      "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+      "language": "C#",
+      "stars": "1760",
+      "forks": "153",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

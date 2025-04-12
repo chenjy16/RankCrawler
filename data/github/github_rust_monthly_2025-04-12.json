@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-04-12 01:07:56",
+  "repositories": [
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "15656",
+      "forks": "1578",
+      "today_stars": "1,743 stars this month"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "13168",
+      "forks": "433",
+      "today_stars": "4,061 stars this month"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "19873",
+      "forks": "1430",
+      "today_stars": "1,452 stars this month"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "1819",
+      "forks": "133",
+      "today_stars": "718 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56905",
+      "forks": "3870",
+      "today_stars": "1,844 stars this month"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "49107",
+      "forks": "1374",
+      "today_stars": "5,902 stars this month"
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "full_name": "sharkdp/fd",
+      "url": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": "37453",
+      "forks": "867",
+      "today_stars": "1,630 stars this month"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "86639",
+      "forks": "12185",
+      "today_stars": "2,912 stars this month"
+    },
+    {
+      "author": "rerun-io",
+      "name": "rerun",
+      "full_name": "rerun-io/rerun",
+      "url": "https://github.com/rerun-io/rerun",
+      "description": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+      "language": "Rust",
+      "stars": "8170",
+      "forks": "438",
+      "today_stars": "295 stars this month"
+    },
+    {
+      "author": "signalapp",
+      "name": "libsignal",
+      "full_name": "signalapp/libsignal",
+      "url": "https://github.com/signalapp/libsignal",
+      "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+      "language": "Rust",
+      "stars": "4265",
+      "forks": "506",
+      "today_stars": "319 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "57559",
+      "forks": "10550",
+      "today_stars": "850 stars this month"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33018",
+      "forks": "2167",
+      "today_stars": "747 stars this month"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "6721",
+      "forks": "223",
+      "today_stars": "1,379 stars this month"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16446",
+      "forks": "860",
+      "today_stars": "218 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "38926",
+      "forks": "3830",
+      "today_stars": "630 stars this month"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "22983",
+      "forks": "1578",
+      "today_stars": "616 stars this month"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "6522",
+      "forks": "210",
+      "today_stars": "588 stars this month"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "mail-server",
+      "full_name": "stalwartlabs/mail-server",
+      "url": "https://github.com/stalwartlabs/mail-server",
+      "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+      "language": "Rust",
+      "stars": "7266",
+      "forks": "342",
+      "today_stars": "528 stars this month"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "20768",
+      "forks": "2282",
+      "today_stars": "531 stars this month"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": "11469",
+      "forks": "574",
+      "today_stars": "838 stars this month"
+    },
+    {
+      "author": "supabase-community",
+      "name": "postgres-language-server",
+      "full_name": "supabase-community/postgres-language-server",
+      "url": "https://github.com/supabase-community/postgres-language-server",
+      "description": "A Language Server for Postgres",
+      "language": "Rust",
+      "stars": "4859",
+      "forks": "98",
+      "today_stars": "1,229 stars this month"
+    }
+  ]
+}
