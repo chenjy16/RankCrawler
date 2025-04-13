@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-13 02:36:57",
+  "repositories": [
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "2885",
+      "forks": "211",
+      "today_stars": "476 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "51630",
+      "forks": "5768",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "4219",
+      "forks": "1408",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40095",
+      "forks": "2916",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3483",
+      "forks": "2675",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "81694",
+      "forks": "8178",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "full_name": "cosmos/cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": "6543",
+      "forks": "3860",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux2",
+      "full_name": "fluxcd/flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "stars": "6990",
+      "forks": "650",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "63317",
+      "forks": "4252",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6397",
+      "forks": "776",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "runatlantis",
+      "name": "atlantis",
+      "full_name": "runatlantis/atlantis",
+      "url": "https://github.com/runatlantis/atlantis",
+      "description": "Terraform Pull Request Automation",
+      "language": "Go",
+      "stars": "8177",
+      "forks": "1091",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "7929",
+      "forks": "1140",
+      "today_stars": "278 stars today"
+    },
+    {
+      "author": "goccy",
+      "name": "go-yaml",
+      "full_name": "goccy/go-yaml",
+      "url": "https://github.com/goccy/go-yaml",
+      "description": "YAML support for the Go language",
+      "language": "Go",
+      "stars": "1441",
+      "forks": "163",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "vektra",
+      "name": "mockery",
+      "full_name": "vektra/mockery",
+      "url": "https://github.com/vektra/mockery",
+      "description": "A mock code autogenerator for Go",
+      "language": "Go",
+      "stars": "6475",
+      "forks": "429",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3054",
+      "forks": "1280",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "metallb",
+      "name": "metallb",
+      "full_name": "metallb/metallb",
+      "url": "https://github.com/metallb/metallb",
+      "description": "A network load-balancer implementation for Kubernetes using standard routing protocols",
+      "language": "Go",
+      "stars": "7442",
+      "forks": "957",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5051",
+      "forks": "1592",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "full_name": "elastic/beats",
+      "url": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": "12318",
+      "forks": "4938",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5127",
+      "forks": "1203",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "full_name": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps",
+      "language": "Go",
+      "stars": "23413",
+      "forks": "1199",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21727",
+      "forks": "4486",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "mock",
+      "full_name": "uber-go/mock",
+      "url": "https://github.com/uber-go/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": "2702",
+      "forks": "135",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "137071",
+      "forks": "11403",
+      "today_stars": "123 stars today"
+    }
+  ]
+}

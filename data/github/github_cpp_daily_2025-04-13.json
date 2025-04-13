@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-04-13 02:38:33",
+  "repositories": [
+    {
+      "author": "ezEngine",
+      "name": "ezEngine",
+      "full_name": "ezEngine/ezEngine",
+      "url": "https://github.com/ezEngine/ezEngine",
+      "description": "An open source C++ game engine.",
+      "language": "C++",
+      "stars": "1624",
+      "forks": "196",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "Zackriya-Solutions",
+      "name": "meeting-minutes",
+      "full_name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)",
+      "language": "C++",
+      "stars": "1817",
+      "forks": "127",
+      "today_stars": "132 stars today"
+    },
+    {
+      "author": "wxWidgets",
+      "name": "wxWidgets",
+      "full_name": "wxWidgets/wxWidgets",
+      "url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "language": "C++",
+      "stars": "6460",
+      "forks": "1805",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45198",
+      "forks": "6931",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "5234",
+      "forks": "1272",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bulletphysics",
+      "name": "bullet3",
+      "full_name": "bulletphysics/bullet3",
+      "url": "https://github.com/bulletphysics/bullet3",
+      "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+      "language": "C++",
+      "stars": "13245",
+      "forks": "2929",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "96104",
+      "forks": "22136",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "musescore",
+      "name": "MuseScore",
+      "full_name": "musescore/MuseScore",
+      "url": "https://github.com/musescore/MuseScore",
+      "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+      "language": "C++",
+      "stars": "12958",
+      "forks": "2811",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "20050",
+      "forks": "1053",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9399",
+      "forks": "1673",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "lich0821",
+      "name": "WeChatFerry",
+      "full_name": "lich0821/WeChatFerry",
+      "url": "https://github.com/lich0821/WeChatFerry",
+      "description": "微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.",
+      "language": "C++",
+      "stars": "5961",
+      "forks": "1216",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "draco",
+      "full_name": "google/draco",
+      "url": "https://github.com/google/draco",
+      "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
+      "language": "C++",
+      "stars": "6713",
+      "forks": "987",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "4542",
+      "forks": "1161",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ossrs",
+      "name": "srs",
+      "full_name": "ossrs/srs",
+      "url": "https://github.com/ossrs/srs",
+      "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.",
+      "language": "C++",
+      "stars": "26751",
+      "forks": "5476",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "37262",
+      "forks": "1559",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5321",
+      "forks": "472",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15058",
+      "forks": "1348",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo",
+      "full_name": "mongodb/mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "stars": "27019",
+      "forks": "5646",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14081",
+      "forks": "2411",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Detours",
+      "full_name": "microsoft/Detours",
+      "url": "https://github.com/microsoft/Detours",
+      "description": "Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.",
+      "language": "C++",
+      "stars": "5596",
+      "forks": "1046",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PCSX2",
+      "name": "pcsx2",
+      "full_name": "PCSX2/pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "description": "PCSX2 - The Playstation 2 Emulator",
+      "language": "C++",
+      "stars": "12794",
+      "forks": "1699",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "25840",
+      "forks": "4736",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "zeek",
+      "name": "zeek",
+      "full_name": "zeek/zeek",
+      "url": "https://github.com/zeek/zeek",
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+      "language": "C++",
+      "stars": "6775",
+      "forks": "1247",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
