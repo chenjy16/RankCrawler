@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-04-14 01:12:24",
+  "repositories": [
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "13613",
+      "forks": "444",
+      "today_stars": "2,199 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "27622",
+      "forks": "1909",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "56978",
+      "forks": "3880",
+      "today_stars": "398 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43472",
+      "forks": "2057",
+      "today_stars": "242 stars this week"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6138",
+      "forks": "447",
+      "today_stars": "99 stars this week"
+    },
+    {
+      "author": "Rust-GPU",
+      "name": "Rust-CUDA",
+      "full_name": "Rust-GPU/Rust-CUDA",
+      "url": "https://github.com/Rust-GPU/Rust-CUDA",
+      "description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+      "language": "Rust",
+      "stars": "4207",
+      "forks": "172",
+      "today_stars": "211 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33051",
+      "forks": "2169",
+      "today_stars": "167 stars this week"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32064",
+      "forks": "1278",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "53942",
+      "forks": "2703",
+      "today_stars": "2,070 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10127",
+      "forks": "374",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "tuananh",
+      "name": "hyper-mcp",
+      "full_name": "tuananh/hyper-mcp",
+      "url": "https://github.com/tuananh/hyper-mcp",
+      "description": "A fast, secure MCP server that extends its capabilities through WebAssembly plugins.",
+      "language": "Rust",
+      "stars": "357",
+      "forks": "25",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "28344",
+      "forks": "2601",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "13917",
+      "forks": "1031",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "12272",
+      "forks": "451",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6796",
+      "forks": "11408",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "3690",
+      "forks": "176",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102590",
+      "forks": "5549",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "10747",
+      "forks": "1064",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16461",
+      "forks": "861",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "86735",
+      "forks": "12205",
+      "today_stars": "494 stars this week"
+    }
+  ]
+}

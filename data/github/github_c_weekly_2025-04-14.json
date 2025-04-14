@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-04-14 01:13:08",
+  "repositories": [
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4602",
+      "forks": "899",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37595",
+      "forks": "6660",
+      "today_stars": "233 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "30949",
+      "forks": "2724",
+      "today_stars": "120 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54394",
+      "forks": "26109",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19039",
+      "forks": "1573",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25111",
+      "forks": "3680",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "unicorn-engine",
+      "name": "unicorn",
+      "full_name": "unicorn-engine/unicorn",
+      "url": "https://github.com/unicorn-engine/unicorn",
+      "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+      "language": "C",
+      "stars": "8068",
+      "forks": "1394",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6759",
+      "forks": "1663",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "NixOS",
+      "name": "patchelf",
+      "full_name": "NixOS/patchelf",
+      "url": "https://github.com/NixOS/patchelf",
+      "description": "A small utility to modify the dynamic linker and RPATH of ELF executables",
+      "language": "C",
+      "stars": "3801",
+      "forks": "496",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5212",
+      "forks": "1530",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "8899",
+      "forks": "2245",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6100",
+      "forks": "2534",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11192",
+      "forks": "1880",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3304",
+      "forks": "1866",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "26797",
+      "forks": "1107",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5635",
+      "forks": "1097",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6421",
+      "forks": "297",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5540",
+      "forks": "1097",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "FRRouting",
+      "name": "frr",
+      "full_name": "FRRouting/frr",
+      "url": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "stars": "3618",
+      "forks": "1322",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4496",
+      "forks": "1325",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "espeak-ng",
+      "name": "espeak-ng",
+      "full_name": "espeak-ng/espeak-ng",
+      "url": "https://github.com/espeak-ng/espeak-ng",
+      "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+      "language": "C",
+      "stars": "4935",
+      "forks": "991",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "guanzhi",
+      "name": "GmSSL",
+      "full_name": "guanzhi/GmSSL",
+      "url": "https://github.com/guanzhi/GmSSL",
+      "description": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+      "language": "C",
+      "stars": "5462",
+      "forks": "1710",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "24696",
+      "forks": "2213",
+      "today_stars": "44 stars this week"
+    }
+  ]
+}

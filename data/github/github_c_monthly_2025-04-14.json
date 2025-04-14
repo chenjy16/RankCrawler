@@ -1,0 +1,216 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-04-14 01:13:16",
+  "repositories": [
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "6582",
+      "forks": "1130",
+      "today_stars": "4,784 stars this month"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5212",
+      "forks": "1530",
+      "today_stars": "273 stars this month"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "11878",
+      "forks": "7203",
+      "today_stars": "251 stars this month"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54394",
+      "forks": "26109",
+      "today_stars": "637 stars this month"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2351",
+      "forks": "344",
+      "today_stars": "331 stars this month"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4602",
+      "forks": "899",
+      "today_stars": "66 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "120524",
+      "forks": "11350",
+      "today_stars": "1,736 stars this month"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23753",
+      "forks": "4895",
+      "today_stars": "139 stars this month"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "30949",
+      "forks": "2724",
+      "today_stars": "480 stars this month"
+    },
+    {
+      "author": "espressif",
+      "name": "esp32-camera",
+      "full_name": "espressif/esp32-camera",
+      "url": "https://github.com/espressif/esp32-camera",
+      "description": "",
+      "language": "C",
+      "stars": "2163",
+      "forks": "682",
+      "today_stars": "73 stars this month"
+    },
+    {
+      "author": "kingToolbox",
+      "name": "WindTerm",
+      "full_name": "kingToolbox/WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "stars": "25932",
+      "forks": "1999",
+      "today_stars": "620 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "68671",
+      "forks": "23963",
+      "today_stars": "432 stars this month"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20009",
+      "forks": "764",
+      "today_stars": "614 stars this month"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19302",
+      "forks": "3566",
+      "today_stars": "728 stars this month"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "15368",
+      "forks": "1824",
+      "today_stars": "236 stars this month"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "8899",
+      "forks": "2245",
+      "today_stars": "193 stars this month"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37595",
+      "forks": "6660",
+      "today_stars": "510 stars this month"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "14865",
+      "forks": "1671",
+      "today_stars": "259 stars this month"
+    },
+    {
+      "author": "RfidResearchGroup",
+      "name": "proxmark3",
+      "full_name": "RfidResearchGroup/proxmark3",
+      "url": "https://github.com/RfidResearchGroup/proxmark3",
+      "description": "Iceman Fork - Proxmark3",
+      "language": "C",
+      "stars": "4432",
+      "forks": "1138",
+      "today_stars": "94 stars this month"
+    }
+  ]
+}

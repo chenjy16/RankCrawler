@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-04-14 01:12:01",
+  "repositories": [
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "3104",
+      "forks": "253",
+      "today_stars": "814 stars this week"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "63379",
+      "forks": "4253",
+      "today_stars": "669 stars this week"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "4809",
+      "forks": "545",
+      "today_stars": "341 stars this week"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "81710",
+      "forks": "8178",
+      "today_stars": "401 stars this week"
+    },
+    {
+      "author": "schollz",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": "29872",
+      "forks": "1191",
+      "today_stars": "331 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "mcp-grafana",
+      "full_name": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "language": "Go",
+      "stars": "489",
+      "forks": "33",
+      "today_stars": "149 stars this week"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "13216",
+      "forks": "632",
+      "today_stars": "345 stars this week"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19219",
+      "forks": "864",
+      "today_stars": "136 stars this week"
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "full_name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+      "language": "Go",
+      "stars": "13188",
+      "forks": "637",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23136",
+      "forks": "2781",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "full_name": "derailed/k9s",
+      "url": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": "29374",
+      "forks": "1855",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40101",
+      "forks": "2916",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "coroot",
+      "name": "coroot",
+      "full_name": "coroot/coroot",
+      "url": "https://github.com/coroot/coroot",
+      "description": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+      "language": "Go",
+      "stars": "6295",
+      "forks": "266",
+      "today_stars": "485 stars this week"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "8380",
+      "forks": "1338",
+      "today_stars": "1,377 stars this week"
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "full_name": "fsnotify/fsnotify",
+      "url": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform filesystem notifications for Go.",
+      "language": "Go",
+      "stars": "10001",
+      "forks": "936",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "4244",
+      "forks": "1409",
+      "today_stars": "341 stars this week"
+    },
+    {
+      "author": "uber-go",
+      "name": "automaxprocs",
+      "full_name": "uber-go/automaxprocs",
+      "url": "https://github.com/uber-go/automaxprocs",
+      "description": "Automatically set GOMAXPROCS to match Linux container CPU quota.",
+      "language": "Go",
+      "stars": "4559",
+      "forks": "165",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10254",
+      "forks": "9442",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6404",
+      "forks": "777",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "22386",
+      "forks": "887",
+      "today_stars": "287 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "k8s-device-plugin",
+      "full_name": "NVIDIA/k8s-device-plugin",
+      "url": "https://github.com/NVIDIA/k8s-device-plugin",
+      "description": "NVIDIA device plugin for Kubernetes",
+      "language": "Go",
+      "stars": "3140",
+      "forks": "682",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "gateway-api",
+      "full_name": "kubernetes-sigs/gateway-api",
+      "url": "https://github.com/kubernetes-sigs/gateway-api",
+      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "language": "Go",
+      "stars": "2017",
+      "forks": "528",
+      "today_stars": "13 stars this week"
+    }
+  ]
+}
