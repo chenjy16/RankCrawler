@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-15 01:10:55",
+  "repositories": [
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "38987",
+      "forks": "3836",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "full_name": "solana-labs/solana",
+      "url": "https://github.com/solana-labs/solana",
+      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "language": "Rust",
+      "stars": "14035",
+      "forks": "4752",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "huggingface",
+      "name": "candle",
+      "full_name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": "17014",
+      "forks": "1080",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "26259",
+      "forks": "1276",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "6596",
+      "forks": "984",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "20816",
+      "forks": "2286",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "FractalFir",
+      "name": "rustc_codegen_clr",
+      "full_name": "FractalFir/rustc_codegen_clr",
+      "url": "https://github.com/FractalFir/rustc_codegen_clr",
+      "description": "A Rust compiler backend targeting CIL(.NET IR) and C.",
+      "language": "Rust",
+      "stars": "1857",
+      "forks": "46",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "58327",
+      "forks": "3097",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "19933",
+      "forks": "887",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "24404",
+      "forks": "1717",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "LGFae",
+      "name": "swww",
+      "full_name": "LGFae/swww",
+      "url": "https://github.com/LGFae/swww",
+      "description": "A Solution to your Wayland Wallpaper Woes",
+      "language": "Rust",
+      "stars": "2795",
+      "forks": "76",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5199",
+      "forks": "668",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "21152",
+      "forks": "1284",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "23324",
+      "forks": "712",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "cordx56",
+      "name": "rustowl",
+      "full_name": "cordx56/rustowl",
+      "url": "https://github.com/cordx56/rustowl",
+      "description": "Visualize Ownership and Lifetimes in Rust",
+      "language": "Rust",
+      "stars": "4317",
+      "forks": "86",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "girlbossceo",
+      "name": "conduwuit",
+      "full_name": "girlbossceo/conduwuit",
+      "url": "https://github.com/girlbossceo/conduwuit",
+      "description": "a very cool, featureful fork of conduit (rust matrix homeserver)",
+      "language": "Rust",
+      "stars": "972",
+      "forks": "104",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "full_name": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": "15719",
+      "forks": "2176",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": "23073",
+      "forks": "730",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "mufeedvh",
+      "name": "code2prompt",
+      "full_name": "mufeedvh/code2prompt",
+      "url": "https://github.com/mufeedvh/code2prompt",
+      "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+      "language": "Rust",
+      "stars": "5390",
+      "forks": "312",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16475",
+      "forks": "861",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33072",
+      "forks": "2171",
+      "today_stars": "25 stars today"
+    }
+  ]
+}
