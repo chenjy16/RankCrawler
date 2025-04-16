@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-04-16 01:11:00",
+  "repositories": [
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "13973",
+      "forks": "455",
+      "today_stars": "2,096 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "27646",
+      "forks": "1911",
+      "today_stars": "145 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "57062",
+      "forks": "3898",
+      "today_stars": "382 stars this week"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Python",
+      "stars": "6168",
+      "forks": "448",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "Rust-GPU",
+      "name": "Rust-CUDA",
+      "full_name": "Rust-GPU/Rust-CUDA",
+      "url": "https://github.com/Rust-GPU/Rust-CUDA",
+      "description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+      "language": "Rust",
+      "stars": "4231",
+      "forks": "175",
+      "today_stars": "222 stars this week"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39003",
+      "forks": "3837",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "13946",
+      "forks": "1033",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "50423",
+      "forks": "1988",
+      "today_stars": "276 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "3711",
+      "forks": "178",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "28358",
+      "forks": "2603",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "49733",
+      "forks": "1385",
+      "today_stars": "1,229 stars this week"
+    },
+    {
+      "author": "orbitinghail",
+      "name": "graft",
+      "full_name": "orbitinghail/graft",
+      "url": "https://github.com/orbitinghail/graft",
+      "description": "Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.",
+      "language": "Rust",
+      "stars": "953",
+      "forks": "13",
+      "today_stars": "291 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6803",
+      "forks": "11408",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "10754",
+      "forks": "1065",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "12305",
+      "forks": "453",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "Schniz",
+      "name": "fnm",
+      "full_name": "Schniz/fnm",
+      "url": "https://github.com/Schniz/fnm",
+      "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+      "language": "Rust",
+      "stars": "20417",
+      "forks": "531",
+      "today_stars": "136 stars this week"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "18182",
+      "forks": "737",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "prefix-dev",
+      "name": "pixi",
+      "full_name": "prefix-dev/pixi",
+      "url": "https://github.com/prefix-dev/pixi",
+      "description": "Package management made easy",
+      "language": "Rust",
+      "stars": "4226",
+      "forks": "263",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "3570",
+      "forks": "227",
+      "today_stars": "159 stars this week"
+    },
+    {
+      "author": "tuananh",
+      "name": "hyper-mcp",
+      "full_name": "tuananh/hyper-mcp",
+      "url": "https://github.com/tuananh/hyper-mcp",
+      "description": "A fast, secure MCP server that extends its capabilities through WebAssembly plugins.",
+      "language": "Rust",
+      "stars": "386",
+      "forks": "26",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+      "language": "Rust",
+      "stars": "373",
+      "forks": "67",
+      "today_stars": "69 stars this week"
+    }
+  ]
+}

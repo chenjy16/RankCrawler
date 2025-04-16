@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-16 01:10:54",
+  "repositories": [
+    {
+      "author": "cube-js",
+      "name": "cube",
+      "full_name": "cube-js/cube",
+      "url": "https://github.com/cube-js/cube",
+      "description": "📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics",
+      "language": "Rust",
+      "stars": "18426",
+      "forks": "1828",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "15776",
+      "forks": "1590",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "50423",
+      "forks": "1988",
+      "today_stars": "150 stars today"
+    },
+    {
+      "author": "web-infra-dev",
+      "name": "rspack",
+      "full_name": "web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack",
+      "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+      "language": "Rust",
+      "stars": "11304",
+      "forks": "643",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39003",
+      "forks": "3837",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4444",
+      "forks": "279",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "bottlerocket-os",
+      "name": "bottlerocket",
+      "full_name": "bottlerocket-os/bottlerocket",
+      "url": "https://github.com/bottlerocket-os/bottlerocket",
+      "description": "An operating system designed for hosting containers",
+      "language": "Rust",
+      "stars": "9072",
+      "forks": "529",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "hanshuaikang",
+      "name": "Nping",
+      "full_name": "hanshuaikang/Nping",
+      "url": "https://github.com/hanshuaikang/Nping",
+      "description": "🏎 Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations",
+      "language": "Rust",
+      "stars": "1657",
+      "forks": "51",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10044",
+      "forks": "802",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "flxzt",
+      "name": "rnote",
+      "full_name": "flxzt/rnote",
+      "url": "https://github.com/flxzt/rnote",
+      "description": "Sketch and take handwritten notes.",
+      "language": "Rust",
+      "stars": "9324",
+      "forks": "337",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "tantivy",
+      "full_name": "quickwit-oss/tantivy",
+      "url": "https://github.com/quickwit-oss/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+      "language": "Rust",
+      "stars": "12997",
+      "forks": "743",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "matter-labs",
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "url": "https://github.com/matter-labs/zksync-era",
+      "description": "zkSync era",
+      "language": "Rust",
+      "stars": "3163",
+      "forks": "2113",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "49733",
+      "forks": "1385",
+      "today_stars": "178 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48109",
+      "forks": "2080",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "Rust-GPU",
+      "name": "rust-gpu",
+      "full_name": "Rust-GPU/rust-gpu",
+      "url": "https://github.com/Rust-GPU/rust-gpu",
+      "description": "🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧",
+      "language": "Rust",
+      "stars": "1694",
+      "forks": "48",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16165",
+      "forks": "1398",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "6772",
+      "forks": "227",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102620",
+      "forks": "5553",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "quickwit",
+      "full_name": "quickwit-oss/quickwit",
+      "url": "https://github.com/quickwit-oss/quickwit",
+      "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+      "language": "Rust",
+      "stars": "9909",
+      "forks": "448",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "sourcefrog",
+      "name": "cargo-mutants",
+      "full_name": "sourcefrog/cargo-mutants",
+      "url": "https://github.com/sourcefrog/cargo-mutants",
+      "description": "🧟 Inject bugs and see if your tests catch them!",
+      "language": "Rust",
+      "stars": "877",
+      "forks": "31",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "6976",
+      "forks": "238",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "23337",
+      "forks": "711",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

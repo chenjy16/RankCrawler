@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-16 01:10:29",
+  "repositories": [
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "36022",
+      "forks": "1758",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "4520",
+      "forks": "335",
+      "today_stars": "623 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "9247",
+      "forks": "1691",
+      "today_stars": "379 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24425",
+      "forks": "1634",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pressly",
+      "name": "goose",
+      "full_name": "pressly/goose",
+      "url": "https://github.com/pressly/goose",
+      "description": "A database migration tool. Supports SQL migrations and Go functions.",
+      "language": "Go",
+      "stars": "8135",
+      "forks": "568",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "79508",
+      "forks": "7739",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19527",
+      "forks": "1586",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-go",
+      "full_name": "Azure/azure-sdk-for-go",
+      "url": "https://github.com/Azure/azure-sdk-for-go",
+      "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:",
+      "language": "Go",
+      "stars": "1711",
+      "forks": "898",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "16454",
+      "forks": "1461",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "38273",
+      "forks": "5913",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "13965",
+      "forks": "1713",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade usage in mind.",
+      "language": "Go",
+      "stars": "617",
+      "forks": "74",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "stakater",
+      "name": "Reloader",
+      "full_name": "stakater/Reloader",
+      "url": "https://github.com/stakater/Reloader",
+      "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+      "language": "Go",
+      "stars": "8299",
+      "forks": "540",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "11573",
+      "forks": "1249",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-azurerm",
+      "full_name": "hashicorp/terraform-provider-azurerm",
+      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": "4708",
+      "forks": "4741",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "59659",
+      "forks": "1513",
+      "today_stars": "199 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3493",
+      "forks": "2684",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "alecthomas",
+      "name": "kong",
+      "full_name": "alecthomas/kong",
+      "url": "https://github.com/alecthomas/kong",
+      "description": "Kong is a command-line parser for Go",
+      "language": "Go",
+      "stars": "2562",
+      "forks": "144",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "54180",
+      "forks": "5295",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "coreybutler",
+      "name": "nvm-windows",
+      "full_name": "coreybutler/nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "stars": "40596",
+      "forks": "3491",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "27752",
+      "forks": "7208",
+      "today_stars": "13 stars today"
+    }
+  ]
+}
