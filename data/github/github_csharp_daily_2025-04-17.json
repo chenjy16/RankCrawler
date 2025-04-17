@@ -1,0 +1,249 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-04-17 01:11:13",
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "maui",
+      "full_name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": "22597",
+      "forks": "1813",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19441",
+      "forks": "4112",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4403",
+      "forks": "592",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "SubtitleEdit",
+      "name": "subtitleedit",
+      "full_name": "SubtitleEdit/subtitleedit",
+      "url": "https://github.com/SubtitleEdit/subtitleedit",
+      "description": "the subtitle editor :)",
+      "language": "C#",
+      "stars": "9916",
+      "forks": "983",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dockersamples",
+      "name": "example-voting-app",
+      "full_name": "dockersamples/example-voting-app",
+      "url": "https://github.com/dockersamples/example-voting-app",
+      "description": "Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",
+      "language": "C#",
+      "stars": "5095",
+      "forks": "12482",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "elsa-workflows",
+      "name": "elsa-core",
+      "full_name": "elsa-workflows/elsa-core",
+      "url": "https://github.com/elsa-workflows/elsa-core",
+      "description": "A .NET workflows library",
+      "language": "C#",
+      "stars": "6987",
+      "forks": "1307",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5747",
+      "forks": "4930",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "msbuild",
+      "full_name": "dotnet/msbuild",
+      "url": "https://github.com/dotnet/msbuild",
+      "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+      "language": "C#",
+      "stars": "5335",
+      "forks": "1369",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Azure-Samples",
+      "name": "cognitive-services-speech-sdk",
+      "full_name": "Azure-Samples/cognitive-services-speech-sdk",
+      "url": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
+      "description": "Sample code for the Microsoft Cognitive Services Speech SDK",
+      "language": "C#",
+      "stars": "3150",
+      "forks": "1930",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "27366",
+      "forks": "2359",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "jasontaylordev",
+      "name": "CleanArchitecture",
+      "full_name": "jasontaylordev/CleanArchitecture",
+      "url": "https://github.com/jasontaylordev/CleanArchitecture",
+      "description": "Clean Architecture Solution Template for ASP.NET Core",
+      "language": "C#",
+      "stars": "17931",
+      "forks": "3822",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "full_name": "App-vNext/Polly",
+      "url": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": "13708",
+      "forks": "1248",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "BililiveRecorder",
+      "name": "BililiveRecorder",
+      "full_name": "BililiveRecorder/BililiveRecorder",
+      "url": "https://github.com/BililiveRecorder/BililiveRecorder",
+      "description": "录播姬 | mikufans 生放送录制",
+      "language": "C#",
+      "stars": "4102",
+      "forks": "341",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "semantic-kernel",
+      "full_name": "microsoft/semantic-kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "language": "C#",
+      "stars": "24030",
+      "forks": "3717",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Kareadita",
+      "name": "Kavita",
+      "full_name": "Kareadita/Kavita",
+      "url": "https://github.com/Kareadita/Kavita",
+      "description": "Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.",
+      "language": "C#",
+      "stars": "7495",
+      "forks": "394",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "runtime",
+      "full_name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "language": "C#",
+      "stars": "16137",
+      "forks": "4945",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-dotnet",
+      "full_name": "openai/openai-dotnet",
+      "url": "https://github.com/openai/openai-dotnet",
+      "description": "The official .NET library for the OpenAI API",
+      "language": "C#",
+      "stars": "1952",
+      "forks": "237",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "radzenhq",
+      "name": "radzen-blazor",
+      "full_name": "radzenhq/radzen-blazor",
+      "url": "https://github.com/radzenhq/radzen-blazor",
+      "description": "Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",
+      "language": "C#",
+      "stars": "3873",
+      "forks": "868",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "PintaProject",
+      "name": "Pinta",
+      "full_name": "PintaProject/Pinta",
+      "url": "https://github.com/PintaProject/Pinta",
+      "description": "Simple GTK# Paint Program",
+      "language": "C#",
+      "stars": "2250",
+      "forks": "290",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "mcmonkeyprojects",
+      "name": "SwarmUI",
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "language": "C#",
+      "stars": "2374",
+      "forks": "201",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "space-wizards",
+      "name": "space-station-14",
+      "full_name": "space-wizards/space-station-14",
+      "url": "https://github.com/space-wizards/space-station-14",
+      "description": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+      "language": "C#",
+      "stars": "3013",
+      "forks": "4061",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "MudBlazor",
+      "name": "MudBlazor",
+      "full_name": "MudBlazor/MudBlazor",
+      "url": "https://github.com/MudBlazor/MudBlazor",
+      "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+      "language": "C#",
+      "stars": "8919",
+      "forks": "1411",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
