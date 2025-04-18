@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-04-18 01:09:27",
+  "repositories": [
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74283",
+      "forks": "6046",
+      "today_stars": "267 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54447",
+      "forks": "26121",
+      "today_stars": "215 stars this week"
+    },
+    {
+      "author": "unicorn-engine",
+      "name": "unicorn",
+      "full_name": "unicorn-engine/unicorn",
+      "url": "https://github.com/unicorn-engine/unicorn",
+      "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+      "language": "C",
+      "stars": "8088",
+      "forks": "1395",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "8927",
+      "forks": "2251",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5257",
+      "forks": "748",
+      "today_stars": "742 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "31010",
+      "forks": "2728",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "120758",
+      "forks": "11371",
+      "today_stars": "407 stars this week"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "10912",
+      "forks": "774",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11206",
+      "forks": "1886",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27187",
+      "forks": "10489",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4614",
+      "forks": "901",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5555",
+      "forks": "1097",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5028",
+      "forks": "2699",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10128",
+      "forks": "5512",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21240",
+      "forks": "3940",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "Shipwright",
+      "full_name": "HarbourMasters/Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "stars": "3683",
+      "forks": "546",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "26851",
+      "forks": "1112",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25136",
+      "forks": "3681",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6453",
+      "forks": "302",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "TsudaKageyu",
+      "name": "minhook",
+      "full_name": "TsudaKageyu/minhook",
+      "url": "https://github.com/TsudaKageyu/minhook",
+      "description": "The Minimalistic x86/x64 API Hooking Library for Windows",
+      "language": "C",
+      "stars": "4703",
+      "forks": "927",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6778",
+      "forks": "1667",
+      "today_stars": "28 stars this week"
+    }
+  ]
+}

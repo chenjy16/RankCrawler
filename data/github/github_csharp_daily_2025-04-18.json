@@ -1,0 +1,227 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-04-18 01:10:10",
+  "repositories": [
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "47036",
+      "forks": "7597",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-powershell",
+      "full_name": "Azure/azure-powershell",
+      "url": "https://github.com/Azure/azure-powershell",
+      "description": "Microsoft Azure PowerShell",
+      "language": "C#",
+      "stars": "4415",
+      "forks": "3965",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36470",
+      "forks": "10301",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "space-wizards",
+      "name": "space-station-14",
+      "full_name": "space-wizards/space-station-14",
+      "url": "https://github.com/space-wizards/space-station-14",
+      "description": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+      "language": "C#",
+      "stars": "3017",
+      "forks": "4063",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "abpframework",
+      "name": "abp",
+      "full_name": "abpframework/abp",
+      "url": "https://github.com/abpframework/abp",
+      "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
+      "language": "C#",
+      "stars": "13391",
+      "forks": "3539",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "elsa-workflows",
+      "name": "elsa-core",
+      "full_name": "elsa-workflows/elsa-core",
+      "url": "https://github.com/elsa-workflows/elsa-core",
+      "description": "A .NET workflows library",
+      "language": "C#",
+      "stars": "6992",
+      "forks": "1307",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "MudBlazor",
+      "name": "MudBlazor",
+      "full_name": "MudBlazor/MudBlazor",
+      "url": "https://github.com/MudBlazor/MudBlazor",
+      "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+      "language": "C#",
+      "stars": "8927",
+      "forks": "1410",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "mcmonkeyprojects",
+      "name": "SwarmUI",
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "language": "C#",
+      "stars": "2382",
+      "forks": "202",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-dotnet",
+      "full_name": "openai/openai-dotnet",
+      "url": "https://github.com/openai/openai-dotnet",
+      "description": "The official .NET library for the OpenAI API",
+      "language": "C#",
+      "stars": "1958",
+      "forks": "237",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ZiggyCreatures",
+      "name": "FusionCache",
+      "full_name": "ZiggyCreatures/FusionCache",
+      "url": "https://github.com/ZiggyCreatures/FusionCache",
+      "description": "FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.",
+      "language": "C#",
+      "stars": "2747",
+      "forks": "131",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "riok",
+      "name": "mapperly",
+      "full_name": "riok/mapperly",
+      "url": "https://github.com/riok/mapperly",
+      "description": "A .NET source generator for generating object mappings. No runtime reflection.",
+      "language": "C#",
+      "stars": "3305",
+      "forks": "164",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "EntityComponentSystemSamples",
+      "full_name": "Unity-Technologies/EntityComponentSystemSamples",
+      "url": "https://github.com/Unity-Technologies/EntityComponentSystemSamples",
+      "description": "",
+      "language": "C#",
+      "stars": "7549",
+      "forks": "1658",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "dockersamples",
+      "name": "example-voting-app",
+      "full_name": "dockersamples/example-voting-app",
+      "url": "https://github.com/dockersamples/example-voting-app",
+      "description": "Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",
+      "language": "C#",
+      "stars": "5101",
+      "forks": "12492",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "HotCakeX",
+      "name": "Harden-Windows-Security",
+      "full_name": "HotCakeX/Harden-Windows-Security",
+      "url": "https://github.com/HotCakeX/Harden-Windows-Security",
+      "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md",
+      "language": "C#",
+      "stars": "2392",
+      "forks": "189",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "QuantConnect",
+      "name": "Lean",
+      "full_name": "QuantConnect/Lean",
+      "url": "https://github.com/QuantConnect/Lean",
+      "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+      "language": "C#",
+      "stars": "11041",
+      "forks": "3451",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4410",
+      "forks": "594",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "27386",
+      "forks": "2359",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "jasontaylordev",
+      "name": "CleanArchitecture",
+      "full_name": "jasontaylordev/CleanArchitecture",
+      "url": "https://github.com/jasontaylordev/CleanArchitecture",
+      "description": "Clean Architecture Solution Template for ASP.NET Core",
+      "language": "C#",
+      "stars": "17940",
+      "forks": "3821",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-dotnet",
+      "full_name": "DataDog/dd-trace-dotnet",
+      "url": "https://github.com/DataDog/dd-trace-dotnet",
+      "description": ".NET Client Library for Datadog APM",
+      "language": "C#",
+      "stars": "486",
+      "forks": "147",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5748",
+      "forks": "4930",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

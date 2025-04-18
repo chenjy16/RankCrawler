@@ -1,0 +1,205 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-18 01:08:36",
+  "repositories": [
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "26871",
+      "forks": "1065",
+      "today_stars": "245 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "3428",
+      "forks": "359",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "50131",
+      "forks": "1396",
+      "today_stars": "233 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19180",
+      "forks": "1723",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "27478",
+      "forks": "1964",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48146",
+      "forks": "2081",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "37842",
+      "forks": "1293",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "16797",
+      "forks": "530",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10057",
+      "forks": "802",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "57147",
+      "forks": "3919",
+      "today_stars": "60 stars today"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4558",
+      "forks": "1544",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "14936",
+      "forks": "1730",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Add autocomplete and AI to your existing terminal on macOS & Linux",
+      "language": "Rust",
+      "stars": "404",
+      "forks": "69",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "katanemo",
+      "name": "archgw",
+      "full_name": "katanemo/archgw",
+      "url": "https://github.com/katanemo/archgw",
+      "description": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying input, unifying access and observability to any LLM - so you can build smarter and ship faster.",
+      "language": "Rust",
+      "stars": "2383",
+      "forks": "128",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "full_name": "wasmerio/wasmer",
+      "url": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+      "language": "Rust",
+      "stars": "19584",
+      "forks": "864",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "2979",
+      "forks": "120",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot-sdk",
+      "full_name": "paritytech/polkadot-sdk",
+      "url": "https://github.com/paritytech/polkadot-sdk",
+      "description": "The Parity Polkadot Blockchain SDK",
+      "language": "Rust",
+      "stars": "2200",
+      "forks": "887",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5203",
+      "forks": "669",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
