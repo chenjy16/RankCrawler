@@ -1,0 +1,249 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-04-19 01:08:09",
+  "repositories": [
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30288",
+      "forks": "9600",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "33499",
+      "forks": "11317",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "2723",
+      "forks": "2810",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "roundcube",
+      "name": "roundcubemail",
+      "full_name": "roundcube/roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "stars": "6207",
+      "forks": "1664",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8516",
+      "forks": "4882",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "40212",
+      "forks": "2403",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "invoiceninja",
+      "name": "invoiceninja",
+      "full_name": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "stars": "8760",
+      "forks": "2366",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "api-platform",
+      "name": "core",
+      "full_name": "api-platform/core",
+      "url": "https://github.com/api-platform/core",
+      "description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes",
+      "language": "PHP",
+      "stars": "2493",
+      "forks": "901",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "openai-php",
+      "name": "client",
+      "full_name": "openai-php/client",
+      "url": "https://github.com/openai-php/client",
+      "description": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+      "language": "PHP",
+      "stars": "5297",
+      "forks": "587",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "full_name": "phpstan/phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": "13314",
+      "forks": "916",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-php",
+      "full_name": "DataDog/dd-trace-php",
+      "url": "https://github.com/DataDog/dd-trace-php",
+      "description": "Datadog PHP Clients",
+      "language": "PHP",
+      "stars": "522",
+      "forks": "163",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "YOURLS",
+      "name": "YOURLS",
+      "full_name": "YOURLS/YOURLS",
+      "url": "https://github.com/YOURLS/YOURLS",
+      "description": "🔗 The de facto standard self hosted URL shortener in PHP",
+      "language": "PHP",
+      "stars": "11148",
+      "forks": "1999",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "22785",
+      "forks": "3352",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "pimcore",
+      "name": "pimcore",
+      "full_name": "pimcore/pimcore",
+      "url": "https://github.com/pimcore/pimcore",
+      "description": "Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+      "language": "PHP",
+      "stars": "3545",
+      "forks": "1470",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "vimeo",
+      "name": "psalm",
+      "full_name": "vimeo/psalm",
+      "url": "https://github.com/vimeo/psalm",
+      "description": "A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications",
+      "language": "PHP",
+      "stars": "5658",
+      "forks": "680",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Anankke",
+      "name": "SSPanel-UIM",
+      "full_name": "Anankke/SSPanel-UIM",
+      "url": "https://github.com/Anankke/SSPanel-UIM",
+      "description": "Multi-purpose proxy service management system",
+      "language": "PHP",
+      "stars": "9600",
+      "forks": "3409",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "cweagans",
+      "name": "composer-patches",
+      "full_name": "cweagans/composer-patches",
+      "url": "https://github.com/cweagans/composer-patches",
+      "description": "Simple patches plugin for Composer",
+      "language": "PHP",
+      "stars": "1583",
+      "forks": "246",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": "12008",
+      "forks": "3346",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-api-php-client",
+      "full_name": "googleapis/google-api-php-client",
+      "url": "https://github.com/googleapis/google-api-php-client",
+      "description": "A PHP client library for accessing Google APIs",
+      "language": "PHP",
+      "stars": "9529",
+      "forks": "3530",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "29286",
+      "forks": "4250",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "6584",
+      "forks": "749",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11767",
+      "forks": "9361",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

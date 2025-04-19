@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-19 01:05:54",
+  "repositories": [
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.",
+      "language": "Go",
+      "stars": "27180",
+      "forks": "2381",
+      "today_stars": "368 stars today"
+    },
+    {
+      "author": "cert-manager",
+      "name": "cert-manager",
+      "full_name": "cert-manager/cert-manager",
+      "url": "https://github.com/cert-manager/cert-manager",
+      "description": "Automatically provision and manage TLS certificates in Kubernetes",
+      "language": "Go",
+      "stars": "12708",
+      "forks": "2192",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "12097",
+      "forks": "805",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69557",
+      "forks": "18731",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "full_name": "shirou/gopsutil",
+      "url": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": "11058",
+      "forks": "1612",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "137794",
+      "forks": "11479",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "full_name": "kubernetes/minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": "30248",
+      "forks": "4961",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "14101",
+      "forks": "1036",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "59930",
+      "forks": "1522",
+      "today_stars": "83 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "16884",
+      "forks": "1505",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "92802",
+      "forks": "13924",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "full_name": "fyne-io/fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "language": "Go",
+      "stars": "26223",
+      "forks": "1432",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38011",
+      "forks": "3997",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-rollouts",
+      "full_name": "argoproj/argo-rollouts",
+      "url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "language": "Go",
+      "stars": "2995",
+      "forks": "946",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19155",
+      "forks": "2306",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "opentofu",
+      "name": "opentofu",
+      "full_name": "opentofu/opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+      "language": "Go",
+      "stars": "25009",
+      "forks": "983",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "31883",
+      "forks": "2427",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "18779",
+      "forks": "1834",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "1605",
+      "forks": "119",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "full_name": "go-chi/chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": "19564",
+      "forks": "1018",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "13687",
+      "forks": "941",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18053",
+      "forks": "1359",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "go-acme",
+      "name": "lego",
+      "full_name": "go-acme/lego",
+      "url": "https://github.com/go-acme/lego",
+      "description": "Let's Encrypt/ACME client and library written in Go",
+      "language": "Go",
+      "stars": "8430",
+      "forks": "1059",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

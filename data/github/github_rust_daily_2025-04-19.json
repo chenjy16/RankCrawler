@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-19 01:06:16",
+  "repositories": [
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "23166",
+      "forks": "1418",
+      "today_stars": "1,605 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "26906",
+      "forks": "1068",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "29886",
+      "forks": "3599",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "mufeedvh",
+      "name": "pdfrip",
+      "full_name": "mufeedvh/pdfrip",
+      "url": "https://github.com/mufeedvh/pdfrip",
+      "description": "A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.",
+      "language": "Rust",
+      "stars": "1093",
+      "forks": "106",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "23303",
+      "forks": "631",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "full_name": "wasmerio/wasmer",
+      "url": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+      "language": "Rust",
+      "stars": "19598",
+      "forks": "866",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33149",
+      "forks": "2175",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7041",
+      "forks": "1447",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "102806",
+      "forks": "13267",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "50310",
+      "forks": "1402",
+      "today_stars": "185 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "3445",
+      "forks": "359",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3012",
+      "forks": "122",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "full_name": "libp2p/rust-libp2p",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of the libp2p networking stack.",
+      "language": "Rust",
+      "stars": "4950",
+      "forks": "1052",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "8821",
+      "forks": "1930",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4481",
+      "forks": "282",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "18863",
+      "forks": "657",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "37874",
+      "forks": "1297",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "sigp",
+      "name": "lighthouse",
+      "full_name": "sigp/lighthouse",
+      "url": "https://github.com/sigp/lighthouse",
+      "description": "Ethereum consensus client in Rust",
+      "language": "Rust",
+      "stars": "3120",
+      "forks": "846",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "23842",
+      "forks": "1352",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "87007",
+      "forks": "12282",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "matter-labs",
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "url": "https://github.com/matter-labs/zksync-era",
+      "description": "zkSync era",
+      "language": "Rust",
+      "stars": "3167",
+      "forks": "2116",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

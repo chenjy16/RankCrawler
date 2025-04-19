@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-04-19 01:07:25",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "13811",
+      "forks": "961",
+      "today_stars": "402 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "35890",
+      "forks": "10328",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NixOS",
+      "name": "nix",
+      "full_name": "NixOS/nix",
+      "url": "https://github.com/NixOS/nix",
+      "description": "Nix, the purely functional package manager",
+      "language": "C++",
+      "stars": "14072",
+      "forks": "1624",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5339",
+      "forks": "479",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29273",
+      "forks": "5682",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "3661",
+      "forks": "899",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "67321",
+      "forks": "15675",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3559",
+      "forks": "433",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "78356",
+      "forks": "11447",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "BehaviorTree",
+      "name": "BehaviorTree.CPP",
+      "full_name": "BehaviorTree/BehaviorTree.CPP",
+      "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+      "description": "Behavior Trees Library in C++. Batteries included.",
+      "language": "C++",
+      "stars": "3288",
+      "forks": "714",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "or-tools",
+      "full_name": "google/or-tools",
+      "url": "https://github.com/google/or-tools",
+      "description": "Google's Operations Research tools:",
+      "language": "C++",
+      "stars": "11850",
+      "forks": "2202",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45270",
+      "forks": "6940",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "21677",
+      "forks": "2622",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "12336",
+      "forks": "3967",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9421",
+      "forks": "1674",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cocos",
+      "name": "cocos-engine",
+      "full_name": "cocos/cocos-engine",
+      "url": "https://github.com/cocos/cocos-engine",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": "8590",
+      "forks": "1993",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "organicmaps",
+      "name": "organicmaps",
+      "full_name": "organicmaps/organicmaps",
+      "url": "https://github.com/organicmaps/organicmaps",
+      "description": "This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps",
+      "language": "C++",
+      "stars": "10945",
+      "forks": "1091",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-swss",
+      "full_name": "sonic-net/sonic-swss",
+      "url": "https://github.com/sonic-net/sonic-swss",
+      "description": "SONiC Switch State Service (SwSS)",
+      "language": "C++",
+      "stars": "188",
+      "forks": "577",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "scylladb",
+      "name": "scylladb",
+      "full_name": "scylladb/scylladb",
+      "url": "https://github.com/scylladb/scylladb",
+      "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+      "language": "C++",
+      "stars": "14403",
+      "forks": "1372",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14146",
+      "forks": "2412",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15077",
+      "forks": "1351",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

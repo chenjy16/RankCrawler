@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-19 01:07:04",
+  "repositories": [
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5825",
+      "forks": "2676",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5496",
+      "forks": "1152",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "801",
+      "forks": "1531",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "572",
+      "forks": "3192",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "18899",
+      "forks": "933",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "marcoroth",
+      "name": "herb",
+      "full_name": "marcoroth/herb",
+      "url": "https://github.com/marcoroth/herb",
+      "description": "🌿 Powerful and seamless HTML-aware ERB parsing and tooling.",
+      "language": "C",
+      "stars": "193",
+      "forks": "3",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11269",
+      "forks": "926",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "9920",
+      "forks": "1479",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11608",
+      "forks": "2776",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5514",
+      "forks": "844",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "u-boot",
+      "name": "u-boot",
+      "full_name": "u-boot/u-boot",
+      "url": "https://github.com/u-boot/u-boot",
+      "description": "\"Das U-Boot\" Source Tree",
+      "language": "C",
+      "stars": "4380",
+      "forks": "3859",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3486",
+      "forks": "1575",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9060",
+      "forks": "959",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3160",
+      "forks": "1242",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+      "language": "C",
+      "stars": "11026",
+      "forks": "5146",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20164",
+      "forks": "769",
+      "today_stars": "71 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11403",
+      "forks": "3278",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15015",
+      "forks": "7597",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "24729",
+      "forks": "2217",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "11922",
+      "forks": "7233",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "libimobiledevice",
+      "name": "libimobiledevice",
+      "full_name": "libimobiledevice/libimobiledevice",
+      "url": "https://github.com/libimobiledevice/libimobiledevice",
+      "description": "A cross-platform protocol library to communicate with iOS devices",
+      "language": "C",
+      "stars": "6965",
+      "forks": "1373",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lwip-tcpip",
+      "name": "lwip",
+      "full_name": "lwip-tcpip/lwip",
+      "url": "https://github.com/lwip-tcpip/lwip",
+      "description": "lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git",
+      "language": "C",
+      "stars": "1223",
+      "forks": "445",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

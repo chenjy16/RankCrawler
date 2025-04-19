@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-04-19 01:06:00",
+  "repositories": [
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "5022",
+      "forks": "368",
+      "today_stars": "2,879 stars this week"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "79591",
+      "forks": "7742",
+      "today_stars": "225 stars this week"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "12097",
+      "forks": "805",
+      "today_stars": "620 stars this week"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "51870",
+      "forks": "5775",
+      "today_stars": "416 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "4245",
+      "forks": "1411",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "pressly",
+      "name": "goose",
+      "full_name": "pressly/goose",
+      "url": "https://github.com/pressly/goose",
+      "description": "A database migration tool. Supports SQL migrations and Go functions.",
+      "language": "Go",
+      "stars": "8182",
+      "forks": "569",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.",
+      "language": "Go",
+      "stars": "27180",
+      "forks": "2381",
+      "today_stars": "540 stars this week"
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "full_name": "fyne-io/fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "language": "Go",
+      "stars": "26223",
+      "forks": "1432",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "63599",
+      "forks": "4262",
+      "today_stars": "349 stars this week"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "9538",
+      "forks": "1678",
+      "today_stars": "2,134 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "36147",
+      "forks": "1762",
+      "today_stars": "337 stars this week"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "38290",
+      "forks": "5920",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "14101",
+      "forks": "1036",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "3498",
+      "forks": "289",
+      "today_stars": "532 stars this week"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "59930",
+      "forks": "1522",
+      "today_stars": "682 stars this week"
+    },
+    {
+      "author": "vektra",
+      "name": "mockery",
+      "full_name": "vektra/mockery",
+      "url": "https://github.com/vektra/mockery",
+      "description": "A mock code autogenerator for Go",
+      "language": "Go",
+      "stars": "6511",
+      "forks": "432",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "lxc",
+      "name": "incus",
+      "full_name": "lxc/incus",
+      "url": "https://github.com/lxc/incus",
+      "description": "Powerful system container and virtual machine manager",
+      "language": "Go",
+      "stars": "3384",
+      "forks": "285",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6439",
+      "forks": "778",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "48801",
+      "forks": "20793",
+      "today_stars": "71 stars this week"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19257",
+      "forks": "866",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "8157",
+      "forks": "581",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "shadow1ng",
+      "name": "fscan",
+      "full_name": "shadow1ng/fscan",
+      "url": "https://github.com/shadow1ng/fscan",
+      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+      "language": "Go",
+      "stars": "11908",
+      "forks": "1720",
+      "today_stars": "64 stars this week"
+    }
+  ]
+}
