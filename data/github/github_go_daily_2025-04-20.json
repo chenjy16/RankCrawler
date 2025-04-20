@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-20 01:13:59",
+  "repositories": [
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "27464",
+      "forks": "2401",
+      "today_stars": "386 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "2964",
+      "forks": "211",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "92839",
+      "forks": "13924",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23245",
+      "forks": "2797",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4852",
+      "forks": "23642",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14120",
+      "forks": "3984",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "age",
+      "full_name": "FiloSottile/age",
+      "url": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+      "language": "Go",
+      "stars": "18691",
+      "forks": "547",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "zeromicro",
+      "name": "go-zero",
+      "full_name": "zeromicro/go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "language": "Go",
+      "stars": "30775",
+      "forks": "4081",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "full_name": "go-chi/chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": "19572",
+      "forks": "1018",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "137894",
+      "forks": "11488",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "anthropics",
+      "name": "anthropic-sdk-go",
+      "full_name": "anthropics/anthropic-sdk-go",
+      "url": "https://github.com/anthropics/anthropic-sdk-go",
+      "description": "Access to Anthropic's safety-first language model APIs via Go",
+      "language": "Go",
+      "stars": "269",
+      "forks": "35",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18281",
+      "forks": "3520",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18058",
+      "forks": "1361",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "karmada-io",
+      "name": "karmada",
+      "full_name": "karmada-io/karmada",
+      "url": "https://github.com/karmada-io/karmada",
+      "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+      "language": "Go",
+      "stars": "4758",
+      "forks": "926",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Melkeydev",
+      "name": "go-blueprint",
+      "full_name": "Melkeydev/go-blueprint",
+      "url": "https://github.com/Melkeydev/go-blueprint",
+      "description": "Go-blueprint allows users to spin up a quick Go project using a popular framework",
+      "language": "Go",
+      "stars": "7274",
+      "forks": "396",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "full_name": "shirou/gopsutil",
+      "url": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": "11067",
+      "forks": "1611",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "sqlc-dev",
+      "name": "sqlc",
+      "full_name": "sqlc-dev/sqlc",
+      "url": "https://github.com/sqlc-dev/sqlc",
+      "description": "Generate type-safe code from SQL",
+      "language": "Go",
+      "stars": "14798",
+      "forks": "860",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "jpillora",
+      "name": "chisel",
+      "full_name": "jpillora/chisel",
+      "url": "https://github.com/jpillora/chisel",
+      "description": "A fast TCP/UDP tunnel over HTTP",
+      "language": "Go",
+      "stars": "14406",
+      "forks": "1465",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "34154",
+      "forks": "3161",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

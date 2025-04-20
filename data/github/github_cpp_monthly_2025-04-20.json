@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-04-20 01:15:40",
+  "repositories": [
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10276",
+      "forks": "1366",
+      "today_stars": "568 stars this month"
+    },
+    {
+      "author": "Zackriya-Solutions",
+      "name": "meeting-minutes",
+      "full_name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/",
+      "language": "C++",
+      "stars": "3787",
+      "forks": "258",
+      "today_stars": "2,557 stars this month"
+    },
+    {
+      "author": "NVIDIA-Omniverse",
+      "name": "PhysX",
+      "full_name": "NVIDIA-Omniverse/PhysX",
+      "url": "https://github.com/NVIDIA-Omniverse/PhysX",
+      "description": "NVIDIA PhysX SDK",
+      "language": "C++",
+      "stars": "3838",
+      "forks": "492",
+      "today_stars": "996 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "14208",
+      "forks": "997",
+      "today_stars": "1,233 stars this month"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "duix.ai",
+      "full_name": "GuijiAI/duix.ai",
+      "url": "https://github.com/GuijiAI/duix.ai",
+      "description": "",
+      "language": "C++",
+      "stars": "5481",
+      "forks": "808",
+      "today_stars": "834 stars this month"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3565",
+      "forks": "433",
+      "today_stars": "421 stars this month"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "826",
+      "forks": "157",
+      "today_stars": "162 stars this month"
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "full_name": "topjohnwu/Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "C++",
+      "stars": "52311",
+      "forks": "13670",
+      "today_stars": "869 stars this month"
+    },
+    {
+      "author": "shadps4-emu",
+      "name": "shadPS4",
+      "full_name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": "21823",
+      "forks": "1332",
+      "today_stars": "2,733 stars this month"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "81762",
+      "forks": "56127",
+      "today_stars": "676 stars this month"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45292",
+      "forks": "6944",
+      "today_stars": "566 stars this month"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "64835",
+      "forks": "10795",
+      "today_stars": "1,012 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29279",
+      "forks": "5683",
+      "today_stars": "189 stars this month"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "96342",
+      "forks": "22203",
+      "today_stars": "1,202 stars this month"
+    },
+    {
+      "author": "aseprite",
+      "name": "aseprite",
+      "full_name": "aseprite/aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "stars": "31725",
+      "forks": "6948",
+      "today_stars": "545 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "39352",
+      "forks": "4126",
+      "today_stars": "857 stars this month"
+    },
+    {
+      "author": "RPCS3",
+      "name": "rpcs3",
+      "full_name": "RPCS3/rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "stars": "16742",
+      "forks": "2035",
+      "today_stars": "313 stars this month"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "24529",
+      "forks": "1172",
+      "today_stars": "950 stars this month"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "116446",
+      "forks": "15985",
+      "today_stars": "685 stars this month"
+    },
+    {
+      "author": "TixiaoShan",
+      "name": "LIO-SAM",
+      "full_name": "TixiaoShan/LIO-SAM",
+      "url": "https://github.com/TixiaoShan/LIO-SAM",
+      "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+      "language": "C++",
+      "stars": "3815",
+      "forks": "1340",
+      "today_stars": "102 stars this month"
+    },
+    {
+      "author": "niedev",
+      "name": "RTranslator",
+      "full_name": "niedev/RTranslator",
+      "url": "https://github.com/niedev/RTranslator",
+      "description": "Open source real-time translation app for Android that runs locally",
+      "language": "C++",
+      "stars": "7727",
+      "forks": "634",
+      "today_stars": "291 stars this month"
+    },
+    {
+      "author": "cocos",
+      "name": "cocos-engine",
+      "full_name": "cocos/cocos-engine",
+      "url": "https://github.com/cocos/cocos-engine",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": "8591",
+      "forks": "1992",
+      "today_stars": "119 stars this month"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "40211",
+      "forks": "7228",
+      "today_stars": "643 stars this month"
+    }
+  ]
+}

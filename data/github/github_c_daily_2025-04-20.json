@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-20 01:15:02",
+  "repositories": [
+    {
+      "author": "espressif",
+      "name": "esp-iot-solution",
+      "full_name": "espressif/esp-iot-solution",
+      "url": "https://github.com/espressif/esp-iot-solution",
+      "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
+      "language": "C",
+      "stars": "2182",
+      "forks": "841",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23062",
+      "forks": "4896",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5500",
+      "forks": "1151",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "577",
+      "forks": "3193",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22189",
+      "forks": "11085",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Configurations",
+      "full_name": "MarlinFirmware/Configurations",
+      "url": "https://github.com/MarlinFirmware/Configurations",
+      "description": "Configurations for Marlin Firmware",
+      "language": "C",
+      "stars": "2121",
+      "forks": "3401",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20191",
+      "forks": "769",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5178",
+      "forks": "1518",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20200",
+      "forks": "8125",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12024",
+      "forks": "2100",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "3891",
+      "forks": "469",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "full_name": "mattn/go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": "8419",
+      "forks": "1126",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "skeeto",
+      "name": "endlessh",
+      "full_name": "skeeto/endlessh",
+      "url": "https://github.com/skeeto/endlessh",
+      "description": "SSH tarpit that slowly sends an endless banner",
+      "language": "C",
+      "stars": "7880",
+      "forks": "291",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5272",
+      "forks": "753",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "libusb",
+      "name": "libusb",
+      "full_name": "libusb/libusb",
+      "url": "https://github.com/libusb/libusb",
+      "description": "A cross-platform library to access USB devices",
+      "language": "C",
+      "stars": "5573",
+      "forks": "1953",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37659",
+      "forks": "6670",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5563",
+      "forks": "1099",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "clockworkpi",
+      "name": "PicoCalc",
+      "full_name": "clockworkpi/PicoCalc",
+      "url": "https://github.com/clockworkpi/PicoCalc",
+      "description": "A calculator like nothing you've ever seen before, right?",
+      "language": "C",
+      "stars": "222",
+      "forks": "31",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "skywind3000",
+      "name": "kcp",
+      "full_name": "skywind3000/kcp",
+      "url": "https://github.com/skywind3000/kcp",
+      "description": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+      "language": "C",
+      "stars": "15980",
+      "forks": "2538",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-projects",
+      "full_name": "remzi-arpacidusseau/ostep-projects",
+      "url": "https://github.com/remzi-arpacidusseau/ostep-projects",
+      "description": "Projects for an undergraduate OS course",
+      "language": "C",
+      "stars": "4735",
+      "forks": "1321",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "GermanAizek",
+      "name": "WinRing0",
+      "full_name": "GermanAizek/WinRing0",
+      "url": "https://github.com/GermanAizek/WinRing0",
+      "description": "WinRing0 is a hardware access library for Windows.",
+      "language": "C",
+      "stars": "357",
+      "forks": "79",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31571",
+      "forks": "1617",
+      "today_stars": "13 stars today"
+    }
+  ]
+}
