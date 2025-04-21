@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-21 01:13:21",
+  "repositories": [
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "24142",
+      "forks": "1493",
+      "today_stars": "474 stars today"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20308",
+      "forks": "1760",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "3862",
+      "forks": "184",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "orhun",
+      "name": "ratzilla",
+      "full_name": "orhun/ratzilla",
+      "url": "https://github.com/orhun/ratzilla",
+      "description": "Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.",
+      "language": "Rust",
+      "stars": "641",
+      "forks": "24",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "eza-community",
+      "name": "eza",
+      "full_name": "eza-community/eza",
+      "url": "https://github.com/eza-community/eza",
+      "description": "A modern alternative to ls",
+      "language": "Rust",
+      "stars": "15023",
+      "forks": "282",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "the AI-native open-source embedding database",
+      "language": "Rust",
+      "stars": "19387",
+      "forks": "1586",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "19989",
+      "forks": "895",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "23465",
+      "forks": "715",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "6835",
+      "forks": "231",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "modrinth",
+      "name": "code",
+      "full_name": "modrinth/code",
+      "url": "https://github.com/modrinth/code",
+      "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+      "language": "Rust",
+      "stars": "1290",
+      "forks": "263",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "full_name": "rust-lang/cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": "13413",
+      "forks": "2553",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "orbitinghail",
+      "name": "graft",
+      "full_name": "orbitinghail/graft",
+      "url": "https://github.com/orbitinghail/graft",
+      "description": "Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.",
+      "language": "Rust",
+      "stars": "1042",
+      "forks": "14",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "4902",
+      "forks": "361",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43669",
+      "forks": "2069",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "rpcpool",
+      "name": "yellowstone-grpc",
+      "full_name": "rpcpool/yellowstone-grpc",
+      "url": "https://github.com/rpcpool/yellowstone-grpc",
+      "description": "solana geyser grpc service",
+      "language": "Rust",
+      "stars": "630",
+      "forks": "218",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "35154",
+      "forks": "1076",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tsukinaha",
+      "name": "tsukimi",
+      "full_name": "tsukinaha/tsukimi",
+      "url": "https://github.com/tsukinaha/tsukimi",
+      "description": "A simple third-party Emby client for Linux",
+      "language": "Rust",
+      "stars": "2255",
+      "forks": "69",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "4641",
+      "forks": "100",
+      "today_stars": "354 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3061",
+      "forks": "125",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39061",
+      "forks": "3849",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "24282",
+      "forks": "528",
+      "today_stars": "35 stars today"
+    }
+  ]
+}

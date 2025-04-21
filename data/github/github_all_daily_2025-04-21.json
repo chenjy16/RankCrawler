@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-04-21 01:11:38",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "14870",
+      "forks": "1045",
+      "today_stars": "593 stars today"
+    },
+    {
+      "author": "Byaidu",
+      "name": "PDFMathTranslate",
+      "full_name": "Byaidu/PDFMathTranslate",
+      "url": "https://github.com/Byaidu/PDFMathTranslate",
+      "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero",
+      "language": "Python",
+      "stars": "20733",
+      "forks": "1760",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": "336715",
+      "forks": "35593",
+      "today_stars": "455 stars today"
+    },
+    {
+      "author": "Anduin2017",
+      "name": "HowToCook",
+      "full_name": "Anduin2017/HowToCook",
+      "url": "https://github.com/Anduin2017/HowToCook",
+      "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+      "language": "Dockerfile",
+      "stars": "78524",
+      "forks": "9467",
+      "today_stars": "878 stars today"
+    },
+    {
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "28856",
+      "forks": "3241",
+      "today_stars": "132 stars today"
+    },
+    {
+      "author": "jlowin",
+      "name": "fastmcp",
+      "full_name": "jlowin/fastmcp",
+      "url": "https://github.com/jlowin/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+      "language": "Python",
+      "stars": "6410",
+      "forks": "332",
+      "today_stars": "354 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "27653",
+      "forks": "2408",
+      "today_stars": "233 stars today"
+    },
+    {
+      "author": "nocobase",
+      "name": "nocobase",
+      "full_name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+      "language": "TypeScript",
+      "stars": "14803",
+      "forks": "1633",
+      "today_stars": "232 stars today"
+    },
+    {
+      "author": "yt-dlp",
+      "name": "yt-dlp",
+      "full_name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": "108356",
+      "forks": "8515",
+      "today_stars": "106 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "50458",
+      "forks": "2442",
+      "today_stars": "483 stars today"
+    },
+    {
+      "author": "elie222",
+      "name": "inbox-zero",
+      "full_name": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "language": "TypeScript",
+      "stars": "6353",
+      "forks": "661",
+      "today_stars": "226 stars today"
+    },
+    {
+      "author": "ashvardanian",
+      "name": "less_slow.cpp",
+      "full_name": "ashvardanian/less_slow.cpp",
+      "url": "https://github.com/ashvardanian/less_slow.cpp",
+      "description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
+      "language": "C++",
+      "stars": "1294",
+      "forks": "49",
+      "today_stars": "140 stars today"
+    },
+    {
+      "author": "wandb",
+      "name": "openui",
+      "full_name": "wandb/openui",
+      "url": "https://github.com/wandb/openui",
+      "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+      "language": "TypeScript",
+      "stars": "20552",
+      "forks": "1926",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "24142",
+      "forks": "1493",
+      "today_stars": "474 stars today"
+    }
+  ]
+}
