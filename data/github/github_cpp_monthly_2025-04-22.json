@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-04-22 01:11:23",
+  "repositories": [
+    {
+      "author": "Zackriya-Solutions",
+      "name": "meeting-minutes",
+      "full_name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/",
+      "language": "C++",
+      "stars": "4319",
+      "forks": "291",
+      "today_stars": "3,084 stars this month"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10289",
+      "forks": "1368",
+      "today_stars": "559 stars this month"
+    },
+    {
+      "author": "NVIDIA-Omniverse",
+      "name": "PhysX",
+      "full_name": "NVIDIA-Omniverse/PhysX",
+      "url": "https://github.com/NVIDIA-Omniverse/PhysX",
+      "description": "NVIDIA PhysX SDK",
+      "language": "C++",
+      "stars": "3845",
+      "forks": "492",
+      "today_stars": "997 stars this month"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "duix.ai",
+      "full_name": "GuijiAI/duix.ai",
+      "url": "https://github.com/GuijiAI/duix.ai",
+      "description": "",
+      "language": "C++",
+      "stars": "5555",
+      "forks": "814",
+      "today_stars": "884 stars this month"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3574",
+      "forks": "431",
+      "today_stars": "421 stars this month"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "829",
+      "forks": "157",
+      "today_stars": "165 stars this month"
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "full_name": "topjohnwu/Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "C++",
+      "stars": "52342",
+      "forks": "13680",
+      "today_stars": "870 stars this month"
+    },
+    {
+      "author": "shadps4-emu",
+      "name": "shadPS4",
+      "full_name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": "21891",
+      "forks": "1334",
+      "today_stars": "2,783 stars this month"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45330",
+      "forks": "6947",
+      "today_stars": "577 stars this month"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "81796",
+      "forks": "56136",
+      "today_stars": "670 stars this month"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "64878",
+      "forks": "10798",
+      "today_stars": "1,011 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "39409",
+      "forks": "4134",
+      "today_stars": "859 stars this month"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "96403",
+      "forks": "22213",
+      "today_stars": "1,210 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29283",
+      "forks": "5684",
+      "today_stars": "191 stars this month"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "24592",
+      "forks": "1175",
+      "today_stars": "950 stars this month"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "67334",
+      "forks": "15680",
+      "today_stars": "488 stars this month"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "2219",
+      "forks": "143",
+      "today_stars": "305 stars this month"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "25932",
+      "forks": "4745",
+      "today_stars": "326 stars this month"
+    },
+    {
+      "author": "wolfpld",
+      "name": "tracy",
+      "full_name": "wolfpld/tracy",
+      "url": "https://github.com/wolfpld/tracy",
+      "description": "Frame profiler",
+      "language": "C++",
+      "stars": "11293",
+      "forks": "774",
+      "today_stars": "309 stars this month"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "116474",
+      "forks": "15997",
+      "today_stars": "660 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "15586",
+      "forks": "1108",
+      "today_stars": "2,608 stars this month"
+    },
+    {
+      "author": "cocos",
+      "name": "cocos-engine",
+      "full_name": "cocos/cocos-engine",
+      "url": "https://github.com/cocos/cocos-engine",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": "8597",
+      "forks": "1992",
+      "today_stars": "123 stars this month"
+    },
+    {
+      "author": "justcallmekoko",
+      "name": "ESP32Marauder",
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "stars": "7405",
+      "forks": "794",
+      "today_stars": "271 stars this month"
+    }
+  ]
+}

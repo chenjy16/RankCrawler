@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-22 01:10:40",
+  "repositories": [
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "25952",
+      "forks": "2481",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28548",
+      "forks": "7805",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9304",
+      "forks": "3211",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）",
+      "language": "C",
+      "stars": "5872",
+      "forks": "646",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10146",
+      "forks": "5517",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "erincatto",
+      "name": "box2d",
+      "full_name": "erincatto/box2d",
+      "url": "https://github.com/erincatto/box2d",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": "8735",
+      "forks": "1614",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mgba-emu",
+      "name": "mgba",
+      "full_name": "mgba-emu/mgba",
+      "url": "https://github.com/mgba-emu/mgba",
+      "description": "mGBA Game Boy Advance Emulator",
+      "language": "C",
+      "stars": "6091",
+      "forks": "834",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11282",
+      "forks": "928",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30592",
+      "forks": "19580",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13454",
+      "forks": "493",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12084",
+      "forks": "666",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "opa334",
+      "name": "Dopamine",
+      "full_name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+      "language": "C",
+      "stars": "3990",
+      "forks": "5468",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dayanch96",
+      "name": "YTMusicUltimate",
+      "full_name": "dayanch96/YTMusicUltimate",
+      "url": "https://github.com/dayanch96/YTMusicUltimate",
+      "description": "The best tweak for YouTube Music iOS.",
+      "language": "C",
+      "stars": "1477",
+      "forks": "3996",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13719",
+      "forks": "5483",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12040",
+      "forks": "2104",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4158",
+      "forks": "1053",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "openwall",
+      "name": "john",
+      "full_name": "openwall/john",
+      "url": "https://github.com/openwall/john",
+      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+      "language": "C",
+      "stars": "11209",
+      "forks": "2219",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": "4117",
+      "forks": "1196",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "13488",
+      "forks": "488",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": "6703",
+      "forks": "1810",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "n64decomp",
+      "name": "sm64",
+      "full_name": "n64decomp/sm64",
+      "url": "https://github.com/n64decomp/sm64",
+      "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+      "language": "C",
+      "stars": "7999",
+      "forks": "1432",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "krallin",
+      "name": "tini",
+      "full_name": "krallin/tini",
+      "url": "https://github.com/krallin/tini",
+      "description": "A tiny but valid `init` for containers",
+      "language": "C",
+      "stars": "10274",
+      "forks": "515",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "TASEmulators",
+      "name": "desmume",
+      "full_name": "TASEmulators/desmume",
+      "url": "https://github.com/TASEmulators/desmume",
+      "description": "DeSmuME is a Nintendo DS emulator",
+      "language": "C",
+      "stars": "3187",
+      "forks": "588",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "lizongying",
+      "name": "my-tv",
+      "full_name": "lizongying/my-tv",
+      "url": "https://github.com/lizongying/my-tv",
+      "description": "我的电视 电视直播软件，安装即可使用",
+      "language": "C",
+      "stars": "31953",
+      "forks": "3577",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

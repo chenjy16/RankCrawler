@@ -1,0 +1,260 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-04-22 01:11:53",
+  "repositories": [
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "6611",
+      "forks": "755",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "firefly-iii",
+      "name": "firefly-iii",
+      "full_name": "firefly-iii/firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "stars": "18804",
+      "forks": "1666",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "40307",
+      "forks": "2410",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "33510",
+      "forks": "11319",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wallabag",
+      "name": "wallabag",
+      "full_name": "wallabag/wallabag",
+      "url": "https://github.com/wallabag/wallabag",
+      "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+      "language": "PHP",
+      "stars": "11189",
+      "forks": "790",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "monicahq",
+      "name": "monica",
+      "full_name": "monicahq/monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "stars": "22644",
+      "forks": "2267",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "danog",
+      "name": "MadelineProto",
+      "full_name": "danog/MadelineProto",
+      "url": "https://github.com/danog/MadelineProto",
+      "description": "Async PHP client API for the telegram MTProto protocol",
+      "language": "PHP",
+      "stars": "3053",
+      "forks": "715",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "PrivateBin",
+      "name": "PrivateBin",
+      "full_name": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+      "language": "PHP",
+      "stars": "7092",
+      "forks": "862",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "7446",
+      "forks": "1978",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-ide-helper",
+      "full_name": "barryvdh/laravel-ide-helper",
+      "url": "https://github.com/barryvdh/laravel-ide-helper",
+      "description": "IDE Helper for Laravel",
+      "language": "PHP",
+      "stars": "14521",
+      "forks": "1188",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "zabbix",
+      "name": "zabbix",
+      "full_name": "zabbix/zabbix",
+      "url": "https://github.com/zabbix/zabbix",
+      "description": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+      "language": "PHP",
+      "stars": "4843",
+      "forks": "1039",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "causefx",
+      "name": "Organizr",
+      "full_name": "causefx/Organizr",
+      "url": "https://github.com/causefx/Organizr",
+      "description": "HTPC/Homelab Services Organizer - Written in PHP",
+      "language": "PHP",
+      "stars": "5418",
+      "forks": "299",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "62294",
+      "forks": "24291",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "librespeed",
+      "name": "speedtest",
+      "full_name": "librespeed/speedtest",
+      "url": "https://github.com/librespeed/speedtest",
+      "description": "Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",
+      "language": "PHP",
+      "stars": "12929",
+      "forks": "2250",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "22840",
+      "forks": "3358",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "cedar2025",
+      "name": "Xboard",
+      "full_name": "cedar2025/Xboard",
+      "url": "https://github.com/cedar2025/Xboard",
+      "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
+      "language": "PHP",
+      "stars": "2628",
+      "forks": "666",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "full_name": "composer/composer",
+      "url": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": "28932",
+      "forks": "4615",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9521",
+      "forks": "711",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30299",
+      "forks": "9600",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Licoy",
+      "name": "wordpress-theme-puock",
+      "full_name": "Licoy/wordpress-theme-puock",
+      "url": "https://github.com/Licoy/wordpress-theme-puock",
+      "description": "🎨 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.",
+      "language": "PHP",
+      "stars": "2641",
+      "forks": "432",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pixelfed",
+      "name": "pixelfed",
+      "full_name": "pixelfed/pixelfed",
+      "url": "https://github.com/pixelfed/pixelfed",
+      "description": "Photo Sharing. For Everyone.",
+      "language": "PHP",
+      "stars": "6552",
+      "forks": "764",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "alexjustesen",
+      "name": "speedtest-tracker",
+      "full_name": "alexjustesen/speedtest-tracker",
+      "url": "https://github.com/alexjustesen/speedtest-tracker",
+      "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.",
+      "language": "PHP",
+      "stars": "3545",
+      "forks": "127",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "linuxserver",
+      "name": "Heimdall",
+      "full_name": "linuxserver/Heimdall",
+      "url": "https://github.com/linuxserver/Heimdall",
+      "description": "An Application dashboard and launcher",
+      "language": "PHP",
+      "stars": "8318",
+      "forks": "576",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
