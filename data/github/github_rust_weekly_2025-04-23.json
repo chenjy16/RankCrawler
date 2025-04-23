@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-04-23 01:10:17",
+  "repositories": [
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "27043",
+      "forks": "1073",
+      "today_stars": "507 stars this week"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "24603",
+      "forks": "1527",
+      "today_stars": "3,517 stars this week"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "50640",
+      "forks": "1999",
+      "today_stars": "250 stars this week"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "35170",
+      "forks": "1075",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "full_name": "wasmerio/wasmer",
+      "url": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+      "language": "Rust",
+      "stars": "19627",
+      "forks": "867",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "50874",
+      "forks": "1433",
+      "today_stars": "1,185 stars this week"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3115",
+      "forks": "126",
+      "today_stars": "204 stars this week"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4517",
+      "forks": "285",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "10817",
+      "forks": "574",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4578",
+      "forks": "1558",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43744",
+      "forks": "2070",
+      "today_stars": "232 stars this week"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20338",
+      "forks": "1767",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "4817",
+      "forks": "103",
+      "today_stars": "745 stars this week"
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "full_name": "getzola/zola",
+      "url": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": "15142",
+      "forks": "1028",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "3899",
+      "forks": "186",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "27510",
+      "forks": "1969",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "4919",
+      "forks": "362",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10079",
+      "forks": "802",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "glzr-io",
+      "name": "glazewm",
+      "full_name": "glzr-io/glazewm",
+      "url": "https://github.com/glzr-io/glazewm",
+      "description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
+      "language": "Rust",
+      "stars": "8221",
+      "forks": "235",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4241",
+      "forks": "1522",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "57321",
+      "forks": "3943",
+      "today_stars": "332 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29138",
+      "forks": "982",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "29905",
+      "forks": "3598",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "6663",
+      "forks": "996",
+      "today_stars": "58 stars this week"
+    }
+  ]
+}

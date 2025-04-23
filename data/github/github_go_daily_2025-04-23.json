@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-23 01:09:48",
+  "repositories": [
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "45768",
+      "forks": "2248",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "10429",
+      "forks": "692",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "full_name": "kubernetes-sigs/kubebuilder",
+      "url": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": "8336",
+      "forks": "1534",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "gateway",
+      "full_name": "envoyproxy/gateway",
+      "url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "language": "Go",
+      "stars": "1822",
+      "forks": "442",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "3154",
+      "forks": "223",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21759",
+      "forks": "4491",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino-ext",
+      "full_name": "cloudwego/eino-ext",
+      "url": "https://github.com/cloudwego/eino-ext",
+      "description": "Various extensions for the Eino framework: https://github.com/cloudwego/eino",
+      "language": "Go",
+      "stars": "279",
+      "forks": "83",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Provision remote development environments via Terraform",
+      "language": "Go",
+      "stars": "9559",
+      "forks": "854",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11675",
+      "forks": "903",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rqlite",
+      "name": "rqlite",
+      "full_name": "rqlite/rqlite",
+      "url": "https://github.com/rqlite/rqlite",
+      "description": "The lightweight, user-friendly, distributed relational database built on SQLite.",
+      "language": "Go",
+      "stars": "16513",
+      "forks": "739",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "supabase",
+      "name": "auth",
+      "full_name": "supabase/auth",
+      "url": "https://github.com/supabase/auth",
+      "description": "A JWT based API for managing users and issuing JWT tokens",
+      "language": "Go",
+      "stars": "1852",
+      "forks": "437",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "142303",
+      "forks": "12247",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "katana",
+      "full_name": "projectdiscovery/katana",
+      "url": "https://github.com/projectdiscovery/katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "language": "Go",
+      "stars": "13413",
+      "forks": "714",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "full_name": "go-resty/resty",
+      "url": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP, REST, and SSE client library for Go",
+      "language": "Go",
+      "stars": "10788",
+      "forks": "746",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "4899",
+      "forks": "558",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38027",
+      "forks": "3998",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "go-co-op",
+      "name": "gocron",
+      "full_name": "go-co-op/gocron",
+      "url": "https://github.com/go-co-op/gocron",
+      "description": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
+      "language": "Go",
+      "stars": "6138",
+      "forks": "328",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "usual2970",
+      "name": "certimate",
+      "full_name": "usual2970/certimate",
+      "url": "https://github.com/usual2970/certimate",
+      "description": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+      "language": "Go",
+      "stars": "6390",
+      "forks": "582",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "28351",
+      "forks": "2051",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19165",
+      "forks": "2307",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
