@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-04-24 01:11:46",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "16743",
+      "forks": "1198",
+      "today_stars": "541 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "67364",
+      "forks": "15683",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "brpc",
+      "full_name": "apache/brpc",
+      "url": "https://github.com/apache/brpc",
+      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "language": "C++",
+      "stars": "16974",
+      "forks": "4011",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "lammps",
+      "name": "lammps",
+      "full_name": "lammps/lammps",
+      "url": "https://github.com/lammps/lammps",
+      "description": "Public development project of the LAMMPS MD software package",
+      "language": "C++",
+      "stars": "2434",
+      "forks": "1804",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "78685",
+      "forks": "11502",
+      "today_stars": "83 stars today"
+    },
+    {
+      "author": "hluk",
+      "name": "CopyQ",
+      "full_name": "hluk/CopyQ",
+      "url": "https://github.com/hluk/CopyQ",
+      "description": "Clipboard manager with advanced features",
+      "language": "C++",
+      "stars": "9605",
+      "forks": "466",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "WerWolv",
+      "name": "ImHex",
+      "full_name": "WerWolv/ImHex",
+      "url": "https://github.com/WerWolv/ImHex",
+      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+      "language": "C++",
+      "stars": "48604",
+      "forks": "2103",
+      "today_stars": "251 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6133",
+      "forks": "1583",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ZLMediaKit",
+      "name": "ZLMediaKit",
+      "full_name": "ZLMediaKit/ZLMediaKit",
+      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+      "language": "C++",
+      "stars": "14952",
+      "forks": "3626",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29294",
+      "forks": "5685",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "risc0",
+      "name": "risc0",
+      "full_name": "risc0/risc0",
+      "url": "https://github.com/risc0/risc0",
+      "description": "RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.",
+      "language": "C++",
+      "stars": "1859",
+      "forks": "539",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "2272",
+      "forks": "145",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "google",
+      "name": "highway",
+      "full_name": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "stars": "4562",
+      "forks": "344",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "owasp-modsecurity",
+      "name": "ModSecurity",
+      "full_name": "owasp-modsecurity/ModSecurity",
+      "url": "https://github.com/owasp-modsecurity/ModSecurity",
+      "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+      "language": "C++",
+      "stars": "8762",
+      "forks": "1646",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "25949",
+      "forks": "4749",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "rapidjson",
+      "full_name": "Tencent/rapidjson",
+      "url": "https://github.com/Tencent/rapidjson",
+      "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "language": "C++",
+      "stars": "14653",
+      "forks": "3577",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "llvm",
+      "name": "torch-mlir",
+      "full_name": "llvm/torch-mlir",
+      "url": "https://github.com/llvm/torch-mlir",
+      "description": "The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.",
+      "language": "C++",
+      "stars": "1505",
+      "forks": "543",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "CoatiSoftware",
+      "name": "Sourcetrail",
+      "full_name": "CoatiSoftware/Sourcetrail",
+      "url": "https://github.com/CoatiSoftware/Sourcetrail",
+      "description": "Sourcetrail - free and open-source interactive source explorer",
+      "language": "C++",
+      "stars": "15923",
+      "forks": "1529",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45355",
+      "forks": "6949",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "worawit",
+      "name": "blutter",
+      "full_name": "worawit/blutter",
+      "url": "https://github.com/worawit/blutter",
+      "description": "Flutter Mobile Application Reverse Engineering Tool",
+      "language": "C++",
+      "stars": "1473",
+      "forks": "209",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "MAZHARMIK",
+      "name": "Interview_DS_Algo",
+      "full_name": "MAZHARMIK/Interview_DS_Algo",
+      "url": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+      "description": "Super Repository for Coding Interview Preperation",
+      "language": "C++",
+      "stars": "2292",
+      "forks": "1227",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3607",
+      "forks": "436",
+      "today_stars": "21 stars today"
+    }
+  ]
+}

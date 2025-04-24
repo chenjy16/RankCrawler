@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-24 01:10:03",
+  "repositories": [
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "46158",
+      "forks": "2267",
+      "today_stars": "393 stars today"
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "12629",
+      "forks": "671",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21770",
+      "forks": "4491",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "3208",
+      "forks": "229",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "k8s-device-plugin",
+      "full_name": "NVIDIA/k8s-device-plugin",
+      "url": "https://github.com/NVIDIA/k8s-device-plugin",
+      "description": "NVIDIA device plugin for Kubernetes",
+      "language": "Go",
+      "stars": "3166",
+      "forks": "687",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "58260",
+      "forks": "9528",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "spegel-org",
+      "name": "spegel",
+      "full_name": "spegel-org/spegel",
+      "url": "https://github.com/spegel-org/spegel",
+      "description": "Stateless cluster local OCI registry mirror.",
+      "language": "Go",
+      "stars": "2393",
+      "forks": "89",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40211",
+      "forks": "2924",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "katana",
+      "full_name": "projectdiscovery/katana",
+      "url": "https://github.com/projectdiscovery/katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "language": "Go",
+      "stars": "13430",
+      "forks": "718",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5090",
+      "forks": "1600",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "10463",
+      "forks": "692",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24471",
+      "forks": "1638",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "79863",
+      "forks": "7760",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8589",
+      "forks": "1036",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10159",
+      "forks": "1403",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24073",
+      "forks": "3031",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32271",
+      "forks": "4343",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "16921",
+      "forks": "1509",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "go-co-op",
+      "name": "gocron",
+      "full_name": "go-co-op/gocron",
+      "url": "https://github.com/go-co-op/gocron",
+      "description": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
+      "language": "Go",
+      "stars": "6145",
+      "forks": "328",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45044",
+      "forks": "9823",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "rakyll",
+      "name": "hey",
+      "full_name": "rakyll/hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "language": "Go",
+      "stars": "18781",
+      "forks": "1228",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
