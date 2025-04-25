@@ -1,0 +1,205 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-25 01:10:53",
+  "repositories": [
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "102980",
+      "forks": "13284",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "23594",
+      "forks": "636",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "87316",
+      "forks": "12370",
+      "today_stars": "63 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "39502",
+      "forks": "1080",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "50724",
+      "forks": "2005",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "38059",
+      "forks": "1304",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "16882",
+      "forks": "531",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33256",
+      "forks": "2191",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot-sdk",
+      "full_name": "paritytech/polkadot-sdk",
+      "url": "https://github.com/paritytech/polkadot-sdk",
+      "description": "The Parity Polkadot Blockchain SDK",
+      "language": "Rust",
+      "stars": "2222",
+      "forks": "901",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "prefix-dev",
+      "name": "pixi",
+      "full_name": "prefix-dev/pixi",
+      "url": "https://github.com/prefix-dev/pixi",
+      "description": "Package management made easy",
+      "language": "Rust",
+      "stars": "4291",
+      "forks": "272",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "19994",
+      "forks": "1444",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "55100",
+      "forks": "2779",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "18925",
+      "forks": "660",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "dandavison",
+      "name": "delta",
+      "full_name": "dandavison/delta",
+      "url": "https://github.com/dandavison/delta",
+      "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+      "language": "Rust",
+      "stars": "25957",
+      "forks": "415",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "The Grammar Checker for Developers",
+      "language": "Rust",
+      "stars": "4013",
+      "forks": "110",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "23188",
+      "forks": "1590",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "10376",
+      "forks": "540",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "robustmq",
+      "name": "robustmq",
+      "full_name": "robustmq/robustmq",
+      "url": "https://github.com/robustmq/robustmq",
+      "description": "RobustMQ is a next-generation, high-performance, cloud-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities.",
+      "language": "Rust",
+      "stars": "499",
+      "forks": "91",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

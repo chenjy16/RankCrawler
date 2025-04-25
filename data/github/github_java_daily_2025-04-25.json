@@ -1,0 +1,227 @@
+{
+  "language": "java",
+  "period": "daily",
+  "fetch_time": "2025-04-25 01:11:13",
+  "repositories": [
+    {
+      "author": "OpenAPITools",
+      "name": "openapi-generator",
+      "full_name": "OpenAPITools/openapi-generator",
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+      "language": "Java",
+      "stars": "23542",
+      "forks": "6892",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "spring-ai-alibaba",
+      "full_name": "alibaba/spring-ai-alibaba",
+      "url": "https://github.com/alibaba/spring-ai-alibaba",
+      "description": "Agentic AI Framework for Java Developers",
+      "language": "Java",
+      "stars": "2497",
+      "forks": "477",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-boot",
+      "full_name": "spring-projects/spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "stars": "76898",
+      "forks": "41113",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "StarRocks",
+      "name": "starrocks",
+      "full_name": "StarRocks/starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "stars": "9888",
+      "forks": "1975",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "dbeaver",
+      "name": "dbeaver",
+      "full_name": "dbeaver/dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "stars": "43245",
+      "forks": "3678",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "keycloak",
+      "name": "keycloak",
+      "full_name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": "26789",
+      "forks": "7230",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "libgdx",
+      "name": "libgdx",
+      "full_name": "libgdx/libgdx",
+      "url": "https://github.com/libgdx/libgdx",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework",
+      "language": "Java",
+      "stars": "23959",
+      "forks": "6480",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "halo-dev",
+      "name": "halo",
+      "full_name": "halo-dev/halo",
+      "url": "https://github.com/halo-dev/halo",
+      "description": "强大易用的开源建站工具。",
+      "language": "Java",
+      "stars": "35328",
+      "forks": "9868",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-security",
+      "full_name": "spring-projects/spring-security",
+      "url": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "stars": "9088",
+      "forks": "6025",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "648540858",
+      "name": "wvp-GB28181-pro",
+      "full_name": "648540858/wvp-GB28181-pro",
+      "url": "https://github.com/648540858/wvp-GB28181-pro",
+      "description": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+      "language": "Java",
+      "stars": "5830",
+      "forks": "1646",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "oracle",
+      "name": "graal",
+      "full_name": "oracle/graal",
+      "url": "https://github.com/oracle/graal",
+      "description": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+      "language": "Java",
+      "stars": "20815",
+      "forks": "1693",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "strimzi",
+      "name": "strimzi-kafka-operator",
+      "full_name": "strimzi/strimzi-kafka-operator",
+      "url": "https://github.com/strimzi/strimzi-kafka-operator",
+      "description": "Apache Kafka® running on Kubernetes",
+      "language": "Java",
+      "stars": "5205",
+      "forks": "1358",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apache",
+      "name": "flink",
+      "full_name": "apache/flink",
+      "url": "https://github.com/apache/flink",
+      "description": "Apache Flink",
+      "language": "Java",
+      "stars": "24795",
+      "forks": "13508",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "iluwatar",
+      "name": "java-design-patterns",
+      "full_name": "iluwatar/java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "stars": "91370",
+      "forks": "26926",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "kermitt2",
+      "name": "grobid",
+      "full_name": "kermitt2/grobid",
+      "url": "https://github.com/kermitt2/grobid",
+      "description": "A machine learning software for extracting information from scholarly documents",
+      "language": "Java",
+      "stars": "3966",
+      "forks": "477",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typespec",
+      "full_name": "microsoft/typespec",
+      "url": "https://github.com/microsoft/typespec",
+      "description": "",
+      "language": "Java",
+      "stars": "4975",
+      "forks": "271",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "metasfresh",
+      "name": "metasfresh",
+      "full_name": "metasfresh/metasfresh",
+      "url": "https://github.com/metasfresh/metasfresh",
+      "description": "We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.",
+      "language": "Java",
+      "stars": "1939",
+      "forks": "650",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "material-components",
+      "name": "material-components-android",
+      "full_name": "material-components/material-components-android",
+      "url": "https://github.com/material-components/material-components-android",
+      "description": "Modular and customizable Material Design UI components for Android",
+      "language": "Java",
+      "stars": "16675",
+      "forks": "3129",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "wiremock",
+      "name": "wiremock",
+      "full_name": "wiremock/wiremock",
+      "url": "https://github.com/wiremock/wiremock",
+      "description": "A tool for mocking HTTP services",
+      "language": "Java",
+      "stars": "6743",
+      "forks": "1468",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "OpenRefine",
+      "name": "OpenRefine",
+      "full_name": "OpenRefine/OpenRefine",
+      "url": "https://github.com/OpenRefine/OpenRefine",
+      "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+      "language": "Java",
+      "stars": "11285",
+      "forks": "2048",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
