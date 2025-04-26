@@ -1,0 +1,172 @@
+{
+  "language": "all",
+  "period": "weekly",
+  "fetch_time": "2025-04-26 01:06:30",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "17240",
+      "forks": "1240",
+      "today_stars": "3,588 stars this week"
+    },
+    {
+      "author": "Anduin2017",
+      "name": "HowToCook",
+      "full_name": "Anduin2017/HowToCook",
+      "url": "https://github.com/Anduin2017/HowToCook",
+      "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+      "language": "Dockerfile",
+      "stars": "80609",
+      "forks": "9661",
+      "today_stars": "5,368 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "54106",
+      "forks": "2700",
+      "today_stars": "4,742 stars this week"
+    },
+    {
+      "author": "kamranahmedse",
+      "name": "developer-roadmap",
+      "full_name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": "315868",
+      "forks": "40995",
+      "today_stars": "2,082 stars this week"
+    },
+    {
+      "author": "Byaidu",
+      "name": "PDFMathTranslate",
+      "full_name": "Byaidu/PDFMathTranslate",
+      "url": "https://github.com/Byaidu/PDFMathTranslate",
+      "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+      "language": "Python",
+      "stars": "21891",
+      "forks": "1865",
+      "today_stars": "1,480 stars this week"
+    },
+    {
+      "author": "jujumilk3",
+      "name": "leaked-system-prompts",
+      "full_name": "jujumilk3/leaked-system-prompts",
+      "url": "https://github.com/jujumilk3/leaked-system-prompts",
+      "description": "Collection of leaked system prompts",
+      "language": null,
+      "stars": "3516",
+      "forks": "430",
+      "today_stars": "868 stars this week"
+    },
+    {
+      "author": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "stars": "316216",
+      "forks": "78604",
+      "today_stars": "1,812 stars this week"
+    },
+    {
+      "author": "jlowin",
+      "name": "fastmcp",
+      "full_name": "jlowin/fastmcp",
+      "url": "https://github.com/jlowin/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+      "language": "Python",
+      "stars": "7527",
+      "forks": "386",
+      "today_stars": "1,983 stars this week"
+    },
+    {
+      "author": "bytedance",
+      "name": "UI-TARS",
+      "full_name": "bytedance/UI-TARS",
+      "url": "https://github.com/bytedance/UI-TARS",
+      "description": "",
+      "language": "Python",
+      "stars": "5184",
+      "forks": "347",
+      "today_stars": "995 stars this week"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "12654",
+      "forks": "837",
+      "today_stars": "558 stars this week"
+    },
+    {
+      "author": "allenai",
+      "name": "olmocr",
+      "full_name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars": "11973",
+      "forks": "814",
+      "today_stars": "785 stars this week"
+    },
+    {
+      "author": "hydralauncher",
+      "name": "hydra",
+      "full_name": "hydralauncher/hydra",
+      "url": "https://github.com/hydralauncher/hydra",
+      "description": "Hydra is a game launcher with its own embedded bittorrent client",
+      "language": "TypeScript",
+      "stars": "12995",
+      "forks": "3623",
+      "today_stars": "711 stars this week"
+    },
+    {
+      "author": "elie222",
+      "name": "inbox-zero",
+      "full_name": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "language": "TypeScript",
+      "stars": "7007",
+      "forks": "705",
+      "today_stars": "1,241 stars this week"
+    },
+    {
+      "author": "nocobase",
+      "name": "nocobase",
+      "full_name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+      "language": "TypeScript",
+      "stars": "15342",
+      "forks": "1669",
+      "today_stars": "1,146 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "46526",
+      "forks": "2290",
+      "today_stars": "1,125 stars this week"
+    }
+  ]
+}

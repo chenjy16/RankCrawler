@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-04-26 01:08:22",
+  "repositories": [
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "50762",
+      "forks": "2005",
+      "today_stars": "926 stars this month"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "15093",
+      "forks": "484",
+      "today_stars": "4,287 stars this month"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "15850",
+      "forks": "1602",
+      "today_stars": "1,779 stars this month"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic AI experience in your terminal for building applications using natural language",
+      "language": "Rust",
+      "stars": "455",
+      "forks": "77",
+      "today_stars": "268 stars this month"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "24929",
+      "forks": "1569",
+      "today_stars": "4,753 stars this month"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33281",
+      "forks": "2191",
+      "today_stars": "711 stars this month"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "51350",
+      "forks": "1446",
+      "today_stars": "5,230 stars this month"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "27106",
+      "forks": "1080",
+      "today_stars": "988 stars this month"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "87370",
+      "forks": "12387",
+      "today_stars": "2,797 stars this month"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "3812",
+      "forks": "247",
+      "today_stars": "666 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "57439",
+      "forks": "3950",
+      "today_stars": "1,565 stars this month"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20379",
+      "forks": "1772",
+      "today_stars": "398 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39171",
+      "forks": "3858",
+      "today_stars": "632 stars this month"
+    },
+    {
+      "author": "Rust-GPU",
+      "name": "Rust-CUDA",
+      "full_name": "Rust-GPU/Rust-CUDA",
+      "url": "https://github.com/Rust-GPU/Rust-CUDA",
+      "description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.",
+      "language": "Rust",
+      "stars": "4306",
+      "forks": "180",
+      "today_stars": "407 stars this month"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "18533",
+      "forks": "576",
+      "today_stars": "702 stars this month"
+    },
+    {
+      "author": "supabase-community",
+      "name": "postgres-language-server",
+      "full_name": "supabase-community/postgres-language-server",
+      "url": "https://github.com/supabase-community/postgres-language-server",
+      "description": "A Language Server for Postgres",
+      "language": "Rust",
+      "stars": "4947",
+      "forks": "98",
+      "today_stars": "1,299 stars this month"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4542",
+      "forks": "287",
+      "today_stars": "257 stars this month"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "4937",
+      "forks": "105",
+      "today_stars": "1,224 stars this month"
+    },
+    {
+      "author": "LGUG2Z",
+      "name": "komorebi",
+      "full_name": "LGUG2Z/komorebi",
+      "url": "https://github.com/LGUG2Z/komorebi",
+      "description": "A tiling window manager for Windows 🍉",
+      "language": "Rust",
+      "stars": "10965",
+      "forks": "236",
+      "today_stars": "371 stars this month"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "24562",
+      "forks": "1724",
+      "today_stars": "430 stars this month"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "23636",
+      "forks": "637",
+      "today_stars": "706 stars this month"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "26369",
+      "forks": "1284",
+      "today_stars": "354 stars this month"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "21015",
+      "forks": "2296",
+      "today_stars": "554 stars this month"
+    }
+  ]
+}

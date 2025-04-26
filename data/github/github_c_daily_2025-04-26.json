@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-26 01:08:53",
+  "repositories": [
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "588",
+      "forks": "3195",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4636",
+      "forks": "904",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "libfuse",
+      "name": "libfuse",
+      "full_name": "libfuse/libfuse",
+      "url": "https://github.com/libfuse/libfuse",
+      "description": "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface",
+      "language": "C",
+      "stars": "5612",
+      "forks": "1177",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "axboe",
+      "name": "fio",
+      "full_name": "axboe/fio",
+      "url": "https://github.com/axboe/fio",
+      "description": "Flexible I/O Tester",
+      "language": "C",
+      "stars": "5559",
+      "forks": "1287",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "38931",
+      "forks": "7843",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "full_name": "Cyan4973/xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": "9764",
+      "forks": "822",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27234",
+      "forks": "10506",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3173",
+      "forks": "1244",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3324",
+      "forks": "1872",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31606",
+      "forks": "1618",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tuya",
+      "name": "TuyaOpen",
+      "full_name": "tuya/TuyaOpen",
+      "url": "https://github.com/tuya/TuyaOpen",
+      "description": "Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n",
+      "language": "C",
+      "stars": "522",
+      "forks": "81",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "ImageMagick",
+      "name": "ImageMagick",
+      "full_name": "ImageMagick/ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+      "language": "C",
+      "stars": "13406",
+      "forks": "1418",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4569",
+      "forks": "942",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "3873",
+      "forks": "1236",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2192",
+      "forks": "543",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7437",
+      "forks": "1330",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3260",
+      "forks": "1295",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "3997",
+      "forks": "1521",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "full_name": "openresty/lua-nginx-module",
+      "url": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": "11490",
+      "forks": "2045",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "11961",
+      "forks": "7272",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6797",
+      "forks": "1670",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

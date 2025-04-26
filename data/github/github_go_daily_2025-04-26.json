@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-26 01:07:45",
+  "repositories": [
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18164",
+      "forks": "1365",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "25694",
+      "forks": "2509",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "joho",
+      "name": "godotenv",
+      "full_name": "joho/godotenv",
+      "url": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+      "language": "Go",
+      "stars": "9149",
+      "forks": "426",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "16958",
+      "forks": "1523",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "packer",
+      "full_name": "hashicorp/packer",
+      "url": "https://github.com/hashicorp/packer",
+      "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+      "language": "Go",
+      "stars": "15350",
+      "forks": "3337",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "26505",
+      "forks": "2607",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "daytonaio",
+      "name": "daytona",
+      "full_name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+      "language": "Go",
+      "stars": "15243",
+      "forks": "1391",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "46526",
+      "forks": "2290",
+      "today_stars": "103 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "27963",
+      "forks": "1359",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "full_name": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": "6008",
+      "forks": "1426",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "79993",
+      "forks": "7770",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "4015",
+      "forks": "324",
+      "today_stars": "107 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "32122",
+      "forks": "2448",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Provision remote development environments via Terraform",
+      "language": "Go",
+      "stars": "9610",
+      "forks": "862",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cfssl",
+      "full_name": "cloudflare/cfssl",
+      "url": "https://github.com/cloudflare/cfssl",
+      "description": "CFSSL: Cloudflare's PKI and TLS toolkit",
+      "language": "Go",
+      "stars": "8990",
+      "forks": "1128",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "volcano-sh",
+      "name": "volcano",
+      "full_name": "volcano-sh/volcano",
+      "url": "https://github.com/volcano-sh/volcano",
+      "description": "A Cloud Native Batch System (Project under CNCF)",
+      "language": "Go",
+      "stars": "4610",
+      "forks": "1055",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5103",
+      "forks": "1603",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19629",
+      "forks": "1590",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "autokitteh",
+      "name": "autokitteh",
+      "full_name": "autokitteh/autokitteh",
+      "url": "https://github.com/autokitteh/autokitteh",
+      "description": "Durable workflow automation in just a few lines of code",
+      "language": "Go",
+      "stars": "697",
+      "forks": "23",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "7856",
+      "forks": "648",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "k6",
+      "full_name": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+      "language": "Go",
+      "stars": "27405",
+      "forks": "1344",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19324",
+      "forks": "5922",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "gateway-api",
+      "full_name": "kubernetes-sigs/gateway-api",
+      "url": "https://github.com/kubernetes-sigs/gateway-api",
+      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "language": "Go",
+      "stars": "2038",
+      "forks": "529",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
