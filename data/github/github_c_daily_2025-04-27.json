@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-27 01:15:26",
+  "repositories": [
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4637",
+      "forks": "904",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19448",
+      "forks": "3590",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "full_name": "Cyan4973/xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": "9767",
+      "forks": "822",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37711",
+      "forks": "6679",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "6969",
+      "forks": "508",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25170",
+      "forks": "3685",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "590",
+      "forks": "3195",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27240",
+      "forks": "10507",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5842",
+      "forks": "2678",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3263",
+      "forks": "1297",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "11961",
+      "forks": "7275",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74388",
+      "forks": "6049",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "oqs-provider",
+      "full_name": "open-quantum-safe/oqs-provider",
+      "url": "https://github.com/open-quantum-safe/oqs-provider",
+      "description": "OpenSSL 3 provider containing post-quantum algorithms",
+      "language": "C",
+      "stars": "323",
+      "forks": "122",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "7909",
+      "forks": "2966",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11450",
+      "forks": "3424",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openresty",
+      "name": "lua-nginx-module",
+      "full_name": "openresty/lua-nginx-module",
+      "url": "https://github.com/openresty/lua-nginx-module",
+      "description": "Embed the Power of Lua into NGINX HTTP servers",
+      "language": "C",
+      "stars": "11490",
+      "forks": "2045",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12089",
+      "forks": "2109",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tuya",
+      "name": "TuyaOpen",
+      "full_name": "tuya/TuyaOpen",
+      "url": "https://github.com/tuya/TuyaOpen",
+      "description": "Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n",
+      "language": "C",
+      "stars": "531",
+      "forks": "82",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "pgbackrest",
+      "name": "pgbackrest",
+      "full_name": "pgbackrest/pgbackrest",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "description": "Reliable PostgreSQL Backup & Restore",
+      "language": "C",
+      "stars": "2938",
+      "forks": "233",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3663",
+      "forks": "1295",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pnggroup",
+      "name": "libpng",
+      "full_name": "pnggroup/libpng",
+      "url": "https://github.com/pnggroup/libpng",
+      "description": "LIBPNG: Portable Network Graphics support, official libpng repository",
+      "language": "C",
+      "stars": "1393",
+      "forks": "663",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13625",
+      "forks": "4240",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7439",
+      "forks": "1331",
+      "today_stars": "1 star today"
+    }
+  ]
+}

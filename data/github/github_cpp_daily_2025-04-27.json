@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-04-27 01:15:48",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16402",
+      "forks": "3176",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "35927",
+      "forks": "10335",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3066",
+      "forks": "1419",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6144",
+      "forks": "1584",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "brpc",
+      "full_name": "apache/brpc",
+      "url": "https://github.com/apache/brpc",
+      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "language": "C++",
+      "stars": "17004",
+      "forks": "4019",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "97829",
+      "forks": "8537",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "manticoresoftware",
+      "name": "manticoresearch",
+      "full_name": "manticoresoftware/manticoresearch",
+      "url": "https://github.com/manticoresoftware/manticoresearch",
+      "description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+      "language": "C++",
+      "stars": "10183",
+      "forks": "578",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "intel",
+      "name": "pcm",
+      "full_name": "intel/pcm",
+      "url": "https://github.com/intel/pcm",
+      "description": "Intel® Performance Counter Monitor (Intel® PCM)",
+      "language": "C++",
+      "stars": "2977",
+      "forks": "489",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "40356",
+      "forks": "7254",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "81883",
+      "forks": "56147",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "TheCherno",
+      "name": "Hazel",
+      "full_name": "TheCherno/Hazel",
+      "url": "https://github.com/TheCherno/Hazel",
+      "description": "Hazel Engine",
+      "language": "C++",
+      "stars": "12137",
+      "forks": "1525",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "skypjack",
+      "name": "entt",
+      "full_name": "skypjack/entt",
+      "url": "https://github.com/skypjack/entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+      "language": "C++",
+      "stars": "10943",
+      "forks": "948",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "cdozdil",
+      "name": "OptiScaler",
+      "full_name": "cdozdil/OptiScaler",
+      "url": "https://github.com/cdozdil/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "stars": "2613",
+      "forks": "73",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "zeek",
+      "name": "zeek",
+      "full_name": "zeek/zeek",
+      "url": "https://github.com/zeek/zeek",
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+      "language": "C++",
+      "stars": "6817",
+      "forks": "1257",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "async-profiler",
+      "name": "async-profiler",
+      "full_name": "async-profiler/async-profiler",
+      "url": "https://github.com/async-profiler/async-profiler",
+      "description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
+      "language": "C++",
+      "stars": "8125",
+      "forks": "898",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "189657",
+      "forks": "74650",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "libigl",
+      "name": "libigl",
+      "full_name": "libigl/libigl",
+      "url": "https://github.com/libigl/libigl",
+      "description": "Simple MPL-2.0-licensed C++ geometry processing library.",
+      "language": "C++",
+      "stars": "4737",
+      "forks": "1159",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "redpanda-data",
+      "name": "redpanda",
+      "full_name": "redpanda-data/redpanda",
+      "url": "https://github.com/redpanda-data/redpanda",
+      "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+      "language": "C++",
+      "stars": "10259",
+      "forks": "623",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ETLCPP",
+      "name": "etl",
+      "full_name": "ETLCPP/etl",
+      "url": "https://github.com/ETLCPP/etl",
+      "description": "Embedded Template Library",
+      "language": "C++",
+      "stars": "2449",
+      "forks": "423",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openxla",
+      "name": "xla",
+      "full_name": "openxla/xla",
+      "url": "https://github.com/openxla/xla",
+      "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+      "language": "C++",
+      "stars": "3118",
+      "forks": "542",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wxWidgets",
+      "name": "wxWidgets",
+      "full_name": "wxWidgets/wxWidgets",
+      "url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "language": "C++",
+      "stars": "6490",
+      "forks": "1813",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "leethomason",
+      "name": "tinyxml2",
+      "full_name": "leethomason/tinyxml2",
+      "url": "https://github.com/leethomason/tinyxml2",
+      "description": "TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",
+      "language": "C++",
+      "stars": "5312",
+      "forks": "1875",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "epezent",
+      "name": "implot",
+      "full_name": "epezent/implot",
+      "url": "https://github.com/epezent/implot",
+      "description": "Immediate Mode Plotting",
+      "language": "C++",
+      "stars": "5257",
+      "forks": "583",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "14933",
+      "forks": "6047",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
