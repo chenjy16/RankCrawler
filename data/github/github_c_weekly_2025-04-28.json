@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-04-28 01:13:29",
+  "repositories": [
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19155",
+      "forks": "1579",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12194",
+      "forks": "675",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20540",
+      "forks": "780",
+      "today_stars": "346 stars this week"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3663",
+      "forks": "1295",
+      "today_stars": "15 stars this week"
+    },
+    {
+      "author": "strongswan",
+      "name": "strongswan",
+      "full_name": "strongswan/strongswan",
+      "url": "https://github.com/strongswan/strongswan",
+      "description": "strongSwan - IPsec-based VPN",
+      "language": "C",
+      "stars": "2471",
+      "forks": "820",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2556",
+      "forks": "666",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11307",
+      "forks": "930",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28632",
+      "forks": "7809",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26049",
+      "forks": "2486",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3267",
+      "forks": "1298",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4071",
+      "forks": "678",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "590",
+      "forks": "3195",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13626",
+      "forks": "4239",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10490",
+      "forks": "2903",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "merbanan",
+      "name": "rtl_433",
+      "full_name": "merbanan/rtl_433",
+      "url": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+      "language": "C",
+      "stars": "6525",
+      "forks": "1386",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5590",
+      "forks": "1105",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "10868",
+      "forks": "1423",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8219",
+      "forks": "2975",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121203",
+      "forks": "11419",
+      "today_stars": "370 stars this week"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）",
+      "language": "C",
+      "stars": "5894",
+      "forks": "656",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7573",
+      "forks": "1010",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "full_name": "yugabyte/yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "stars": "9454",
+      "forks": "1126",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11456",
+      "forks": "3424",
+      "today_stars": "24 stars this week"
+    }
+  ]
+}

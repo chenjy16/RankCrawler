@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-28 01:12:21",
+  "repositories": [
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "16980",
+      "forks": "1536",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23400",
+      "forks": "2808",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "60472",
+      "forks": "1555",
+      "today_stars": "166 stars today"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "14286",
+      "forks": "1043",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "daytonaio",
+      "name": "daytona",
+      "full_name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.",
+      "language": "Go",
+      "stars": "15423",
+      "forks": "1401",
+      "today_stars": "110 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "174",
+      "forks": "22",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "8263",
+      "forks": "651",
+      "today_stars": "97 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28163",
+      "forks": "4231",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "gravitl",
+      "name": "netmaker",
+      "full_name": "gravitl/netmaker",
+      "url": "https://github.com/gravitl/netmaker",
+      "description": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+      "language": "Go",
+      "stars": "10139",
+      "forks": "579",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "31045",
+      "forks": "892",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "27996",
+      "forks": "1361",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "28106",
+      "forks": "1983",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "93161",
+      "forks": "13953",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "59332",
+      "forks": "2029",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "lxc",
+      "name": "incus",
+      "full_name": "lxc/incus",
+      "url": "https://github.com/lxc/incus",
+      "description": "Powerful system container and virtual machine manager",
+      "language": "Go",
+      "stars": "3458",
+      "forks": "293",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "25911",
+      "forks": "2516",
+      "today_stars": "124 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": "11963",
+      "forks": "2464",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14186",
+      "forks": "4008",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "wings",
+      "full_name": "pterodactyl/wings",
+      "url": "https://github.com/pterodactyl/wings",
+      "description": "The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.",
+      "language": "Go",
+      "stars": "820",
+      "forks": "362",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "go-vikunja",
+      "name": "vikunja",
+      "full_name": "go-vikunja/vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The to-do app to organize your life.",
+      "language": "Go",
+      "stars": "1621",
+      "forks": "127",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "10283",
+      "forks": "1655",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "tilt-dev",
+      "name": "tilt",
+      "full_name": "tilt-dev/tilt",
+      "url": "https://github.com/tilt-dev/tilt",
+      "description": "Define your dev environment as code. For microservice apps on Kubernetes.",
+      "language": "Go",
+      "stars": "8291",
+      "forks": "324",
+      "today_stars": "223 stars today"
+    }
+  ]
+}

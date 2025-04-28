@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-04-28 01:13:18",
+  "repositories": [
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74398",
+      "forks": "6049",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23083",
+      "forks": "4900",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19042",
+      "forks": "41325",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12099",
+      "forks": "2111",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15175",
+      "forks": "3503",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "31131",
+      "forks": "2731",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20540",
+      "forks": "780",
+      "today_stars": "120 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37723",
+      "forks": "6679",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28632",
+      "forks": "7809",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2556",
+      "forks": "666",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lizongying",
+      "name": "my-tv",
+      "full_name": "lizongying/my-tv",
+      "url": "https://github.com/lizongying/my-tv",
+      "description": "我的电视 电视直播软件，安装即可使用",
+      "language": "C",
+      "stars": "31966",
+      "forks": "3580",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4579",
+      "forks": "943",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22277",
+      "forks": "11113",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "RsyncProject",
+      "name": "rsync",
+      "full_name": "RsyncProject/rsync",
+      "url": "https://github.com/RsyncProject/rsync",
+      "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
+      "language": "C",
+      "stars": "3442",
+      "forks": "408",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4071",
+      "forks": "678",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2464",
+      "forks": "364",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "openwall",
+      "name": "john",
+      "full_name": "openwall/john",
+      "url": "https://github.com/openwall/john",
+      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+      "language": "C",
+      "stars": "11244",
+      "forks": "2217",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13722",
+      "forks": "5482",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3330",
+      "forks": "1873",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3493",
+      "forks": "1580",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26049",
+      "forks": "2486",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121203",
+      "forks": "11419",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9331",
+      "forks": "3217",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": "4128",
+      "forks": "1196",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

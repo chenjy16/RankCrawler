@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-04-28 01:12:40",
+  "repositories": [
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "10712",
+      "forks": "543",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "35584",
+      "forks": "1100",
+      "today_stars": "267 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "21061",
+      "forks": "2301",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16042",
+      "forks": "3603",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "windows-rs",
+      "full_name": "microsoft/windows-rs",
+      "url": "https://github.com/microsoft/windows-rs",
+      "description": "Rust for Windows",
+      "language": "Rust",
+      "stars": "11231",
+      "forks": "553",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39211",
+      "forks": "3863",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "18251",
+      "forks": "747",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6859",
+      "forks": "11438",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "brahmGAN",
+      "name": "ganchain-v2",
+      "full_name": "brahmGAN/ganchain-v2",
+      "url": "https://github.com/brahmGAN/ganchain-v2",
+      "description": "This is the rust and substrate code for the GAN chain and its nodes.",
+      "language": "Rust",
+      "stars": "859",
+      "forks": "59",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "serde-rs",
+      "name": "serde",
+      "full_name": "serde-rs/serde",
+      "url": "https://github.com/serde-rs/serde",
+      "description": "Serialization framework for Rust",
+      "language": "Rust",
+      "stars": "9633",
+      "forks": "819",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5012",
+      "forks": "363",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48361",
+      "forks": "2087",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "jtroo",
+      "name": "kanata",
+      "full_name": "jtroo/kanata",
+      "url": "https://github.com/jtroo/kanata",
+      "description": "Improve keyboard comfort and usability with advanced customization",
+      "language": "Rust",
+      "stars": "4850",
+      "forks": "175",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "102777",
+      "forks": "5565",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic AI experience in your terminal for building applications using natural language",
+      "language": "Rust",
+      "stars": "466",
+      "forks": "82",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "full_name": "rust-lang/rustup",
+      "url": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": "6421",
+      "forks": "941",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6281",
+      "forks": "3752",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "infinyon",
+      "name": "fluvio",
+      "full_name": "infinyon/fluvio",
+      "url": "https://github.com/infinyon/fluvio",
+      "description": "🦀 event stream processing for developers to stream and process data in motion to power responsive data intensive applications.",
+      "language": "Rust",
+      "stars": "4892",
+      "forks": "514",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "43908",
+      "forks": "2081",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "alloy-rs",
+      "name": "alloy",
+      "full_name": "alloy-rs/alloy",
+      "url": "https://github.com/alloy-rs/alloy",
+      "description": "Transports, Middleware, and Networks for the Alloy project",
+      "language": "Rust",
+      "stars": "846",
+      "forks": "339",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
