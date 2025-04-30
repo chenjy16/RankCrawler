@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-04-30 01:10:52",
+  "repositories": [
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "full_name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+      "language": "Go",
+      "stars": "13281",
+      "forks": "643",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "goccy",
+      "name": "go-yaml",
+      "full_name": "goccy/go-yaml",
+      "url": "https://github.com/goccy/go-yaml",
+      "description": "YAML support for the Go language",
+      "language": "Go",
+      "stars": "1528",
+      "forks": "168",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35252",
+      "forks": "5375",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17015",
+      "forks": "1552",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "ehang-io",
+      "name": "nps",
+      "full_name": "ehang-io/nps",
+      "url": "https://github.com/ehang-io/nps",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+      "language": "Go",
+      "stars": "32147",
+      "forks": "5817",
+      "today_stars": "362 stars today"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "60729",
+      "forks": "1569",
+      "today_stars": "106 stars today"
+    },
+    {
+      "author": "beego",
+      "name": "beego",
+      "full_name": "beego/beego",
+      "url": "https://github.com/beego/beego",
+      "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "language": "Go",
+      "stars": "32043",
+      "forks": "5635",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "260",
+      "forks": "33",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "AI-Infra-Guard",
+      "full_name": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.",
+      "language": "Go",
+      "stars": "1094",
+      "forks": "108",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "13017",
+      "forks": "858",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "runc",
+      "full_name": "opencontainers/runc",
+      "url": "https://github.com/opencontainers/runc",
+      "description": "CLI tool for spawning and running containers according to the OCI specification",
+      "language": "Go",
+      "stars": "12309",
+      "forks": "2171",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",
+      "language": "Go",
+      "stars": "8127",
+      "forks": "2669",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "18920",
+      "forks": "1838",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "terraformer",
+      "full_name": "GoogleCloudPlatform/terraformer",
+      "url": "https://github.com/GoogleCloudPlatform/terraformer",
+      "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+      "language": "Go",
+      "stars": "13524",
+      "forks": "1742",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "semaphoreui",
+      "name": "semaphore",
+      "full_name": "semaphoreui/semaphore",
+      "url": "https://github.com/semaphoreui/semaphore",
+      "description": "Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",
+      "language": "Go",
+      "stars": "11744",
+      "forks": "1127",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3077",
+      "forks": "1289",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "114775",
+      "forks": "40467",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23459",
+      "forks": "2818",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5671",
+      "forks": "1147",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bytedance",
+      "name": "sonic",
+      "full_name": "bytedance/sonic",
+      "url": "https://github.com/bytedance/sonic",
+      "description": "A blazingly fast JSON serializing & deserializing library",
+      "language": "Go",
+      "stars": "7954",
+      "forks": "376",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "full_name": "kubernetes-sigs/kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": "11404",
+      "forks": "2299",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

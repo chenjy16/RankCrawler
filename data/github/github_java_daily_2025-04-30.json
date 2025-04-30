@@ -1,0 +1,227 @@
+{
+  "language": "java",
+  "period": "daily",
+  "fetch_time": "2025-04-30 01:11:42",
+  "repositories": [
+    {
+      "author": "conductor-oss",
+      "name": "conductor",
+      "full_name": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+      "language": "Java",
+      "stars": "20884",
+      "forks": "568",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "xpipe-io",
+      "name": "xpipe",
+      "full_name": "xpipe-io/xpipe",
+      "url": "https://github.com/xpipe-io/xpipe",
+      "description": "Access your entire server infrastructure from your local desktop",
+      "language": "Java",
+      "stars": "10844",
+      "forks": "400",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "camunda",
+      "name": "camunda",
+      "full_name": "camunda/camunda",
+      "url": "https://github.com/camunda/camunda",
+      "description": "Process Orchestration Framework",
+      "language": "Java",
+      "stars": "3603",
+      "forks": "658",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Stirling-Tools",
+      "name": "Stirling-PDF",
+      "full_name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+      "language": "Java",
+      "stars": "57205",
+      "forks": "4803",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "tencentmusic",
+      "name": "supersonic",
+      "full_name": "tencentmusic/supersonic",
+      "url": "https://github.com/tencentmusic/supersonic",
+      "description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+      "language": "Java",
+      "stars": "3589",
+      "forks": "681",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "checkstyle",
+      "name": "checkstyle",
+      "full_name": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "stars": "8568",
+      "forks": "3838",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-framework",
+      "full_name": "spring-projects/spring-framework",
+      "url": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
+      "language": "Java",
+      "stars": "57957",
+      "forks": "38466",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-java-v2",
+      "full_name": "aws/aws-sdk-java-v2",
+      "url": "https://github.com/aws/aws-sdk-java-v2",
+      "description": "The official AWS SDK for Java - Version 2",
+      "language": "Java",
+      "stars": "2293",
+      "forks": "896",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "nacos",
+      "full_name": "alibaba/nacos",
+      "url": "https://github.com/alibaba/nacos",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+      "language": "Java",
+      "stars": "31286",
+      "forks": "13000",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "OpenAPITools",
+      "name": "openapi-generator",
+      "full_name": "OpenAPITools/openapi-generator",
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+      "language": "Java",
+      "stars": "23577",
+      "forks": "6898",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Snailclimb",
+      "name": "JavaGuide",
+      "full_name": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+      "language": "Java",
+      "stars": "149398",
+      "forks": "45814",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai-examples",
+      "full_name": "spring-projects/spring-ai-examples",
+      "url": "https://github.com/spring-projects/spring-ai-examples",
+      "description": "",
+      "language": "Java",
+      "stars": "421",
+      "forks": "150",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "648540858",
+      "name": "wvp-GB28181-pro",
+      "full_name": "648540858/wvp-GB28181-pro",
+      "url": "https://github.com/648540858/wvp-GB28181-pro",
+      "description": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+      "language": "Java",
+      "stars": "5851",
+      "forks": "1656",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "liquibase",
+      "name": "liquibase",
+      "full_name": "liquibase/liquibase",
+      "url": "https://github.com/liquibase/liquibase",
+      "description": "Main Liquibase Source",
+      "language": "Java",
+      "stars": "5001",
+      "forks": "1901",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "seatunnel",
+      "full_name": "apache/seatunnel",
+      "url": "https://github.com/apache/seatunnel",
+      "description": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",
+      "language": "Java",
+      "stars": "8468",
+      "forks": "1957",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "metersphere",
+      "name": "metersphere",
+      "full_name": "metersphere/metersphere",
+      "url": "https://github.com/metersphere/metersphere",
+      "description": "MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。",
+      "language": "Java",
+      "stars": "11995",
+      "forks": "2662",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-boot",
+      "full_name": "spring-projects/spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "stars": "76958",
+      "forks": "41121",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "cassandra",
+      "full_name": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Apache Cassandra®",
+      "language": "Java",
+      "stars": "9166",
+      "forks": "3698",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-security",
+      "full_name": "spring-projects/spring-security",
+      "url": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "stars": "9105",
+      "forks": "6033",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "YunaiV",
+      "name": "ruoyi-vue-pro",
+      "full_name": "YunaiV/ruoyi-vue-pro",
+      "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+      "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+      "language": "Java",
+      "stars": "30671",
+      "forks": "6600",
+      "today_stars": "17 stars today"
+    }
+  ]
+}
