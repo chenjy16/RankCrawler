@@ -1,0 +1,205 @@
+{
+  "language": "typescript",
+  "period": "weekly",
+  "fetch_time": "2025-05-01 01:16:35",
+  "repositories": [
+    {
+      "author": "kamranahmedse",
+      "name": "developer-roadmap",
+      "full_name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": "316792",
+      "forks": "41102",
+      "today_stars": "1,544 stars this week"
+    },
+    {
+      "author": "hydralauncher",
+      "name": "hydra",
+      "full_name": "hydralauncher/hydra",
+      "url": "https://github.com/hydralauncher/hydra",
+      "description": "Hydra is a game launcher with its own embedded bittorrent client",
+      "language": "TypeScript",
+      "stars": "13214",
+      "forks": "3692",
+      "today_stars": "648 stars this week"
+    },
+    {
+      "author": "mediar-ai",
+      "name": "screenpipe",
+      "full_name": "mediar-ai/screenpipe",
+      "url": "https://github.com/mediar-ai/screenpipe",
+      "description": "AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording",
+      "language": "TypeScript",
+      "stars": "14165",
+      "forks": "1021",
+      "today_stars": "545 stars this week"
+    },
+    {
+      "author": "fastrepl",
+      "name": "hyprnote",
+      "full_name": "fastrepl/hyprnote",
+      "url": "https://github.com/fastrepl/hyprnote",
+      "description": "AI Notepad for back-to-back meetings. Local-first & Extensible.",
+      "language": "TypeScript",
+      "stars": "1647",
+      "forks": "77",
+      "today_stars": "1,102 stars this week"
+    },
+    {
+      "author": "David-patrick-chuks",
+      "name": "Instagram-AI-Agent",
+      "full_name": "David-patrick-chuks/Instagram-AI-Agent",
+      "url": "https://github.com/David-patrick-chuks/Instagram-AI-Agent",
+      "description": "Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟",
+      "language": "TypeScript",
+      "stars": "3227",
+      "forks": "563",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "64876",
+      "forks": "3415",
+      "today_stars": "669 stars this week"
+    },
+    {
+      "author": "exa-labs",
+      "name": "exa-mcp-server",
+      "full_name": "exa-labs/exa-mcp-server",
+      "url": "https://github.com/exa-labs/exa-mcp-server",
+      "description": "Claude can perform Web Search | Exa with MCP (Model Context Protocol)",
+      "language": "TypeScript",
+      "stars": "1443",
+      "forks": "113",
+      "today_stars": "554 stars this week"
+    },
+    {
+      "author": "mountain-loop",
+      "name": "yaak",
+      "full_name": "mountain-loop/yaak",
+      "url": "https://github.com/mountain-loop/yaak",
+      "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+      "language": "TypeScript",
+      "stars": "6214",
+      "forks": "196",
+      "today_stars": "363 stars this week"
+    },
+    {
+      "author": "dataelement",
+      "name": "bisheng",
+      "full_name": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+      "language": "TypeScript",
+      "stars": "8288",
+      "forks": "1370",
+      "today_stars": "115 stars this week"
+    },
+    {
+      "author": "blakeblackshear",
+      "name": "frigate",
+      "full_name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": "22294",
+      "forks": "2075",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "slidevjs",
+      "name": "slidev",
+      "full_name": "slidevjs/slidev",
+      "url": "https://github.com/slidevjs/slidev",
+      "description": "Presentation Slides for Developers",
+      "language": "TypeScript",
+      "stars": "36852",
+      "forks": "1516",
+      "today_stars": "696 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "grafana",
+      "full_name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars": "67758",
+      "forks": "12578",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "lobehub",
+      "name": "lobe-chat",
+      "full_name": "lobehub/lobe-chat",
+      "url": "https://github.com/lobehub/lobe-chat",
+      "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.",
+      "language": "TypeScript",
+      "stars": "59992",
+      "forks": "12655",
+      "today_stars": "955 stars this week"
+    },
+    {
+      "author": "homarr-labs",
+      "name": "dashboard-icons",
+      "full_name": "homarr-labs/dashboard-icons",
+      "url": "https://github.com/homarr-labs/dashboard-icons",
+      "description": "Your definitive source for dashboard icons.",
+      "language": "TypeScript",
+      "stars": "6039",
+      "forks": "621",
+      "today_stars": "242 stars this week"
+    },
+    {
+      "author": "omnivore-app",
+      "name": "omnivore",
+      "full_name": "omnivore-app/omnivore",
+      "url": "https://github.com/omnivore-app/omnivore",
+      "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+      "language": "TypeScript",
+      "stars": "14733",
+      "forks": "1148",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "better-auth",
+      "name": "better-auth",
+      "full_name": "better-auth/better-auth",
+      "url": "https://github.com/better-auth/better-auth",
+      "description": "The most comprehensive authentication framework for TypeScript",
+      "language": "TypeScript",
+      "stars": "12540",
+      "forks": "828",
+      "today_stars": "668 stars this week"
+    },
+    {
+      "author": "react-native-webview",
+      "name": "react-native-webview",
+      "full_name": "react-native-webview/react-native-webview",
+      "url": "https://github.com/react-native-webview/react-native-webview",
+      "description": "React Native Cross-Platform WebView",
+      "language": "TypeScript",
+      "stars": "6818",
+      "forks": "3058",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "mui",
+      "name": "base-ui",
+      "full_name": "mui/base-ui",
+      "url": "https://github.com/mui/base-ui",
+      "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+      "language": "TypeScript",
+      "stars": "2690",
+      "forks": "115",
+      "today_stars": "73 stars this week"
+    }
+  ]
+}
