@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-05-02 01:11:20",
+  "repositories": [
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "35968",
+      "forks": "1116",
+      "today_stars": "813 stars this week"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "10922",
+      "forks": "556",
+      "today_stars": "568 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "windows-rs",
+      "full_name": "microsoft/windows-rs",
+      "url": "https://github.com/microsoft/windows-rs",
+      "description": "Rust for Windows",
+      "language": "Rust",
+      "stars": "11244",
+      "forks": "552",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6884",
+      "forks": "11444",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "7705",
+      "forks": "633",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "15214",
+      "forks": "477",
+      "today_stars": "320 stars this week"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "10443",
+      "forks": "437",
+      "today_stars": "212 stars this week"
+    },
+    {
+      "author": "TabbyML",
+      "name": "tabby",
+      "full_name": "TabbyML/tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "description": "Self-hosted AI coding assistant",
+      "language": "Rust",
+      "stars": "31003",
+      "forks": "1457",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48456",
+      "forks": "2094",
+      "today_stars": "189 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "44058",
+      "forks": "2085",
+      "today_stars": "272 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24018",
+      "forks": "1368",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "21158",
+      "forks": "2307",
+      "today_stars": "183 stars this week"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "10913",
+      "forks": "582",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "AppFlowy-IO",
+      "name": "AppFlowy-Cloud",
+      "full_name": "AppFlowy-IO/AppFlowy-Cloud",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+      "language": "Rust",
+      "stars": "1434",
+      "forks": "353",
+      "today_stars": "11 stars this week"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20454",
+      "forks": "1781",
+      "today_stars": "93 stars this week"
+    },
+    {
+      "author": "GitoxideLabs",
+      "name": "gitoxide",
+      "full_name": "GitoxideLabs/gitoxide",
+      "url": "https://github.com/GitoxideLabs/gitoxide",
+      "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+      "language": "Rust",
+      "stars": "9756",
+      "forks": "344",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39307",
+      "forks": "3865",
+      "today_stars": "211 stars this week"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5058",
+      "forks": "366",
+      "today_stars": "136 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "103157",
+      "forks": "13306",
+      "today_stars": "235 stars this week"
+    },
+    {
+      "author": "web-infra-dev",
+      "name": "rspack",
+      "full_name": "web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack",
+      "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+      "language": "Rust",
+      "stars": "11380",
+      "forks": "650",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "16953",
+      "forks": "535",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "mfontanini",
+      "name": "presenterm",
+      "full_name": "mfontanini/presenterm",
+      "url": "https://github.com/mfontanini/presenterm",
+      "description": "A markdown terminal slideshow tool",
+      "language": "Rust",
+      "stars": "5693",
+      "forks": "115",
+      "today_stars": "89 stars this week"
+    }
+  ]
+}

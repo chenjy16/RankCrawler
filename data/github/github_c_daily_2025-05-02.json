@@ -1,0 +1,205 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-02 01:11:52",
+  "repositories": [
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5620",
+      "forks": "853",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "firedancer-io",
+      "name": "firedancer",
+      "full_name": "firedancer-io/firedancer",
+      "url": "https://github.com/firedancer-io/firedancer",
+      "description": "Firedancer is Jump Crypto's Solana validator software.",
+      "language": "C",
+      "stars": "1153",
+      "forks": "243",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "eclipse-threadx",
+      "name": "threadx",
+      "full_name": "eclipse-threadx/threadx",
+      "url": "https://github.com/eclipse-threadx/threadx",
+      "description": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+      "language": "C",
+      "stars": "3138",
+      "forks": "847",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "192680",
+      "forks": "55697",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "pnggroup",
+      "name": "libpng",
+      "full_name": "pnggroup/libpng",
+      "url": "https://github.com/pnggroup/libpng",
+      "description": "LIBPNG: Portable Network Graphics support, official libpng repository",
+      "language": "C",
+      "stars": "1399",
+      "forks": "667",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "torvalds",
+      "name": "uemacs",
+      "full_name": "torvalds/uemacs",
+      "url": "https://github.com/torvalds/uemacs",
+      "description": "Random version of microemacs with my private modificatons",
+      "language": "C",
+      "stars": "1372",
+      "forks": "252",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19009",
+      "forks": "939",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6822",
+      "forks": "1677",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5267",
+      "forks": "1706",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "5934",
+      "forks": "1737",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6731",
+      "forks": "1555",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15399",
+      "forks": "743",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "10890",
+      "forks": "1426",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7123",
+      "forks": "591",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "davatorium",
+      "name": "rofi",
+      "full_name": "davatorium/rofi",
+      "url": "https://github.com/davatorium/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": "14127",
+      "forks": "633",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "koekeishiya",
+      "name": "yabai",
+      "full_name": "koekeishiya/yabai",
+      "url": "https://github.com/koekeishiya/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "stars": "25652",
+      "forks": "663",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14068",
+      "forks": "3964",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15102",
+      "forks": "7623",
+      "today_stars": "13 stars today"
+    }
+  ]
+}
