@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-03 01:09:11",
+  "repositories": [
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "10302",
+      "forks": "1358",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28216",
+      "forks": "4242",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "69853",
+      "forks": "4497",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "6921",
+      "forks": "644",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "400",
+      "forks": "45",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "27817",
+      "forks": "7221",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10197",
+      "forks": "1407",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "full_name": "cockroachdb/cockroach",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "language": "Go",
+      "stars": "30808",
+      "forks": "3896",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "osv-scanner",
+      "full_name": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars": "7365",
+      "forks": "418",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "full_name": "prometheus/client_golang",
+      "url": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": "5629",
+      "forks": "1209",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "16553",
+      "forks": "1467",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "28176",
+      "forks": "1989",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6066",
+      "forks": "3554",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "23147",
+      "forks": "2694",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "13661",
+      "forks": "323",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "cadence-workflow",
+      "name": "cadence",
+      "full_name": "cadence-workflow/cadence",
+      "url": "https://github.com/cadence-workflow/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": "8625",
+      "forks": "830",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "80327",
+      "forks": "7801",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "59602",
+      "forks": "2039",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32325",
+      "forks": "4355",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "benbjohnson",
+      "name": "litestream",
+      "full_name": "benbjohnson/litestream",
+      "url": "https://github.com/benbjohnson/litestream",
+      "description": "Streaming replication for SQLite.",
+      "language": "Go",
+      "stars": "11844",
+      "forks": "281",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11723",
+      "forks": "905",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Provision remote development environments via Terraform",
+      "language": "Go",
+      "stars": "9732",
+      "forks": "874",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "7900",
+      "forks": "651",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16648",
+      "forks": "1558",
+      "today_stars": "40 stars today"
+    }
+  ]
+}

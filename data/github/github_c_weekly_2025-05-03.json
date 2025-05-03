@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-03 01:10:15",
+  "repositories": [
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12311",
+      "forks": "695",
+      "today_stars": "169 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20858",
+      "forks": "792",
+      "today_stars": "512 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "192737",
+      "forks": "55709",
+      "today_stars": "516 stars this week"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "66378",
+      "forks": "4247",
+      "today_stars": "164 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15205",
+      "forks": "3507",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3274",
+      "forks": "1304",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15342",
+      "forks": "1145",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13695",
+      "forks": "495",
+      "today_stars": "181 stars this week"
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "full_name": "Cyan4973/xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": "9788",
+      "forks": "826",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "10896",
+      "forks": "1426",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26110",
+      "forks": "2493",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5691",
+      "forks": "855",
+      "today_stars": "170 stars this week"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4601",
+      "forks": "944",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4086",
+      "forks": "680",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28676",
+      "forks": "7817",
+      "today_stars": "96 stars this week"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22333",
+      "forks": "11118",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9115",
+      "forks": "962",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "26752",
+      "forks": "7267",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11469",
+      "forks": "3421",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4026",
+      "forks": "1527",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6593",
+      "forks": "311",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "eclipse-threadx",
+      "name": "threadx",
+      "full_name": "eclipse-threadx/threadx",
+      "url": "https://github.com/eclipse-threadx/threadx",
+      "description": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+      "language": "C",
+      "stars": "3139",
+      "forks": "849",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "full_name": "warmcat/libwebsockets",
+      "url": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org networking library",
+      "language": "C",
+      "stars": "4960",
+      "forks": "1531",
+      "today_stars": "4 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "68948",
+      "forks": "23990",
+      "today_stars": "146 stars this week"
+    }
+  ]
+}

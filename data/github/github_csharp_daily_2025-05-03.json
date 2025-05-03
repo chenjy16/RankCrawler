@@ -1,0 +1,227 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-05-03 01:10:48",
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "eShop",
+      "full_name": "dotnet/eShop",
+      "url": "https://github.com/dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "language": "C#",
+      "stars": "7932",
+      "forks": "2592",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "meysamhadeli",
+      "name": "monolith-to-cloud-architecture",
+      "full_name": "meysamhadeli/monolith-to-cloud-architecture",
+      "url": "https://github.com/meysamhadeli/monolith-to-cloud-architecture",
+      "description": "A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.",
+      "language": "C#",
+      "stars": "1124",
+      "forks": "237",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "garnet",
+      "full_name": "microsoft/garnet",
+      "url": "https://github.com/microsoft/garnet",
+      "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+      "language": "C#",
+      "stars": "11065",
+      "forks": "566",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "kgrzybek",
+      "name": "modular-monolith-with-ddd",
+      "full_name": "kgrzybek/modular-monolith-with-ddd",
+      "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+      "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+      "language": "C#",
+      "stars": "11950",
+      "forks": "1880",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "space-wizards",
+      "name": "space-station-14",
+      "full_name": "space-wizards/space-station-14",
+      "url": "https://github.com/space-wizards/space-station-14",
+      "description": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+      "language": "C#",
+      "stars": "3043",
+      "forks": "4131",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "bitwarden",
+      "name": "server",
+      "full_name": "bitwarden/server",
+      "url": "https://github.com/bitwarden/server",
+      "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+      "language": "C#",
+      "stars": "16478",
+      "forks": "1386",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hellzerg",
+      "name": "optimizer",
+      "full_name": "hellzerg/optimizer",
+      "url": "https://github.com/hellzerg/optimizer",
+      "description": "The finest Windows Optimizer",
+      "language": "C#",
+      "stars": "15992",
+      "forks": "1023",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "bloxstraplabs",
+      "name": "bloxstrap",
+      "full_name": "bloxstraplabs/bloxstrap",
+      "url": "https://github.com/bloxstraplabs/bloxstrap",
+      "description": "An alternative bootstrapper for Roblox with a bunch of extra features.",
+      "language": "C#",
+      "stars": "2268",
+      "forks": "536",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "files-community",
+      "name": "Files",
+      "full_name": "files-community/Files",
+      "url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "language": "C#",
+      "stars": "36951",
+      "forks": "2322",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "runner",
+      "full_name": "actions/runner",
+      "url": "https://github.com/actions/runner",
+      "description": "The Runner for GitHub Actions 🚀",
+      "language": "C#",
+      "stars": "5264",
+      "forks": "1053",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "macios",
+      "full_name": "dotnet/macios",
+      "url": "https://github.com/dotnet/macios",
+      "description": ".NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#",
+      "language": "C#",
+      "stars": "2649",
+      "forks": "537",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "SciSharp",
+      "name": "BotSharp",
+      "full_name": "SciSharp/BotSharp",
+      "url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "language": "C#",
+      "stars": "2702",
+      "forks": "545",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": "39218",
+      "forks": "3497",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "ppy",
+      "name": "osu",
+      "full_name": "ppy/osu",
+      "url": "https://github.com/ppy/osu",
+      "description": "rhythm is just a *click* away!",
+      "language": "C#",
+      "stars": "16477",
+      "forks": "2428",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "OpenRA",
+      "name": "OpenRA",
+      "full_name": "OpenRA/OpenRA",
+      "url": "https://github.com/OpenRA/OpenRA",
+      "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+      "language": "C#",
+      "stars": "15537",
+      "forks": "2750",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Jackett",
+      "name": "Jackett",
+      "full_name": "Jackett/Jackett",
+      "url": "https://github.com/Jackett/Jackett",
+      "description": "API Support for your favorite torrent trackers",
+      "language": "C#",
+      "stars": "13316",
+      "forks": "1361",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19492",
+      "forks": "4125",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36569",
+      "forks": "10310",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "BeyondDimension",
+      "name": "SteamTools",
+      "full_name": "BeyondDimension/SteamTools",
+      "url": "https://github.com/BeyondDimension/SteamTools",
+      "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+      "language": "C#",
+      "stars": "21905",
+      "forks": "1435",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "SpaceTimee",
+      "name": "Sheas-Cealer",
+      "full_name": "SpaceTimee/Sheas-Cealer",
+      "url": "https://github.com/SpaceTimee/Sheas-Cealer",
+      "description": "Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)",
+      "language": "C#",
+      "stars": "3805",
+      "forks": "447",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

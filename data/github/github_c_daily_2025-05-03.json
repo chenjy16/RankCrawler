@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-03 01:10:09",
+  "repositories": [
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5691",
+      "forks": "855",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20858",
+      "forks": "792",
+      "today_stars": "128 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12311",
+      "forks": "695",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "26648",
+      "forks": "2004",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "firedancer-io",
+      "name": "firedancer",
+      "full_name": "firedancer-io/firedancer",
+      "url": "https://github.com/firedancer-io/firedancer",
+      "description": "Firedancer is Jump Crypto's Solana validator software.",
+      "language": "C",
+      "stars": "1154",
+      "forks": "243",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": "4137",
+      "forks": "1202",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13695",
+      "forks": "495",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14073",
+      "forks": "3967",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rvaiya",
+      "name": "keyd",
+      "full_name": "rvaiya/keyd",
+      "url": "https://github.com/rvaiya/keyd",
+      "description": "A key remapping daemon for linux.",
+      "language": "C",
+      "stars": "3655",
+      "forks": "193",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "limine-bootloader",
+      "name": "limine",
+      "full_name": "limine-bootloader/limine",
+      "url": "https://github.com/limine-bootloader/limine",
+      "description": "Modern, advanced, portable, multiprotocol bootloader and boot manager.",
+      "language": "C",
+      "stars": "2178",
+      "forks": "154",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10178",
+      "forks": "5525",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "6987",
+      "forks": "512",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20283",
+      "forks": "8154",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "uemacs",
+      "full_name": "torvalds/uemacs",
+      "url": "https://github.com/torvalds/uemacs",
+      "description": "Random version of microemacs with my private modificatons",
+      "language": "C",
+      "stars": "1374",
+      "forks": "252",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7135",
+      "forks": "591",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "cnlohr",
+      "name": "mini-rv32ima",
+      "full_name": "cnlohr/mini-rv32ima",
+      "url": "https://github.com/cnlohr/mini-rv32ima",
+      "description": "A tiny C header-only risc-v emulator.",
+      "language": "C",
+      "stars": "1861",
+      "forks": "143",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "192737",
+      "forks": "55709",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "davatorium",
+      "name": "rofi",
+      "full_name": "davatorium/rofi",
+      "url": "https://github.com/davatorium/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": "14134",
+      "forks": "633",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15112",
+      "forks": "7625",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": "6713",
+      "forks": "1819",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "68948",
+      "forks": "23990",
+      "today_stars": "48 stars today"
+    }
+  ]
+}
