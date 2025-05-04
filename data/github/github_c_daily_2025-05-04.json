@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-04 01:18:31",
+  "repositories": [
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5747",
+      "forks": "856",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20927",
+      "forks": "798",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "68971",
+      "forks": "23991",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7142",
+      "forks": "591",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19066",
+      "forks": "41375",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "lwfinger",
+      "name": "rtw88",
+      "full_name": "lwfinger/rtw88",
+      "url": "https://github.com/lwfinger/rtw88",
+      "description": "A backport of the Realtek Wifi 5 drivers from the wireless-next repo.",
+      "language": "C",
+      "stars": "910",
+      "forks": "222",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5070",
+      "forks": "2708",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4086",
+      "forks": "680",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4188",
+      "forks": "1063",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121481",
+      "forks": "11439",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26123",
+      "forks": "2492",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13715",
+      "forks": "495",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30620",
+      "forks": "19592",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "37291",
+      "forks": "2188",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ExistentialAudio",
+      "name": "BlackHole",
+      "full_name": "ExistentialAudio/BlackHole",
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+      "language": "C",
+      "stars": "16376",
+      "forks": "633",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31655",
+      "forks": "1620",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "vanhauser-thc",
+      "name": "thc-hydra",
+      "full_name": "vanhauser-thc/thc-hydra",
+      "url": "https://github.com/vanhauser-thc/thc-hydra",
+      "description": "hydra",
+      "language": "C",
+      "stars": "10366",
+      "forks": "2149",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-projects",
+      "full_name": "remzi-arpacidusseau/ostep-projects",
+      "url": "https://github.com/remzi-arpacidusseau/ostep-projects",
+      "description": "Projects for an undergraduate OS course",
+      "language": "C",
+      "stars": "4759",
+      "forks": "1331",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "6995",
+      "forks": "513",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "quickjs-ng",
+      "name": "quickjs",
+      "full_name": "quickjs-ng/quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "stars": "1633",
+      "forks": "161",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ahrm",
+      "name": "sioyek",
+      "full_name": "ahrm/sioyek",
+      "url": "https://github.com/ahrm/sioyek",
+      "description": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
+      "language": "C",
+      "stars": "7848",
+      "forks": "259",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4469",
+      "forks": "212",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "FelixKratz",
+      "name": "SketchyBar",
+      "full_name": "FelixKratz/SketchyBar",
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "description": "A highly customizable macOS status bar replacement",
+      "language": "C",
+      "stars": "8599",
+      "forks": "123",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "termux",
+      "name": "termux-x11",
+      "full_name": "termux/termux-x11",
+      "url": "https://github.com/termux/termux-x11",
+      "description": "Termux X-server add-on.",
+      "language": "C",
+      "stars": "2640",
+      "forks": "379",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "3936",
+      "forks": "415",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

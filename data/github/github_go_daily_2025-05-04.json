@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-04 01:17:34",
+  "repositories": [
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "27662",
+      "forks": "1488",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16666",
+      "forks": "1562",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "139409",
+      "forks": "11636",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "full_name": "photoprism/photoprism",
+      "url": "https://github.com/photoprism/photoprism",
+      "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+      "language": "Go",
+      "stars": "37198",
+      "forks": "2061",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "10355",
+      "forks": "1365",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5199",
+      "forks": "1221",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "cloudnative-pg",
+      "name": "cloudnative-pg",
+      "full_name": "cloudnative-pg/cloudnative-pg",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+      "language": "Go",
+      "stars": "5897",
+      "forks": "404",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "39026",
+      "forks": "6481",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24111",
+      "forks": "3038",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "full_name": "OJ/gobuster",
+      "url": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": "11504",
+      "forks": "1346",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11732",
+      "forks": "905",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "encoredev",
+      "name": "encore",
+      "full_name": "encoredev/encore",
+      "url": "https://github.com/encoredev/encore",
+      "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+      "language": "Go",
+      "stars": "9922",
+      "forks": "403",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6067",
+      "forks": "3557",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "6928",
+      "forks": "644",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "full_name": "dexidp/dex",
+      "url": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+      "language": "Go",
+      "stars": "9861",
+      "forks": "1774",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "full_name": "Netflix/chaosmonkey",
+      "url": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": "15775",
+      "forks": "1199",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "benbjohnson",
+      "name": "litestream",
+      "full_name": "benbjohnson/litestream",
+      "url": "https://github.com/benbjohnson/litestream",
+      "description": "Streaming replication for SQLite.",
+      "language": "Go",
+      "stars": "11862",
+      "forks": "281",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "full_name": "99designs/gqlgen",
+      "url": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": "10300",
+      "forks": "1206",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "full_name": "hyperledger/fabric",
+      "url": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": "16068",
+      "forks": "8975",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "cadence-workflow",
+      "name": "cadence",
+      "full_name": "cadence-workflow/cadence",
+      "url": "https://github.com/cadence-workflow/cadence",
+      "description": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+      "language": "Go",
+      "stars": "8625",
+      "forks": "830",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "helmfile",
+      "name": "helmfile",
+      "full_name": "helmfile/helmfile",
+      "url": "https://github.com/helmfile/helmfile",
+      "description": "Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",
+      "language": "Go",
+      "stars": "4397",
+      "forks": "288",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

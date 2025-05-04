@@ -1,0 +1,205 @@
+{
+  "language": "typescript",
+  "period": "daily",
+  "fetch_time": "2025-05-04 01:17:15",
+  "repositories": [
+    {
+      "author": "cloudflare",
+      "name": "mcp-server-cloudflare",
+      "full_name": "cloudflare/mcp-server-cloudflare",
+      "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "1707",
+      "forks": "125",
+      "today_stars": "167 stars today"
+    },
+    {
+      "author": "Mail-0",
+      "name": "Zero",
+      "full_name": "Mail-0/Zero",
+      "url": "https://github.com/Mail-0/Zero",
+      "description": "Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email",
+      "language": "TypeScript",
+      "stars": "5694",
+      "forks": "466",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "langwatch",
+      "name": "langwatch",
+      "full_name": "langwatch/langwatch",
+      "url": "https://github.com/langwatch/langwatch",
+      "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
+      "language": "TypeScript",
+      "stars": "1763",
+      "forks": "136",
+      "today_stars": "148 stars today"
+    },
+    {
+      "author": "MODSetter",
+      "name": "SurfSense",
+      "full_name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+      "language": "TypeScript",
+      "stars": "2090",
+      "forks": "165",
+      "today_stars": "223 stars today"
+    },
+    {
+      "author": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "88532",
+      "forks": "24177",
+      "today_stars": "239 stars today"
+    },
+    {
+      "author": "lucide-icons",
+      "name": "lucide",
+      "full_name": "lucide-icons/lucide",
+      "url": "https://github.com/lucide-icons/lucide",
+      "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+      "language": "TypeScript",
+      "stars": "16908",
+      "forks": "777",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "shadcn-ui",
+      "name": "ui",
+      "full_name": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "language": "TypeScript",
+      "stars": "86352",
+      "forks": "5846",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "agents",
+      "full_name": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "language": "TypeScript",
+      "stars": "1845",
+      "forks": "123",
+      "today_stars": "156 stars today"
+    },
+    {
+      "author": "wasp-lang",
+      "name": "open-saas",
+      "full_name": "wasp-lang/open-saas",
+      "url": "https://github.com/wasp-lang/open-saas",
+      "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.",
+      "language": "TypeScript",
+      "stars": "10724",
+      "forks": "1089",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-cdk",
+      "full_name": "aws/aws-cdk",
+      "url": "https://github.com/aws/aws-cdk",
+      "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+      "language": "TypeScript",
+      "stars": "12141",
+      "forks": "4117",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "laurent22",
+      "name": "joplin",
+      "full_name": "laurent22/joplin",
+      "url": "https://github.com/laurent22/joplin",
+      "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "language": "TypeScript",
+      "stars": "49050",
+      "forks": "5316",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "elastic",
+      "name": "kibana",
+      "full_name": "elastic/kibana",
+      "url": "https://github.com/elastic/kibana",
+      "description": "Your window into the Elastic Stack",
+      "language": "TypeScript",
+      "stars": "20448",
+      "forks": "8334",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "directus",
+      "name": "directus",
+      "full_name": "directus/directus",
+      "url": "https://github.com/directus/directus",
+      "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+      "language": "TypeScript",
+      "stars": "30273",
+      "forks": "4186",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": "2387",
+      "forks": "254",
+      "today_stars": "132 stars today"
+    },
+    {
+      "author": "calcom",
+      "name": "cal.com",
+      "full_name": "calcom/cal.com",
+      "url": "https://github.com/calcom/cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "stars": "36063",
+      "forks": "9310",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "documenso",
+      "name": "documenso",
+      "full_name": "documenso/documenso",
+      "url": "https://github.com/documenso/documenso",
+      "description": "The Open Source DocuSign Alternative.",
+      "language": "TypeScript",
+      "stars": "10864",
+      "forks": "1658",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "CopilotKit",
+      "name": "CopilotKit",
+      "full_name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+      "language": "TypeScript",
+      "stars": "18465",
+      "forks": "2637",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "yangshun",
+      "name": "tech-interview-handbook",
+      "full_name": "yangshun/tech-interview-handbook",
+      "url": "https://github.com/yangshun/tech-interview-handbook",
+      "description": "💯 Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": "125926",
+      "forks": "15367",
+      "today_stars": "23 stars today"
+    }
+  ]
+}
