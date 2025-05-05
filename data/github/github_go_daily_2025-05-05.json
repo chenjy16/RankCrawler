@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-05 01:13:57",
+  "repositories": [
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "27813",
+      "forks": "1498",
+      "today_stars": "159 stars today"
+    },
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "10368",
+      "forks": "1364",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28241",
+      "forks": "4245",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16691",
+      "forks": "1566",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "69916",
+      "forks": "4503",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "7928",
+      "forks": "652",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "full_name": "Netflix/chaosmonkey",
+      "url": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": "15792",
+      "forks": "1201",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4881",
+      "forks": "23822",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "13681",
+      "forks": "325",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "full_name": "photoprism/photoprism",
+      "url": "https://github.com/photoprism/photoprism",
+      "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+      "language": "Go",
+      "stars": "37213",
+      "forks": "2062",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "full_name": "zyedidia/micro",
+      "url": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": "26050",
+      "forks": "1208",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "50144",
+      "forks": "4473",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "full_name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": "127578",
+      "forks": "18012",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "full_name": "Jguer/yay",
+      "url": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": "11816",
+      "forks": "368",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "go-genai",
+      "full_name": "googleapis/go-genai",
+      "url": "https://github.com/googleapis/go-genai",
+      "description": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+      "language": "Go",
+      "stars": "250",
+      "forks": "35",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "544",
+      "forks": "54",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "iyear",
+      "name": "tdl",
+      "full_name": "iyear/tdl",
+      "url": "https://github.com/iyear/tdl",
+      "description": "📥 A Telegram toolkit written in Golang",
+      "language": "Go",
+      "stars": "5343",
+      "forks": "526",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "48424",
+      "forks": "5778",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "Wox-launcher",
+      "name": "Wox",
+      "full_name": "Wox-launcher/Wox",
+      "url": "https://github.com/Wox-launcher/Wox",
+      "description": "A cross-platform launcher that simply works",
+      "language": "Go",
+      "stars": "25523",
+      "forks": "2380",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "22386",
+      "forks": "1784",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "28211",
+      "forks": "1990",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "17914",
+      "forks": "8027",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "full_name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+      "language": "Go",
+      "stars": "15892",
+      "forks": "2203",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "blacktop",
+      "name": "ipsw",
+      "full_name": "blacktop/ipsw",
+      "url": "https://github.com/blacktop/ipsw",
+      "description": "iOS/macOS Research Swiss Army Knife",
+      "language": "Go",
+      "stars": "2373",
+      "forks": "180",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

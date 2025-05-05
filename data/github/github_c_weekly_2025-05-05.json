@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-05 01:15:02",
+  "repositories": [
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12345",
+      "forks": "697",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "20982",
+      "forks": "798",
+      "today_stars": "450 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "192869",
+      "forks": "55735",
+      "today_stars": "535 stars this week"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "66405",
+      "forks": "4253",
+      "today_stars": "154 stars this week"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28692",
+      "forks": "7818",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15224",
+      "forks": "3508",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13738",
+      "forks": "495",
+      "today_stars": "191 stars this week"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15355",
+      "forks": "1147",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6610",
+      "forks": "313",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "3940",
+      "forks": "415",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5775",
+      "forks": "858",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121542",
+      "forks": "11439",
+      "today_stars": "362 stars this week"
+    },
+    {
+      "author": "eclipse-threadx",
+      "name": "threadx",
+      "full_name": "eclipse-threadx/threadx",
+      "url": "https://github.com/eclipse-threadx/threadx",
+      "description": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+      "language": "C",
+      "stars": "3140",
+      "forks": "849",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "10902",
+      "forks": "1426",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26137",
+      "forks": "2493",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "68999",
+      "forks": "23994",
+      "today_stars": "184 stars this week"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "37304",
+      "forks": "2189",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "rvaiya",
+      "name": "keyd",
+      "full_name": "rvaiya/keyd",
+      "url": "https://github.com/rvaiya/keyd",
+      "description": "A key remapping daemon for linux.",
+      "language": "C",
+      "stars": "3666",
+      "forks": "192",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7615",
+      "forks": "1013",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "yshui",
+      "name": "picom",
+      "full_name": "yshui/picom",
+      "url": "https://github.com/yshui/picom",
+      "description": "A lightweight compositor for X11 with animation support",
+      "language": "C",
+      "stars": "4402",
+      "forks": "593",
+      "today_stars": "15 stars this week"
+    },
+    {
+      "author": "ptitSeb",
+      "name": "box64",
+      "full_name": "ptitSeb/box64",
+      "url": "https://github.com/ptitSeb/box64",
+      "description": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices",
+      "language": "C",
+      "stars": "4499",
+      "forks": "340",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4558",
+      "forks": "214",
+      "today_stars": "199 stars this week"
+    },
+    {
+      "author": "davatorium",
+      "name": "rofi",
+      "full_name": "davatorium/rofi",
+      "url": "https://github.com/davatorium/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": "14160",
+      "forks": "634",
+      "today_stars": "179 stars this week"
+    }
+  ]
+}
