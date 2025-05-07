@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-05-07 01:12:40",
+  "repositories": [
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "36071",
+      "forks": "1123",
+      "today_stars": "1,101 stars this month"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "51013",
+      "forks": "2027",
+      "today_stars": "964 stars this month"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "15787",
+      "forks": "514",
+      "today_stars": "4,486 stars this month"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "52790",
+      "forks": "1482",
+      "today_stars": "4,707 stars this month"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "26003",
+      "forks": "1672",
+      "today_stars": "5,285 stars this month"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33473",
+      "forks": "2217",
+      "today_stars": "625 stars this month"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic AI experience in your terminal for building applications using natural language",
+      "language": "Rust",
+      "stars": "535",
+      "forks": "93",
+      "today_stars": "247 stars this month"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "27297",
+      "forks": "1090",
+      "today_stars": "966 stars this month"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "6907",
+      "forks": "11456",
+      "today_stars": "142 stars this month"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "13905",
+      "forks": "494",
+      "today_stars": "1,664 stars this month"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "10995",
+      "forks": "561",
+      "today_stars": "832 stars this month"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20502",
+      "forks": "1790",
+      "today_stars": "385 stars this month"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "18366",
+      "forks": "2452",
+      "today_stars": "2,619 stars this month"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5136",
+      "forks": "368",
+      "today_stars": "322 stars this month"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "23789",
+      "forks": "641",
+      "today_stars": "666 stars this month"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "58704",
+      "forks": "3106",
+      "today_stars": "563 stars this month"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "3927",
+      "forks": "258",
+      "today_stars": "571 stars this month"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "92197",
+      "forks": "2835",
+      "today_stars": "1,134 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "58064",
+      "forks": "4027",
+      "today_stars": "1,729 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39410",
+      "forks": "3868",
+      "today_stars": "655 stars this month"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "10491",
+      "forks": "442",
+      "today_stars": "364 stars this month"
+    },
+    {
+      "author": "flxzt",
+      "name": "rnote",
+      "full_name": "flxzt/rnote",
+      "url": "https://github.com/flxzt/rnote",
+      "description": "Sketch and take handwritten notes.",
+      "language": "Rust",
+      "stars": "9628",
+      "forks": "356",
+      "today_stars": "432 stars this month"
+    }
+  ]
+}

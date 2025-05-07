@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-07 01:12:27",
+  "repositories": [
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "58425",
+      "forks": "2913",
+      "today_stars": "583 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "13905",
+      "forks": "494",
+      "today_stars": "179 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "40058",
+      "forks": "1089",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "mail-server",
+      "full_name": "stalwartlabs/mail-server",
+      "url": "https://github.com/stalwartlabs/mail-server",
+      "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)",
+      "language": "Rust",
+      "stars": "7502",
+      "forks": "360",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "6765",
+      "forks": "222",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "kaspanet",
+      "name": "rusty-kaspa",
+      "full_name": "kaspanet/rusty-kaspa",
+      "url": "https://github.com/kaspanet/rusty-kaspa",
+      "description": "Kaspa full-node reference implementation and related libraries in the Rust programming language",
+      "language": "Rust",
+      "stars": "612",
+      "forks": "194",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "24696",
+      "forks": "537",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "5281",
+      "forks": "118",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "17035",
+      "forks": "547",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "20110",
+      "forks": "1453",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "58062",
+      "forks": "10573",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "3564",
+      "forks": "381",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "loco-rs",
+      "name": "loco",
+      "full_name": "loco-rs/loco",
+      "url": "https://github.com/loco-rs/loco",
+      "description": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+      "language": "Rust",
+      "stars": "7611",
+      "forks": "324",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "87810",
+      "forks": "12491",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "full_name": "tokio-rs/tracing",
+      "url": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": "5893",
+      "forks": "782",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "44217",
+      "forks": "2097",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "20261",
+      "forks": "903",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10347",
+      "forks": "386",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "plugins-workspace",
+      "full_name": "tauri-apps/plugins-workspace",
+      "url": "https://github.com/tauri-apps/plugins-workspace",
+      "description": "All of the official Tauri plugins in one place!",
+      "language": "Rust",
+      "stars": "1236",
+      "forks": "373",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "3927",
+      "forks": "258",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6349",
+      "forks": "464",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "1980",
+      "forks": "144",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "noir-lang",
+      "name": "noir",
+      "full_name": "noir-lang/noir",
+      "url": "https://github.com/noir-lang/noir",
+      "description": "Noir is a domain specific language for zero knowledge proofs",
+      "language": "Rust",
+      "stars": "1059",
+      "forks": "274",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

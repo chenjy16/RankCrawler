@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-07 01:12:07",
+  "repositories": [
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "1838",
+      "forks": "134",
+      "today_stars": "495 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "23617",
+      "forks": "892",
+      "today_stars": "230 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18457",
+      "forks": "3535",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "28106",
+      "forks": "1513",
+      "today_stars": "179 stars today"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "10097",
+      "forks": "1179",
+      "today_stars": "219 stars today"
+    },
+    {
+      "author": "gosom",
+      "name": "google-maps-scraper",
+      "full_name": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "stars": "1765",
+      "forks": "213",
+      "today_stars": "185 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32346",
+      "forks": "4362",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "fabric",
+      "full_name": "danielmiessler/fabric",
+      "url": "https://github.com/danielmiessler/fabric",
+      "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "stars": "30980",
+      "forks": "3200",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21808",
+      "forks": "4489",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "13702",
+      "forks": "638",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "simulot",
+      "name": "immich-go",
+      "full_name": "simulot/immich-go",
+      "url": "https://github.com/simulot/immich-go",
+      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+      "language": "Go",
+      "stars": "3054",
+      "forks": "98",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18264",
+      "forks": "1369",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "full_name": "kubernetes/minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": "30333",
+      "forks": "4977",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "naabu",
+      "full_name": "projectdiscovery/naabu",
+      "url": "https://github.com/projectdiscovery/naabu",
+      "description": "A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests",
+      "language": "Go",
+      "stars": "5142",
+      "forks": "591",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "owncast",
+      "name": "owncast",
+      "full_name": "owncast/owncast",
+      "url": "https://github.com/owncast/owncast",
+      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+      "language": "Go",
+      "stars": "10097",
+      "forks": "1024",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gabe565",
+      "name": "ascii-movie",
+      "full_name": "gabe565/ascii-movie",
+      "url": "https://github.com/gabe565/ascii-movie",
+      "description": "Star Wars SSH + Telnet server written in Go.",
+      "language": "Go",
+      "stars": "360",
+      "forks": "18",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "jmoiron",
+      "name": "sqlx",
+      "full_name": "jmoiron/sqlx",
+      "url": "https://github.com/jmoiron/sqlx",
+      "description": "general purpose extensions to golang's database/sql",
+      "language": "Go",
+      "stars": "16891",
+      "forks": "1103",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7055",
+      "forks": "925",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "54553",
+      "forks": "5318",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-azurerm",
+      "full_name": "hashicorp/terraform-provider-azurerm",
+      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": "4732",
+      "forks": "4753",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19730",
+      "forks": "1595",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-workflows",
+      "full_name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "stars": "15605",
+      "forks": "3288",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "skopeo",
+      "full_name": "containers/skopeo",
+      "url": "https://github.com/containers/skopeo",
+      "description": "Work with remote images registries - retrieving information, images, signing content",
+      "language": "Go",
+      "stars": "9111",
+      "forks": "831",
+      "today_stars": "21 stars today"
+    }
+  ]
+}

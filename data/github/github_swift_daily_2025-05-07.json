@@ -1,0 +1,238 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-05-07 01:14:45",
+  "repositories": [
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "41879",
+      "forks": "7607",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25077",
+      "forks": "1475",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "utmapp",
+      "name": "UTM",
+      "full_name": "utmapp/UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "language": "Swift",
+      "stars": "29268",
+      "forks": "1446",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "hmlongco",
+      "name": "Factory",
+      "full_name": "hmlongco/Factory",
+      "url": "https://github.com/hmlongco/Factory",
+      "description": "A new approach to Container-Based Dependency Injection for Swift and SwiftUI.",
+      "language": "Swift",
+      "stars": "2301",
+      "forks": "142",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Beingpax",
+      "name": "VoiceInk",
+      "full_name": "Beingpax/VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "language": "Swift",
+      "stars": "581",
+      "forks": "57",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7423",
+      "forks": "750",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "894",
+      "forks": "352",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Aidoku",
+      "name": "Aidoku",
+      "full_name": "Aidoku/Aidoku",
+      "url": "https://github.com/Aidoku/Aidoku",
+      "description": "Free and open source manga reader for iOS and iPadOS",
+      "language": "Swift",
+      "stars": "3137",
+      "forks": "163",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7867",
+      "forks": "3611",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27840",
+      "forks": "6030",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mrousavy",
+      "name": "react-native-vision-camera",
+      "full_name": "mrousavy/react-native-vision-camera",
+      "url": "https://github.com/mrousavy/react-native-vision-camera",
+      "description": "📸 A powerful, high-performance React Native Camera library.",
+      "language": "Swift",
+      "stars": "8354",
+      "forks": "1188",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nicklockwood",
+      "name": "SwiftFormat",
+      "full_name": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "description": "A command-line tool and Xcode Extension for formatting Swift code",
+      "language": "Swift",
+      "stars": "8251",
+      "forks": "643",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mhaeuser",
+      "name": "Battery-Toolkit",
+      "full_name": "mhaeuser/Battery-Toolkit",
+      "url": "https://github.com/mhaeuser/Battery-Toolkit",
+      "description": "Control the platform power state of your Apple Silicon Mac.",
+      "language": "Swift",
+      "stars": "1140",
+      "forks": "26",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "3923",
+      "forks": "607",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1827",
+      "forks": "149",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13204",
+      "forks": "1514",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3942",
+      "forks": "747",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "XcodesOrg",
+      "name": "XcodesApp",
+      "full_name": "XcodesOrg/XcodesApp",
+      "url": "https://github.com/XcodesOrg/XcodesApp",
+      "description": "The easiest way to install and switch between multiple versions of Xcode - with a mouse click.",
+      "language": "Swift",
+      "stars": "7521",
+      "forks": "326",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mapbox",
+      "name": "mapbox-maps-ios",
+      "full_name": "mapbox/mapbox-maps-ios",
+      "url": "https://github.com/mapbox/mapbox-maps-ios",
+      "description": "Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal",
+      "language": "Swift",
+      "stars": "521",
+      "forks": "174",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "kishikawakatsumi",
+      "name": "KeychainAccess",
+      "full_name": "kishikawakatsumi/KeychainAccess",
+      "url": "https://github.com/kishikawakatsumi/KeychainAccess",
+      "description": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
+      "language": "Swift",
+      "stars": "8100",
+      "forks": "810",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26209",
+      "forks": "3788",
+      "today_stars": "1 star today"
+    }
+  ]
+}

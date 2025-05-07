@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-07 01:13:14",
+  "repositories": [
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21077",
+      "forks": "799",
+      "today_stars": "442 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "192994",
+      "forks": "55763",
+      "today_stars": "517 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12374",
+      "forks": "703",
+      "today_stars": "132 stars this week"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "3944",
+      "forks": "415",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11304",
+      "forks": "1898",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13773",
+      "forks": "498",
+      "today_stars": "170 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121653",
+      "forks": "11446",
+      "today_stars": "385 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15239",
+      "forks": "3508",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15362",
+      "forks": "1147",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5790",
+      "forks": "858",
+      "today_stars": "263 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "uemacs",
+      "full_name": "torvalds/uemacs",
+      "url": "https://github.com/torvalds/uemacs",
+      "description": "Random version of microemacs with my private modificatons",
+      "language": "C",
+      "stars": "1387",
+      "forks": "253",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "yshui",
+      "name": "picom",
+      "full_name": "yshui/picom",
+      "url": "https://github.com/yshui/picom",
+      "description": "A lightweight compositor for X11 with animation support",
+      "language": "C",
+      "stars": "4409",
+      "forks": "593",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10283",
+      "forks": "5527",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "69054",
+      "forks": "24001",
+      "today_stars": "198 stars this week"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19086",
+      "forks": "41409",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28712",
+      "forks": "7823",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "davatorium",
+      "name": "rofi",
+      "full_name": "davatorium/rofi",
+      "url": "https://github.com/davatorium/rofi",
+      "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+      "language": "C",
+      "stars": "14196",
+      "forks": "634",
+      "today_stars": "128 stars this week"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5682",
+      "forks": "798",
+      "today_stars": "290 stars this week"
+    },
+    {
+      "author": "FelixKratz",
+      "name": "SketchyBar",
+      "full_name": "FelixKratz/SketchyBar",
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "description": "A highly customizable macOS status bar replacement",
+      "language": "C",
+      "stars": "8650",
+      "forks": "123",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7639",
+      "forks": "1013",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2554",
+      "forks": "375",
+      "today_stars": "76 stars this week"
+    }
+  ]
+}
