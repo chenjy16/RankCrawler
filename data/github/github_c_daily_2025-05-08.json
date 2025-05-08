@@ -1,0 +1,216 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-08 01:13:06",
+  "repositories": [
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12029",
+      "forks": "7324",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12300",
+      "forks": "2108",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "RfidResearchGroup",
+      "name": "proxmark3",
+      "full_name": "RfidResearchGroup/proxmark3",
+      "url": "https://github.com/RfidResearchGroup/proxmark3",
+      "description": "Iceman Fork - Proxmark3",
+      "language": "C",
+      "stars": "4505",
+      "forks": "1143",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9680",
+      "forks": "2478",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4652",
+      "forks": "909",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37810",
+      "forks": "6684",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5860",
+      "forks": "2684",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6137",
+      "forks": "2545",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+      "language": "C",
+      "stars": "69079",
+      "forks": "24004",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21310",
+      "forks": "3953",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "earlephilhower",
+      "name": "arduino-pico",
+      "full_name": "earlephilhower/arduino-pico",
+      "url": "https://github.com/earlephilhower/arduino-pico",
+      "description": "Raspberry Pi Pico Arduino core, for all RP2040 and RP2350 boards",
+      "language": "C",
+      "stars": "2366",
+      "forks": "473",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15765",
+      "forks": "1395",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "libusb",
+      "name": "libusb",
+      "full_name": "libusb/libusb",
+      "url": "https://github.com/libusb/libusb",
+      "description": "A cross-platform library to access USB devices",
+      "language": "C",
+      "stars": "5603",
+      "forks": "1961",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "hufrea",
+      "name": "byedpi",
+      "full_name": "hufrea/byedpi",
+      "url": "https://github.com/hufrea/byedpi",
+      "description": "Bypass DPI",
+      "language": "C",
+      "stars": "2203",
+      "forks": "148",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "26805",
+      "forks": "7281",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4462",
+      "forks": "1028",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "601",
+      "forks": "3196",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "libjpeg-turbo",
+      "name": "libjpeg-turbo",
+      "full_name": "libjpeg-turbo/libjpeg-turbo",
+      "url": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+      "description": "Main libjpeg-turbo repository",
+      "language": "C",
+      "stars": "3936",
+      "forks": "1061",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6845",
+      "forks": "1680",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

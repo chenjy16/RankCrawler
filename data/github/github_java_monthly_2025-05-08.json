@@ -1,0 +1,249 @@
+{
+  "language": "java",
+  "period": "monthly",
+  "fetch_time": "2025-05-08 01:12:59",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "java-sdk",
+      "full_name": "modelcontextprotocol/java-sdk",
+      "url": "https://github.com/modelcontextprotocol/java-sdk",
+      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+      "language": "Java",
+      "stars": "1414",
+      "forks": "334",
+      "today_stars": "595 stars this month"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai",
+      "full_name": "spring-projects/spring-ai",
+      "url": "https://github.com/spring-projects/spring-ai",
+      "description": "An Application Framework for AI Engineering",
+      "language": "Java",
+      "stars": "4994",
+      "forks": "1370",
+      "today_stars": "498 stars this month"
+    },
+    {
+      "author": "kestra-io",
+      "name": "kestra",
+      "full_name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...",
+      "language": "Java",
+      "stars": "17590",
+      "forks": "1477",
+      "today_stars": "913 stars this month"
+    },
+    {
+      "author": "Anuken",
+      "name": "Mindustry",
+      "full_name": "Anuken/Mindustry",
+      "url": "https://github.com/Anuken/Mindustry",
+      "description": "The automation tower defense RTS",
+      "language": "Java",
+      "stars": "23847",
+      "forks": "3093",
+      "today_stars": "315 stars this month"
+    },
+    {
+      "author": "termux",
+      "name": "termux-app",
+      "full_name": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "stars": "41134",
+      "forks": "4442",
+      "today_stars": "906 stars this month"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai-examples",
+      "full_name": "spring-projects/spring-ai-examples",
+      "url": "https://github.com/spring-projects/spring-ai-examples",
+      "description": "",
+      "language": "Java",
+      "stars": "457",
+      "forks": "162",
+      "today_stars": "171 stars this month"
+    },
+    {
+      "author": "iluwatar",
+      "name": "java-design-patterns",
+      "full_name": "iluwatar/java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "stars": "91637",
+      "forks": "26966",
+      "today_stars": "489 stars this month"
+    },
+    {
+      "author": "cabaletta",
+      "name": "baritone",
+      "full_name": "cabaletta/baritone",
+      "url": "https://github.com/cabaletta/baritone",
+      "description": "google maps for block game",
+      "language": "Java",
+      "stars": "7757",
+      "forks": "1592",
+      "today_stars": "120 stars this month"
+    },
+    {
+      "author": "keycloak",
+      "name": "keycloak",
+      "full_name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": "27043",
+      "forks": "7269",
+      "today_stars": "680 stars this month"
+    },
+    {
+      "author": "conductor-oss",
+      "name": "conductor",
+      "full_name": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+      "language": "Java",
+      "stars": "21971",
+      "forks": "596",
+      "today_stars": "1,704 stars this month"
+    },
+    {
+      "author": "AutoMQ",
+      "name": "automq",
+      "full_name": "AutoMQ/automq",
+      "url": "https://github.com/AutoMQ/automq",
+      "description": "AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+      "language": "Java",
+      "stars": "6202",
+      "forks": "420",
+      "today_stars": "1,320 stars this month"
+    },
+    {
+      "author": "alibaba",
+      "name": "nacos",
+      "full_name": "alibaba/nacos",
+      "url": "https://github.com/alibaba/nacos",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+      "language": "Java",
+      "stars": "31327",
+      "forks": "13004",
+      "today_stars": "247 stars this month"
+    },
+    {
+      "author": "CarGuo",
+      "name": "GSYVideoPlayer",
+      "full_name": "CarGuo/GSYVideoPlayer",
+      "url": "https://github.com/CarGuo/GSYVideoPlayer",
+      "description": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+      "language": "Java",
+      "stars": "20748",
+      "forks": "4260",
+      "today_stars": "116 stars this month"
+    },
+    {
+      "author": "halo-dev",
+      "name": "halo",
+      "full_name": "halo-dev/halo",
+      "url": "https://github.com/halo-dev/halo",
+      "description": "强大易用的开源建站工具。",
+      "language": "Java",
+      "stars": "35461",
+      "forks": "9891",
+      "today_stars": "357 stars this month"
+    },
+    {
+      "author": "dromara",
+      "name": "Sa-Token",
+      "full_name": "dromara/Sa-Token",
+      "url": "https://github.com/dromara/Sa-Token",
+      "description": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+      "language": "Java",
+      "stars": "17578",
+      "forks": "2736",
+      "today_stars": "287 stars this month"
+    },
+    {
+      "author": "TeamNewPipe",
+      "name": "NewPipe",
+      "full_name": "TeamNewPipe/NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
+      "language": "Java",
+      "stars": "33738",
+      "forks": "3191",
+      "today_stars": "377 stars this month"
+    },
+    {
+      "author": "openjdk",
+      "name": "jdk",
+      "full_name": "openjdk/jdk",
+      "url": "https://github.com/openjdk/jdk",
+      "description": "JDK main-line development https://openjdk.org/projects/jdk",
+      "language": "Java",
+      "stars": "20979",
+      "forks": "5826",
+      "today_stars": "272 stars this month"
+    },
+    {
+      "author": "Stirling-Tools",
+      "name": "Stirling-PDF",
+      "full_name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+      "language": "Java",
+      "stars": "58064",
+      "forks": "4864",
+      "today_stars": "2,679 stars this month"
+    },
+    {
+      "author": "hkhcoder",
+      "name": "vprofile-project",
+      "full_name": "hkhcoder/vprofile-project",
+      "url": "https://github.com/hkhcoder/vprofile-project",
+      "description": "",
+      "language": "Java",
+      "stars": "587",
+      "forks": "2824",
+      "today_stars": "76 stars this month"
+    },
+    {
+      "author": "xiaojieonly",
+      "name": "Ehviewer_CN_SXJ",
+      "full_name": "xiaojieonly/Ehviewer_CN_SXJ",
+      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+      "description": "ehviewer，用爱发电，快乐前行",
+      "language": "Java",
+      "stars": "17057",
+      "forks": "462",
+      "today_stars": "550 stars this month"
+    },
+    {
+      "author": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "50746",
+      "forks": "10988",
+      "today_stars": "158 stars this month"
+    },
+    {
+      "author": "libgdx",
+      "name": "libgdx",
+      "full_name": "libgdx/libgdx",
+      "url": "https://github.com/libgdx/libgdx",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework",
+      "language": "Java",
+      "stars": "23996",
+      "forks": "6489",
+      "today_stars": "137 stars this month"
+    }
+  ]
+}
