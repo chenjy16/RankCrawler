@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-09 01:12:46",
+  "repositories": [
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37823",
+      "forks": "6684",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6849",
+      "forks": "1680",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "full_name": "cfenollosa/os-tutorial",
+      "url": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": "28244",
+      "forks": "3386",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "7963",
+      "forks": "1322",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "13870",
+      "forks": "509",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5860",
+      "forks": "2683",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4656",
+      "forks": "908",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23830",
+      "forks": "4904",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3130",
+      "forks": "439",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31681",
+      "forks": "1625",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11479",
+      "forks": "3425",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11655",
+      "forks": "5150",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12305",
+      "forks": "2107",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-instrumentation",
+      "full_name": "open-telemetry/opentelemetry-go-instrumentation",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+      "description": "OpenTelemetry Auto Instrumentation using eBPF",
+      "language": "C",
+      "stars": "774",
+      "forks": "112",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4463",
+      "forks": "1029",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25218",
+      "forks": "3689",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-sr",
+      "full_name": "espressif/esp-sr",
+      "url": "https://github.com/espressif/esp-sr",
+      "description": "Speech recognition",
+      "language": "C",
+      "stars": "913",
+      "forks": "139",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-iot-solution",
+      "full_name": "espressif/esp-iot-solution",
+      "url": "https://github.com/espressif/esp-iot-solution",
+      "description": "Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",
+      "language": "C",
+      "stars": "2215",
+      "forks": "848",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12215",
+      "forks": "2126",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ImageMagick",
+      "name": "ImageMagick",
+      "full_name": "ImageMagick/ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+      "language": "C",
+      "stars": "13501",
+      "forks": "1424",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6141",
+      "forks": "2546",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "603",
+      "forks": "3197",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "TeraTermProject",
+      "name": "teraterm",
+      "full_name": "TeraTermProject/teraterm",
+      "url": "https://github.com/TeraTermProject/teraterm",
+      "description": "",
+      "language": "C",
+      "stars": "627",
+      "forks": "56",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

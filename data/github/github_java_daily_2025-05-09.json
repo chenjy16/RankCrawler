@@ -1,0 +1,260 @@
+{
+  "language": "java",
+  "period": "daily",
+  "fetch_time": "2025-05-09 01:12:26",
+  "repositories": [
+    {
+      "author": "androidx",
+      "name": "media",
+      "full_name": "androidx/media",
+      "url": "https://github.com/androidx/media",
+      "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
+      "language": "Java",
+      "stars": "2155",
+      "forks": "527",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "spring-ai-alibaba",
+      "full_name": "alibaba/spring-ai-alibaba",
+      "url": "https://github.com/alibaba/spring-ai-alibaba",
+      "description": "Agentic AI Framework for Java Developers",
+      "language": "Java",
+      "stars": "2659",
+      "forks": "518",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai-examples",
+      "full_name": "spring-projects/spring-ai-examples",
+      "url": "https://github.com/spring-projects/spring-ai-examples",
+      "description": "",
+      "language": "Java",
+      "stars": "462",
+      "forks": "163",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "redisson",
+      "name": "redisson",
+      "full_name": "redisson/redisson",
+      "url": "https://github.com/redisson/redisson",
+      "description": "Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+      "language": "Java",
+      "stars": "23777",
+      "forks": "5434",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "OpenAPITools",
+      "name": "openapi-generator",
+      "full_name": "OpenAPITools/openapi-generator",
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+      "language": "Java",
+      "stars": "23651",
+      "forks": "6908",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "provectus",
+      "name": "kafka-ui",
+      "full_name": "provectus/kafka-ui",
+      "url": "https://github.com/provectus/kafka-ui",
+      "description": "Open-Source Web UI for Apache Kafka Management",
+      "language": "Java",
+      "stars": "10716",
+      "forks": "1271",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "YunaiV",
+      "name": "yudao-cloud",
+      "full_name": "YunaiV/yudao-cloud",
+      "url": "https://github.com/YunaiV/yudao-cloud",
+      "description": "ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+      "language": "Java",
+      "stars": "17163",
+      "forks": "4248",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "xuxueli",
+      "name": "xxl-job",
+      "full_name": "xuxueli/xxl-job",
+      "url": "https://github.com/xuxueli/xxl-job",
+      "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+      "language": "Java",
+      "stars": "28711",
+      "forks": "11156",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typespec",
+      "full_name": "microsoft/typespec",
+      "url": "https://github.com/microsoft/typespec",
+      "description": "",
+      "language": "Java",
+      "stars": "5048",
+      "forks": "271",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai",
+      "full_name": "spring-projects/spring-ai",
+      "url": "https://github.com/spring-projects/spring-ai",
+      "description": "An Application Framework for AI Engineering",
+      "language": "Java",
+      "stars": "5007",
+      "forks": "1376",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ageerle",
+      "name": "ruoyi-ai",
+      "full_name": "ageerle/ruoyi-ai",
+      "url": "https://github.com/ageerle/ruoyi-ai",
+      "description": "RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。",
+      "language": "Java",
+      "stars": "2995",
+      "forks": "681",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tencentmusic",
+      "name": "supersonic",
+      "full_name": "tencentmusic/supersonic",
+      "url": "https://github.com/tencentmusic/supersonic",
+      "description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+      "language": "Java",
+      "stars": "3638",
+      "forks": "694",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "java-sdk",
+      "full_name": "modelcontextprotocol/java-sdk",
+      "url": "https://github.com/modelcontextprotocol/java-sdk",
+      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+      "language": "Java",
+      "stars": "1427",
+      "forks": "340",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "junit-team",
+      "name": "junit5",
+      "full_name": "junit-team/junit5",
+      "url": "https://github.com/junit-team/junit5",
+      "description": "✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM",
+      "language": "Java",
+      "stars": "6602",
+      "forks": "1546",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-java",
+      "full_name": "DataDog/dd-trace-java",
+      "url": "https://github.com/DataDog/dd-trace-java",
+      "description": "Datadog APM client for Java",
+      "language": "Java",
+      "stars": "638",
+      "forks": "301",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "halo-dev",
+      "name": "halo",
+      "full_name": "halo-dev/halo",
+      "url": "https://github.com/halo-dev/halo",
+      "description": "强大易用的开源建站工具。",
+      "language": "Java",
+      "stars": "35468",
+      "forks": "9892",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google",
+      "name": "google-java-format",
+      "full_name": "google/google-java-format",
+      "url": "https://github.com/google/google-java-format",
+      "description": "Reformats Java source code to comply with Google Java Style.",
+      "language": "Java",
+      "stars": "5781",
+      "forks": "885",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "56834",
+      "forks": "6347",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-security",
+      "full_name": "spring-projects/spring-security",
+      "url": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "stars": "9119",
+      "forks": "6040",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jeecgboot",
+      "name": "JeecgBoot",
+      "full_name": "jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "🔥一款基于AIGC和低代码引擎的AI低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；",
+      "language": "Java",
+      "stars": "42617",
+      "forks": "15321",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "skylot",
+      "name": "jadx",
+      "full_name": "skylot/jadx",
+      "url": "https://github.com/skylot/jadx",
+      "description": "Dex to Java decompiler",
+      "language": "Java",
+      "stars": "43868",
+      "forks": "5059",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "krahets",
+      "name": "hello-algo",
+      "full_name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+      "language": "Java",
+      "stars": "112280",
+      "forks": "13959",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "dromara",
+      "name": "Sa-Token",
+      "full_name": "dromara/Sa-Token",
+      "url": "https://github.com/dromara/Sa-Token",
+      "description": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+      "language": "Java",
+      "stars": "17585",
+      "forks": "2736",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

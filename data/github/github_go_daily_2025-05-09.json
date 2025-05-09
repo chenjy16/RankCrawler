@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-09 01:11:47",
+  "repositories": [
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "4051",
+      "forks": "265",
+      "today_stars": "1,268 stars today"
+    },
+    {
+      "author": "rzane",
+      "name": "docker2exe",
+      "full_name": "rzane/docker2exe",
+      "url": "https://github.com/rzane/docker2exe",
+      "description": "Convert a Docker image to an executable",
+      "language": "Go",
+      "stars": "1170",
+      "forks": "52",
+      "today_stars": "221 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19458",
+      "forks": "5966",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23482",
+      "forks": "3540",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mailru",
+      "name": "easyjson",
+      "full_name": "mailru/easyjson",
+      "url": "https://github.com/mailru/easyjson",
+      "description": "Fast JSON serializer for golang.",
+      "language": "Go",
+      "stars": "4703",
+      "forks": "441",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "50259",
+      "forks": "4484",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10292",
+      "forks": "9474",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "hookdeck",
+      "name": "outpost",
+      "full_name": "hookdeck/outpost",
+      "url": "https://github.com/hookdeck/outpost",
+      "description": "Open Source Outbound Webhooks and Event Destinations Infrastructure",
+      "language": "Go",
+      "stars": "370",
+      "forks": "6",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "zeromicro",
+      "name": "go-zero",
+      "full_name": "zeromicro/go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "language": "Go",
+      "stars": "30915",
+      "forks": "4104",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "full_name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": "127673",
+      "forks": "18024",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "10509",
+      "forks": "1198",
+      "today_stars": "283 stars today"
+    },
+    {
+      "author": "langgenius",
+      "name": "dify-plugin-daemon",
+      "full_name": "langgenius/dify-plugin-daemon",
+      "url": "https://github.com/langgenius/dify-plugin-daemon",
+      "description": "",
+      "language": "Go",
+      "stars": "188",
+      "forks": "140",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "13968",
+      "forks": "1361",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "alloy",
+      "full_name": "grafana/alloy",
+      "url": "https://github.com/grafana/alloy",
+      "description": "OpenTelemetry Collector distribution with programmable pipelines",
+      "language": "Go",
+      "stars": "2025",
+      "forks": "326",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "16602",
+      "forks": "1470",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "infracost",
+      "name": "infracost",
+      "full_name": "infracost/infracost",
+      "url": "https://github.com/infracost/infracost",
+      "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+      "language": "Go",
+      "stars": "11465",
+      "forks": "595",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nvidia-container-toolkit",
+      "full_name": "NVIDIA/nvidia-container-toolkit",
+      "url": "https://github.com/NVIDIA/nvidia-container-toolkit",
+      "description": "Build and run containers leveraging NVIDIA GPUs",
+      "language": "Go",
+      "stars": "3185",
+      "forks": "344",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "34583",
+      "forks": "3192",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "3542",
+      "forks": "260",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "139950",
+      "forks": "11685",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8618",
+      "forks": "1039",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "48878",
+      "forks": "20815",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ray-project",
+      "name": "kuberay",
+      "full_name": "ray-project/kuberay",
+      "url": "https://github.com/ray-project/kuberay",
+      "description": "A toolkit to run Ray applications on Kubernetes",
+      "language": "Go",
+      "stars": "1733",
+      "forks": "534",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

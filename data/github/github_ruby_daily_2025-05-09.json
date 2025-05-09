@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-05-09 01:14:04",
+  "repositories": [
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "43944",
+      "forks": "8519",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14608",
+      "forks": "5080",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "23529",
+      "forks": "4322",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48241",
+      "forks": "7161",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5036",
+      "forks": "1110",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "12478",
+      "forks": "558",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "56862",
+      "forks": "21847",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ytti",
+      "name": "oxidized",
+      "full_name": "ytti/oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "stars": "2977",
+      "forks": "970",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "43512",
+      "forks": "10199",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog Tracing Ruby Client",
+      "language": "Ruby",
+      "stars": "343",
+      "forks": "387",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "onetimesecret",
+      "name": "onetimesecret",
+      "full_name": "onetimesecret/onetimesecret",
+      "url": "https://github.com/onetimesecret/onetimesecret",
+      "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+      "language": "Ruby",
+      "stars": "2354",
+      "forks": "400",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4812",
+      "forks": "814",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2759",
+      "forks": "905",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13300",
+      "forks": "2449",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40137",
+      "forks": "5804",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14261",
+      "forks": "12763",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26631",
+      "forks": "4445",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "paper-trail-gem",
+      "name": "paper_trail",
+      "full_name": "paper-trail-gem/paper_trail",
+      "url": "https://github.com/paper-trail-gem/paper_trail",
+      "description": "Track changes to your rails models",
+      "language": "Ruby",
+      "stars": "6864",
+      "forks": "905",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "10997",
+      "forks": "2593",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "CocoaPods",
+      "name": "CocoaPods",
+      "full_name": "CocoaPods/CocoaPods",
+      "url": "https://github.com/CocoaPods/CocoaPods",
+      "description": "The Cocoa Dependency Manager.",
+      "language": "Ruby",
+      "stars": "14698",
+      "forks": "2664",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "rbs",
+      "full_name": "ruby/rbs",
+      "url": "https://github.com/ruby/rbs",
+      "description": "Type Signature for Ruby",
+      "language": "Ruby",
+      "stars": "2036",
+      "forks": "221",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "jwt",
+      "name": "ruby-jwt",
+      "full_name": "jwt/ruby-jwt",
+      "url": "https://github.com/jwt/ruby-jwt",
+      "description": "A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.",
+      "language": "Ruby",
+      "stars": "3630",
+      "forks": "375",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rubocop",
+      "name": "rubocop",
+      "full_name": "rubocop/rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "stars": "12735",
+      "forks": "3074",
+      "today_stars": "1 star today"
+    }
+  ]
+}
