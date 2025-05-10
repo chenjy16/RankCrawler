@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-10 01:09:56",
+  "repositories": [
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "stars": "11097",
+      "forks": "5165",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23833",
+      "forks": "4903",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37843",
+      "forks": "6686",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "GuijiAI",
+      "name": "HeyGem.ai",
+      "full_name": "GuijiAI/HeyGem.ai",
+      "url": "https://github.com/GuijiAI/HeyGem.ai",
+      "description": "",
+      "language": "C",
+      "stars": "8035",
+      "forks": "1336",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4658",
+      "forks": "908",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27332",
+      "forks": "10530",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5625",
+      "forks": "1110",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "full_name": "warmcat/libwebsockets",
+      "url": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org networking library",
+      "language": "C",
+      "stars": "4973",
+      "forks": "1531",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kingToolbox",
+      "name": "WindTerm",
+      "full_name": "kingToolbox/WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "stars": "26238",
+      "forks": "2025",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "wolfSSL",
+      "name": "wolfssl",
+      "full_name": "wolfSSL/wolfssl",
+      "url": "https://github.com/wolfSSL/wolfssl",
+      "description": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3!",
+      "language": "C",
+      "stars": "2495",
+      "forks": "862",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DoctorWkt",
+      "name": "acwj",
+      "full_name": "DoctorWkt/acwj",
+      "url": "https://github.com/DoctorWkt/acwj",
+      "description": "A Compiler Writing Journey",
+      "language": "C",
+      "stars": "11677",
+      "forks": "1101",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31686",
+      "forks": "1625",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11480",
+      "forks": "3291",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5862",
+      "forks": "2683",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "602",
+      "forks": "3197",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25222",
+      "forks": "3688",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pnggroup",
+      "name": "libpng",
+      "full_name": "pnggroup/libpng",
+      "url": "https://github.com/pnggroup/libpng",
+      "description": "LIBPNG: Portable Network Graphics support, official libpng repository",
+      "language": "C",
+      "stars": "1405",
+      "forks": "678",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11660",
+      "forks": "2785",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12044",
+      "forks": "7342",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "9968",
+      "forks": "1485",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6756",
+      "forks": "1556",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-10 01:09:19",
+  "repositories": [
+    {
+      "author": "longbridge",
+      "name": "gpui-component",
+      "full_name": "longbridge/gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "UI components for building fantastic desktop application by using GPUI.",
+      "language": "Rust",
+      "stars": "1736",
+      "forks": "89",
+      "today_stars": "174 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "58837",
+      "forks": "4107",
+      "today_stars": "345 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "12496",
+      "forks": "947",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3472",
+      "forks": "147",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "53301",
+      "forks": "1500",
+      "today_stars": "170 stars today"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "18754",
+      "forks": "582",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33540",
+      "forks": "2225",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "26309",
+      "forks": "1698",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "27392",
+      "forks": "1094",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "Wilfred",
+      "name": "difftastic",
+      "full_name": "Wilfred/difftastic",
+      "url": "https://github.com/Wilfred/difftastic",
+      "description": "a structural diff that understands syntax 🟥🟩",
+      "language": "Rust",
+      "stars": "22163",
+      "forks": "370",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "17145",
+      "forks": "556",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "trifectatechfoundation",
+      "name": "sudo-rs",
+      "full_name": "trifectatechfoundation/sudo-rs",
+      "url": "https://github.com/trifectatechfoundation/sudo-rs",
+      "description": "A memory safe implementation of sudo and su.",
+      "language": "Rust",
+      "stars": "3359",
+      "forks": "98",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "38641",
+      "forks": "1321",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7169",
+      "forks": "1477",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "web-infra-dev",
+      "name": "rspack",
+      "full_name": "web-infra-dev/rspack",
+      "url": "https://github.com/web-infra-dev/rspack",
+      "description": "The fast Rust-based web bundler with webpack-compatible API 🦀️",
+      "language": "Rust",
+      "stars": "11411",
+      "forks": "652",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tari-project",
+      "name": "tari",
+      "full_name": "tari-project/tari",
+      "url": "https://github.com/tari-project/tari",
+      "description": "The Tari protocol",
+      "language": "Rust",
+      "stars": "400",
+      "forks": "226",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "aws-lambda-web-adapter",
+      "full_name": "awslabs/aws-lambda-web-adapter",
+      "url": "https://github.com/awslabs/aws-lambda-web-adapter",
+      "description": "Run web applications on AWS Lambda",
+      "language": "Rust",
+      "stars": "2277",
+      "forks": "134",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "12902",
+      "forks": "405",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "4004",
+      "forks": "262",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "axum",
+      "full_name": "tokio-rs/axum",
+      "url": "https://github.com/tokio-rs/axum",
+      "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+      "language": "Rust",
+      "stars": "21493",
+      "forks": "1160",
+      "today_stars": "17 stars today"
+    }
+  ]
+}
