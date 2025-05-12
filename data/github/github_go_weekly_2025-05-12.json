@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-05-12 01:14:42",
+  "repositories": [
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "24046",
+      "forks": "903",
+      "today_stars": "1,009 stars this week"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "28304",
+      "forks": "1520",
+      "today_stars": "557 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "4680",
+      "forks": "332",
+      "today_stars": "4,182 stars this week"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "10835",
+      "forks": "1211",
+      "today_stars": "1,148 stars this week"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19483",
+      "forks": "5973",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "full_name": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps",
+      "language": "Go",
+      "stars": "23726",
+      "forks": "1216",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18550",
+      "forks": "3539",
+      "today_stars": "202 stars this week"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "8423",
+      "forks": "601",
+      "today_stars": "160 stars this week"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23509",
+      "forks": "3541",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "9616",
+      "forks": "805",
+      "today_stars": "1,276 stars this week"
+    },
+    {
+      "author": "kubetail-org",
+      "name": "kubetail",
+      "full_name": "kubetail-org/kubetail",
+      "url": "https://github.com/kubetail-org/kubetail",
+      "description": "Real-time logging dashboard for Kubernetes (browser/terminal)",
+      "language": "Go",
+      "stars": "1048",
+      "forks": "41",
+      "today_stars": "299 stars this week"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16799",
+      "forks": "1580",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "gosom",
+      "name": "google-maps-scraper",
+      "full_name": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "stars": "1897",
+      "forks": "220",
+      "today_stars": "514 stars this week"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "6335",
+      "forks": "820",
+      "today_stars": "280 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "gum",
+      "full_name": "charmbracelet/gum",
+      "url": "https://github.com/charmbracelet/gum",
+      "description": "A tool for glamorous shell scripts 🎀",
+      "language": "Go",
+      "stars": "19629",
+      "forks": "382",
+      "today_stars": "164 stars this week"
+    },
+    {
+      "author": "Netflix",
+      "name": "chaosmonkey",
+      "full_name": "Netflix/chaosmonkey",
+      "url": "https://github.com/Netflix/chaosmonkey",
+      "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "language": "Go",
+      "stars": "15835",
+      "forks": "1206",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "70145",
+      "forks": "4510",
+      "today_stars": "258 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "54616",
+      "forks": "5327",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "owncast",
+      "name": "owncast",
+      "full_name": "owncast/owncast",
+      "url": "https://github.com/owncast/owncast",
+      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+      "language": "Go",
+      "stars": "10118",
+      "forks": "1029",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "chaitin",
+      "name": "SafeLine",
+      "full_name": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": "16329",
+      "forks": "984",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "48905",
+      "forks": "20830",
+      "today_stars": "58 stars this week"
+    }
+  ]
+}

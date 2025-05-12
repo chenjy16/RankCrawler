@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-12 01:15:44",
+  "repositories": [
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69162",
+      "forks": "24022",
+      "today_stars": "193 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "121895",
+      "forks": "11470",
+      "today_stars": "389 stars this week"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7205",
+      "forks": "590",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "193304",
+      "forks": "55808",
+      "today_stars": "512 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12052",
+      "forks": "7344",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4639",
+      "forks": "216",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "13864",
+      "forks": "500",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "full_name": "cfenollosa/os-tutorial",
+      "url": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": "28257",
+      "forks": "3387",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10304",
+      "forks": "5537",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "66553",
+      "forks": "4260",
+      "today_stars": "176 stars this week"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7670",
+      "forks": "1016",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2622",
+      "forks": "380",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15391",
+      "forks": "1148",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12238",
+      "forks": "2134",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "yshui",
+      "name": "picom",
+      "full_name": "yshui/picom",
+      "url": "https://github.com/yshui/picom",
+      "description": "A lightweight compositor for X11 with animation support",
+      "language": "C",
+      "stars": "4414",
+      "forks": "593",
+      "today_stars": "13 stars this week"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5707",
+      "forks": "798",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23113",
+      "forks": "4903",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11485",
+      "forks": "3428",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "winsiderss",
+      "name": "systeminformer",
+      "full_name": "winsiderss/systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+      "language": "C",
+      "stars": "11842",
+      "forks": "1467",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11162",
+      "forks": "787",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5629",
+      "forks": "1110",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1074",
+      "forks": "120",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11674",
+      "forks": "2785",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "karpathy",
+      "name": "llama2.c",
+      "full_name": "karpathy/llama2.c",
+      "url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
+      "language": "C",
+      "stars": "18373",
+      "forks": "2249",
+      "today_stars": "44 stars this week"
+    }
+  ]
+}
