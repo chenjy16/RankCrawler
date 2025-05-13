@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-13 01:13:20",
+  "repositories": [
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "30442",
+      "forks": "3171",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "88035",
+      "forks": "12553",
+      "today_stars": "71 stars today"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "38051",
+      "forks": "6925",
+      "today_stars": "198 stars today"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4285",
+      "forks": "1540",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48694",
+      "forks": "2103",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "longbridge",
+      "name": "gpui-component",
+      "full_name": "longbridge/gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "UI components for building fantastic desktop application by using GPUI.",
+      "language": "Rust",
+      "stars": "2588",
+      "forks": "116",
+      "today_stars": "302 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16085",
+      "forks": "3618",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "24160",
+      "forks": "735",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "modrinth",
+      "name": "code",
+      "full_name": "modrinth/code",
+      "url": "https://github.com/modrinth/code",
+      "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+      "language": "Rust",
+      "stars": "1357",
+      "forks": "272",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "59422",
+      "forks": "4166",
+      "today_stars": "238 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "24742",
+      "forks": "1735",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "1738",
+      "forks": "73",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "37427",
+      "forks": "2801",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39503",
+      "forks": "3879",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "parcel-bundler",
+      "name": "lightningcss",
+      "full_name": "parcel-bundler/lightningcss",
+      "url": "https://github.com/parcel-bundler/lightningcss",
+      "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+      "language": "Rust",
+      "stars": "7003",
+      "forks": "202",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "12964",
+      "forks": "407",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "axum",
+      "full_name": "tokio-rs/axum",
+      "url": "https://github.com/tokio-rs/axum",
+      "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+      "language": "Rust",
+      "stars": "21525",
+      "forks": "1164",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "52241",
+      "forks": "2120",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "22879",
+      "forks": "1737",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4208",
+      "forks": "375",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "lencx",
+      "name": "ChatGPT",
+      "full_name": "lencx/ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "language": "Rust",
+      "stars": "53756",
+      "forks": "6087",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "vosen",
+      "name": "ZLUDA",
+      "full_name": "vosen/ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "stars": "11314",
+      "forks": "721",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": "3697",
+      "forks": "136",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "sirupsen",
+      "name": "napkin-math",
+      "full_name": "sirupsen/napkin-math",
+      "url": "https://github.com/sirupsen/napkin-math",
+      "description": "Techniques and numbers for estimating system's performance from first-principles",
+      "language": "Rust",
+      "stars": "4324",
+      "forks": "176",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

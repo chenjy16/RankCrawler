@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-13 01:13:59",
+  "repositories": [
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30648",
+      "forks": "19577",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8246",
+      "forks": "2991",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "RamonUnch",
+      "name": "AltSnap",
+      "full_name": "RamonUnch/AltSnap",
+      "url": "https://github.com/RamonUnch/AltSnap",
+      "description": "Maintained continuation of Stefan Sundin's AltDrag",
+      "language": "C",
+      "stars": "3445",
+      "forks": "106",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22424",
+      "forks": "11153",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "13877",
+      "forks": "2151",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "22620",
+      "forks": "3062",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "tio",
+      "name": "tio",
+      "full_name": "tio/tio",
+      "url": "https://github.com/tio/tio",
+      "description": "A serial device I/O tool",
+      "language": "C",
+      "stars": "2369",
+      "forks": "170",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "64100",
+      "forks": "8390",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "full_name": "xmrig/xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": "9206",
+      "forks": "3617",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11171",
+      "forks": "787",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26251",
+      "forks": "2501",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "webui-dev",
+      "name": "webui",
+      "full_name": "webui-dev/webui",
+      "url": "https://github.com/webui-dev/webui",
+      "description": "Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.",
+      "language": "C",
+      "stars": "3556",
+      "forks": "229",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9376",
+      "forks": "3231",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2636",
+      "forks": "381",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74525",
+      "forks": "6052",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "TASEmulators",
+      "name": "desmume",
+      "full_name": "TASEmulators/desmume",
+      "url": "https://github.com/TASEmulators/desmume",
+      "description": "DeSmuME is a Nintendo DS emulator",
+      "language": "C",
+      "stars": "3215",
+      "forks": "589",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "vanhauser-thc",
+      "name": "thc-hydra",
+      "full_name": "vanhauser-thc/thc-hydra",
+      "url": "https://github.com/vanhauser-thc/thc-hydra",
+      "description": "hydra",
+      "language": "C",
+      "stars": "10393",
+      "forks": "2157",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mgba-emu",
+      "name": "mgba",
+      "full_name": "mgba-emu/mgba",
+      "url": "https://github.com/mgba-emu/mgba",
+      "description": "mGBA Game Boy Advance Emulator",
+      "language": "C",
+      "stars": "6156",
+      "forks": "840",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12481",
+      "forks": "707",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "xemu-project",
+      "name": "xemu",
+      "full_name": "xemu-project/xemu",
+      "url": "https://github.com/xemu-project/xemu",
+      "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+      "language": "C",
+      "stars": "3199",
+      "forks": "320",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "lwfinger",
+      "name": "rtw88",
+      "full_name": "lwfinger/rtw88",
+      "url": "https://github.com/lwfinger/rtw88",
+      "description": "A backport of the Realtek Wifi 5 drivers from the wireless-next repo.",
+      "language": "C",
+      "stars": "935",
+      "forks": "225",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
