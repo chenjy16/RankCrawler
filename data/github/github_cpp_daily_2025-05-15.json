@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-05-15 01:11:07",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "19298",
+      "forks": "1426",
+      "today_stars": "304 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "80192",
+      "forks": "11743",
+      "today_stars": "167 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+      "language": "C++",
+      "stars": "10868",
+      "forks": "1850",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "97140",
+      "forks": "22367",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16561",
+      "forks": "3204",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3104",
+      "forks": "1442",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "34893",
+      "forks": "3873",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "rizinorg",
+      "name": "cutter",
+      "full_name": "rizinorg/cutter",
+      "url": "https://github.com/rizinorg/cutter",
+      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "language": "C++",
+      "stars": "16580",
+      "forks": "1204",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "121998",
+      "forks": "24655",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "ValveSoftware",
+      "name": "source-sdk-2013",
+      "full_name": "ValveSoftware/source-sdk-2013",
+      "url": "https://github.com/ValveSoftware/source-sdk-2013",
+      "description": "The 2013 edition of the Source SDK",
+      "language": "C++",
+      "stars": "8922",
+      "forks": "2601",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "emscripten-core",
+      "name": "emscripten",
+      "full_name": "emscripten-core/emscripten",
+      "url": "https://github.com/emscripten-core/emscripten",
+      "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
+      "language": "C++",
+      "stars": "26480",
+      "forks": "3397",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26137",
+      "forks": "4763",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45646",
+      "forks": "6980",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C++",
+      "stars": "12400",
+      "forks": "1834",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "26916",
+      "forks": "8765",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "25953",
+      "forks": "4932",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "aristocratos",
+      "name": "btop",
+      "full_name": "aristocratos/btop",
+      "url": "https://github.com/aristocratos/btop",
+      "description": "A monitor of resources",
+      "language": "C++",
+      "stars": "24722",
+      "forks": "746",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7485",
+      "forks": "1225",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "4720",
+      "forks": "1214",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "21785",
+      "forks": "2630",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36025",
+      "forks": "10348",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "valhalla",
+      "name": "valhalla",
+      "full_name": "valhalla/valhalla",
+      "url": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "stars": "4836",
+      "forks": "737",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

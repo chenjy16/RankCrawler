@@ -1,0 +1,271 @@
+{
+  "language": "ruby",
+  "period": "weekly",
+  "fetch_time": "2025-05-15 01:12:12",
+  "repositories": [
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22613",
+      "forks": "5416",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "43994",
+      "forks": "8534",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14627",
+      "forks": "5084",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "12506",
+      "forks": "561",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "43575",
+      "forks": "10214",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "23621",
+      "forks": "4349",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog Tracing Ruby Client",
+      "language": "Ruby",
+      "stars": "343",
+      "forks": "389",
+      "today_stars": "0 stars this week"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40149",
+      "forks": "5809",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "9135",
+      "forks": "658",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48260",
+      "forks": "7164",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "56885",
+      "forks": "21853",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "onetimesecret",
+      "name": "onetimesecret",
+      "full_name": "onetimesecret/onetimesecret",
+      "url": "https://github.com/onetimesecret/onetimesecret",
+      "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+      "language": "Ruby",
+      "stars": "2362",
+      "forks": "400",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14297",
+      "forks": "12779",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+      "language": "Ruby",
+      "stars": "4895",
+      "forks": "136",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "Shopify",
+      "name": "liquid",
+      "full_name": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "stars": "11340",
+      "forks": "1445",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3838",
+      "forks": "1409",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2770",
+      "forks": "909",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4822",
+      "forks": "821",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "solidusio",
+      "name": "solidus",
+      "full_name": "solidusio/solidus",
+      "url": "https://github.com/solidusio/solidus",
+      "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
+      "language": "Ruby",
+      "stars": "5145",
+      "forks": "1335",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-ruby",
+      "full_name": "aws/aws-sdk-ruby",
+      "url": "https://github.com/aws/aws-sdk-ruby",
+      "description": "The official AWS SDK for Ruby",
+      "language": "Ruby",
+      "stars": "3614",
+      "forks": "1221",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "rack",
+      "name": "rack",
+      "full_name": "rack/rack",
+      "url": "https://github.com/rack/rack",
+      "description": "A modular Ruby web server interface.",
+      "language": "Ruby",
+      "stars": "4992",
+      "forks": "1641",
+      "today_stars": "5 stars this week"
+    },
+    {
+      "author": "rails",
+      "name": "solid_queue",
+      "full_name": "rails/solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
+      "language": "Ruby",
+      "stars": "2110",
+      "forks": "169",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "hartator",
+      "name": "wayback-machine-downloader",
+      "full_name": "hartator/wayback-machine-downloader",
+      "url": "https://github.com/hartator/wayback-machine-downloader",
+      "description": "Download an entire website from the Wayback Machine.",
+      "language": "Ruby",
+      "stars": "5570",
+      "forks": "745",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "activerecord-hackery",
+      "name": "ransack",
+      "full_name": "activerecord-hackery/ransack",
+      "url": "https://github.com/activerecord-hackery/ransack",
+      "description": "Object-based searching.",
+      "language": "Ruby",
+      "stars": "5763",
+      "forks": "815",
+      "today_stars": "5 stars this week"
+    }
+  ]
+}

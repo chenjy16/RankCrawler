@@ -1,0 +1,249 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-05-15 01:11:27",
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "macios",
+      "full_name": "dotnet/macios",
+      "url": "https://github.com/dotnet/macios",
+      "description": ".NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#",
+      "language": "C#",
+      "stars": "2666",
+      "forks": "540",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "dotnet",
+      "full_name": "dotnet/dotnet",
+      "url": "https://github.com/dotnet/dotnet",
+      "description": "Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.",
+      "language": "C#",
+      "stars": "590",
+      "forks": "166",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36615",
+      "forks": "10327",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OrchardCMS",
+      "name": "OrchardCore",
+      "full_name": "OrchardCMS/OrchardCore",
+      "url": "https://github.com/OrchardCMS/OrchardCore",
+      "description": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+      "language": "C#",
+      "stars": "7688",
+      "forks": "2464",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "sbom-tool",
+      "full_name": "microsoft/sbom-tool",
+      "url": "https://github.com/microsoft/sbom-tool",
+      "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+      "language": "C#",
+      "stars": "1786",
+      "forks": "159",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dotnet",
+      "name": "wpf",
+      "full_name": "dotnet/wpf",
+      "url": "https://github.com/dotnet/wpf",
+      "description": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+      "language": "C#",
+      "stars": "7308",
+      "forks": "1205",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "47354",
+      "forks": "7630",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "dotnet-architecture",
+      "name": "eShopOnWeb",
+      "full_name": "dotnet-architecture/eShopOnWeb",
+      "url": "https://github.com/dotnet-architecture/eShopOnWeb",
+      "description": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb",
+      "language": "C#",
+      "stars": "10397",
+      "forks": "5696",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "maui",
+      "full_name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": "22667",
+      "forks": "1829",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "App-vNext",
+      "name": "Polly",
+      "full_name": "App-vNext/Polly",
+      "url": "https://github.com/App-vNext/Polly",
+      "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",
+      "language": "C#",
+      "stars": "13771",
+      "forks": "1252",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "runner",
+      "full_name": "actions/runner",
+      "url": "https://github.com/actions/runner",
+      "description": "The Runner for GitHub Actions 🚀",
+      "language": "C#",
+      "stars": "5274",
+      "forks": "1057",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "microsoft",
+      "name": "semantic-kernel",
+      "full_name": "microsoft/semantic-kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "language": "C#",
+      "stars": "24438",
+      "forks": "3817",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "extensions",
+      "full_name": "dotnet/extensions",
+      "url": "https://github.com/dotnet/extensions",
+      "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+      "language": "C#",
+      "stars": "2926",
+      "forks": "803",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "jasontaylordev",
+      "name": "CleanArchitecture",
+      "full_name": "jasontaylordev/CleanArchitecture",
+      "url": "https://github.com/jasontaylordev/CleanArchitecture",
+      "description": "Clean Architecture Solution Template for ASP.NET Core",
+      "language": "C#",
+      "stars": "18126",
+      "forks": "3851",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4481",
+      "forks": "616",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "aras-p",
+      "name": "UnityGaussianSplatting",
+      "full_name": "aras-p/UnityGaussianSplatting",
+      "url": "https://github.com/aras-p/UnityGaussianSplatting",
+      "description": "Toy Gaussian Splatting visualization in Unity",
+      "language": "C#",
+      "stars": "2532",
+      "forks": "312",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "lepoco",
+      "name": "wpfui",
+      "full_name": "lepoco/wpfui",
+      "url": "https://github.com/lepoco/wpfui",
+      "description": "WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",
+      "language": "C#",
+      "stars": "8353",
+      "forks": "837",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5777",
+      "forks": "4954",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rmcrackan",
+      "name": "Libation",
+      "full_name": "rmcrackan/Libation",
+      "url": "https://github.com/rmcrackan/Libation",
+      "description": "Libation: Liberate your Library",
+      "language": "C#",
+      "stars": "3880",
+      "forks": "192",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "umbraco",
+      "name": "Umbraco-CMS",
+      "full_name": "umbraco/Umbraco-CMS",
+      "url": "https://github.com/umbraco/Umbraco-CMS",
+      "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+      "language": "C#",
+      "stars": "4841",
+      "forks": "2777",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "egametang",
+      "name": "ET",
+      "full_name": "egametang/ET",
+      "url": "https://github.com/egametang/ET",
+      "description": "Unity3D Client And C# Server Framework",
+      "language": "C#",
+      "stars": "9254",
+      "forks": "3143",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "MaterialDesignInXAML",
+      "name": "MaterialDesignInXamlToolkit",
+      "full_name": "MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+      "url": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
+      "description": "Google's Material Design in XAML & WPF, for C# & VB.Net.",
+      "language": "C#",
+      "stars": "15583",
+      "forks": "3472",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-05-15 01:11:46",
+  "repositories": [
+    {
+      "author": "livewire",
+      "name": "livewire",
+      "full_name": "livewire/livewire",
+      "url": "https://github.com/livewire/livewire",
+      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+      "language": "PHP",
+      "stars": "22891",
+      "forks": "1627",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "full_name": "phpstan/phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": "13358",
+      "forks": "919",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23486",
+      "forks": "3423",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "full_name": "composer/composer",
+      "url": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": "28968",
+      "forks": "4625",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9587",
+      "forks": "715",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "freescout-help-desk",
+      "name": "freescout",
+      "full_name": "freescout-help-desk/freescout",
+      "url": "https://github.com/freescout-help-desk/freescout",
+      "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
+      "language": "PHP",
+      "stars": "3461",
+      "forks": "541",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11796",
+      "forks": "9369",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8555",
+      "forks": "4888",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "2764",
+      "forks": "2837",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "dr5hn",
+      "name": "countries-states-cities-database",
+      "full_name": "dr5hn/countries-states-cities-database",
+      "url": "https://github.com/dr5hn/countries-states-cities-database",
+      "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+      "language": "PHP",
+      "stars": "8275",
+      "forks": "2771",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "62776",
+      "forks": "24337",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30332",
+      "forks": "9608",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "MISP",
+      "name": "MISP",
+      "full_name": "MISP/MISP",
+      "url": "https://github.com/MISP/MISP",
+      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+      "language": "PHP",
+      "stars": "5694",
+      "forks": "1458",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-php",
+      "full_name": "DataDog/dd-trace-php",
+      "url": "https://github.com/DataDog/dd-trace-php",
+      "description": "Datadog PHP Clients",
+      "language": "PHP",
+      "stars": "524",
+      "forks": "164",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Sylius",
+      "name": "Sylius",
+      "full_name": "Sylius/Sylius",
+      "url": "https://github.com/Sylius/Sylius",
+      "description": "Open Source eCommerce Framework on Symfony",
+      "language": "PHP",
+      "stars": "8212",
+      "forks": "2132",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "woocommerce",
+      "name": "woocommerce",
+      "full_name": "woocommerce/woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "language": "PHP",
+      "stars": "9757",
+      "forks": "10767",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "shopware",
+      "name": "shopware",
+      "full_name": "shopware/shopware",
+      "url": "https://github.com/shopware/shopware",
+      "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions",
+      "language": "PHP",
+      "stars": "3037",
+      "forks": "1079",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PHP-CS-Fixer",
+      "name": "PHP-CS-Fixer",
+      "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
+      "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": "13152",
+      "forks": "1600",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pyrohost",
+      "name": "pyrodactyl",
+      "full_name": "pyrohost/pyrodactyl",
+      "url": "https://github.com/pyrohost/pyrodactyl",
+      "description": "Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.",
+      "language": "PHP",
+      "stars": "633",
+      "forks": "67",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "invoiceninja",
+      "name": "invoiceninja",
+      "full_name": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "stars": "8821",
+      "forks": "2382",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "timber",
+      "name": "timber",
+      "full_name": "timber/timber",
+      "url": "https://github.com/timber/timber",
+      "description": "Create WordPress themes with beautiful OOP code and the Twig Template Engine",
+      "language": "PHP",
+      "stars": "5582",
+      "forks": "515",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "doctrine",
+      "name": "dbal",
+      "full_name": "doctrine/dbal",
+      "url": "https://github.com/doctrine/dbal",
+      "description": "Doctrine Database Abstraction Layer",
+      "language": "PHP",
+      "stars": "9589",
+      "forks": "1350",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-15 01:09:48",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26607",
+      "forks": "2548",
+      "today_stars": "163 stars today"
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "full_name": "rook/rook",
+      "url": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": "12794",
+      "forks": "2724",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21829",
+      "forks": "4491",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19809",
+      "forks": "1599",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "140488",
+      "forks": "11755",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "25534",
+      "forks": "4864",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49338",
+      "forks": "10067",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "17974",
+      "forks": "8074",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69729",
+      "forks": "18743",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "qax-os",
+      "name": "excelize",
+      "full_name": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "language": "Go",
+      "stars": "19111",
+      "forks": "1777",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18317",
+      "forks": "1371",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "fx",
+      "full_name": "uber-go/fx",
+      "url": "https://github.com/uber-go/fx",
+      "description": "A dependency injection based application framework for Go.",
+      "language": "Go",
+      "stars": "6479",
+      "forks": "310",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24582",
+      "forks": "1643",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "6979",
+      "forks": "649",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8635",
+      "forks": "1041",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-go",
+      "full_name": "DataDog/dd-trace-go",
+      "url": "https://github.com/DataDog/dd-trace-go",
+      "description": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+      "language": "Go",
+      "stars": "740",
+      "forks": "463",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "13742",
+      "forks": "640",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "70120",
+      "forks": "2513",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "tmc",
+      "name": "langchaingo",
+      "full_name": "tmc/langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+      "language": "Go",
+      "stars": "6550",
+      "forks": "821",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11783",
+      "forks": "906",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "iam-veeramalla",
+      "name": "observability-zero-to-hero",
+      "full_name": "iam-veeramalla/observability-zero-to-hero",
+      "url": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+      "description": "Repo for learning observability",
+      "language": "Go",
+      "stars": "2051",
+      "forks": "3168",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "langgenius",
+      "name": "dify-sandbox",
+      "full_name": "langgenius/dify-sandbox",
+      "url": "https://github.com/langgenius/dify-sandbox",
+      "description": "A lightweight, fast, and secure code execution environment that supports multiple programming languages",
+      "language": "Go",
+      "stars": "835",
+      "forks": "201",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19216",
+      "forks": "2312",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3731",
+      "forks": "716",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
