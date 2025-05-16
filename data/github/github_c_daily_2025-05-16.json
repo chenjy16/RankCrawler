@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-16 01:13:45",
+  "repositories": [
+    {
+      "author": "n64decomp",
+      "name": "mk64",
+      "full_name": "n64decomp/mk64",
+      "url": "https://github.com/n64decomp/mk64",
+      "description": "A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.",
+      "language": "C",
+      "stars": "931",
+      "forks": "88",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39023",
+      "forks": "7854",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19613",
+      "forks": "3615",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12087",
+      "forks": "7359",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "618",
+      "forks": "3199",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13660",
+      "forks": "4239",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5821",
+      "forks": "859",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "arut",
+      "name": "nginx-rtmp-module",
+      "full_name": "arut/nginx-rtmp-module",
+      "url": "https://github.com/arut/nginx-rtmp-module",
+      "description": "NGINX-based Media Streaming Server",
+      "language": "C",
+      "stars": "13751",
+      "forks": "3559",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6614",
+      "forks": "1304",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4538",
+      "forks": "1329",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "VirusTotal",
+      "name": "yara",
+      "full_name": "VirusTotal/yara",
+      "url": "https://github.com/VirusTotal/yara",
+      "description": "The pattern matching swiss knife",
+      "language": "C",
+      "stars": "8761",
+      "forks": "1490",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5291",
+      "forks": "1826",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4481",
+      "forks": "1030",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "BandarHL",
+      "name": "BHTwitter",
+      "full_name": "BandarHL/BHTwitter",
+      "url": "https://github.com/BandarHL/BHTwitter",
+      "description": "Awesome tweak for Twitter",
+      "language": "C",
+      "stars": "2181",
+      "forks": "485",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5096",
+      "forks": "2715",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12350",
+      "forks": "2109",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "26888",
+      "forks": "7291",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3358",
+      "forks": "1879",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.",
+      "language": "C",
+      "stars": "5901",
+      "forks": "689",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14121",
+      "forks": "3986",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OpenEPaperLink",
+      "name": "OpenEPaperLink",
+      "full_name": "OpenEPaperLink/OpenEPaperLink",
+      "url": "https://github.com/OpenEPaperLink/OpenEPaperLink",
+      "description": "The OpenEPaperLink core project",
+      "language": "C",
+      "stars": "1331",
+      "forks": "119",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "full_name": "warmcat/libwebsockets",
+      "url": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org networking library",
+      "language": "C",
+      "stars": "4981",
+      "forks": "1532",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "robertdavidgraham",
+      "name": "masscan",
+      "full_name": "robertdavidgraham/masscan",
+      "url": "https://github.com/robertdavidgraham/masscan",
+      "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+      "language": "C",
+      "stars": "24473",
+      "forks": "3120",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "util-linux",
+      "name": "util-linux",
+      "full_name": "util-linux/util-linux",
+      "url": "https://github.com/util-linux/util-linux",
+      "description": "",
+      "language": "C",
+      "stars": "2858",
+      "forks": "1248",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

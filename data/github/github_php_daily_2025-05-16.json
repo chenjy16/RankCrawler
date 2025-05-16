@@ -1,0 +1,271 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-05-16 01:14:43",
+  "repositories": [
+    {
+      "author": "woocommerce",
+      "name": "woocommerce",
+      "full_name": "woocommerce/woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "language": "PHP",
+      "stars": "9757",
+      "forks": "10768",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pimcore",
+      "name": "pimcore",
+      "full_name": "pimcore/pimcore",
+      "url": "https://github.com/pimcore/pimcore",
+      "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+      "language": "PHP",
+      "stars": "3569",
+      "forks": "1470",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9591",
+      "forks": "715",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-ide-helper",
+      "full_name": "barryvdh/laravel-ide-helper",
+      "url": "https://github.com/barryvdh/laravel-ide-helper",
+      "description": "IDE Helper for Laravel",
+      "language": "PHP",
+      "stars": "14561",
+      "forks": "1187",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23504",
+      "forks": "3424",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "2763",
+      "forks": "2837",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "full_name": "composer/composer",
+      "url": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": "28968",
+      "forks": "4625",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30329",
+      "forks": "9609",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "MISP",
+      "name": "MISP",
+      "full_name": "MISP/MISP",
+      "url": "https://github.com/MISP/MISP",
+      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+      "language": "PHP",
+      "stars": "5697",
+      "forks": "1459",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "horizon",
+      "full_name": "laravel/horizon",
+      "url": "https://github.com/laravel/horizon",
+      "description": "Dashboard and code-driven configuration for Laravel queues.",
+      "language": "PHP",
+      "stars": "3957",
+      "forks": "677",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "shlinkio",
+      "name": "shlink",
+      "full_name": "shlinkio/shlink",
+      "url": "https://github.com/shlinkio/shlink",
+      "description": "The definitive self-hosted URL shortener",
+      "language": "PHP",
+      "stars": "3876",
+      "forks": "311",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "full_name": "guzzle/guzzle",
+      "url": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": "23392",
+      "forks": "2398",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-debugbar",
+      "full_name": "barryvdh/laravel-debugbar",
+      "url": "https://github.com/barryvdh/laravel-debugbar",
+      "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+      "language": "PHP",
+      "stars": "18266",
+      "forks": "1576",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cweagans",
+      "name": "composer-patches",
+      "full_name": "cweagans/composer-patches",
+      "url": "https://github.com/cweagans/composer-patches",
+      "description": "Simple patches plugin for Composer",
+      "language": "PHP",
+      "stars": "1600",
+      "forks": "249",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": "12152",
+      "forks": "3385",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "spatie",
+      "name": "laravel-permission",
+      "full_name": "spatie/laravel-permission",
+      "url": "https://github.com/spatie/laravel-permission",
+      "description": "Associate users with roles and permissions",
+      "language": "PHP",
+      "stars": "12473",
+      "forks": "1799",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PhpSpreadsheet",
+      "full_name": "PHPOffice/PhpSpreadsheet",
+      "url": "https://github.com/PHPOffice/PhpSpreadsheet",
+      "description": "A pure PHP library for reading and writing spreadsheet files",
+      "language": "PHP",
+      "stars": "13638",
+      "forks": "3565",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "dr5hn",
+      "name": "countries-states-cities-database",
+      "full_name": "dr5hn/countries-states-cities-database",
+      "url": "https://github.com/dr5hn/countries-states-cities-database",
+      "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+      "language": "PHP",
+      "stars": "8281",
+      "forks": "2772",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "PHP-CS-Fixer",
+      "name": "PHP-CS-Fixer",
+      "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
+      "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": "13153",
+      "forks": "1600",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8558",
+      "forks": "4888",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "opnsense",
+      "name": "core",
+      "full_name": "opnsense/core",
+      "url": "https://github.com/opnsense/core",
+      "description": "OPNsense GUI, API and systems backend",
+      "language": "PHP",
+      "stars": "3753",
+      "forks": "808",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11794",
+      "forks": "9369",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-php",
+      "full_name": "DataDog/dd-trace-php",
+      "url": "https://github.com/DataDog/dd-trace-php",
+      "description": "Datadog PHP Clients",
+      "language": "PHP",
+      "stars": "524",
+      "forks": "164",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "41228",
+      "forks": "2491",
+      "today_stars": "33 stars today"
+    }
+  ]
+}

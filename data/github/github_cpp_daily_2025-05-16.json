@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-05-16 01:14:05",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "19473",
+      "forks": "1447",
+      "today_stars": "225 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16582",
+      "forks": "3206",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "21793",
+      "forks": "2630",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "rizinorg",
+      "name": "cutter",
+      "full_name": "rizinorg/cutter",
+      "url": "https://github.com/rizinorg/cutter",
+      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "language": "C++",
+      "stars": "16623",
+      "forks": "1207",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "zxing-cpp",
+      "name": "zxing-cpp",
+      "full_name": "zxing-cpp/zxing-cpp",
+      "url": "https://github.com/zxing-cpp/zxing-cpp",
+      "description": "C++ port of ZXing",
+      "language": "C++",
+      "stars": "1489",
+      "forks": "449",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "full_name": "topjohnwu/Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "C++",
+      "stars": "52846",
+      "forks": "13864",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "80288",
+      "forks": "11770",
+      "today_stars": "122 stars today"
+    },
+    {
+      "author": "ExpressLRS",
+      "name": "ExpressLRS",
+      "full_name": "ExpressLRS/ExpressLRS",
+      "url": "https://github.com/ExpressLRS/ExpressLRS",
+      "description": "ESP32/ESP8285-based High-Performance Radio Link for RC applications",
+      "language": "C++",
+      "stars": "4094",
+      "forks": "1076",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19381",
+      "forks": "3104",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7514",
+      "forks": "1227",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36029",
+      "forks": "10350",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26151",
+      "forks": "4763",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "harfbuzz",
+      "name": "harfbuzz",
+      "full_name": "harfbuzz/harfbuzz",
+      "url": "https://github.com/harfbuzz/harfbuzz",
+      "description": "HarfBuzz text shaping engine",
+      "language": "C++",
+      "stars": "4618",
+      "forks": "662",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15181",
+      "forks": "1358",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45662",
+      "forks": "6981",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16606",
+      "forks": "2174",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29370",
+      "forks": "5688",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "11295",
+      "forks": "3124",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "5300",
+      "forks": "1281",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chromiumembedded",
+      "name": "cef",
+      "full_name": "chromiumembedded/cef",
+      "url": "https://github.com/chromiumembedded/cef",
+      "description": "Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.",
+      "language": "C++",
+      "stars": "3828",
+      "forks": "498",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ZLMediaKit",
+      "name": "ZLMediaKit",
+      "full_name": "ZLMediaKit/ZLMediaKit",
+      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+      "language": "C++",
+      "stars": "15076",
+      "forks": "3658",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "barry-ran",
+      "name": "QtScrcpy",
+      "full_name": "barry-ran/QtScrcpy",
+      "url": "https://github.com/barry-ran/QtScrcpy",
+      "description": "Android real-time display control software",
+      "language": "C++",
+      "stars": "24149",
+      "forks": "3030",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5412",
+      "forks": "482",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

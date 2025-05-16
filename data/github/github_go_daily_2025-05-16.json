@@ -1,0 +1,282 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-16 01:12:47",
+  "repositories": [
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19843",
+      "forks": "1601",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "13372",
+      "forks": "903",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26648",
+      "forks": "2549",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11120",
+      "forks": "1698",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "full_name": "thanos-io/thanos",
+      "url": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+      "language": "Go",
+      "stars": "13514",
+      "forks": "2160",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "golang-lru",
+      "full_name": "hashicorp/golang-lru",
+      "url": "https://github.com/hashicorp/golang-lru",
+      "description": "Golang LRU cache",
+      "language": "Go",
+      "stars": "4613",
+      "forks": "516",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pdfcpu",
+      "name": "pdfcpu",
+      "full_name": "pdfcpu/pdfcpu",
+      "url": "https://github.com/pdfcpu/pdfcpu",
+      "description": "A PDF processor written in Go.",
+      "language": "Go",
+      "stars": "7588",
+      "forks": "528",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "ltaoo",
+      "name": "wx_channels_download",
+      "full_name": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "language": "Go",
+      "stars": "1765",
+      "forks": "257",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "17993",
+      "forks": "8079",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6318",
+      "forks": "1002",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "27876",
+      "forks": "7230",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18323",
+      "forks": "1371",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69732",
+      "forks": "18744",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "language": "Go",
+      "stars": "8182",
+      "forks": "2681",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "golang-jwt",
+      "name": "jwt",
+      "full_name": "golang-jwt/jwt",
+      "url": "https://github.com/golang-jwt/jwt",
+      "description": "Go implementation of JSON Web Tokens (JWT).",
+      "language": "Go",
+      "stars": "8022",
+      "forks": "381",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "6989",
+      "forks": "651",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-azurerm",
+      "full_name": "hashicorp/terraform-provider-azurerm",
+      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": "4744",
+      "forks": "4759",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jeessy2",
+      "name": "ddns-go",
+      "full_name": "jeessy2/ddns-go",
+      "url": "https://github.com/jeessy2/ddns-go",
+      "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+      "language": "Go",
+      "stars": "14224",
+      "forks": "1618",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8639",
+      "forks": "1041",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "lejianwen",
+      "name": "rustdesk-api",
+      "full_name": "lejianwen/rustdesk-api",
+      "url": "https://github.com/lejianwen/rustdesk-api",
+      "description": "Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login",
+      "language": "Go",
+      "stars": "1084",
+      "forks": "236",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15580",
+      "forks": "5644",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "3684",
+      "forks": "276",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14015",
+      "forks": "1368",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "getsops",
+      "name": "sops",
+      "full_name": "getsops/sops",
+      "url": "https://github.com/getsops/sops",
+      "description": "Simple and flexible tool for managing secrets",
+      "language": "Go",
+      "stars": "18461",
+      "forks": "928",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "metrics-server",
+      "full_name": "kubernetes-sigs/metrics-server",
+      "url": "https://github.com/kubernetes-sigs/metrics-server",
+      "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+      "language": "Go",
+      "stars": "6143",
+      "forks": "1924",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
