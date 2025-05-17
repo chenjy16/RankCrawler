@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-05-17 01:12:33",
+  "repositories": [
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7527",
+      "forks": "1229",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gem5",
+      "name": "gem5",
+      "full_name": "gem5/gem5",
+      "url": "https://github.com/gem5/gem5",
+      "description": "The official repository for the gem5 computer-system architecture simulator.",
+      "language": "C++",
+      "stars": "1996",
+      "forks": "1416",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PixarAnimationStudios",
+      "name": "OpenUSD",
+      "full_name": "PixarAnimationStudios/OpenUSD",
+      "url": "https://github.com/PixarAnimationStudios/OpenUSD",
+      "description": "Universal Scene Description",
+      "language": "C++",
+      "stars": "6562",
+      "forks": "1293",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16594",
+      "forks": "3209",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "19549",
+      "forks": "1451",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "26925",
+      "forks": "8762",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages",
+      "language": "C++",
+      "stars": "5990",
+      "forks": "679",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3914",
+      "forks": "466",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "assimp",
+      "name": "assimp",
+      "full_name": "assimp/assimp",
+      "url": "https://github.com/assimp/assimp",
+      "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+      "language": "C++",
+      "stars": "11627",
+      "forks": "3019",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "TixiaoShan",
+      "name": "LIO-SAM",
+      "full_name": "TixiaoShan/LIO-SAM",
+      "url": "https://github.com/TixiaoShan/LIO-SAM",
+      "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+      "language": "C++",
+      "stars": "3877",
+      "forks": "1353",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "berthrage",
+      "name": "Devil-May-Cry-3-Crimson",
+      "full_name": "berthrage/Devil-May-Cry-3-Crimson",
+      "url": "https://github.com/berthrage/Devil-May-Cry-3-Crimson",
+      "description": "New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.",
+      "language": "C++",
+      "stars": "101",
+      "forks": "3",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "34940",
+      "forks": "3878",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "rizinorg",
+      "name": "cutter",
+      "full_name": "rizinorg/cutter",
+      "url": "https://github.com/rizinorg/cutter",
+      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "language": "C++",
+      "stars": "16644",
+      "forks": "1208",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26156",
+      "forks": "4765",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "STL",
+      "full_name": "microsoft/STL",
+      "url": "https://github.com/microsoft/STL",
+      "description": "MSVC's implementation of the C++ Standard Library.",
+      "language": "C++",
+      "stars": "10579",
+      "forks": "1543",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45679",
+      "forks": "6983",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "11304",
+      "forks": "3125",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16608",
+      "forks": "2174",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29377",
+      "forks": "5688",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "11589",
+      "forks": "2194",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "oatpp",
+      "name": "oatpp",
+      "full_name": "oatpp/oatpp",
+      "url": "https://github.com/oatpp/oatpp",
+      "description": "🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.",
+      "language": "C++",
+      "stars": "8242",
+      "forks": "1335",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

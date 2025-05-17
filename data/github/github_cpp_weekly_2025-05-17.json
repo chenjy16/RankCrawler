@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "weekly",
+  "fetch_time": "2025-05-17 01:12:39",
+  "repositories": [
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "80374",
+      "forks": "11788",
+      "today_stars": "1,014 stars this week"
+    },
+    {
+      "author": "wolfpld",
+      "name": "tracy",
+      "full_name": "wolfpld/tracy",
+      "url": "https://github.com/wolfpld/tracy",
+      "description": "Frame profiler",
+      "language": "C++",
+      "stars": "11783",
+      "forks": "797",
+      "today_stars": "340 stars this week"
+    },
+    {
+      "author": "isledecomp",
+      "name": "isle",
+      "full_name": "isledecomp/isle",
+      "url": "https://github.com/isledecomp/isle",
+      "description": "A functionally complete decompilation of LEGO Island (1997)",
+      "language": "C++",
+      "stars": "3040",
+      "forks": "133",
+      "today_stars": "316 stars this week"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "116782",
+      "forks": "16042",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "21798",
+      "forks": "2631",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "122037",
+      "forks": "24660",
+      "today_stars": "200 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7527",
+      "forks": "1229",
+      "today_stars": "97 stars this week"
+    },
+    {
+      "author": "idaholab",
+      "name": "moose",
+      "full_name": "idaholab/moose",
+      "url": "https://github.com/idaholab/moose",
+      "description": "Multiphysics Object Oriented Simulation Environment",
+      "language": "C++",
+      "stars": "1936",
+      "forks": "1110",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36032",
+      "forks": "10353",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "24650",
+      "forks": "4550",
+      "today_stars": "161 stars this week"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "4729",
+      "forks": "1219",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "ValveSoftware",
+      "name": "source-sdk-2013",
+      "full_name": "ValveSoftware/source-sdk-2013",
+      "url": "https://github.com/ValveSoftware/source-sdk-2013",
+      "description": "The 2013 edition of the Source SDK",
+      "language": "C++",
+      "stars": "8935",
+      "forks": "2606",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "full_name": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "stars": "16256",
+      "forks": "1287",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "ExpressLRS",
+      "name": "ExpressLRS",
+      "full_name": "ExpressLRS/ExpressLRS",
+      "url": "https://github.com/ExpressLRS/ExpressLRS",
+      "description": "ESP32/ESP8285-based High-Performance Radio Link for RC applications",
+      "language": "C++",
+      "stars": "4100",
+      "forks": "1077",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages",
+      "language": "C++",
+      "stars": "5990",
+      "forks": "679",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "TheCherno",
+      "name": "Hazel",
+      "full_name": "TheCherno/Hazel",
+      "url": "https://github.com/TheCherno/Hazel",
+      "description": "Hazel Engine",
+      "language": "C++",
+      "stars": "12212",
+      "forks": "1530",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "stars": "19549",
+      "forks": "1451",
+      "today_stars": "1,250 stars this week"
+    },
+    {
+      "author": "mltframework",
+      "name": "shotcut",
+      "full_name": "mltframework/shotcut",
+      "url": "https://github.com/mltframework/shotcut",
+      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+      "language": "C++",
+      "stars": "11978",
+      "forks": "1195",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "mixxxdj",
+      "name": "mixxx",
+      "full_name": "mixxxdj/mixxx",
+      "url": "https://github.com/mixxxdj/mixxx",
+      "description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.",
+      "language": "C++",
+      "stars": "5421",
+      "forks": "1410",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16608",
+      "forks": "2174",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C++",
+      "stars": "12423",
+      "forks": "1839",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6190",
+      "forks": "1604",
+      "today_stars": "25 stars this week"
+    }
+  ]
+}

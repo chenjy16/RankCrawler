@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-17 01:12:14",
+  "repositories": [
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "full_name": "mit-pdos/xv6-public",
+      "url": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": "8401",
+      "forks": "4197",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6618",
+      "forks": "1303",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "619",
+      "forks": "3198",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20375",
+      "forks": "8171",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.",
+      "language": "C",
+      "stars": "5931",
+      "forks": "692",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5876",
+      "forks": "2688",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "8382",
+      "forks": "1390",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "asterisk",
+      "name": "asterisk",
+      "full_name": "asterisk/asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "stars": "2559",
+      "forks": "1052",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3218",
+      "forks": "1259",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12354",
+      "forks": "2110",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14123",
+      "forks": "3987",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "X-Ray Vision for your infrastructure!",
+      "language": "C",
+      "stars": "74564",
+      "forks": "6055",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "193644",
+      "forks": "55870",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19618",
+      "forks": "3618",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5295",
+      "forks": "1836",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8006",
+      "forks": "3006",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "RubyMetric",
+      "name": "chsrc",
+      "full_name": "RubyMetric/chsrc",
+      "url": "https://github.com/RubyMetric/chsrc",
+      "description": "chsrc 全平台通用换源工具与框架. Change Source everywhere for every software",
+      "language": "C",
+      "stars": "5492",
+      "forks": "229",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "eclipse-threadx",
+      "name": "threadx",
+      "full_name": "eclipse-threadx/threadx",
+      "url": "https://github.com/eclipse-threadx/threadx",
+      "description": "Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+      "language": "C",
+      "stars": "3164",
+      "forks": "853",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11505",
+      "forks": "3302",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15625",
+      "forks": "757",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-webrtc-solution",
+      "full_name": "espressif/esp-webrtc-solution",
+      "url": "https://github.com/espressif/esp-webrtc-solution",
+      "description": "",
+      "language": "C",
+      "stars": "163",
+      "forks": "19",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5556",
+      "forks": "1173",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "strongtz",
+      "name": "i915-sriov-dkms",
+      "full_name": "strongtz/i915-sriov-dkms",
+      "url": "https://github.com/strongtz/i915-sriov-dkms",
+      "description": "dkms module of Linux i915 driver with SR-IOV support",
+      "language": "C",
+      "stars": "1563",
+      "forks": "177",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "26900",
+      "forks": "7295",
+      "today_stars": "14 stars today"
+    }
+  ]
+}
