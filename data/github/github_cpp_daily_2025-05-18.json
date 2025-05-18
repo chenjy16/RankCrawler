@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-05-18 01:18:08",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "3951",
+      "forks": "468",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "189981",
+      "forks": "74662",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "67542",
+      "forks": "15702",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45690",
+      "forks": "6983",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "manticoresoftware",
+      "name": "manticoresearch",
+      "full_name": "manticoresoftware/manticoresearch",
+      "url": "https://github.com/manticoresoftware/manticoresearch",
+      "description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+      "language": "C++",
+      "stars": "10432",
+      "forks": "591",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "40691",
+      "forks": "7302",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9495",
+      "forks": "1682",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "zxing-cpp",
+      "name": "zxing-cpp",
+      "full_name": "zxing-cpp/zxing-cpp",
+      "url": "https://github.com/zxing-cpp/zxing-cpp",
+      "description": "C++ port of ZXing",
+      "language": "C++",
+      "stars": "1500",
+      "forks": "450",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "11306",
+      "forks": "3125",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "PixarAnimationStudios",
+      "name": "OpenUSD",
+      "full_name": "PixarAnimationStudios/OpenUSD",
+      "url": "https://github.com/PixarAnimationStudios/OpenUSD",
+      "description": "Universal Scene Description",
+      "language": "C++",
+      "stars": "6564",
+      "forks": "1293",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "shader-slang",
+      "name": "slang",
+      "full_name": "shader-slang/slang",
+      "url": "https://github.com/shader-slang/slang",
+      "description": "Making it easier to work with shaders",
+      "language": "C++",
+      "stars": "4004",
+      "forks": "292",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "29158",
+      "forks": "2297",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C++",
+      "stars": "12427",
+      "forks": "1839",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29380",
+      "forks": "5687",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "azerothcore",
+      "name": "azerothcore-wotlk",
+      "full_name": "azerothcore/azerothcore-wotlk",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "description": "Complete Open Source and Modular solution for MMO",
+      "language": "C++",
+      "stars": "7092",
+      "forks": "2823",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Z3Prover",
+      "name": "z3",
+      "full_name": "Z3Prover/z3",
+      "url": "https://github.com/Z3Prover/z3",
+      "description": "The Z3 Theorem Prover",
+      "language": "C++",
+      "stars": "11002",
+      "forks": "1531",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "15892",
+      "forks": "2777",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "29704",
+      "forks": "6481",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14295",
+      "forks": "2430",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15191",
+      "forks": "1359",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Project-OSRM",
+      "name": "osrm-backend",
+      "full_name": "Project-OSRM/osrm-backend",
+      "url": "https://github.com/Project-OSRM/osrm-backend",
+      "description": "Open Source Routing Machine - C++ backend",
+      "language": "C++",
+      "stars": "6826",
+      "forks": "3574",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19390",
+      "forks": "3103",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36038",
+      "forks": "10355",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26161",
+      "forks": "4765",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-05-18 01:18:45",
+  "repositories": [
+    {
+      "author": "YOURLS",
+      "name": "YOURLS",
+      "full_name": "YOURLS/YOURLS",
+      "url": "https://github.com/YOURLS/YOURLS",
+      "description": "🔗 The de facto standard self hosted URL shortener in PHP",
+      "language": "PHP",
+      "stars": "11217",
+      "forks": "2010",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "shopware",
+      "name": "shopware",
+      "full_name": "shopware/shopware",
+      "url": "https://github.com/shopware/shopware",
+      "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions",
+      "language": "PHP",
+      "stars": "3044",
+      "forks": "1079",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11798",
+      "forks": "9372",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cedar2025",
+      "name": "Xboard",
+      "full_name": "cedar2025/Xboard",
+      "url": "https://github.com/cedar2025/Xboard",
+      "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
+      "language": "PHP",
+      "stars": "2733",
+      "forks": "688",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23542",
+      "forks": "3428",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "freescout-help-desk",
+      "name": "freescout",
+      "full_name": "freescout-help-desk/freescout",
+      "url": "https://github.com/freescout-help-desk/freescout",
+      "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
+      "language": "PHP",
+      "stars": "3478",
+      "forks": "543",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "BookStackApp",
+      "name": "BookStack",
+      "full_name": "BookStackApp/BookStack",
+      "url": "https://github.com/BookStackApp/BookStack",
+      "description": "A platform to create documentation/wiki content built with PHP & Laravel",
+      "language": "PHP",
+      "stars": "16620",
+      "forks": "2083",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-api-php-client",
+      "full_name": "googleapis/google-api-php-client",
+      "url": "https://github.com/googleapis/google-api-php-client",
+      "description": "A PHP client library for accessing Google APIs",
+      "language": "PHP",
+      "stars": "9558",
+      "forks": "3538",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8563",
+      "forks": "4889",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pimcore",
+      "name": "pimcore",
+      "full_name": "pimcore/pimcore",
+      "url": "https://github.com/pimcore/pimcore",
+      "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
+      "language": "PHP",
+      "stars": "3570",
+      "forks": "1471",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "librenms",
+      "name": "librenms",
+      "full_name": "librenms/librenms",
+      "url": "https://github.com/librenms/librenms",
+      "description": "Community-based GPL-licensed network monitoring system",
+      "language": "PHP",
+      "stars": "4203",
+      "forks": "2421",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "full_name": "phpstan/phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": "13377",
+      "forks": "920",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "7578",
+      "forks": "2031",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "29541",
+      "forks": "4270",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "espocrm",
+      "name": "espocrm",
+      "full_name": "espocrm/espocrm",
+      "url": "https://github.com/espocrm/espocrm",
+      "description": "EspoCRM – Open Source CRM Application",
+      "language": "PHP",
+      "stars": "2216",
+      "forks": "646",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "twigphp",
+      "name": "Twig",
+      "full_name": "twigphp/Twig",
+      "url": "https://github.com/twigphp/Twig",
+      "description": "Twig, the flexible, fast, and secure template language for PHP",
+      "language": "PHP",
+      "stars": "8284",
+      "forks": "1278",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "FreshRSS",
+      "name": "FreshRSS",
+      "full_name": "FreshRSS/FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
+      "language": "PHP",
+      "stars": "11527",
+      "forks": "948",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "hyperf",
+      "name": "hyperf",
+      "full_name": "hyperf/hyperf",
+      "url": "https://github.com/hyperf/hyperf",
+      "description": "🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.",
+      "language": "PHP",
+      "stars": "6478",
+      "forks": "1234",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openemr",
+      "name": "openemr",
+      "full_name": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "stars": "3448",
+      "forks": "2368",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": "12160",
+      "forks": "3384",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dr5hn",
+      "name": "countries-states-cities-database",
+      "full_name": "dr5hn/countries-states-cities-database",
+      "url": "https://github.com/dr5hn/countries-states-cities-database",
+      "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+      "language": "PHP",
+      "stars": "8293",
+      "forks": "2774",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "glpi-project",
+      "name": "glpi",
+      "full_name": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "stars": "4766",
+      "forks": "1376",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
