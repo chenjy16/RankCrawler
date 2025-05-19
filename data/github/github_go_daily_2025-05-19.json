@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-19 01:15:40",
+  "repositories": [
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "140897",
+      "forks": "11785",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23796",
+      "forks": "2854",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4901",
+      "forks": "23999",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28418",
+      "forks": "4279",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31076",
+      "forks": "4810",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "qdm12",
+      "name": "gluetun",
+      "full_name": "qdm12/gluetun",
+      "url": "https://github.com/qdm12/gluetun",
+      "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+      "language": "Go",
+      "stars": "9847",
+      "forks": "438",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "94015",
+      "forks": "14033",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "16409",
+      "forks": "1799",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "git-bug",
+      "name": "git-bug",
+      "full_name": "git-bug/git-bug",
+      "url": "https://github.com/git-bug/git-bug",
+      "description": "Distributed, offline-first bug tracker embedded in git",
+      "language": "Go",
+      "stars": "9124",
+      "forks": "284",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "gardener",
+      "name": "gardener",
+      "full_name": "gardener/gardener",
+      "url": "https://github.com/gardener/gardener",
+      "description": "Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.",
+      "language": "Go",
+      "stars": "3136",
+      "forks": "516",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14272",
+      "forks": "4035",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+      "language": "Go",
+      "stars": "39606",
+      "forks": "2835",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "22828",
+      "forks": "907",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "13782",
+      "forks": "329",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "10453",
+      "forks": "1383",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "hyperledger",
+      "name": "fabric",
+      "full_name": "hyperledger/fabric",
+      "url": "https://github.com/hyperledger/fabric",
+      "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+      "language": "Go",
+      "stars": "16096",
+      "forks": "8981",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "fabric",
+      "full_name": "danielmiessler/fabric",
+      "url": "https://github.com/danielmiessler/fabric",
+      "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "stars": "31135",
+      "forks": "3218",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "full_name": "kubernetes/autoscaler",
+      "url": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": "8401",
+      "forks": "4104",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "54745",
+      "forks": "5327",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "4610",
+      "forks": "887",
+      "today_stars": "1 star today"
+    }
+  ]
+}

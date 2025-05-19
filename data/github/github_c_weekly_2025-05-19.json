@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-19 01:16:44",
+  "repositories": [
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39035",
+      "forks": "7856",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8259",
+      "forks": "2994",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "full_name": "mit-pdos/xv6-public",
+      "url": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": "8421",
+      "forks": "4197",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "64284",
+      "forks": "8409",
+      "today_stars": "224 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "193745",
+      "forks": "55882",
+      "today_stars": "535 stars this week"
+    },
+    {
+      "author": "BandarHL",
+      "name": "BHTwitter",
+      "full_name": "BandarHL/BHTwitter",
+      "url": "https://github.com/BandarHL/BHTwitter",
+      "description": "Awesome tweak for Twitter",
+      "language": "C",
+      "stars": "2186",
+      "forks": "489",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "66836",
+      "forks": "4280",
+      "today_stars": "298 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20384",
+      "forks": "8175",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11508",
+      "forks": "3303",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54868",
+      "forks": "26218",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "n64decomp",
+      "name": "sm64",
+      "full_name": "n64decomp/sm64",
+      "url": "https://github.com/n64decomp/sm64",
+      "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+      "language": "C",
+      "stars": "8051",
+      "forks": "1441",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26355",
+      "forks": "2512",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13666",
+      "forks": "4241",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "asterisk",
+      "name": "asterisk",
+      "full_name": "asterisk/asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "stars": "2563",
+      "forks": "1052",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6621",
+      "forks": "1303",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "FreeRDP",
+      "name": "FreeRDP",
+      "full_name": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "stars": "11745",
+      "forks": "15035",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12364",
+      "forks": "2110",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14009",
+      "forks": "504",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69268",
+      "forks": "24042",
+      "today_stars": "135 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19644",
+      "forks": "3623",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "37941",
+      "forks": "6698",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27232",
+      "forks": "1127",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12098",
+      "forks": "7365",
+      "today_stars": "53 stars this week"
+    }
+  ]
+}

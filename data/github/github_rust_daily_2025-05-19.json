@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-19 01:15:59",
+  "repositories": [
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "17953",
+      "forks": "630",
+      "today_stars": "185 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10631",
+      "forks": "399",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7274",
+      "forks": "240",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16117",
+      "forks": "3626",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1280",
+      "forks": "172",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "12730",
+      "forks": "970",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "5618",
+      "forks": "128",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "rustls",
+      "name": "rustls",
+      "full_name": "rustls/rustls",
+      "url": "https://github.com/rustls/rustls",
+      "description": "A modern TLS library in Rust",
+      "language": "Rust",
+      "stars": "6708",
+      "forks": "716",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "103591",
+      "forks": "13343",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "10641",
+      "forks": "446",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "58867",
+      "forks": "3113",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ekzhang",
+      "name": "bore",
+      "full_name": "ekzhang/bore",
+      "url": "https://github.com/ekzhang/bore",
+      "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+      "language": "Rust",
+      "stars": "9804",
+      "forks": "419",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "mullvad",
+      "name": "mullvadvpn-app",
+      "full_name": "mullvad/mullvadvpn-app",
+      "url": "https://github.com/mullvad/mullvadvpn-app",
+      "description": "The Mullvad VPN client app for desktop and mobile",
+      "language": "Rust",
+      "stars": "5800",
+      "forks": "404",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "6880",
+      "forks": "225",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "14748",
+      "forks": "1385",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "iceberg-rust",
+      "full_name": "apache/iceberg-rust",
+      "url": "https://github.com/apache/iceberg-rust",
+      "description": "Apache Iceberg",
+      "language": "Rust",
+      "stars": "938",
+      "forks": "258",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "lencx",
+      "name": "ChatGPT",
+      "full_name": "lencx/ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "language": "Rust",
+      "stars": "53771",
+      "forks": "6095",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "27676",
+      "forks": "1983",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "esp-rs",
+      "name": "esp-hal",
+      "full_name": "esp-rs/esp-hal",
+      "url": "https://github.com/esp-rs/esp-hal",
+      "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+      "language": "Rust",
+      "stars": "1156",
+      "forks": "283",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7242",
+      "forks": "457",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "54696",
+      "forks": "1532",
+      "today_stars": "108 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19536",
+      "forks": "1739",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Lagrange-Labs",
+      "name": "deep-prove",
+      "full_name": "Lagrange-Labs/deep-prove",
+      "url": "https://github.com/Lagrange-Labs/deep-prove",
+      "description": "Framework to prove inference of ML models blazingly fast",
+      "language": "Rust",
+      "stars": "987",
+      "forks": "18",
+      "today_stars": "136 stars today"
+    }
+  ]
+}
