@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-05-20 01:14:40",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67095",
+      "forks": "4290",
+      "today_stars": "1,027 stars this month"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "193815",
+      "forks": "55891",
+      "today_stars": "2,143 stars this month"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12579",
+      "forks": "720",
+      "today_stars": "579 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69275",
+      "forks": "24041",
+      "today_stars": "641 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "122284",
+      "forks": "11492",
+      "today_stars": "1,582 stars this month"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21416",
+      "forks": "811",
+      "today_stars": "1,275 stars this month"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28820",
+      "forks": "7828",
+      "today_stars": "337 stars this month"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15314",
+      "forks": "3518",
+      "today_stars": "220 stars this month"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14034",
+      "forks": "506",
+      "today_stars": "668 stars this month"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15413",
+      "forks": "1148",
+      "today_stars": "198 stars this month"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4651",
+      "forks": "945",
+      "today_stars": "126 stars this month"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7717",
+      "forks": "1016",
+      "today_stars": "199 stars this month"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19321",
+      "forks": "1590",
+      "today_stars": "283 stars this month"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5834",
+      "forks": "861",
+      "today_stars": "329 stars this month"
+    },
+    {
+      "author": "HandBrake",
+      "name": "HandBrake",
+      "full_name": "HandBrake/HandBrake",
+      "url": "https://github.com/HandBrake/HandBrake",
+      "description": "HandBrake's main development repository",
+      "language": "C",
+      "stars": "19605",
+      "forks": "1428",
+      "today_stars": "361 stars this month"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11244",
+      "forks": "792",
+      "today_stars": "358 stars this month"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "64328",
+      "forks": "8415",
+      "today_stars": "779 stars this month"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3302",
+      "forks": "1317",
+      "today_stars": "81 stars this month"
+    },
+    {
+      "author": "ExistentialAudio",
+      "name": "BlackHole",
+      "full_name": "ExistentialAudio/BlackHole",
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+      "language": "C",
+      "stars": "16474",
+      "forks": "642",
+      "today_stars": "282 stars this month"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10333",
+      "forks": "5543",
+      "today_stars": "218 stars this month"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1114",
+      "forks": "125",
+      "today_stars": "158 stars this month"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4672",
+      "forks": "218",
+      "today_stars": "364 stars this month"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6708",
+      "forks": "321",
+      "today_stars": "257 stars this month"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8259",
+      "forks": "2995",
+      "today_stars": "88 stars this month"
+    }
+  ]
+}

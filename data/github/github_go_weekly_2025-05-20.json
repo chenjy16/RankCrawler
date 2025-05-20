@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-05-20 01:13:35",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26763",
+      "forks": "2553",
+      "today_stars": "394 stars this week"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19578",
+      "forks": "6003",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19916",
+      "forks": "1602",
+      "today_stars": "154 stars this week"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49389",
+      "forks": "10071",
+      "today_stars": "110 stars this week"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3108",
+      "forks": "1301",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "qax-os",
+      "name": "excelize",
+      "full_name": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "language": "Go",
+      "stars": "19147",
+      "forks": "1779",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5190",
+      "forks": "1624",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21850",
+      "forks": "4492",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19453",
+      "forks": "873",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "53550",
+      "forks": "2810",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69752",
+      "forks": "18754",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "full_name": "thanos-io/thanos",
+      "url": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+      "language": "Go",
+      "stars": "13520",
+      "forks": "2162",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "22839",
+      "forks": "906",
+      "today_stars": "109 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18027",
+      "forks": "8095",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "143940",
+      "forks": "12297",
+      "today_stars": "476 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32411",
+      "forks": "4360",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "25562",
+      "forks": "4866",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "language": "Go",
+      "stars": "8201",
+      "forks": "2687",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cloudflared",
+      "full_name": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+      "language": "Go",
+      "stars": "10593",
+      "forks": "942",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3037",
+      "forks": "682",
+      "today_stars": "15 stars this week"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11819",
+      "forks": "907",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "ltaoo",
+      "name": "wx_channels_download",
+      "full_name": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "language": "Go",
+      "stars": "1827",
+      "forks": "263",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "6596",
+      "forks": "847",
+      "today_stars": "237 stars this week"
+    }
+  ]
+}
