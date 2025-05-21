@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-05-21 01:13:11",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26796",
+      "forks": "2556",
+      "today_stars": "1,298 stars this month"
+    },
+    {
+      "author": "plandex-ai",
+      "name": "plandex",
+      "full_name": "plandex-ai/plandex",
+      "url": "https://github.com/plandex-ai/plandex",
+      "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+      "language": "Go",
+      "stars": "13566",
+      "forks": "939",
+      "today_stars": "1,353 stars this month"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "10992",
+      "forks": "1220",
+      "today_stars": "1,393 stars this month"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "28562",
+      "forks": "1533",
+      "today_stars": "1,333 stars this month"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "62377",
+      "forks": "1618",
+      "today_stars": "2,355 stars this month"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "47322",
+      "forks": "2351",
+      "today_stars": "1,969 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17189",
+      "forks": "1573",
+      "today_stars": "339 stars this month"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "14388",
+      "forks": "1762",
+      "today_stars": "382 stars this month"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "80928",
+      "forks": "7849",
+      "today_stars": "1,438 stars this month"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "32715",
+      "forks": "2495",
+      "today_stars": "881 stars this month"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16886",
+      "forks": "1589",
+      "today_stars": "430 stars this month"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19586",
+      "forks": "6005",
+      "today_stars": "350 stars this month"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "94098",
+      "forks": "14039",
+      "today_stars": "1,343 stars this month"
+    },
+    {
+      "author": "ehang-io",
+      "name": "nps",
+      "full_name": "ehang-io/nps",
+      "url": "https://github.com/ehang-io/nps",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+      "language": "Go",
+      "stars": "32544",
+      "forks": "5872",
+      "today_stars": "879 stars this month"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4903",
+      "forks": "24023",
+      "today_stars": "65 stars this month"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "3818",
+      "forks": "285",
+      "today_stars": "834 stars this month"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3113",
+      "forks": "1301",
+      "today_stars": "54 stars this month"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "60240",
+      "forks": "2063",
+      "today_stars": "1,322 stars this month"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18351",
+      "forks": "1371",
+      "today_stars": "318 stars this month"
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "full_name": "photoprism/photoprism",
+      "url": "https://github.com/photoprism/photoprism",
+      "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+      "language": "Go",
+      "stars": "37409",
+      "forks": "2067",
+      "today_stars": "441 stars this month"
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "12825",
+      "forks": "681",
+      "today_stars": "298 stars this month"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28559",
+      "forks": "4287",
+      "today_stars": "535 stars this month"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "1923",
+      "forks": "189",
+      "today_stars": "888 stars this month"
+    }
+  ]
+}

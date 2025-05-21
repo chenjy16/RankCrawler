@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-21 01:13:58",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67339",
+      "forks": "4294",
+      "today_stars": "235 stars today"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5718",
+      "forks": "1115",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23269",
+      "forks": "4912",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11410",
+      "forks": "942",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "espeak-ng",
+      "name": "espeak-ng",
+      "full_name": "espeak-ng/espeak-ng",
+      "url": "https://github.com/espeak-ng/espeak-ng",
+      "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+      "language": "C",
+      "stars": "5081",
+      "forks": "1015",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10574",
+      "forks": "2911",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14056",
+      "forks": "507",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3228",
+      "forks": "1258",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3696",
+      "forks": "1300",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "8990",
+      "forks": "1186",
+      "today_stars": "302 stars today"
+    },
+    {
+      "author": "hengyoush",
+      "name": "kyanos",
+      "full_name": "hengyoush/kyanos",
+      "url": "https://github.com/hengyoush/kyanos",
+      "description": "Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.",
+      "language": "C",
+      "stars": "4275",
+      "forks": "167",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30671",
+      "forks": "19572",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "623",
+      "forks": "3198",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6880",
+      "forks": "1687",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6006",
+      "forks": "1748",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4127",
+      "forks": "689",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "koekeishiya",
+      "name": "yabai",
+      "full_name": "koekeishiya/yabai",
+      "url": "https://github.com/koekeishiya/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "stars": "25873",
+      "forks": "662",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "812",
+      "forks": "1545",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1122",
+      "forks": "126",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23862",
+      "forks": "4908",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5105",
+      "forks": "2721",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "analogdevicesinc",
+      "name": "no-OS",
+      "full_name": "analogdevicesinc/no-OS",
+      "url": "https://github.com/analogdevicesinc/no-OS",
+      "description": "Software drivers in C for systems without an operating system",
+      "language": "C",
+      "stars": "1112",
+      "forks": "1710",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8045",
+      "forks": "2323",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

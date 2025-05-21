@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-05-21 01:13:25",
+  "repositories": [
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "18101",
+      "forks": "636",
+      "today_stars": "913 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10758",
+      "forks": "404",
+      "today_stars": "359 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "39205",
+      "forks": "1352",
+      "today_stars": "398 stars this week"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "38506",
+      "forks": "7075",
+      "today_stars": "410 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12053",
+      "forks": "1653",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "pyrefly",
+      "full_name": "facebook/pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and IDE for Python",
+      "language": "Rust",
+      "stars": "1498",
+      "forks": "42",
+      "today_stars": "819 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "88619",
+      "forks": "12647",
+      "today_stars": "559 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "63815",
+      "forks": "3085",
+      "today_stars": "2,466 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "54982",
+      "forks": "1542",
+      "today_stars": "1,111 stars this week"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11295",
+      "forks": "315",
+      "today_stars": "296 stars this week"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7354",
+      "forks": "239",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "23656",
+      "forks": "1626",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "103049",
+      "forks": "5587",
+      "today_stars": "146 stars this week"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1284",
+      "forks": "172",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "14989",
+      "forks": "519",
+      "today_stars": "506 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "60072",
+      "forks": "4280",
+      "today_stars": "612 stars this week"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "37619",
+      "forks": "2817",
+      "today_stars": "172 stars this week"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4665",
+      "forks": "301",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "4405",
+      "forks": "214",
+      "today_stars": "206 stars this week"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32197",
+      "forks": "1287",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "58388",
+      "forks": "10601",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "35143",
+      "forks": "1829",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustup",
+      "full_name": "rust-lang/rustup",
+      "url": "https://github.com/rust-lang/rustup",
+      "description": "The Rust toolchain installer",
+      "language": "Rust",
+      "stars": "6458",
+      "forks": "955",
+      "today_stars": "16 stars this week"
+    }
+  ]
+}

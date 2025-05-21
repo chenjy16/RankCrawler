@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-05-21 01:13:04",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26796",
+      "forks": "2556",
+      "today_stars": "385 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "282",
+      "forks": "28",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "19926",
+      "forks": "1603",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19586",
+      "forks": "6005",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49403",
+      "forks": "10071",
+      "today_stars": "110 stars this week"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "62377",
+      "forks": "1618",
+      "today_stars": "1,088 stars this week"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21852",
+      "forks": "4493",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5197",
+      "forks": "1628",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3113",
+      "forks": "1301",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "qax-os",
+      "name": "excelize",
+      "full_name": "qax-os/excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "language": "Go",
+      "stars": "19155",
+      "forks": "1779",
+      "today_stars": "88 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35447",
+      "forks": "5392",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+      "language": "Go",
+      "stars": "40135",
+      "forks": "2862",
+      "today_stars": "560 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3039",
+      "forks": "683",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3579",
+      "forks": "2752",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18036",
+      "forks": "8104",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23834",
+      "forks": "2859",
+      "today_stars": "171 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "141125",
+      "forks": "11809",
+      "today_stars": "803 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69752",
+      "forks": "18754",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28559",
+      "forks": "4287",
+      "today_stars": "223 stars this week"
+    },
+    {
+      "author": "dunglas",
+      "name": "frankenphp",
+      "full_name": "dunglas/frankenphp",
+      "url": "https://github.com/dunglas/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "7872",
+      "forks": "310",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5710",
+      "forks": "1162",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "53573",
+      "forks": "2810",
+      "today_stars": "127 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cloudflared",
+      "full_name": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+      "language": "Go",
+      "stars": "10603",
+      "forks": "942",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19460",
+      "forks": "874",
+      "today_stars": "69 stars this week"
+    }
+  ]
+}
