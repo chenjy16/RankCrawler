@@ -1,0 +1,238 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-05-22 01:14:07",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Windows system utilities to maximize productivity",
+      "language": "C#",
+      "stars": "119051",
+      "forks": "7039",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "semantic-kernel",
+      "full_name": "microsoft/semantic-kernel",
+      "url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "language": "C#",
+      "stars": "24652",
+      "forks": "3851",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "Cysharp",
+      "name": "ZLinq",
+      "full_name": "Cysharp/ZLinq",
+      "url": "https://github.com/Cysharp/ZLinq",
+      "description": "Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.",
+      "language": "C#",
+      "stars": "3291",
+      "forks": "162",
+      "today_stars": "270 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "runner",
+      "full_name": "actions/runner",
+      "url": "https://github.com/actions/runner",
+      "description": "The Runner for GitHub Actions 🚀",
+      "language": "C#",
+      "stars": "5296",
+      "forks": "1062",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "clawsoftware",
+      "name": "clawPDF",
+      "full_name": "clawsoftware/clawPDF",
+      "url": "https://github.com/clawsoftware/clawPDF",
+      "description": "Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.",
+      "language": "C#",
+      "stars": "1321",
+      "forks": "170",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5786",
+      "forks": "4959",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "maui",
+      "full_name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": "22682",
+      "forks": "1830",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "perfview",
+      "full_name": "microsoft/perfview",
+      "url": "https://github.com/microsoft/perfview",
+      "description": "PerfView is a CPU and memory performance-analysis tool",
+      "language": "C#",
+      "stars": "4400",
+      "forks": "734",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "icsharpcode",
+      "name": "ILSpy",
+      "full_name": "icsharpcode/ILSpy",
+      "url": "https://github.com/icsharpcode/ILSpy",
+      "description": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
+      "language": "C#",
+      "stars": "22929",
+      "forks": "3466",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "DevToys-app",
+      "name": "DevToys",
+      "full_name": "DevToys-app/DevToys",
+      "url": "https://github.com/DevToys-app/DevToys",
+      "description": "A Swiss Army knife for developers.",
+      "language": "C#",
+      "stars": "28903",
+      "forks": "1552",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19561",
+      "forks": "4135",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Generative-AI-for-beginners-dotnet",
+      "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
+      "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+      "description": "Five lessons, learn how to really apply AI to your .NET Applications",
+      "language": "C#",
+      "stars": "1291",
+      "forks": "941",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "abpframework",
+      "name": "abp",
+      "full_name": "abpframework/abp",
+      "url": "https://github.com/abpframework/abp",
+      "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
+      "language": "C#",
+      "stars": "13507",
+      "forks": "3556",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36637",
+      "forks": "10327",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "duplicati",
+      "name": "duplicati",
+      "full_name": "duplicati/duplicati",
+      "url": "https://github.com/duplicati/duplicati",
+      "description": "Store securely encrypted backups in the cloud!",
+      "language": "C#",
+      "stars": "12528",
+      "forks": "954",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "sourcegit-scm",
+      "name": "sourcegit",
+      "full_name": "sourcegit-scm/sourcegit",
+      "url": "https://github.com/sourcegit-scm/sourcegit",
+      "description": "Windows/macOS/Linux GUI client for GIT users",
+      "language": "C#",
+      "stars": "2369",
+      "forks": "218",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "HangfireIO",
+      "name": "Hangfire",
+      "full_name": "HangfireIO/Hangfire",
+      "url": "https://github.com/HangfireIO/Hangfire",
+      "description": "An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required",
+      "language": "C#",
+      "stars": "9690",
+      "forks": "1722",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "huiyadanli",
+      "name": "RevokeMsgPatcher",
+      "full_name": "huiyadanli/RevokeMsgPatcher",
+      "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+      "description": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+      "language": "C#",
+      "stars": "32704",
+      "forks": "3650",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "mob-sakai",
+      "name": "UIEffect",
+      "full_name": "mob-sakai/UIEffect",
+      "url": "https://github.com/mob-sakai/UIEffect",
+      "description": "UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!",
+      "language": "C#",
+      "stars": "6351",
+      "forks": "837",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "elsa-workflows",
+      "name": "elsa-core",
+      "full_name": "elsa-workflows/elsa-core",
+      "url": "https://github.com/elsa-workflows/elsa-core",
+      "description": "A .NET workflows library",
+      "language": "C#",
+      "stars": "7076",
+      "forks": "1328",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "MessagePack-CSharp",
+      "name": "MessagePack-CSharp",
+      "full_name": "MessagePack-CSharp/MessagePack-CSharp",
+      "url": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+      "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+      "language": "C#",
+      "stars": "6191",
+      "forks": "730",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

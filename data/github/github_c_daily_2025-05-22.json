@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-22 01:13:27",
+  "repositories": [
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8105",
+      "forks": "874",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9182",
+      "forks": "1203",
+      "today_stars": "157 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23867",
+      "forks": "4908",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3703",
+      "forks": "1300",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "193967",
+      "forks": "55915",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12339",
+      "forks": "2166",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12133",
+      "forks": "7380",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "Xilinx",
+      "name": "linux-xlnx",
+      "full_name": "Xilinx/linux-xlnx",
+      "url": "https://github.com/Xilinx/linux-xlnx",
+      "description": "The official Linux kernel from Xilinx",
+      "language": "C",
+      "stars": "1437",
+      "forks": "1558",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11415",
+      "forks": "942",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "FreeRADIUS",
+      "name": "freeradius-server",
+      "full_name": "FreeRADIUS/freeradius-server",
+      "url": "https://github.com/FreeRADIUS/freeradius-server",
+      "description": "FreeRADIUS - A multi-protocol policy server.",
+      "language": "C",
+      "stars": "2263",
+      "forks": "1130",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6629",
+      "forks": "1304",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "firedancer-io",
+      "name": "firedancer",
+      "full_name": "firedancer-io/firedancer",
+      "url": "https://github.com/firedancer-io/firedancer",
+      "description": "Firedancer is Jump Crypto's Solana validator software.",
+      "language": "C",
+      "stars": "1170",
+      "forks": "253",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11503",
+      "forks": "3428",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12465",
+      "forks": "1845",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4674",
+      "forks": "909",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "625",
+      "forks": "3199",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15241",
+      "forks": "7657",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27423",
+      "forks": "10547",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AprilRobotics",
+      "name": "apriltag",
+      "full_name": "AprilRobotics/apriltag",
+      "url": "https://github.com/AprilRobotics/apriltag",
+      "description": "AprilTag is a visual fiducial system popular for robotics research.",
+      "language": "C",
+      "stars": "1792",
+      "forks": "576",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "oqs-provider",
+      "full_name": "open-quantum-safe/oqs-provider",
+      "url": "https://github.com/open-quantum-safe/oqs-provider",
+      "description": "OpenSSL 3 provider containing post-quantum algorithms",
+      "language": "C",
+      "stars": "331",
+      "forks": "124",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67514",
+      "forks": "4304",
+      "today_stars": "227 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2234",
+      "forks": "548",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
