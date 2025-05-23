@@ -1,0 +1,183 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-23 01:12:44",
+  "repositories": [
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "64597",
+      "forks": "3118",
+      "today_stars": "417 stars today"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "4325",
+      "forks": "117",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "12948",
+      "forks": "990",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "full_name": "huggingface/tokenizers",
+      "url": "https://github.com/huggingface/tokenizers",
+      "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": "9704",
+      "forks": "900",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1142",
+      "forks": "170",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "14861",
+      "forks": "636",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Rust",
+      "full_name": "TheAlgorithms/Rust",
+      "url": "https://github.com/TheAlgorithms/Rust",
+      "description": "All Algorithms implemented in Rust",
+      "language": "Rust",
+      "stars": "23975",
+      "forks": "2386",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "full_name": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": "15836",
+      "forks": "2184",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "plugins-workspace",
+      "full_name": "tauri-apps/plugins-workspace",
+      "url": "https://github.com/tauri-apps/plugins-workspace",
+      "description": "All of the official Tauri plugins in one place!",
+      "language": "Rust",
+      "stars": "1256",
+      "forks": "379",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow-rs",
+      "full_name": "apache/arrow-rs",
+      "url": "https://github.com/apache/arrow-rs",
+      "description": "Official Rust implementation of Apache Arrow",
+      "language": "Rust",
+      "stars": "2942",
+      "forks": "927",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "wasmerio",
+      "name": "wasmer",
+      "full_name": "wasmerio/wasmer",
+      "url": "https://github.com/wasmerio/wasmer",
+      "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+      "language": "Rust",
+      "stars": "19745",
+      "forks": "879",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "16480",
+      "forks": "1107",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "rust-windowing",
+      "name": "winit",
+      "full_name": "rust-windowing/winit",
+      "url": "https://github.com/rust-windowing/winit",
+      "description": "Window handling library in pure Rust",
+      "language": "Rust",
+      "stars": "5303",
+      "forks": "1053",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "stellar",
+      "name": "soroban-example-dapp",
+      "full_name": "stellar/soroban-example-dapp",
+      "url": "https://github.com/stellar/soroban-example-dapp",
+      "description": "End-to-End Example Soroban Dapp",
+      "language": "Rust",
+      "stars": "1209",
+      "forks": "973",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3758",
+      "forks": "160",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32214",
+      "forks": "1288",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

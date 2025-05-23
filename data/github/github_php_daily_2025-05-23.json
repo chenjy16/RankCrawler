@@ -1,0 +1,238 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-05-23 01:14:21",
+  "repositories": [
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "33619",
+      "forks": "11367",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bagisto",
+      "name": "bagisto",
+      "full_name": "bagisto/bagisto",
+      "url": "https://github.com/bagisto/bagisto",
+      "description": "Free and open source laravel eCommerce platform",
+      "language": "PHP",
+      "stars": "18714",
+      "forks": "2463",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23665",
+      "forks": "3443",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "62954",
+      "forks": "24353",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "larastan",
+      "name": "larastan",
+      "full_name": "larastan/larastan",
+      "url": "https://github.com/larastan/larastan",
+      "description": "⚗️ Adds code analysis to Laravel improving developer productivity and code quality.",
+      "language": "PHP",
+      "stars": "5914",
+      "forks": "453",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "glpi-project",
+      "name": "glpi",
+      "full_name": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "stars": "4777",
+      "forks": "1375",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "invoiceninja",
+      "name": "invoiceninja",
+      "full_name": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "stars": "8832",
+      "forks": "2387",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30346",
+      "forks": "9606",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mautic",
+      "name": "mautic",
+      "full_name": "mautic/mautic",
+      "url": "https://github.com/mautic/mautic",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "language": "PHP",
+      "stars": "8130",
+      "forks": "2855",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Qloapps",
+      "name": "QloApps",
+      "full_name": "Qloapps/QloApps",
+      "url": "https://github.com/Qloapps/QloApps",
+      "description": "QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.",
+      "language": "PHP",
+      "stars": "5335",
+      "forks": "567",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "freescout-help-desk",
+      "name": "freescout",
+      "full_name": "freescout-help-desk/freescout",
+      "url": "https://github.com/freescout-help-desk/freescout",
+      "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
+      "language": "PHP",
+      "stars": "3506",
+      "forks": "549",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "YOURLS",
+      "name": "YOURLS",
+      "full_name": "YOURLS/YOURLS",
+      "url": "https://github.com/YOURLS/YOURLS",
+      "description": "🔗 The de facto standard self hosted URL shortener in PHP",
+      "language": "PHP",
+      "stars": "11237",
+      "forks": "2011",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "archtechx",
+      "name": "tenancy",
+      "full_name": "archtechx/tenancy",
+      "url": "https://github.com/archtechx/tenancy",
+      "description": "Automatic multi-tenancy for Laravel. No code changes needed.",
+      "language": "PHP",
+      "stars": "3913",
+      "forks": "464",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dompdf",
+      "name": "dompdf",
+      "full_name": "dompdf/dompdf",
+      "url": "https://github.com/dompdf/dompdf",
+      "description": "HTML to PDF converter for PHP",
+      "language": "PHP",
+      "stars": "10806",
+      "forks": "1808",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "api-platform",
+      "name": "core",
+      "full_name": "api-platform/core",
+      "url": "https://github.com/api-platform/core",
+      "description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes",
+      "language": "PHP",
+      "stars": "2501",
+      "forks": "907",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-api-php-client",
+      "full_name": "googleapis/google-api-php-client",
+      "url": "https://github.com/googleapis/google-api-php-client",
+      "description": "A PHP client library for accessing Google APIs",
+      "language": "PHP",
+      "stars": "9562",
+      "forks": "3538",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PHPWord",
+      "full_name": "PHPOffice/PHPWord",
+      "url": "https://github.com/PHPOffice/PHPWord",
+      "description": "A pure PHP library for reading and writing word processing documents",
+      "language": "PHP",
+      "stars": "7409",
+      "forks": "2721",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "drush-ops",
+      "name": "drush",
+      "full_name": "drush-ops/drush",
+      "url": "https://github.com/drush-ops/drush",
+      "description": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",
+      "language": "PHP",
+      "stars": "2356",
+      "forks": "1095",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DenverCoder1",
+      "name": "github-readme-streak-stats",
+      "full_name": "DenverCoder1/github-readme-streak-stats",
+      "url": "https://github.com/DenverCoder1/github-readme-streak-stats",
+      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+      "language": "PHP",
+      "stars": "5607",
+      "forks": "917",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "twigphp",
+      "name": "Twig",
+      "full_name": "twigphp/Twig",
+      "url": "https://github.com/twigphp/Twig",
+      "description": "Twig, the flexible, fast, and secure template language for PHP",
+      "language": "PHP",
+      "stars": "8287",
+      "forks": "1278",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Sylius",
+      "name": "Sylius",
+      "full_name": "Sylius/Sylius",
+      "url": "https://github.com/Sylius/Sylius",
+      "description": "Open Source eCommerce Framework on Symfony",
+      "language": "PHP",
+      "stars": "8222",
+      "forks": "2134",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

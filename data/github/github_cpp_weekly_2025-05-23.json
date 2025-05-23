@@ -1,0 +1,227 @@
+{
+  "language": "cpp",
+  "period": "weekly",
+  "fetch_time": "2025-05-23 01:13:49",
+  "repositories": [
+    {
+      "author": "zen-browser",
+      "name": "desktop",
+      "full_name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": "30926",
+      "forks": "860",
+      "today_stars": "971 stars this week"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "116846",
+      "forks": "16058",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Performance instrumentation and tracing for Android, Linux and Chrome",
+      "language": "C++",
+      "stars": "4016",
+      "forks": "473",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "80710",
+      "forks": "11869",
+      "today_stars": "505 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36073",
+      "forks": "10369",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "dail8859",
+      "name": "NotepadNext",
+      "full_name": "dail8859/NotepadNext",
+      "url": "https://github.com/dail8859/NotepadNext",
+      "description": "A cross-platform, reimplementation of Notepad++",
+      "language": "C++",
+      "stars": "10155",
+      "forks": "604",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "11632",
+      "forks": "2197",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "35069",
+      "forks": "3885",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "zxing-cpp",
+      "name": "zxing-cpp",
+      "full_name": "zxing-cpp/zxing-cpp",
+      "url": "https://github.com/zxing-cpp/zxing-cpp",
+      "description": "C++ port of ZXing",
+      "language": "C++",
+      "stars": "1513",
+      "forks": "454",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL",
+      "full_name": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "stars": "26652",
+      "forks": "1233",
+      "today_stars": "8,253 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7575",
+      "forks": "1243",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "ashishps1",
+      "name": "awesome-low-level-design",
+      "full_name": "ashishps1/awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "Java",
+      "stars": "14403",
+      "forks": "3556",
+      "today_stars": "348 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16669",
+      "forks": "3223",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "mediapipe",
+      "full_name": "google-ai-edge/mediapipe",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "language": "C++",
+      "stars": "29813",
+      "forks": "5358",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26204",
+      "forks": "4773",
+      "today_stars": "71 stars this week"
+    },
+    {
+      "author": "chiteroman",
+      "name": "PlayIntegrityFix",
+      "full_name": "chiteroman/PlayIntegrityFix",
+      "url": "https://github.com/chiteroman/PlayIntegrityFix",
+      "description": "Fix Play Integrity (and SafetyNet) verdicts.",
+      "language": "C++",
+      "stars": "6878",
+      "forks": "426",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45762",
+      "forks": "6993",
+      "today_stars": "123 stars this week"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "40162",
+      "forks": "4257",
+      "today_stars": "187 stars this week"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "190075",
+      "forks": "74675",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "20460",
+      "forks": "1069",
+      "today_stars": "121 stars this week"
+    }
+  ]
+}

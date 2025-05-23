@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-23 01:13:23",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9300",
+      "forks": "1208",
+      "today_stars": "178 stars today"
+    },
+    {
+      "author": "henrypp",
+      "name": "simplewall",
+      "full_name": "henrypp/simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "language": "C",
+      "stars": "6970",
+      "forks": "546",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21511",
+      "forks": "817",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12144",
+      "forks": "7385",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6893",
+      "forks": "1691",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "libusb",
+      "name": "hidapi",
+      "full_name": "libusb/hidapi",
+      "url": "https://github.com/libusb/hidapi",
+      "description": "A Simple cross-platform library for communicating with HID devices",
+      "language": "C",
+      "stars": "1861",
+      "forks": "428",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15708",
+      "forks": "761",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "194034",
+      "forks": "55929",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4490",
+      "forks": "1029",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4070",
+      "forks": "1542",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "full_name": "mattn/go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": "8481",
+      "forks": "1132",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "tukaani-project",
+      "name": "xz",
+      "full_name": "tukaani-project/xz",
+      "url": "https://github.com/tukaani-project/xz",
+      "description": "XZ Utils",
+      "language": "C",
+      "stars": "762",
+      "forks": "153",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7479",
+      "forks": "2031",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1150",
+      "forks": "127",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "vanilla-wiiu",
+      "name": "vanilla",
+      "full_name": "vanilla-wiiu/vanilla",
+      "url": "https://github.com/vanilla-wiiu/vanilla",
+      "description": "",
+      "language": "C",
+      "stars": "692",
+      "forks": "26",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5840",
+      "forks": "863",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14113",
+      "forks": "510",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8177",
+      "forks": "878",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67583",
+      "forks": "4308",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "813",
+      "forks": "1548",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "3proxy",
+      "name": "3proxy",
+      "full_name": "3proxy/3proxy",
+      "url": "https://github.com/3proxy/3proxy",
+      "description": "3proxy - tiny free proxy server",
+      "language": "C",
+      "stars": "4295",
+      "forks": "827",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "OpenEtherCATsociety",
+      "name": "SOEM",
+      "full_name": "OpenEtherCATsociety/SOEM",
+      "url": "https://github.com/OpenEtherCATsociety/SOEM",
+      "description": "Simple Open Source EtherCAT Master",
+      "language": "C",
+      "stars": "1511",
+      "forks": "734",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9739",
+      "forks": "2480",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2736",
+      "forks": "392",
+      "today_stars": "14 stars today"
+    }
+  ]
+}
