@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-24 01:10:35",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9338",
+      "forks": "1214",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1161",
+      "forks": "128",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "henrypp",
+      "name": "simplewall",
+      "full_name": "henrypp/simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "language": "C",
+      "stars": "6978",
+      "forks": "545",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4682",
+      "forks": "911",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12153",
+      "forks": "7388",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "8756",
+      "forks": "1454",
+      "today_stars": "148 stars today"
+    },
+    {
+      "author": "jniebuhr",
+      "name": "gaggimate",
+      "full_name": "jniebuhr/gaggimate",
+      "url": "https://github.com/jniebuhr/gaggimate",
+      "description": "This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.",
+      "language": "C",
+      "stars": "312",
+      "forks": "27",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15259",
+      "forks": "7663",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14167",
+      "forks": "3995",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "631",
+      "forks": "3199",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21527",
+      "forks": "819",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "full_name": "Tencent/wcdb",
+      "url": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": "11091",
+      "forks": "1440",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "FWGS",
+      "name": "xash3d-fwgs",
+      "full_name": "FWGS/xash3d-fwgs",
+      "url": "https://github.com/FWGS/xash3d-fwgs",
+      "description": "Xash3D FWGS engine",
+      "language": "C",
+      "stars": "1930",
+      "forks": "290",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "FDio",
+      "name": "vpp",
+      "full_name": "FDio/vpp",
+      "url": "https://github.com/FDio/vpp",
+      "description": "Mirror of VPP code base hosted at git.fd.io",
+      "language": "C",
+      "stars": "1370",
+      "forks": "653",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ffmpegwasm",
+      "name": "ffmpeg.wasm",
+      "full_name": "ffmpegwasm/ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "language": "C",
+      "stars": "15781",
+      "forks": "944",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2241",
+      "forks": "549",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "winsiderss",
+      "name": "systeminformer",
+      "full_name": "winsiderss/systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+      "language": "C",
+      "stars": "11946",
+      "forks": "1475",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5658",
+      "forks": "1117",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27280",
+      "forks": "1128",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5842",
+      "forks": "863",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6900",
+      "forks": "1692",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9748",
+      "forks": "2480",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

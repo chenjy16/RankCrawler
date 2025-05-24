@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-24 01:10:42",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67649",
+      "forks": "4310",
+      "today_stars": "1,027 stars this week"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "8756",
+      "forks": "1454",
+      "today_stars": "404 stars this week"
+    },
+    {
+      "author": "n64decomp",
+      "name": "mk64",
+      "full_name": "n64decomp/mk64",
+      "url": "https://github.com/n64decomp/mk64",
+      "description": "A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.",
+      "language": "C",
+      "stars": "1050",
+      "forks": "100",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14136",
+      "forks": "510",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23280",
+      "forks": "4915",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9338",
+      "forks": "1214",
+      "today_stars": "708 stars this week"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23882",
+      "forks": "4909",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8208",
+      "forks": "879",
+      "today_stars": "426 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11428",
+      "forks": "944",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "122545",
+      "forks": "11509",
+      "today_stars": "427 stars this week"
+    },
+    {
+      "author": "FWGS",
+      "name": "xash3d-fwgs",
+      "full_name": "FWGS/xash3d-fwgs",
+      "url": "https://github.com/FWGS/xash3d-fwgs",
+      "description": "Xash3D FWGS engine",
+      "language": "C",
+      "stars": "1930",
+      "forks": "290",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "194126",
+      "forks": "55958",
+      "today_stars": "551 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "54927",
+      "forks": "26233",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1161",
+      "forks": "128",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4074",
+      "forks": "1543",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5729",
+      "forks": "1117",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）",
+      "language": "C",
+      "stars": "6057",
+      "forks": "670",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "Xilinx",
+      "name": "linux-xlnx",
+      "full_name": "Xilinx/linux-xlnx",
+      "url": "https://github.com/Xilinx/linux-xlnx",
+      "description": "The official Linux kernel from Xilinx",
+      "language": "C",
+      "stars": "1439",
+      "forks": "1558",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21389",
+      "forks": "3960",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12153",
+      "forks": "7388",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "full_name": "radareorg/radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": "21698",
+      "forks": "3069",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "asterisk",
+      "name": "asterisk",
+      "full_name": "asterisk/asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "stars": "2575",
+      "forks": "1058",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15259",
+      "forks": "7663",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "3proxy",
+      "name": "3proxy",
+      "full_name": "3proxy/3proxy",
+      "url": "https://github.com/3proxy/3proxy",
+      "description": "3proxy - tiny free proxy server",
+      "language": "C",
+      "stars": "4296",
+      "forks": "828",
+      "today_stars": "33 stars this week"
+    }
+  ]
+}
