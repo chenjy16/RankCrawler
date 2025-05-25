@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-25 01:19:09",
+  "repositories": [
+    {
+      "author": "mfontanini",
+      "name": "presenterm",
+      "full_name": "mfontanini/presenterm",
+      "url": "https://github.com/mfontanini/presenterm",
+      "description": "A markdown terminal slideshow tool",
+      "language": "Rust",
+      "stars": "6084",
+      "forks": "124",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "19330",
+      "forks": "2926",
+      "today_stars": "628 stars today"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Rust",
+      "full_name": "TheAlgorithms/Rust",
+      "url": "https://github.com/TheAlgorithms/Rust",
+      "description": "All Algorithms implemented in Rust",
+      "language": "Rust",
+      "stars": "24004",
+      "forks": "2388",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "29910",
+      "forks": "2063",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "mountpoint-s3",
+      "full_name": "awslabs/mountpoint-s3",
+      "url": "https://github.com/awslabs/mountpoint-s3",
+      "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+      "language": "Rust",
+      "stars": "5129",
+      "forks": "202",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "text-embeddings-inference",
+      "full_name": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "language": "Rust",
+      "stars": "3577",
+      "forks": "261",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "eza-community",
+      "name": "eza",
+      "full_name": "eza-community/eza",
+      "url": "https://github.com/eza-community/eza",
+      "description": "A modern alternative to ls",
+      "language": "Rust",
+      "stars": "15503",
+      "forks": "294",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "full_name": "hrkfdn/ncspot",
+      "url": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": "5639",
+      "forks": "229",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "25566",
+      "forks": "545",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "XAMPPRocky",
+      "name": "tokei",
+      "full_name": "XAMPPRocky/tokei",
+      "url": "https://github.com/XAMPPRocky/tokei",
+      "description": "Count your code, quickly.",
+      "language": "Rust",
+      "stars": "12474",
+      "forks": "580",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "eclipse-zenoh",
+      "name": "zenoh",
+      "full_name": "eclipse-zenoh/zenoh",
+      "url": "https://github.com/eclipse-zenoh/zenoh",
+      "description": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",
+      "language": "Rust",
+      "stars": "1850",
+      "forks": "194",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "13030",
+      "forks": "1000",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "30595",
+      "forks": "3176",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "mierak",
+      "name": "rmpc",
+      "full_name": "mierak/rmpc",
+      "url": "https://github.com/mierak/rmpc",
+      "description": "A configurable, terminal based Media Player Client with album art support via various terminal image protocols",
+      "language": "Rust",
+      "stars": "618",
+      "forks": "22",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1191",
+      "forks": "175",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4379",
+      "forks": "391",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "7662",
+      "forks": "367",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "28630",
+      "forks": "2636",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "19145",
+      "forks": "673",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "full_name": "sharkdp/bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": "52698",
+      "forks": "1293",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "ducaale",
+      "name": "xh",
+      "full_name": "ducaale/xh",
+      "url": "https://github.com/ducaale/xh",
+      "description": "Friendly and fast tool for sending HTTP requests",
+      "language": "Rust",
+      "stars": "6440",
+      "forks": "103",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "13154",
+      "forks": "415",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "Lagrange-Labs",
+      "name": "deep-prove",
+      "full_name": "Lagrange-Labs/deep-prove",
+      "url": "https://github.com/Lagrange-Labs/deep-prove",
+      "description": "Framework to prove inference of ML models blazingly fast",
+      "language": "Rust",
+      "stars": "1710",
+      "forks": "28",
+      "today_stars": "340 stars today"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-05-25 01:19:16",
+  "repositories": [
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7497",
+      "forks": "246",
+      "today_stars": "332 stars this week"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "18223",
+      "forks": "645",
+      "today_stars": "518 stars this week"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11373",
+      "forks": "319",
+      "today_stars": "346 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "pyrefly",
+      "full_name": "facebook/pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and IDE for Python",
+      "language": "Rust",
+      "stars": "1925",
+      "forks": "54",
+      "today_stars": "1,008 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10833",
+      "forks": "408",
+      "today_stars": "338 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "88980",
+      "forks": "12704",
+      "today_stars": "619 stars this week"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32229",
+      "forks": "1287",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "65157",
+      "forks": "3148",
+      "today_stars": "2,852 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12074",
+      "forks": "1658",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "35203",
+      "forks": "1832",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "13030",
+      "forks": "1000",
+      "today_stars": "346 stars this week"
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "full_name": "hrkfdn/ncspot",
+      "url": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": "5639",
+      "forks": "229",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "4511",
+      "forks": "222",
+      "today_stars": "228 stars this week"
+    },
+    {
+      "author": "mxsm",
+      "name": "rocketmq-rust",
+      "full_name": "mxsm/rocketmq-rust",
+      "url": "https://github.com/mxsm/rocketmq-rust",
+      "description": "🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.",
+      "language": "Rust",
+      "stars": "1148",
+      "forks": "152",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1191",
+      "forks": "175",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39738",
+      "forks": "3912",
+      "today_stars": "172 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "44808",
+      "forks": "2115",
+      "today_stars": "270 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "27973",
+      "forks": "1939",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "mullvad",
+      "name": "mullvadvpn-app",
+      "full_name": "mullvad/mullvadvpn-app",
+      "url": "https://github.com/mullvad/mullvadvpn-app",
+      "description": "The Mullvad VPN client app for desktop and mobile",
+      "language": "Rust",
+      "stars": "5831",
+      "forks": "405",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29285",
+      "forks": "990",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "58467",
+      "forks": "10608",
+      "today_stars": "177 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-05-25 01:19:54",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "67753",
+      "forks": "4318",
+      "today_stars": "1,102 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23284",
+      "forks": "4915",
+      "today_stars": "159 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "194197",
+      "forks": "55970",
+      "today_stars": "571 stars this week"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "8827",
+      "forks": "1470",
+      "today_stars": "429 stars this week"
+    },
+    {
+      "author": "n64decomp",
+      "name": "mk64",
+      "full_name": "n64decomp/mk64",
+      "url": "https://github.com/n64decomp/mk64",
+      "description": "A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.",
+      "language": "C",
+      "stars": "1052",
+      "forks": "101",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11434",
+      "forks": "945",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9362",
+      "forks": "1216",
+      "today_stars": "733 stars this week"
+    },
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8218",
+      "forks": "880",
+      "today_stars": "442 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14161",
+      "forks": "510",
+      "today_stars": "192 stars this week"
+    },
+    {
+      "author": "FWGS",
+      "name": "xash3d-fwgs",
+      "full_name": "FWGS/xash3d-fwgs",
+      "url": "https://github.com/FWGS/xash3d-fwgs",
+      "description": "Xash3D FWGS engine",
+      "language": "C",
+      "stars": "1930",
+      "forks": "290",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1173",
+      "forks": "129",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "122587",
+      "forks": "11514",
+      "today_stars": "434 stars this week"
+    },
+    {
+      "author": "bitaxeorg",
+      "name": "ESP-Miner",
+      "full_name": "bitaxeorg/ESP-Miner",
+      "url": "https://github.com/bitaxeorg/ESP-Miner",
+      "description": "A bitcoin ASIC miner for the ESP32",
+      "language": "C",
+      "stars": "607",
+      "forks": "232",
+      "today_stars": "11 stars this week"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5730",
+      "forks": "1117",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23885",
+      "forks": "4908",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "Xilinx",
+      "name": "linux-xlnx",
+      "full_name": "Xilinx/linux-xlnx",
+      "url": "https://github.com/Xilinx/linux-xlnx",
+      "description": "The official Linux kernel from Xilinx",
+      "language": "C",
+      "stars": "1440",
+      "forks": "1559",
+      "today_stars": "6 stars this week"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）",
+      "language": "C",
+      "stars": "6061",
+      "forks": "669",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "ffmpegwasm",
+      "name": "ffmpeg.wasm",
+      "full_name": "ffmpegwasm/ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "language": "C",
+      "stars": "15786",
+      "forks": "944",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8057",
+      "forks": "3017",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "winsiderss",
+      "name": "systeminformer",
+      "full_name": "winsiderss/systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+      "language": "C",
+      "stars": "11962",
+      "forks": "1476",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4683",
+      "forks": "910",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21392",
+      "forks": "3959",
+      "today_stars": "38 stars this week"
+    }
+  ]
+}
