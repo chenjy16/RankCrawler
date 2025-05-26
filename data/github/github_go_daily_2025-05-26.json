@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-26 01:14:40",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "20065",
+      "forks": "618",
+      "today_stars": "66 stars today"
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "full_name": "tinygo-org/tinygo",
+      "url": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": "16254",
+      "forks": "955",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "23926",
+      "forks": "2865",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "zerodha",
+      "name": "kite-mcp-server",
+      "full_name": "zerodha/kite-mcp-server",
+      "url": "https://github.com/zerodha/kite-mcp-server",
+      "description": "Zerodha Kite MCP server",
+      "language": "Go",
+      "stars": "66",
+      "forks": "21",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "chaitin",
+      "name": "SafeLine",
+      "full_name": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": "16539",
+      "forks": "996",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "70512",
+      "forks": "4534",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "50575",
+      "forks": "4518",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "chaos-mesh",
+      "name": "chaos-mesh",
+      "full_name": "chaos-mesh/chaos-mesh",
+      "url": "https://github.com/chaos-mesh/chaos-mesh",
+      "description": "A Chaos Engineering Platform for Kubernetes.",
+      "language": "Go",
+      "stars": "7092",
+      "forks": "880",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cloudflared",
+      "full_name": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+      "language": "Go",
+      "stars": "10640",
+      "forks": "949",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "27918",
+      "forks": "7244",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "8934",
+      "forks": "660",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "141691",
+      "forks": "11867",
+      "today_stars": "133 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4905",
+      "forks": "24082",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DiceDB",
+      "name": "dice",
+      "full_name": "DiceDB/dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "10486",
+      "forks": "1386",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "28466",
+      "forks": "2017",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "13744",
+      "forks": "652",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Provision remote development environments via Terraform",
+      "language": "Go",
+      "stars": "9906",
+      "forks": "891",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "14696",
+      "forks": "1069",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "Xpl0itU",
+      "name": "WiiUDownloader",
+      "full_name": "Xpl0itU/WiiUDownloader",
+      "url": "https://github.com/Xpl0itU/WiiUDownloader",
+      "description": "Allows to download encrypted wiiu files from nintendo's official servers",
+      "language": "Go",
+      "stars": "1153",
+      "forks": "32",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
