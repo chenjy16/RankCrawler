@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-05-27 01:12:39",
+  "repositories": [
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "60435",
+      "forks": "4349",
+      "today_stars": "3,284 stars this month"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "36460",
+      "forks": "1139",
+      "today_stars": "1,283 stars this month"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "18256",
+      "forks": "649",
+      "today_stars": "1,402 stars this month"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "39435",
+      "forks": "1368",
+      "today_stars": "1,391 stars this month"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "15283",
+      "forks": "525",
+      "today_stars": "2,813 stars this month"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "65557",
+      "forks": "3194",
+      "today_stars": "11,786 stars this month"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3808",
+      "forks": "165",
+      "today_stars": "617 stars this month"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the modern evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10852",
+      "forks": "411",
+      "today_stars": "621 stars this month"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20739",
+      "forks": "1838",
+      "today_stars": "372 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12081",
+      "forks": "1660",
+      "today_stars": "159 stars this month"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "58944",
+      "forks": "3117",
+      "today_stars": "618 stars this month"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "19872",
+      "forks": "3147",
+      "today_stars": "4,032 stars this month"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "37730",
+      "forks": "2830",
+      "today_stars": "756 stars this month"
+    },
+    {
+      "author": "longbridge",
+      "name": "gpui-component",
+      "full_name": "longbridge/gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "UI components for building fantastic desktop application by using GPUI.",
+      "language": "Rust",
+      "stars": "3021",
+      "forks": "131",
+      "today_stars": "2,339 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "103808",
+      "forks": "13365",
+      "today_stars": "954 stars this month"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "11197",
+      "forks": "575",
+      "today_stars": "645 stars this month"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "38663",
+      "forks": "7136",
+      "today_stars": "1,459 stars this month"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "13191",
+      "forks": "415",
+      "today_stars": "515 stars this month"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "48936",
+      "forks": "2117",
+      "today_stars": "682 stars this month"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "10694",
+      "forks": "447",
+      "today_stars": "484 stars this month"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5247",
+      "forks": "378",
+      "today_stars": "265 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "39767",
+      "forks": "3916",
+      "today_stars": "669 stars this month"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16672",
+      "forks": "882",
+      "today_stars": "175 stars this month"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11395",
+      "forks": "319",
+      "today_stars": "502 stars this month"
+    }
+  ]
+}
