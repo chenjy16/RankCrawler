@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-05-29 01:13:11",
+  "repositories": [
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "142043",
+      "forks": "11907",
+      "today_stars": "119 stars today"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-filesystem-server",
+      "full_name": "mark3labs/mcp-filesystem-server",
+      "url": "https://github.com/mark3labs/mcp-filesystem-server",
+      "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
+      "language": "Go",
+      "stars": "357",
+      "forks": "51",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "81160",
+      "forks": "7863",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware",
+      "language": "Go",
+      "stars": "1684",
+      "forks": "303",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "36577",
+      "forks": "1788",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32467",
+      "forks": "4366",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "bytedance",
+      "name": "sonic",
+      "full_name": "bytedance/sonic",
+      "url": "https://github.com/bytedance/sonic",
+      "description": "A blazingly fast JSON serializing & deserializing library",
+      "language": "Go",
+      "stars": "8147",
+      "forks": "381",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "karpenter-provider-aws",
+      "full_name": "aws/karpenter-provider-aws",
+      "url": "https://github.com/aws/karpenter-provider-aws",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "7275",
+      "forks": "1096",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3603",
+      "forks": "2778",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ehang-io",
+      "name": "nps",
+      "full_name": "ehang-io/nps",
+      "url": "https://github.com/ehang-io/nps",
+      "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+      "language": "Go",
+      "stars": "32673",
+      "forks": "5892",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio-go",
+      "full_name": "minio/minio-go",
+      "url": "https://github.com/minio/minio-go",
+      "description": "MinIO Go client SDK for S3 compatible object storage",
+      "language": "Go",
+      "stars": "2683",
+      "forks": "682",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "full_name": "kubernetes/minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": "30459",
+      "forks": "4989",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "5820",
+      "forks": "476",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "manusa",
+      "name": "kubernetes-mcp-server",
+      "full_name": "manusa/kubernetes-mcp-server",
+      "url": "https://github.com/manusa/kubernetes-mcp-server",
+      "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+      "language": "Go",
+      "stars": "208",
+      "forks": "40",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "prometheus-operator",
+      "name": "prometheus-operator",
+      "full_name": "prometheus-operator/prometheus-operator",
+      "url": "https://github.com/prometheus-operator/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": "9463",
+      "forks": "3774",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "20402",
+      "forks": "630",
+      "today_stars": "170 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38253",
+      "forks": "4024",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "full_name": "go-sql-driver/mysql",
+      "url": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": "14817",
+      "forks": "2335",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux2",
+      "full_name": "fluxcd/flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "stars": "7113",
+      "forks": "657",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "23451",
+      "forks": "2732",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "Masterminds",
+      "name": "squirrel",
+      "full_name": "Masterminds/squirrel",
+      "url": "https://github.com/Masterminds/squirrel",
+      "description": "Fluent SQL generation for golang",
+      "language": "Go",
+      "stars": "7409",
+      "forks": "476",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "28523",
+      "forks": "2026",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "10613",
+      "forks": "1616",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

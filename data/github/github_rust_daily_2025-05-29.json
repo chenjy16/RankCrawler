@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-05-29 01:13:31",
+  "repositories": [
+    {
+      "author": "Lagrange-Labs",
+      "name": "deep-prove",
+      "full_name": "Lagrange-Labs/deep-prove",
+      "url": "https://github.com/Lagrange-Labs/deep-prove",
+      "description": "Framework to prove inference of ML models blazingly fast",
+      "language": "Rust",
+      "stars": "2714",
+      "forks": "44",
+      "today_stars": "271 stars today"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "8287",
+      "forks": "384",
+      "today_stars": "401 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "2172",
+      "forks": "880",
+      "today_stars": "329 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "20194",
+      "forks": "3262",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30086",
+      "forks": "3609",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "52660",
+      "forks": "2131",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "full_name": "huggingface/tokenizers",
+      "url": "https://github.com/huggingface/tokenizers",
+      "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": "9735",
+      "forks": "906",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "delta-io",
+      "name": "delta-rs",
+      "full_name": "delta-io/delta-rs",
+      "url": "https://github.com/delta-io/delta-rs",
+      "description": "A native Rust library for Delta Lake, with bindings into Python",
+      "language": "Rust",
+      "stars": "2793",
+      "forks": "482",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4501",
+      "forks": "401",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "89291",
+      "forks": "12785",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "23814",
+      "forks": "1641",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "7757",
+      "forks": "1540",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "axum",
+      "full_name": "tokio-rs/axum",
+      "url": "https://github.com/tokio-rs/axum",
+      "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+      "language": "Rust",
+      "stars": "21719",
+      "forks": "1177",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "20609",
+      "forks": "1477",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "33825",
+      "forks": "2244",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32261",
+      "forks": "1288",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "3680",
+      "forks": "395",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, mobile, and more.",
+      "language": "Rust",
+      "stars": "27764",
+      "forks": "1113",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "92935",
+      "forks": "2871",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "greenbone",
+      "name": "openvas-scanner",
+      "full_name": "greenbone/openvas-scanner",
+      "url": "https://github.com/greenbone/openvas-scanner",
+      "description": "This repository contains the scanner component for Greenbone Community Edition.",
+      "language": "Rust",
+      "stars": "3850",
+      "forks": "673",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "691",
+      "forks": "113",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "15739",
+      "forks": "510",
+      "today_stars": "29 stars today"
+    }
+  ]
+}

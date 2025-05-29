@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-05-29 01:13:17",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1290",
+      "forks": "82",
+      "today_stars": "905 stars this week"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+      "language": "Go",
+      "stars": "41273",
+      "forks": "2932",
+      "today_stars": "857 stars this week"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "52739",
+      "forks": "5863",
+      "today_stars": "196 stars this week"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "13788",
+      "forks": "656",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "20402",
+      "forks": "630",
+      "today_stars": "647 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "36577",
+      "forks": "1788",
+      "today_stars": "120 stars this week"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "63201",
+      "forks": "1645",
+      "today_stars": "639 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "142043",
+      "forks": "11907",
+      "today_stars": "896 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "12731",
+      "forks": "1161",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3603",
+      "forks": "2778",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-filesystem-server",
+      "full_name": "mark3labs/mcp-filesystem-server",
+      "url": "https://github.com/mark3labs/mcp-filesystem-server",
+      "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
+      "language": "Go",
+      "stars": "357",
+      "forks": "51",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24002",
+      "forks": "2869",
+      "today_stars": "185 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "70603",
+      "forks": "4540",
+      "today_stars": "239 stars this week"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21884",
+      "forks": "4497",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40544",
+      "forks": "2944",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "54917",
+      "forks": "5342",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "tinygo-org",
+      "name": "tinygo",
+      "full_name": "tinygo-org/tinygo",
+      "url": "https://github.com/tinygo-org/tinygo",
+      "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+      "language": "Go",
+      "stars": "16268",
+      "forks": "955",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "12220",
+      "forks": "369",
+      "today_stars": "657 stars this week"
+    },
+    {
+      "author": "openimsdk",
+      "name": "open-im-server",
+      "full_name": "openimsdk/open-im-server",
+      "url": "https://github.com/openimsdk/open-im-server",
+      "description": "IM Chat ChatGPT",
+      "language": "Go",
+      "stars": "14785",
+      "forks": "2598",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "bytebase",
+      "name": "bytebase",
+      "full_name": "bytebase/bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "description": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+      "language": "Go",
+      "stars": "12497",
+      "forks": "807",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7151",
+      "forks": "936",
+      "today_stars": "35 stars this week"
+    }
+  ]
+}

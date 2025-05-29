@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-05-29 01:14:24",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "68135",
+      "forks": "4342",
+      "today_stars": "1,934 stars this month"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "194521",
+      "forks": "56030",
+      "today_stars": "2,363 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69408",
+      "forks": "24047",
+      "today_stars": "656 stars this month"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14273",
+      "forks": "512",
+      "today_stars": "732 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9427",
+      "forks": "1225",
+      "today_stars": "851 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "122804",
+      "forks": "11529",
+      "today_stars": "1,696 stars this month"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12738",
+      "forks": "729",
+      "today_stars": "578 stars this month"
+    },
+    {
+      "author": "n64decomp",
+      "name": "sm64",
+      "full_name": "n64decomp/sm64",
+      "url": "https://github.com/n64decomp/sm64",
+      "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+      "language": "C",
+      "stars": "8074",
+      "forks": "1447",
+      "today_stars": "82 stars this month"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27359",
+      "forks": "1132",
+      "today_stars": "443 stars this month"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4720",
+      "forks": "218",
+      "today_stars": "372 stars this month"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21627",
+      "forks": "825",
+      "today_stars": "1,082 stars this month"
+    },
+    {
+      "author": "torvalds",
+      "name": "uemacs",
+      "full_name": "torvalds/uemacs",
+      "url": "https://github.com/torvalds/uemacs",
+      "description": "Random version of microemacs with my private modificatons",
+      "language": "C",
+      "stars": "1419",
+      "forks": "255",
+      "today_stars": "86 stars this month"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1222",
+      "forks": "133",
+      "today_stars": "224 stars this month"
+    },
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8249",
+      "forks": "881",
+      "today_stars": "514 stars this month"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39072",
+      "forks": "7868",
+      "today_stars": "198 stars this month"
+    },
+    {
+      "author": "ExistentialAudio",
+      "name": "BlackHole",
+      "full_name": "ExistentialAudio/BlackHole",
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+      "language": "C",
+      "stars": "16555",
+      "forks": "652",
+      "today_stars": "302 stars this month"
+    },
+    {
+      "author": "BandarHL",
+      "name": "BHTwitter",
+      "full_name": "BandarHL/BHTwitter",
+      "url": "https://github.com/BandarHL/BHTwitter",
+      "description": "Awesome tweak for Twitter",
+      "language": "C",
+      "stars": "2206",
+      "forks": "499",
+      "today_stars": "76 stars this month"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5857",
+      "forks": "865",
+      "today_stars": "337 stars this month"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8283",
+      "forks": "3005",
+      "today_stars": "89 stars this month"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12411",
+      "forks": "2175",
+      "today_stars": "336 stars this month"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15472",
+      "forks": "1149",
+      "today_stars": "213 stars this month"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23290",
+      "forks": "4917",
+      "today_stars": "230 stars this month"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2796",
+      "forks": "404",
+      "today_stars": "333 stars this month"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10371",
+      "forks": "5556",
+      "today_stars": "216 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-05-29 01:13:37",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "89291",
+      "forks": "12785",
+      "today_stars": "655 stars this week"
+    },
+    {
+      "author": "mfontanini",
+      "name": "presenterm",
+      "full_name": "mfontanini/presenterm",
+      "url": "https://github.com/mfontanini/presenterm",
+      "description": "A markdown terminal slideshow tool",
+      "language": "Rust",
+      "stars": "6233",
+      "forks": "124",
+      "today_stars": "404 stars this week"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "20609",
+      "forks": "1477",
+      "today_stars": "339 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "pyrefly",
+      "full_name": "facebook/pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and IDE for Python",
+      "language": "Rust",
+      "stars": "2387",
+      "forks": "67",
+      "today_stars": "787 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "20194",
+      "forks": "3262",
+      "today_stars": "1,641 stars this week"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7597",
+      "forks": "252",
+      "today_stars": "232 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1259",
+      "forks": "188",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "44929",
+      "forks": "2124",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "8287",
+      "forks": "384",
+      "today_stars": "655 stars this week"
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "full_name": "hrkfdn/ncspot",
+      "url": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": "5704",
+      "forks": "230",
+      "today_stars": "220 stars this week"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "13164",
+      "forks": "1019",
+      "today_stars": "344 stars this week"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "16528",
+      "forks": "1112",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4501",
+      "forks": "401",
+      "today_stars": "169 stars this week"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "4377",
+      "forks": "288",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "65975",
+      "forks": "3201",
+      "today_stars": "2,304 stars this week"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "52660",
+      "forks": "2131",
+      "today_stars": "209 stars this week"
+    },
+    {
+      "author": "alvr-org",
+      "name": "ALVR",
+      "full_name": "alvr-org/ALVR",
+      "url": "https://github.com/alvr-org/ALVR",
+      "description": "Stream VR games from your PC to your headset via Wi-Fi",
+      "language": "Rust",
+      "stars": "6271",
+      "forks": "538",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "103865",
+      "forks": "13371",
+      "today_stars": "240 stars this week"
+    },
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "stars": "26741",
+      "forks": "635",
+      "today_stars": "223 stars this week"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32261",
+      "forks": "1288",
+      "today_stars": "68 stars this week"
+    }
+  ]
+}

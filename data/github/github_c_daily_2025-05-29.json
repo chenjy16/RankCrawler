@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-29 01:14:11",
+  "repositories": [
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10600",
+      "forks": "2925",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "FlyGoat",
+      "name": "csmwrap",
+      "full_name": "FlyGoat/csmwrap",
+      "url": "https://github.com/FlyGoat/csmwrap",
+      "description": "Get PC BIOS back on UEFI only system",
+      "language": "C",
+      "stars": "255",
+      "forks": "8",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15807",
+      "forks": "768",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5857",
+      "forks": "865",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9766",
+      "forks": "2484",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2795",
+      "forks": "1312",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "814",
+      "forks": "1554",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1077",
+      "forks": "1314",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "meetecho",
+      "name": "janus-gateway",
+      "full_name": "meetecho/janus-gateway",
+      "url": "https://github.com/meetecho/janus-gateway",
+      "description": "Janus WebRTC Server",
+      "language": "C",
+      "stars": "8637",
+      "forks": "2541",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "MTProxy",
+      "full_name": "TelegramMessenger/MTProxy",
+      "url": "https://github.com/TelegramMessenger/MTProxy",
+      "description": "",
+      "language": "C",
+      "stars": "5228",
+      "forks": "882",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30689",
+      "forks": "19576",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kamailio",
+      "name": "kamailio",
+      "full_name": "kamailio/kamailio",
+      "url": "https://github.com/kamailio/kamailio",
+      "description": "Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -",
+      "language": "C",
+      "stars": "2464",
+      "forks": "998",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12421",
+      "forks": "2118",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2796",
+      "forks": "404",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "9018",
+      "forks": "2270",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nmap",
+      "name": "nmap",
+      "full_name": "nmap/nmap",
+      "url": "https://github.com/nmap/nmap",
+      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+      "language": "C",
+      "stars": "11163",
+      "forks": "2541",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kingToolbox",
+      "name": "WindTerm",
+      "full_name": "kingToolbox/WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "stars": "26445",
+      "forks": "2041",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4501",
+      "forks": "1032",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "637",
+      "forks": "3200",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "31431",
+      "forks": "2738",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "9300",
+      "forks": "1525",
+      "today_stars": "157 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6921",
+      "forks": "1695",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39072",
+      "forks": "7868",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "Starship",
+      "full_name": "HarbourMasters/Starship",
+      "url": "https://github.com/HarbourMasters/Starship",
+      "description": "SF64 PC Port",
+      "language": "C",
+      "stars": "1339",
+      "forks": "74",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

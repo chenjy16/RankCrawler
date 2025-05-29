@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-05-29 01:13:24",
+  "repositories": [
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+      "language": "Go",
+      "stars": "41273",
+      "forks": "2932",
+      "today_stars": "2,206 stars this month"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "11044",
+      "forks": "1224",
+      "today_stars": "1,422 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "26923",
+      "forks": "2566",
+      "today_stars": "1,028 stars this month"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "63201",
+      "forks": "1645",
+      "today_stars": "2,674 stars this month"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "28762",
+      "forks": "1548",
+      "today_stars": "1,356 stars this month"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19654",
+      "forks": "6027",
+      "today_stars": "333 stars this month"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "81160",
+      "forks": "7863",
+      "today_stars": "1,166 stars this month"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "16954",
+      "forks": "1604",
+      "today_stars": "428 stars this month"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "14482",
+      "forks": "1778",
+      "today_stars": "368 stars this month"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7044",
+      "forks": "656",
+      "today_stars": "177 stars this month"
+    },
+    {
+      "author": "elastic",
+      "name": "beats",
+      "full_name": "elastic/beats",
+      "url": "https://github.com/elastic/beats",
+      "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+      "language": "Go",
+      "stars": "12411",
+      "forks": "4957",
+      "today_stars": "90 stars this month"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "28674",
+      "forks": "4303",
+      "today_stars": "573 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "70603",
+      "forks": "4540",
+      "today_stars": "988 stars this month"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "70487",
+      "forks": "2517",
+      "today_stars": "814 stars this month"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4916",
+      "forks": "24122",
+      "today_stars": "61 stars this month"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10057",
+      "forks": "1307",
+      "today_stars": "1,907 stars this month"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "8621",
+      "forks": "618",
+      "today_stars": "425 stars this month"
+    },
+    {
+      "author": "bytebase",
+      "name": "bytebase",
+      "full_name": "bytebase/bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "description": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+      "language": "Go",
+      "stars": "12497",
+      "forks": "807",
+      "today_stars": "186 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "20003",
+      "forks": "1611",
+      "today_stars": "372 stars this month"
+    },
+    {
+      "author": "zyedidia",
+      "name": "micro",
+      "full_name": "zyedidia/micro",
+      "url": "https://github.com/zyedidia/micro",
+      "description": "A modern and intuitive terminal-based text editor",
+      "language": "Go",
+      "stars": "26184",
+      "forks": "1217",
+      "today_stars": "214 stars this month"
+    },
+    {
+      "author": "gosom",
+      "name": "google-maps-scraper",
+      "full_name": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "stars": "2060",
+      "forks": "237",
+      "today_stars": "761 stars this month"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "22795",
+      "forks": "1820",
+      "today_stars": "543 stars this month"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "6776",
+      "forks": "864",
+      "today_stars": "794 stars this month"
+    }
+  ]
+}
