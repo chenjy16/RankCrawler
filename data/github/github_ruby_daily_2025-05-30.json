@@ -1,0 +1,271 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-05-30 01:13:40",
+  "repositories": [
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48341",
+      "forks": "7167",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40191",
+      "forks": "5839",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "23806",
+      "forks": "4517",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13313",
+      "forks": "2454",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24196",
+      "forks": "5536",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Ceedling",
+      "full_name": "ThrowTheSwitch/Ceedling",
+      "url": "https://github.com/ThrowTheSwitch/Ceedling",
+      "description": "Unit testing and build system for C projects",
+      "language": "Ruby",
+      "stars": "673",
+      "forks": "257",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "7787",
+      "forks": "2520",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21370",
+      "forks": "10958",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4870",
+      "forks": "830",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify",
+      "language": "Ruby",
+      "stars": "76",
+      "forks": "10",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ruby",
+      "full_name": "stripe/stripe-ruby",
+      "url": "https://github.com/stripe/stripe-ruby",
+      "description": "Ruby library for the Stripe API.",
+      "language": "Ruby",
+      "stars": "2014",
+      "forks": "566",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "full_name": "fluent/fluentd",
+      "url": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": "13167",
+      "forks": "1362",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "varvet",
+      "name": "pundit",
+      "full_name": "varvet/pundit",
+      "url": "https://github.com/varvet/pundit",
+      "description": "Minimal authorization through OO design and pure Ruby classes",
+      "language": "Ruby",
+      "stars": "8398",
+      "forks": "644",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "doorkeeper-gem",
+      "name": "doorkeeper",
+      "full_name": "doorkeeper-gem/doorkeeper",
+      "url": "https://github.com/doorkeeper-gem/doorkeeper",
+      "description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.",
+      "language": "Ruby",
+      "stars": "5396",
+      "forks": "1076",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15548",
+      "forks": "1119",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "12743",
+      "forks": "4527",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "wpscanteam",
+      "name": "wpscan",
+      "full_name": "wpscanteam/wpscan",
+      "url": "https://github.com/wpscanteam/wpscan",
+      "description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com",
+      "language": "Ruby",
+      "stars": "9022",
+      "forks": "1294",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog Tracing Ruby Client",
+      "language": "Ruby",
+      "stars": "361",
+      "forks": "391",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "simple_form",
+      "full_name": "heartcombo/simple_form",
+      "url": "https://github.com/heartcombo/simple_form",
+      "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+      "language": "Ruby",
+      "stars": "8224",
+      "forks": "1311",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "puma",
+      "name": "puma",
+      "full_name": "puma/puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "stars": "7759",
+      "forks": "1462",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "35620",
+      "forks": "14318",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ytti",
+      "name": "oxidized",
+      "full_name": "ytti/oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "stars": "2993",
+      "forks": "969",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44116",
+      "forks": "8548",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50102",
+      "forks": "10101",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
