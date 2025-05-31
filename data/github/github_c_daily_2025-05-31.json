@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-05-31 01:12:29",
+  "repositories": [
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "641",
+      "forks": "3203",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27408",
+      "forks": "1135",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11332",
+      "forks": "800",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "stars": "11152",
+      "forks": "5179",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5900",
+      "forks": "2693",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26554",
+      "forks": "2525",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30698",
+      "forks": "19575",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tsl0922",
+      "name": "ttyd",
+      "full_name": "tsl0922/ttyd",
+      "url": "https://github.com/tsl0922/ttyd",
+      "description": "Share your terminal over the web",
+      "language": "C",
+      "stars": "9226",
+      "forks": "955",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11458",
+      "forks": "949",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7327",
+      "forks": "4992",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "RsyncProject",
+      "name": "rsync",
+      "full_name": "RsyncProject/rsync",
+      "url": "https://github.com/RsyncProject/rsync",
+      "description": "An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.",
+      "language": "C",
+      "stars": "3545",
+      "forks": "417",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12191",
+      "forks": "7419",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4698",
+      "forks": "915",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Dav1dde",
+      "name": "glad",
+      "full_name": "Dav1dde/glad",
+      "url": "https://github.com/Dav1dde/glad",
+      "description": "Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.",
+      "language": "C",
+      "stars": "4077",
+      "forks": "476",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "axboe",
+      "name": "fio",
+      "full_name": "axboe/fio",
+      "url": "https://github.com/axboe/fio",
+      "description": "Flexible I/O Tester",
+      "language": "C",
+      "stars": "5624",
+      "forks": "1301",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6791",
+      "forks": "1561",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15833",
+      "forks": "1410",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25006",
+      "forks": "2255",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "LongSoft",
+      "name": "UEFITool",
+      "full_name": "LongSoft/UEFITool",
+      "url": "https://github.com/LongSoft/UEFITool",
+      "description": "UEFI firmware image viewer and editor",
+      "language": "C",
+      "stars": "4820",
+      "forks": "674",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5332",
+      "forks": "1930",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "15848",
+      "forks": "771",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "814",
+      "forks": "1555",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
