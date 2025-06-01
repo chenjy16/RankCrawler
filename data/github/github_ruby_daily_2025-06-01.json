@@ -1,0 +1,271 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-06-01 01:28:16",
+  "repositories": [
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5068",
+      "forks": "1122",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "12756",
+      "forks": "4529",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "46348",
+      "forks": "3996",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ytti",
+      "name": "oxidized",
+      "full_name": "ytti/oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "stars": "2996",
+      "forks": "973",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40198",
+      "forks": "5839",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ankane",
+      "name": "pghero",
+      "full_name": "ankane/pghero",
+      "url": "https://github.com/ankane/pghero",
+      "description": "A performance dashboard for Postgres",
+      "language": "Ruby",
+      "stars": "8464",
+      "forks": "453",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "7787",
+      "forks": "2520",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "varvet",
+      "name": "pundit",
+      "full_name": "varvet/pundit",
+      "url": "https://github.com/varvet/pundit",
+      "description": "Minimal authorization through OO design and pure Ruby classes",
+      "language": "Ruby",
+      "stars": "8398",
+      "forks": "644",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14662",
+      "forks": "5090",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "simple_form",
+      "full_name": "heartcombo/simple_form",
+      "url": "https://github.com/heartcombo/simple_form",
+      "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+      "language": "Ruby",
+      "stars": "8225",
+      "forks": "1311",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15556",
+      "forks": "1120",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50122",
+      "forks": "10103",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2798",
+      "forks": "928",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "faker-ruby",
+      "name": "faker",
+      "full_name": "faker-ruby/faker",
+      "url": "https://github.com/faker-ruby/faker",
+      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+      "language": "Ruby",
+      "stars": "11363",
+      "forks": "3180",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21381",
+      "forks": "10959",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "56947",
+      "forks": "21861",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog Tracing Ruby Client",
+      "language": "Ruby",
+      "stars": "361",
+      "forks": "392",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2326",
+      "forks": "137",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify",
+      "language": "Ruby",
+      "stars": "80",
+      "forks": "11",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Shopify",
+      "name": "liquid",
+      "full_name": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "stars": "11360",
+      "forks": "1453",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11134",
+      "forks": "2612",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "instructure",
+      "name": "canvas-lms",
+      "full_name": "instructure/canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "stars": "6026",
+      "forks": "2669",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "lostisland",
+      "name": "faraday",
+      "full_name": "lostisland/faraday",
+      "url": "https://github.com/lostisland/faraday",
+      "description": "Simple, but flexible HTTP client library, with support for multiple backends.",
+      "language": "Ruby",
+      "stars": "5826",
+      "forks": "992",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Ceedling",
+      "full_name": "ThrowTheSwitch/Ceedling",
+      "url": "https://github.com/ThrowTheSwitch/Ceedling",
+      "description": "Unit testing and build system for C projects",
+      "language": "Ruby",
+      "stars": "673",
+      "forks": "257",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

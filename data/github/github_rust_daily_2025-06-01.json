@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-01 01:26:23",
+  "repositories": [
+    {
+      "author": "facebook",
+      "name": "buck2",
+      "full_name": "facebook/buck2",
+      "url": "https://github.com/facebook/buck2",
+      "description": "Build system, successor to Buck",
+      "language": "Rust",
+      "stars": "3891",
+      "forks": "272",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "41200",
+      "forks": "1114",
+      "today_stars": "150 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "103169",
+      "forks": "5606",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "10931",
+      "forks": "1082",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "mountpoint-s3",
+      "full_name": "awslabs/mountpoint-s3",
+      "url": "https://github.com/awslabs/mountpoint-s3",
+      "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+      "language": "Rust",
+      "stars": "5157",
+      "forks": "203",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "39046",
+      "forks": "7241",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7272",
+      "forks": "1500",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "GitoxideLabs",
+      "name": "gitoxide",
+      "full_name": "GitoxideLabs/gitoxide",
+      "url": "https://github.com/GitoxideLabs/gitoxide",
+      "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+      "language": "Rust",
+      "stars": "9887",
+      "forks": "353",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "27779",
+      "forks": "1996",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "25426",
+      "forks": "546",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "14572",
+      "forks": "572",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "11105",
+      "forks": "593",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19620",
+      "forks": "1747",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "trynova",
+      "name": "nova",
+      "full_name": "trynova/nova",
+      "url": "https://github.com/trynova/nova",
+      "description": "JS engine lolz",
+      "language": "Rust",
+      "stars": "1404",
+      "forks": "51",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "60727",
+      "forks": "4393",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29330",
+      "forks": "992",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24266",
+      "forks": "1394",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "bottlerocket-os",
+      "name": "bottlerocket",
+      "full_name": "bottlerocket-os/bottlerocket",
+      "url": "https://github.com/bottlerocket-os/bottlerocket",
+      "description": "An operating system designed for hosting containers",
+      "language": "Rust",
+      "stars": "9145",
+      "forks": "533",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "probe-rs",
+      "name": "probe-rs",
+      "full_name": "probe-rs/probe-rs",
+      "url": "https://github.com/probe-rs/probe-rs",
+      "description": "A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host",
+      "language": "Rust",
+      "stars": "2158",
+      "forks": "444",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "27264",
+      "forks": "1769",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "24978",
+      "forks": "1749",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "verus-lang",
+      "name": "verus",
+      "full_name": "verus-lang/verus",
+      "url": "https://github.com/verus-lang/verus",
+      "description": "Verified Rust for low-level systems code",
+      "language": "Rust",
+      "stars": "1870",
+      "forks": "101",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "platformatic",
+      "name": "php-node",
+      "full_name": "platformatic/php-node",
+      "url": "https://github.com/platformatic/php-node",
+      "description": "PHP HTTP Request handler for Node.js",
+      "language": "Rust",
+      "stars": "152",
+      "forks": "2",
+      "today_stars": "44 stars today"
+    }
+  ]
+}

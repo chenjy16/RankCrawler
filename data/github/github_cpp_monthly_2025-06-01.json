@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-06-01 01:27:32",
+  "repositories": [
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "43153",
+      "forks": "1831",
+      "today_stars": "5,382 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL",
+      "full_name": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "stars": "27976",
+      "forks": "1327",
+      "today_stars": "9,785 stars this month"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "25753",
+      "forks": "1096",
+      "today_stars": "948 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "81176",
+      "forks": "11971",
+      "today_stars": "2,436 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "122453",
+      "forks": "24684",
+      "today_stars": "850 stars this month"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "29798",
+      "forks": "2348",
+      "today_stars": "1,062 stars this month"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "24850",
+      "forks": "4574",
+      "today_stars": "773 stars this month"
+    },
+    {
+      "author": "zen-browser",
+      "name": "desktop",
+      "full_name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": "32218",
+      "forks": "888",
+      "today_stars": "3,057 stars this month"
+    },
+    {
+      "author": "wolfpld",
+      "name": "tracy",
+      "full_name": "wolfpld/tracy",
+      "url": "https://github.com/wolfpld/tracy",
+      "description": "Frame profiler",
+      "language": "C++",
+      "stars": "11913",
+      "forks": "802",
+      "today_stars": "577 stars this month"
+    },
+    {
+      "author": "Alexays",
+      "name": "Waybar",
+      "full_name": "Alexays/Waybar",
+      "url": "https://github.com/Alexays/Waybar",
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
+      "language": "C++",
+      "stars": "8112",
+      "forks": "813",
+      "today_stars": "385 stars this month"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+      "language": "C++",
+      "stars": "11232",
+      "forks": "1875",
+      "today_stars": "866 stars this month"
+    },
+    {
+      "author": "MaaAssistantArknights",
+      "name": "MaaAssistantArknights",
+      "full_name": "MaaAssistantArknights/MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "stars": "16313",
+      "forks": "2152",
+      "today_stars": "600 stars this month"
+    },
+    {
+      "author": "chiteroman",
+      "name": "PlayIntegrityFix",
+      "full_name": "chiteroman/PlayIntegrityFix",
+      "url": "https://github.com/chiteroman/PlayIntegrityFix",
+      "description": "Fix Play Integrity (and SafetyNet) verdicts.",
+      "language": "C++",
+      "stars": "6970",
+      "forks": "433",
+      "today_stars": "342 stars this month"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.",
+      "language": "C++",
+      "stars": "472",
+      "forks": "62",
+      "today_stars": "99 stars this month"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "83904",
+      "forks": "37299",
+      "today_stars": "877 stars this month"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "25918",
+      "forks": "1236",
+      "today_stars": "1,127 stars this month"
+    },
+    {
+      "author": "ashishps1",
+      "name": "awesome-low-level-design",
+      "full_name": "ashishps1/awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "C++",
+      "stars": "14656",
+      "forks": "3614",
+      "today_stars": "947 stars this month"
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "full_name": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "stars": "16343",
+      "forks": "1292",
+      "today_stars": "659 stars this month"
+    },
+    {
+      "author": "SerenityOS",
+      "name": "serenity",
+      "full_name": "SerenityOS/serenity",
+      "url": "https://github.com/SerenityOS/serenity",
+      "description": "The Serenity Operating System 🐞",
+      "language": "C++",
+      "stars": "31820",
+      "forks": "3250",
+      "today_stars": "309 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "98428",
+      "forks": "8585",
+      "today_stars": "654 stars this month"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.mobile",
+      "full_name": "duixcom/Duix.mobile",
+      "url": "https://github.com/duixcom/Duix.mobile",
+      "description": "",
+      "language": "C++",
+      "stars": "6718",
+      "forks": "967",
+      "today_stars": "1,074 stars this month"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45878",
+      "forks": "7008",
+      "today_stars": "490 stars this month"
+    },
+    {
+      "author": "official-stockfish",
+      "name": "Stockfish",
+      "full_name": "official-stockfish/Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
+      "language": "C++",
+      "stars": "13054",
+      "forks": "2487",
+      "today_stars": "227 stars this month"
+    }
+  ]
+}

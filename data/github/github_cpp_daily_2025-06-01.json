@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-06-01 01:27:19",
+  "repositories": [
+    {
+      "author": "mumble-voip",
+      "name": "mumble",
+      "full_name": "mumble-voip/mumble",
+      "url": "https://github.com/mumble-voip/mumble",
+      "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
+      "language": "C++",
+      "stars": "6954",
+      "forks": "1183",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+      "language": "C++",
+      "stars": "11232",
+      "forks": "1875",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36120",
+      "forks": "10381",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10606",
+      "forks": "1461",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openxla",
+      "name": "xla",
+      "full_name": "openxla/xla",
+      "url": "https://github.com/openxla/xla",
+      "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+      "language": "C++",
+      "stars": "3206",
+      "forks": "564",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "122453",
+      "forks": "24684",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "react-native-windows",
+      "full_name": "microsoft/react-native-windows",
+      "url": "https://github.com/microsoft/react-native-windows",
+      "description": "A framework for building native Windows apps with React.",
+      "language": "C++",
+      "stars": "16852",
+      "forks": "1163",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16678",
+      "forks": "2181",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "116968",
+      "forks": "16092",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "Z3Prover",
+      "name": "z3",
+      "full_name": "Z3Prover/z3",
+      "url": "https://github.com/Z3Prover/z3",
+      "description": "The Z3 Theorem Prover",
+      "language": "C++",
+      "stars": "11058",
+      "forks": "1536",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime-genai",
+      "full_name": "microsoft/onnxruntime-genai",
+      "url": "https://github.com/microsoft/onnxruntime-genai",
+      "description": "Generative AI extensions for onnxruntime",
+      "language": "C++",
+      "stars": "724",
+      "forks": "185",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "su2code",
+      "name": "SU2",
+      "full_name": "su2code/SU2",
+      "url": "https://github.com/su2code/SU2",
+      "description": "SU2: An Open-Source Suite for Multiphysics Simulation and Design",
+      "language": "C++",
+      "stars": "1484",
+      "forks": "872",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "project-chip",
+      "name": "connectedhomeip",
+      "full_name": "project-chip/connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+      "language": "C++",
+      "stars": "7960",
+      "forks": "2168",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19439",
+      "forks": "3107",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "15058",
+      "forks": "6073",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zeek",
+      "name": "zeek",
+      "full_name": "zeek/zeek",
+      "url": "https://github.com/zeek/zeek",
+      "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+      "language": "C++",
+      "stars": "6919",
+      "forks": "1266",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ml-explore",
+      "name": "mlx",
+      "full_name": "ml-explore/mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "stars": "20773",
+      "forks": "1219",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14379",
+      "forks": "2431",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15239",
+      "forks": "1366",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29414",
+      "forks": "5694",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45878",
+      "forks": "7008",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "29798",
+      "forks": "2348",
+      "today_stars": "33 stars today"
+    }
+  ]
+}
