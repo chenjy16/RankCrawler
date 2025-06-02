@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-06-02 01:16:38",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "89524",
+      "forks": "12839",
+      "today_stars": "508 stars this week"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "20646",
+      "forks": "1479",
+      "today_stars": "249 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "20211",
+      "forks": "3255",
+      "today_stars": "660 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "45065",
+      "forks": "2128",
+      "today_stars": "257 stars this week"
+    },
+    {
+      "author": "tari-project",
+      "name": "tari",
+      "full_name": "tari-project/tari",
+      "url": "https://github.com/tari-project/tari",
+      "description": "The Tari protocol",
+      "language": "Rust",
+      "stars": "433",
+      "forks": "234",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "pyrefly",
+      "full_name": "facebook/pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and IDE for Python",
+      "language": "Rust",
+      "stars": "2598",
+      "forks": "79",
+      "today_stars": "567 stars this week"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "8449",
+      "forks": "399",
+      "today_stars": "819 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28053",
+      "forks": "1945",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "39075",
+      "forks": "7250",
+      "today_stars": "463 stars this week"
+    },
+    {
+      "author": "Lagrange-Labs",
+      "name": "deep-prove",
+      "full_name": "Lagrange-Labs/deep-prove",
+      "url": "https://github.com/Lagrange-Labs/deep-prove",
+      "description": "Framework to prove inference of ML models blazingly fast",
+      "language": "Rust",
+      "stars": "3178",
+      "forks": "55",
+      "today_stars": "1,586 stars this week"
+    },
+    {
+      "author": "mfontanini",
+      "name": "presenterm",
+      "full_name": "mfontanini/presenterm",
+      "url": "https://github.com/mfontanini/presenterm",
+      "description": "A markdown terminal slideshow tool",
+      "language": "Rust",
+      "stars": "6295",
+      "forks": "124",
+      "today_stars": "186 stars this week"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7701",
+      "forks": "257",
+      "today_stars": "185 stars this week"
+    },
+    {
+      "author": "delta-io",
+      "name": "delta-rs",
+      "full_name": "delta-io/delta-rs",
+      "url": "https://github.com/delta-io/delta-rs",
+      "description": "A native Rust library for Delta Lake, with bindings into Python",
+      "language": "Rust",
+      "stars": "2807",
+      "forks": "486",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "11112",
+      "forks": "593",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4575",
+      "forks": "405",
+      "today_stars": "187 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "buck2",
+      "full_name": "facebook/buck2",
+      "url": "https://github.com/facebook/buck2",
+      "description": "Build system, successor to Buck",
+      "language": "Rust",
+      "stars": "3900",
+      "forks": "272",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "4750",
+      "forks": "238",
+      "today_stars": "223 stars this week"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "4426",
+      "forks": "295",
+      "today_stars": "120 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1290",
+      "forks": "192",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "paritytech",
+      "name": "polkadot-sdk",
+      "full_name": "paritytech/polkadot-sdk",
+      "url": "https://github.com/paritytech/polkadot-sdk",
+      "description": "The Parity Polkadot Blockchain SDK",
+      "language": "Rust",
+      "stars": "2277",
+      "forks": "939",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "52733",
+      "forks": "2132",
+      "today_stars": "197 stars this week"
+    },
+    {
+      "author": "probe-rs",
+      "name": "probe-rs",
+      "full_name": "probe-rs/probe-rs",
+      "url": "https://github.com/probe-rs/probe-rs",
+      "description": "A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host",
+      "language": "Rust",
+      "stars": "2162",
+      "forks": "444",
+      "today_stars": "33 stars this week"
+    }
+  ]
+}

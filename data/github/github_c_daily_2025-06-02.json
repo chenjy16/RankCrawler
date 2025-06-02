@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-02 01:17:10",
+  "repositories": [
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26605",
+      "forks": "2528",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19204",
+      "forks": "41656",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "30860",
+      "forks": "3039",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4240",
+      "forks": "1074",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10381",
+      "forks": "5561",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "TsudaKageyu",
+      "name": "minhook",
+      "full_name": "TsudaKageyu/minhook",
+      "url": "https://github.com/TsudaKageyu/minhook",
+      "description": "The Minimalistic x86/x64 API Hooking Library for Windows",
+      "language": "C",
+      "stars": "4839",
+      "forks": "939",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12442",
+      "forks": "2182",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12832",
+      "forks": "739",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-examples",
+      "full_name": "raspberrypi/pico-examples",
+      "url": "https://github.com/raspberrypi/pico-examples",
+      "description": "",
+      "language": "C",
+      "stars": "3337",
+      "forks": "913",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30710",
+      "forks": "19571",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hufrea",
+      "name": "byedpi",
+      "full_name": "hufrea/byedpi",
+      "url": "https://github.com/hufrea/byedpi",
+      "description": "Bypass DPI",
+      "language": "C",
+      "stars": "2277",
+      "forks": "151",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11350",
+      "forks": "802",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14280",
+      "forks": "2988",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22596",
+      "forks": "11213",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3337",
+      "forks": "1324",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "122982",
+      "forks": "11540",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "moonlight-stream",
+      "name": "moonlight-android",
+      "full_name": "moonlight-stream/moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "stars": "5160",
+      "forks": "818",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pret",
+      "name": "pokeemerald",
+      "full_name": "pret/pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "stars": "2570",
+      "forks": "3173",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8296",
+      "forks": "564",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "tsl0922",
+      "name": "ttyd",
+      "full_name": "tsl0922/ttyd",
+      "url": "https://github.com/tsl0922/ttyd",
+      "description": "Share your terminal over the web",
+      "language": "C",
+      "stars": "9250",
+      "forks": "958",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "termux",
+      "name": "termux-x11",
+      "full_name": "termux/termux-x11",
+      "url": "https://github.com/termux/termux-x11",
+      "description": "Termux X-server add-on.",
+      "language": "C",
+      "stars": "2720",
+      "forks": "397",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4846",
+      "forks": "219",
+      "today_stars": "21 stars today"
+    }
+  ]
+}

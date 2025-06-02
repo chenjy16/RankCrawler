@@ -1,0 +1,227 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-06-02 01:18:09",
+  "repositories": [
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "41865",
+      "forks": "2548",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "6926",
+      "forks": "782",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23865",
+      "forks": "3472",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "7631",
+      "forks": "2048",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "invoiceninja",
+      "name": "invoiceninja",
+      "full_name": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "stars": "8870",
+      "forks": "2392",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "librespeed",
+      "name": "speedtest",
+      "full_name": "librespeed/speedtest",
+      "url": "https://github.com/librespeed/speedtest",
+      "description": "Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",
+      "language": "PHP",
+      "stars": "13127",
+      "forks": "2278",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "RaspAP",
+      "name": "raspap-webgui",
+      "full_name": "RaspAP/raspap-webgui",
+      "url": "https://github.com/RaspAP/raspap-webgui",
+      "description": "The easiest, full-featured wireless router setup for Debian-based devices. Period.",
+      "language": "PHP",
+      "stars": "4781",
+      "forks": "807",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11802",
+      "forks": "9381",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "PrivateBin",
+      "name": "PrivateBin",
+      "full_name": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+      "language": "PHP",
+      "stars": "7221",
+      "forks": "870",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "63178",
+      "forks": "24369",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "opencart",
+      "name": "opencart",
+      "full_name": "opencart/opencart",
+      "url": "https://github.com/opencart/opencart",
+      "description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.",
+      "language": "PHP",
+      "stars": "7795",
+      "forks": "4950",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "MlgmXyysd",
+      "name": "Xiaomi-HyperOS-BootLoader-Bypass",
+      "full_name": "MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+      "url": "https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
+      "description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
+      "language": "PHP",
+      "stars": "3712",
+      "forks": "381",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21490",
+      "forks": "9804",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Tuhinshubhra",
+      "name": "RED_HAWK",
+      "full_name": "Tuhinshubhra/RED_HAWK",
+      "url": "https://github.com/Tuhinshubhra/RED_HAWK",
+      "description": "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers",
+      "language": "PHP",
+      "stars": "3303",
+      "forks": "893",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "HashenUdara",
+      "name": "edoc-doctor-appointment-system",
+      "full_name": "HashenUdara/edoc-doctor-appointment-system",
+      "url": "https://github.com/HashenUdara/edoc-doctor-appointment-system",
+      "description": "This PHP-based open source project is a web application for booking medical appointments. Patients can use the platform to easily schedule appointments with their doctors, saving time and effort. The project's source code is open for anyone to use, modify, and distribute according to their needs.",
+      "language": "PHP",
+      "stars": "426",
+      "forks": "176",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "opensourcepos",
+      "name": "opensourcepos",
+      "full_name": "opensourcepos/opensourcepos",
+      "url": "https://github.com/opensourcepos/opensourcepos",
+      "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface.",
+      "language": "PHP",
+      "stars": "3730",
+      "forks": "2287",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "livewire",
+      "name": "livewire",
+      "full_name": "livewire/livewire",
+      "url": "https://github.com/livewire/livewire",
+      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+      "language": "PHP",
+      "stars": "22912",
+      "forks": "1635",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "NativePHP",
+      "name": "laravel",
+      "full_name": "NativePHP/laravel",
+      "url": "https://github.com/NativePHP/laravel",
+      "description": "Laravel wrapper for the NativePHP framework",
+      "language": "PHP",
+      "stars": "3735",
+      "forks": "197",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pelican-dev",
+      "name": "panel",
+      "full_name": "pelican-dev/panel",
+      "url": "https://github.com/pelican-dev/panel",
+      "description": "",
+      "language": "PHP",
+      "stars": "1356",
+      "forks": "167",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "linuxserver",
+      "name": "Heimdall",
+      "full_name": "linuxserver/Heimdall",
+      "url": "https://github.com/linuxserver/Heimdall",
+      "description": "An Application dashboard and launcher",
+      "language": "PHP",
+      "stars": "8407",
+      "forks": "577",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
