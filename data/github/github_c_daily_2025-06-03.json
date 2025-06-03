@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-03 01:15:29",
+  "repositories": [
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12452",
+      "forks": "2184",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nature-lang",
+      "name": "nature",
+      "full_name": "nature-lang/nature",
+      "url": "https://github.com/nature-lang/nature",
+      "description": "The Nature Programming Language",
+      "language": "C",
+      "stars": "1983",
+      "forks": "47",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2852",
+      "forks": "416",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4866",
+      "forks": "219",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27475",
+      "forks": "1137",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26616",
+      "forks": "2528",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10387",
+      "forks": "5563",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13832",
+      "forks": "5521",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": "4188",
+      "forks": "1213",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "22753",
+      "forks": "3081",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9462",
+      "forks": "3246",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "erincatto",
+      "name": "box2d",
+      "full_name": "erincatto/box2d",
+      "url": "https://github.com/erincatto/box2d",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": "8845",
+      "forks": "1626",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "30874",
+      "forks": "3039",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "rusefi",
+      "name": "rusefi",
+      "full_name": "rusefi/rusefi",
+      "url": "https://github.com/rusefi/rusefi",
+      "description": "rusefi - GPL internal combustion engine control unit",
+      "language": "C",
+      "stars": "884",
+      "forks": "290",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11426",
+      "forks": "1905",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23294",
+      "forks": "4919",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14288",
+      "forks": "2991",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "7815",
+      "forks": "1022",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "zlib-ng",
+      "name": "zlib-ng",
+      "full_name": "zlib-ng/zlib-ng",
+      "url": "https://github.com/zlib-ng/zlib-ng",
+      "description": "zlib replacement with optimizations for \"next generation\" systems.",
+      "language": "C",
+      "stars": "1790",
+      "forks": "287",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12850",
+      "forks": "740",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp32-camera",
+      "full_name": "espressif/esp32-camera",
+      "url": "https://github.com/espressif/esp32-camera",
+      "description": "",
+      "language": "C",
+      "stars": "2232",
+      "forks": "695",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "moonlight-stream",
+      "name": "moonlight-android",
+      "full_name": "moonlight-stream/moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "stars": "5164",
+      "forks": "818",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
