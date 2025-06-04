@@ -1,0 +1,238 @@
+{
+  "language": "swift",
+  "period": "weekly",
+  "fetch_time": "2025-06-04 01:16:54",
+  "repositories": [
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13359",
+      "forks": "1532",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7532",
+      "forks": "759",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "41933",
+      "forks": "7619",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25153",
+      "forks": "1480",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "p0deje",
+      "name": "Maccy",
+      "full_name": "p0deje/Maccy",
+      "url": "https://github.com/p0deje/Maccy",
+      "description": "Lightweight clipboard manager for macOS",
+      "language": "Swift",
+      "stars": "15455",
+      "forks": "668",
+      "today_stars": "99 stars this week"
+    },
+    {
+      "author": "tuist",
+      "name": "tuist",
+      "full_name": "tuist/tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Build better Swift apps faster",
+      "language": "Swift",
+      "stars": "5044",
+      "forks": "619",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "Dimillian",
+      "name": "IceCubesApp",
+      "full_name": "Dimillian/IceCubesApp",
+      "url": "https://github.com/Dimillian/IceCubesApp",
+      "description": "A SwiftUI Mastodon client",
+      "language": "Swift",
+      "stars": "6211",
+      "forks": "608",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26268",
+      "forks": "3791",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "onevcat",
+      "name": "Kingfisher",
+      "full_name": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "stars": "23864",
+      "forks": "2699",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "yonaskolb",
+      "name": "XcodeGen",
+      "full_name": "yonaskolb/XcodeGen",
+      "url": "https://github.com/yonaskolb/XcodeGen",
+      "description": "A Swift command line tool for generating your Xcode project",
+      "language": "Swift",
+      "stars": "7390",
+      "forks": "835",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19008",
+      "forks": "2251",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "jordanbaird",
+      "name": "Ice",
+      "full_name": "jordanbaird/Ice",
+      "url": "https://github.com/jordanbaird/Ice",
+      "description": "Powerful menu bar manager for macOS",
+      "language": "Swift",
+      "stars": "19469",
+      "forks": "344",
+      "today_stars": "215 stars this week"
+    },
+    {
+      "author": "exelban",
+      "name": "stats",
+      "full_name": "exelban/stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
+      "language": "Swift",
+      "stars": "31725",
+      "forks": "1000",
+      "today_stars": "145 stars this week"
+    },
+    {
+      "author": "MacPaw",
+      "name": "OpenAI",
+      "full_name": "MacPaw/OpenAI",
+      "url": "https://github.com/MacPaw/OpenAI",
+      "description": "Swift community driven package for OpenAI public API",
+      "language": "Swift",
+      "stars": "2518",
+      "forks": "452",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6073",
+      "forks": "368",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "CopilotForXcode",
+      "full_name": "github/CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "description": "Xcode extension for GitHub Copilot",
+      "language": "Swift",
+      "stars": "4136",
+      "forks": "728",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "whoeevee",
+      "name": "EeveeSpotify",
+      "full_name": "whoeevee/EeveeSpotify",
+      "url": "https://github.com/whoeevee/EeveeSpotify",
+      "description": "A tweak to get Spotify Premium for free, just like Spotilife",
+      "language": "Swift",
+      "stars": "5324",
+      "forks": "425",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "XcodesOrg",
+      "name": "xcodes",
+      "full_name": "XcodesOrg/xcodes",
+      "url": "https://github.com/XcodesOrg/xcodes",
+      "description": "The best command-line tool to install and switch between multiple versions of Xcode.",
+      "language": "Swift",
+      "stars": "4166",
+      "forks": "149",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "ReactiveX",
+      "name": "RxSwift",
+      "full_name": "ReactiveX/RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "description": "Reactive Programming in Swift",
+      "language": "Swift",
+      "stars": "24578",
+      "forks": "4180",
+      "today_stars": "9 stars this week"
+    },
+    {
+      "author": "jacklandrin",
+      "name": "OnlySwitch",
+      "full_name": "jacklandrin/OnlySwitch",
+      "url": "https://github.com/jacklandrin/OnlySwitch",
+      "description": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+      "language": "Swift",
+      "stars": "4762",
+      "forks": "210",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "nicklockwood",
+      "name": "SwiftFormat",
+      "full_name": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "description": "A command-line tool and Xcode Extension for formatting Swift code",
+      "language": "Swift",
+      "stars": "8303",
+      "forks": "644",
+      "today_stars": "13 stars this week"
+    }
+  ]
+}

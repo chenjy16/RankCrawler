@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-06-04 01:15:30",
+  "repositories": [
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "24894",
+      "forks": "4587",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "assimp",
+      "name": "assimp",
+      "full_name": "assimp/assimp",
+      "url": "https://github.com/assimp/assimp",
+      "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+      "language": "C++",
+      "stars": "11957",
+      "forks": "3041",
+      "today_stars": "112 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "mediapipe",
+      "full_name": "google-ai-edge/mediapipe",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "language": "C++",
+      "stars": "30042",
+      "forks": "5379",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "43400",
+      "forks": "1848",
+      "today_stars": "110 stars today"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "12288",
+      "forks": "18744",
+      "today_stars": "74 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.",
+      "language": "C++",
+      "stars": "512",
+      "forks": "68",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "mamedev",
+      "name": "mame",
+      "full_name": "mamedev/mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
+      "language": "C++",
+      "stars": "9206",
+      "forks": "2158",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": "6763",
+      "forks": "382",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "68604",
+      "forks": "10469",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "TrinityCore",
+      "name": "TrinityCore",
+      "full_name": "TrinityCore/TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "description": "TrinityCore Open Source MMO Framework (master = 11.1.5.61188, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+      "language": "C++",
+      "stars": "10010",
+      "forks": "6140",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19447",
+      "forks": "3110",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "190220",
+      "forks": "74688",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "26046",
+      "forks": "4950",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rathena",
+      "name": "rathena",
+      "full_name": "rathena/rathena",
+      "url": "https://github.com/rathena/rathena",
+      "description": "rAthena is an open-source cross-platform MMORPG server.",
+      "language": "C++",
+      "stars": "3097",
+      "forks": "2462",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "sentencepiece",
+      "full_name": "google/sentencepiece",
+      "url": "https://github.com/google/sentencepiece",
+      "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
+      "language": "C++",
+      "stars": "10960",
+      "forks": "1245",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ydb-platform",
+      "name": "ydb",
+      "full_name": "ydb-platform/ydb",
+      "url": "https://github.com/ydb-platform/ydb",
+      "description": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+      "language": "C++",
+      "stars": "4239",
+      "forks": "697",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "67247",
+      "forks": "9927",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "45902",
+      "forks": "7016",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24266",
+      "forks": "3344",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ClassicOldSong",
+      "name": "Apollo",
+      "full_name": "ClassicOldSong/Apollo",
+      "url": "https://github.com/ClassicOldSong/Apollo",
+      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+      "language": "C++",
+      "stars": "3923",
+      "forks": "72",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "EsotericSoftware",
+      "name": "spine-runtimes",
+      "full_name": "EsotericSoftware/spine-runtimes",
+      "url": "https://github.com/EsotericSoftware/spine-runtimes",
+      "description": "2D skeletal animation runtimes for Spine.",
+      "language": "C++",
+      "stars": "4683",
+      "forks": "2975",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "valhalla",
+      "name": "valhalla",
+      "full_name": "valhalla/valhalla",
+      "url": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "stars": "4880",
+      "forks": "746",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "LeelaChessZero",
+      "name": "lc0",
+      "full_name": "LeelaChessZero/lc0",
+      "url": "https://github.com/LeelaChessZero/lc0",
+      "description": "Open source neural network chess engine with GPU acceleration and broad hardware support.",
+      "language": "C++",
+      "stars": "2645",
+      "forks": "568",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo",
+      "full_name": "mongodb/mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "stars": "27180",
+      "forks": "5659",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

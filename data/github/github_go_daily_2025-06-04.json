@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-04 01:14:14",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "full_name": "aquasecurity/kube-bench",
+      "url": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "language": "Go",
+      "stars": "7493",
+      "forks": "1275",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "terraformer",
+      "full_name": "GoogleCloudPlatform/terraformer",
+      "url": "https://github.com/GoogleCloudPlatform/terraformer",
+      "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+      "language": "Go",
+      "stars": "13662",
+      "forks": "1762",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "11921",
+      "forks": "912",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "go-genai",
+      "full_name": "googleapis/go-genai",
+      "url": "https://github.com/googleapis/go-genai",
+      "description": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+      "language": "Go",
+      "stars": "481",
+      "forks": "53",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "full_name": "prometheus/blackbox_exporter",
+      "url": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": "5060",
+      "forks": "1109",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18219",
+      "forks": "8221",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "71626",
+      "forks": "4585",
+      "today_stars": "228 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5250",
+      "forks": "1638",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24682",
+      "forks": "1648",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "full_name": "slackhq/nebula",
+      "url": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": "15621",
+      "forks": "1038",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10333",
+      "forks": "9507",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45300",
+      "forks": "9881",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "11779",
+      "forks": "1269",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "14267",
+      "forks": "984",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "27013",
+      "forks": "2656",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "3728",
+      "forks": "565",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "bitnami-labs",
+      "name": "sealed-secrets",
+      "full_name": "bitnami-labs/sealed-secrets",
+      "url": "https://github.com/bitnami-labs/sealed-secrets",
+      "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+      "language": "Go",
+      "stars": "8266",
+      "forks": "707",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3753",
+      "forks": "722",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bufbuild",
+      "name": "protoc-gen-validate",
+      "full_name": "bufbuild/protoc-gen-validate",
+      "url": "https://github.com/bufbuild/protoc-gen-validate",
+      "description": "Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate",
+      "language": "Go",
+      "stars": "3942",
+      "forks": "595",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "TykTechnologies",
+      "name": "tyk",
+      "full_name": "TykTechnologies/tyk",
+      "url": "https://github.com/TykTechnologies/tyk",
+      "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+      "language": "Go",
+      "stars": "10167",
+      "forks": "1119",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3070",
+      "forks": "685",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

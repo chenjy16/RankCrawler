@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-04 01:15:10",
+  "repositories": [
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31861",
+      "forks": "1628",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14222",
+      "forks": "4004",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "194940",
+      "forks": "56104",
+      "today_stars": "114 stars today"
+    },
+    {
+      "author": "FreeRDP",
+      "name": "FreeRDP",
+      "full_name": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "stars": "11802",
+      "forks": "15048",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12216",
+      "forks": "7437",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12567",
+      "forks": "1862",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6182",
+      "forks": "2560",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10114",
+      "forks": "1500",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2256",
+      "forks": "553",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "haproxy",
+      "name": "haproxy",
+      "full_name": "haproxy/haproxy",
+      "url": "https://github.com/haproxy/haproxy",
+      "description": "HAProxy Load Balancer's development branch (mirror of git.haproxy.org)",
+      "language": "C",
+      "stars": "5652",
+      "forks": "841",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "FelixKratz",
+      "name": "SketchyBar",
+      "full_name": "FelixKratz/SketchyBar",
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "description": "A highly customizable macOS status bar replacement",
+      "language": "C",
+      "stars": "8943",
+      "forks": "128",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "mrexodia",
+      "name": "TitanHide",
+      "full_name": "mrexodia/TitanHide",
+      "url": "https://github.com/mrexodia/TitanHide",
+      "description": "Hiding kernel-driver for x86/x64.",
+      "language": "C",
+      "stars": "2346",
+      "forks": "441",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Cisco-Talos",
+      "name": "clamav",
+      "full_name": "Cisco-Talos/clamav",
+      "url": "https://github.com/Cisco-Talos/clamav",
+      "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+      "language": "C",
+      "stars": "5140",
+      "forks": "766",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21769",
+      "forks": "833",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11492",
+      "forks": "952",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2804",
+      "forks": "1315",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27515",
+      "forks": "10564",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39098",
+      "forks": "7883",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "825",
+      "forks": "1562",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11728",
+      "forks": "5166",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "3997",
+      "forks": "473",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
