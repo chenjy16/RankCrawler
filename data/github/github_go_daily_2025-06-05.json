@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-05 01:13:31",
+  "repositories": [
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "71848",
+      "forks": "4591",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "full_name": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "language": "Go",
+      "stars": "16536",
+      "forks": "1381",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "higress",
+      "full_name": "alibaba/higress",
+      "url": "https://github.com/alibaba/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "stars": "5545",
+      "forks": "702",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "14295",
+      "forks": "987",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "13956",
+      "forks": "665",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "full_name": "aquasecurity/kube-bench",
+      "url": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "language": "Go",
+      "stars": "7499",
+      "forks": "1274",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2414",
+      "forks": "224",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "golang",
+      "name": "go",
+      "full_name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars": "128183",
+      "forks": "18084",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "10921",
+      "forks": "1624",
+      "today_stars": "91 stars today"
+    },
+    {
+      "author": "langhuihui",
+      "name": "monibuca",
+      "full_name": "langhuihui/monibuca",
+      "url": "https://github.com/langhuihui/monibuca",
+      "description": "🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server",
+      "language": "Go",
+      "stars": "1920",
+      "forks": "280",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7090",
+      "forks": "664",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "full_name": "cloudreve/Cloudreve",
+      "url": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23269",
+      "forks": "3559",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "terraformer",
+      "full_name": "GoogleCloudPlatform/terraformer",
+      "url": "https://github.com/GoogleCloudPlatform/terraformer",
+      "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+      "language": "Go",
+      "stars": "13672",
+      "forks": "1762",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "5053",
+      "forks": "580",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19275",
+      "forks": "2316",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "osv-scanner",
+      "full_name": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars": "7450",
+      "forks": "427",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3620",
+      "forks": "2790",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "answer",
+      "full_name": "apache/answer",
+      "url": "https://github.com/apache/answer",
+      "description": "A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",
+      "language": "Go",
+      "stars": "14492",
+      "forks": "1167",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8689",
+      "forks": "1043",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "16751",
+      "forks": "1477",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5260",
+      "forks": "1639",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gophish",
+      "name": "gophish",
+      "full_name": "gophish/gophish",
+      "url": "https://github.com/gophish/gophish",
+      "description": "Open-Source Phishing Toolkit",
+      "language": "Go",
+      "stars": "12667",
+      "forks": "2582",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

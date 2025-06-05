@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-05 01:13:50",
+  "repositories": [
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "24221",
+      "forks": "750",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6540",
+      "forks": "482",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "51675",
+      "forks": "2063",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "smallcloudai",
+      "name": "refact",
+      "full_name": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "language": "TypeScript",
+      "stars": "2062",
+      "forks": "156",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19648",
+      "forks": "1752",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "41556",
+      "forks": "1118",
+      "today_stars": "126 stars today"
+    },
+    {
+      "author": "picahq",
+      "name": "pica",
+      "full_name": "picahq/pica",
+      "url": "https://github.com/picahq/pica",
+      "description": "The Complete Agentic Tooling Platform",
+      "language": "Rust",
+      "stars": "1053",
+      "forks": "61",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "18409",
+      "forks": "660",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "56765",
+      "forks": "1598",
+      "today_stars": "149 stars today"
+    },
+    {
+      "author": "orhun",
+      "name": "git-cliff",
+      "full_name": "orhun/git-cliff",
+      "url": "https://github.com/orhun/git-cliff",
+      "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
+      "language": "Rust",
+      "stars": "10152",
+      "forks": "226",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4790",
+      "forks": "416",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "11181",
+      "forks": "596",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "tikv",
+      "name": "tikv",
+      "full_name": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "Distributed transactional key-value database, originally created to complement TiDB",
+      "language": "Rust",
+      "stars": "15869",
+      "forks": "2190",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "35322",
+      "forks": "1842",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16455",
+      "forks": "1433",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "7820",
+      "forks": "647",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "cocoindex-io",
+      "name": "cocoindex",
+      "full_name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Real-time data transformation framework for AI. Ultra performant, with incremental processing.",
+      "language": "Rust",
+      "stars": "1735",
+      "forks": "100",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4177",
+      "forks": "398",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "full_name": "PyO3/pyo3",
+      "url": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": "13751",
+      "forks": "837",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "89731",
+      "forks": "12895",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "yujqiao",
+      "name": "rathole",
+      "full_name": "yujqiao/rathole",
+      "url": "https://github.com/yujqiao/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "10812",
+      "forks": "562",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "4858",
+      "forks": "257",
+      "today_stars": "46 stars today"
+    }
+  ]
+}

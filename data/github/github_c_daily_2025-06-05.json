@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-05 01:14:27",
+  "repositories": [
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10164",
+      "forks": "1506",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69506",
+      "forks": "24052",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5908",
+      "forks": "2698",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9787",
+      "forks": "2492",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11501",
+      "forks": "953",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "msquic",
+      "full_name": "microsoft/msquic",
+      "url": "https://github.com/microsoft/msquic",
+      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "language": "C",
+      "stars": "4340",
+      "forks": "576",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23303",
+      "forks": "4923",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11580",
+      "forks": "3308",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5874",
+      "forks": "866",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "37623",
+      "forks": "2203",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "28953",
+      "forks": "7834",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4020",
+      "forks": "474",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "ImageMagick",
+      "name": "ImageMagick",
+      "full_name": "ImageMagick/ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",
+      "language": "C",
+      "stars": "13723",
+      "forks": "1439",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2807",
+      "forks": "1318",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195029",
+      "forks": "56132",
+      "today_stars": "103 stars today"
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "full_name": "warmcat/libwebsockets",
+      "url": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org networking library",
+      "language": "C",
+      "stars": "4997",
+      "forks": "1538",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rusefi",
+      "name": "rusefi",
+      "full_name": "rusefi/rusefi",
+      "url": "https://github.com/rusefi/rusefi",
+      "description": "rusefi - GPL internal combustion engine control unit",
+      "language": "C",
+      "stars": "887",
+      "forks": "290",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19226",
+      "forks": "943",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20444",
+      "forks": "8217",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3383",
+      "forks": "1888",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22642",
+      "forks": "11225",
+      "today_stars": "17 stars today"
+    }
+  ]
+}
