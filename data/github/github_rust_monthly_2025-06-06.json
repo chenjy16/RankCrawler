@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-06-06 01:13:50",
+  "repositories": [
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "61002",
+      "forks": "4421",
+      "today_stars": "3,304 stars this month"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "18435",
+      "forks": "665",
+      "today_stars": "1,494 stars this month"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "39750",
+      "forks": "1379",
+      "today_stars": "1,459 stars this month"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "8566",
+      "forks": "406",
+      "today_stars": "1,139 stars this month"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "15795",
+      "forks": "532",
+      "today_stars": "2,243 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "pyrefly",
+      "full_name": "facebook/pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and IDE for Python",
+      "language": "Rust",
+      "stars": "2725",
+      "forks": "83",
+      "today_stars": "2,183 stars this month"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "89801",
+      "forks": "12906",
+      "today_stars": "2,224 stars this month"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "39336",
+      "forks": "7295",
+      "today_stars": "2,054 stars this month"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10971",
+      "forks": "416",
+      "today_stars": "676 stars this month"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "4903",
+      "forks": "256",
+      "today_stars": "829 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12132",
+      "forks": "1673",
+      "today_stars": "171 stars this month"
+    },
+    {
+      "author": "aome510",
+      "name": "spotify-player",
+      "full_name": "aome510/spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
+      "language": "Rust",
+      "stars": "4595",
+      "forks": "211",
+      "today_stars": "242 stars this month"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "4830",
+      "forks": "422",
+      "today_stars": "755 stars this month"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "13954",
+      "forks": "1098",
+      "today_stars": "1,568 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "104063",
+      "forks": "13407",
+      "today_stars": "979 stars this month"
+    },
+    {
+      "author": "longbridge",
+      "name": "gpui-component",
+      "full_name": "longbridge/gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "UI components for building fantastic desktop application by using GPUI.",
+      "language": "Rust",
+      "stars": "3110",
+      "forks": "137",
+      "today_stars": "2,414 stars this month"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "66114",
+      "forks": "3213",
+      "today_stars": "11,221 stars this month"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "103237",
+      "forks": "5613",
+      "today_stars": "550 stars this month"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki's shared backend and web components, and the Qt frontend",
+      "language": "Rust",
+      "stars": "21800",
+      "forks": "2355",
+      "today_stars": "612 stars this month"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "37879",
+      "forks": "2856",
+      "today_stars": "773 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "buck2",
+      "full_name": "facebook/buck2",
+      "url": "https://github.com/facebook/buck2",
+      "description": "Build system, successor to Buck",
+      "language": "Rust",
+      "stars": "3930",
+      "forks": "273",
+      "today_stars": "127 stars this month"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "3940",
+      "forks": "170",
+      "today_stars": "647 stars this month"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11526",
+      "forks": "320",
+      "today_stars": "578 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-06 01:13:24",
+  "repositories": [
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "4540",
+      "forks": "316",
+      "today_stars": "1,801 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "71975",
+      "forks": "4590",
+      "today_stars": "1,400 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "142859",
+      "forks": "11995",
+      "today_stars": "799 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "19418",
+      "forks": "1860",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "36762",
+      "forks": "1796",
+      "today_stars": "183 stars this week"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "14102",
+      "forks": "673",
+      "today_stars": "253 stars this week"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4941",
+      "forks": "24235",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14237",
+      "forks": "1387",
+      "today_stars": "115 stars this week"
+    },
+    {
+      "author": "manusa",
+      "name": "kubernetes-mcp-server",
+      "full_name": "manusa/kubernetes-mcp-server",
+      "url": "https://github.com/manusa/kubernetes-mcp-server",
+      "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+      "language": "Go",
+      "stars": "254",
+      "forks": "44",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18255",
+      "forks": "8233",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "kube-bench",
+      "full_name": "aquasecurity/kube-bench",
+      "url": "https://github.com/aquasecurity/kube-bench",
+      "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+      "language": "Go",
+      "stars": "7503",
+      "forks": "1274",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "full_name": "cloudreve/Cloudreve",
+      "url": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23291",
+      "forks": "3562",
+      "today_stars": "200 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "go-genai",
+      "full_name": "googleapis/go-genai",
+      "url": "https://github.com/googleapis/go-genai",
+      "description": "Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.",
+      "language": "Go",
+      "stars": "499",
+      "forks": "54",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "full_name": "jesseduffield/lazydocker",
+      "url": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": "44487",
+      "forks": "1411",
+      "today_stars": "246 stars this week"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "3742",
+      "forks": "567",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "usual2970",
+      "name": "certimate",
+      "full_name": "usual2970/certimate",
+      "url": "https://github.com/usual2970/certimate",
+      "description": "开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
+      "language": "Go",
+      "stars": "6792",
+      "forks": "624",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": "28852",
+      "forks": "1610",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15640",
+      "forks": "5651",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "23363",
+      "forks": "917",
+      "today_stars": "364 stars this week"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "52938",
+      "forks": "5888",
+      "today_stars": "204 stars this week"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "38543",
+      "forks": "5952",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1229",
+      "forks": "129",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "39331",
+      "forks": "6602",
+      "today_stars": "109 stars this week"
+    }
+  ]
+}

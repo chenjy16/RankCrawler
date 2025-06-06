@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-06-06 01:14:29",
+  "repositories": [
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "68397",
+      "forks": "4361",
+      "today_stars": "2,096 stars this month"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195103",
+      "forks": "56151",
+      "today_stars": "2,501 stars this month"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27520",
+      "forks": "1137",
+      "today_stars": "546 stars this month"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "14446",
+      "forks": "518",
+      "today_stars": "749 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69518",
+      "forks": "24053",
+      "today_stars": "609 stars this month"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39108",
+      "forks": "7886",
+      "today_stars": "196 stars this month"
+    },
+    {
+      "author": "n64decomp",
+      "name": "sm64",
+      "full_name": "n64decomp/sm64",
+      "url": "https://github.com/n64decomp/sm64",
+      "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+      "language": "C",
+      "stars": "8089",
+      "forks": "1455",
+      "today_stars": "83 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "123212",
+      "forks": "11552",
+      "today_stars": "1,773 stars this month"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15385",
+      "forks": "7687",
+      "today_stars": "268 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL2-Linux-Kernel",
+      "full_name": "microsoft/WSL2-Linux-Kernel",
+      "url": "https://github.com/microsoft/WSL2-Linux-Kernel",
+      "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+      "language": "C",
+      "stars": "9500",
+      "forks": "1232",
+      "today_stars": "904 stars this month"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10184",
+      "forks": "1505",
+      "today_stars": "245 stars this month"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55105",
+      "forks": "26290",
+      "today_stars": "534 stars this month"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8305",
+      "forks": "3017",
+      "today_stars": "96 stars this month"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15850",
+      "forks": "1411",
+      "today_stars": "128 stars this month"
+    },
+    {
+      "author": "antirez",
+      "name": "kilo",
+      "full_name": "antirez/kilo",
+      "url": "https://github.com/antirez/kilo",
+      "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+      "language": "C",
+      "stars": "8281",
+      "forks": "885",
+      "today_stars": "536 stars this month"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1280",
+      "forks": "141",
+      "today_stars": "244 stars this month"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12906",
+      "forks": "752",
+      "today_stars": "599 stars this month"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": "6796",
+      "forks": "1869",
+      "today_stars": "95 stars this month"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "15800",
+      "forks": "1859",
+      "today_stars": "364 stars this month"
+    },
+    {
+      "author": "BandarHL",
+      "name": "BHTwitter",
+      "full_name": "BandarHL/BHTwitter",
+      "url": "https://github.com/BandarHL/BHTwitter",
+      "description": "Awesome tweak for Twitter",
+      "language": "C",
+      "stars": "2219",
+      "forks": "511",
+      "today_stars": "80 stars this month"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11765",
+      "forks": "2793",
+      "today_stars": "131 stars this month"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4897",
+      "forks": "221",
+      "today_stars": "342 stars this month"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26654",
+      "forks": "2534",
+      "today_stars": "572 stars this month"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "10876",
+      "forks": "1190",
+      "today_stars": "192 stars this month"
+    }
+  ]
+}
