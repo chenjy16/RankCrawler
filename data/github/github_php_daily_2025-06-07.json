@@ -1,0 +1,249 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-06-07 01:14:41",
+  "repositories": [
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "2776",
+      "forks": "2884",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "roundcube",
+      "name": "roundcubemail",
+      "full_name": "roundcube/roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "stars": "6301",
+      "forks": "1677",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30375",
+      "forks": "9632",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "statamic",
+      "name": "cms",
+      "full_name": "statamic/cms",
+      "url": "https://github.com/statamic/cms",
+      "description": "The core Laravel CMS Composer package",
+      "language": "PHP",
+      "stars": "4399",
+      "forks": "570",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-debugbar",
+      "full_name": "barryvdh/laravel-debugbar",
+      "url": "https://github.com/barryvdh/laravel-debugbar",
+      "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+      "language": "PHP",
+      "stars": "18342",
+      "forks": "1582",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "full_name": "matomo-org/matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "stars": "20577",
+      "forks": "2729",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "63275",
+      "forks": "24379",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "glpi-project",
+      "name": "glpi",
+      "full_name": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "stars": "4816",
+      "forks": "1389",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8587",
+      "forks": "4893",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "29738",
+      "forks": "4291",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": "12265",
+      "forks": "3402",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "33700",
+      "forks": "11387",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "23943",
+      "forks": "3480",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "shopware",
+      "name": "shopware",
+      "full_name": "shopware/shopware",
+      "url": "https://github.com/shopware/shopware",
+      "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions",
+      "language": "PHP",
+      "stars": "3060",
+      "forks": "1086",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "gecche",
+      "name": "laravel-multidomain",
+      "full_name": "gecche/laravel-multidomain",
+      "url": "https://github.com/gecche/laravel-multidomain",
+      "description": "A Laravel extension for using a laravel application on a multi domain setting",
+      "language": "PHP",
+      "stars": "992",
+      "forks": "120",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-api-php-client",
+      "full_name": "googleapis/google-api-php-client",
+      "url": "https://github.com/googleapis/google-api-php-client",
+      "description": "A PHP client library for accessing Google APIs",
+      "language": "PHP",
+      "stars": "9568",
+      "forks": "3541",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "guzzle",
+      "name": "guzzle",
+      "full_name": "guzzle/guzzle",
+      "url": "https://github.com/guzzle/guzzle",
+      "description": "Guzzle, an extensible PHP HTTP client",
+      "language": "PHP",
+      "stars": "23387",
+      "forks": "2397",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "wp-cli",
+      "name": "wp-cli",
+      "full_name": "wp-cli/wp-cli",
+      "url": "https://github.com/wp-cli/wp-cli",
+      "description": "⚙️ WP-CLI framework",
+      "language": "PHP",
+      "stars": "4933",
+      "forks": "996",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "EasyCorp",
+      "name": "EasyAdminBundle",
+      "full_name": "EasyCorp/EasyAdminBundle",
+      "url": "https://github.com/EasyCorp/EasyAdminBundle",
+      "description": "EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.",
+      "language": "PHP",
+      "stars": "4154",
+      "forks": "1054",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "BookStackApp",
+      "name": "BookStack",
+      "full_name": "BookStackApp/BookStack",
+      "url": "https://github.com/BookStackApp/BookStack",
+      "description": "A platform to create documentation/wiki content built with PHP & Laravel",
+      "language": "PHP",
+      "stars": "16724",
+      "forks": "2112",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Dolibarr",
+      "name": "dolibarr",
+      "full_name": "Dolibarr/dolibarr",
+      "url": "https://github.com/Dolibarr/dolibarr",
+      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+      "language": "PHP",
+      "stars": "6151",
+      "forks": "2979",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "PHPOffice",
+      "name": "PHPWord",
+      "full_name": "PHPOffice/PHPWord",
+      "url": "https://github.com/PHPOffice/PHPWord",
+      "description": "A pure PHP library for reading and writing word processing documents",
+      "language": "PHP",
+      "stars": "7421",
+      "forks": "2724",
+      "today_stars": "1 star today"
+    }
+  ]
+}
