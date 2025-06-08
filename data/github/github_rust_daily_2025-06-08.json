@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-08 01:20:38",
+  "repositories": [
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "57093",
+      "forks": "1618",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "39830",
+      "forks": "1384",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "90113",
+      "forks": "12937",
+      "today_stars": "219 stars today"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "7847",
+      "forks": "648",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28114",
+      "forks": "1948",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "11307",
+      "forks": "581",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5683",
+      "forks": "410",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "20889",
+      "forks": "1857",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6309",
+      "forks": "3779",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5280",
+      "forks": "381",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "the AI-native open-source embedding database",
+      "language": "Rust",
+      "stars": "20315",
+      "forks": "1638",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "747",
+      "forks": "122",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4348",
+      "forks": "1562",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "10997",
+      "forks": "418",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "14881",
+      "forks": "1407",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9006",
+      "forks": "1997",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "14122",
+      "forks": "1110",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "4692",
+      "forks": "313",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "text-embeddings-inference",
+      "full_name": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "language": "Rust",
+      "stars": "3658",
+      "forks": "269",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "skyzh",
+      "name": "mini-lsm",
+      "full_name": "skyzh/mini-lsm",
+      "url": "https://github.com/skyzh/mini-lsm",
+      "description": "A course of building an LSM-Tree storage engine (database) in a week.",
+      "language": "Rust",
+      "stars": "3409",
+      "forks": "500",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4223",
+      "forks": "405",
+      "today_stars": "14 stars today"
+    }
+  ]
+}
