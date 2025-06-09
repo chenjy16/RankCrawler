@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-06-09 01:18:46",
+  "repositories": [
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "full_name": "yugabyte/yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "stars": "9543",
+      "forks": "1143",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12963",
+      "forks": "755",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15408",
+      "forks": "7695",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31889",
+      "forks": "1631",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4046",
+      "forks": "474",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "full_name": "xmrig/xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": "9257",
+      "forks": "3643",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "4938",
+      "forks": "224",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195300",
+      "forks": "56191",
+      "today_stars": "606 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "2894",
+      "forks": "424",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9494",
+      "forks": "3257",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6193",
+      "forks": "2564",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "nature-lang",
+      "name": "nature",
+      "full_name": "nature-lang/nature",
+      "url": "https://github.com/nature-lang/nature",
+      "description": "The Nature Programming Language",
+      "language": "C",
+      "stars": "2007",
+      "forks": "51",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12236",
+      "forks": "7459",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "27552",
+      "forks": "1139",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "libarchive",
+      "name": "libarchive",
+      "full_name": "libarchive/libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "stars": "3209",
+      "forks": "811",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30738",
+      "forks": "19571",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55149",
+      "forks": "26293",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5927",
+      "forks": "2700",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14268",
+      "forks": "4011",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2809",
+      "forks": "1319",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "ish-app",
+      "name": "ish",
+      "full_name": "ish-app/ish",
+      "url": "https://github.com/ish-app/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": "18100",
+      "forks": "1051",
+      "today_stars": "34 stars this week"
+    }
+  ]
+}
