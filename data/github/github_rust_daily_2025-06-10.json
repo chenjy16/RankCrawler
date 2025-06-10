@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-10 01:15:27",
+  "repositories": [
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "5967",
+      "forks": "368",
+      "today_stars": "996 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "7512",
+      "forks": "249",
+      "today_stars": "107 stars today"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "14318",
+      "forks": "1067",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "2723",
+      "forks": "890",
+      "today_stars": "99 stars today"
+    },
+    {
+      "author": "skyzh",
+      "name": "mini-lsm",
+      "full_name": "skyzh/mini-lsm",
+      "url": "https://github.com/skyzh/mini-lsm",
+      "description": "A course of building an LSM-Tree storage engine (database) in a week.",
+      "language": "Rust",
+      "stars": "3450",
+      "forks": "509",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "20230",
+      "forks": "3243",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "15450",
+      "forks": "587",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "7985",
+      "forks": "263",
+      "today_stars": "134 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lancedb",
+      "full_name": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "stars": "6591",
+      "forks": "487",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "41801",
+      "forks": "1122",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "modrinth",
+      "name": "code",
+      "full_name": "modrinth/code",
+      "url": "https://github.com/modrinth/code",
+      "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+      "language": "Rust",
+      "stars": "1429",
+      "forks": "281",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "LGFae",
+      "name": "swww",
+      "full_name": "LGFae/swww",
+      "url": "https://github.com/LGFae/swww",
+      "description": "A Solution to your Wayland Wallpaper Woes",
+      "language": "Rust",
+      "stars": "3010",
+      "forks": "87",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "59112",
+      "forks": "3121",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30059",
+      "forks": "2066",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "7826",
+      "forks": "1558",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "30720",
+      "forks": "3187",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "dtolnay",
+      "name": "cxx",
+      "full_name": "dtolnay/cxx",
+      "url": "https://github.com/dtolnay/cxx",
+      "description": "Safe interop between Rust and C++",
+      "language": "Rust",
+      "stars": "6319",
+      "forks": "365",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-bindgen",
+      "full_name": "rust-lang/rust-bindgen",
+      "url": "https://github.com/rust-lang/rust-bindgen",
+      "description": "Automatically generates Rust FFI bindings to C (and some C++) libraries.",
+      "language": "Rust",
+      "stars": "4825",
+      "forks": "748",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7339",
+      "forks": "464",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "GreptimeTeam",
+      "name": "greptimedb",
+      "full_name": "GreptimeTeam/greptimedb",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "description": "Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.",
+      "language": "Rust",
+      "stars": "5284",
+      "forks": "381",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

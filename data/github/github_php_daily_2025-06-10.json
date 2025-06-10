@@ -1,0 +1,227 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-06-10 01:17:07",
+  "repositories": [
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "6997",
+      "forks": "783",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "firefly-iii",
+      "name": "firefly-iii",
+      "full_name": "firefly-iii/firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "stars": "19427",
+      "forks": "1738",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ellite",
+      "name": "Wallos",
+      "full_name": "ellite/Wallos",
+      "url": "https://github.com/ellite/Wallos",
+      "description": "Wallos: Open-Source Personal Subscription Tracker",
+      "language": "PHP",
+      "stars": "4944",
+      "forks": "219",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "42158",
+      "forks": "2577",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21512",
+      "forks": "9807",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "beikeshop",
+      "name": "beikeshop",
+      "full_name": "beikeshop/beikeshop",
+      "url": "https://github.com/beikeshop/beikeshop",
+      "description": "🔥🔥🔥 Free open source and easy-to-use laravel eCommerce platform, Base on the Laravel . It supports multiple languages and currencies, integrates ChatGPT OpenAI. The platform features customizable visual design and a rich plugins on marketplace.",
+      "language": "PHP",
+      "stars": "1506",
+      "forks": "321",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "24011",
+      "forks": "3486",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "29763",
+      "forks": "4297",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9685",
+      "forks": "716",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "KhronosGroup",
+      "name": "glTF-Sample-Assets",
+      "full_name": "KhronosGroup/glTF-Sample-Assets",
+      "url": "https://github.com/KhronosGroup/glTF-Sample-Assets",
+      "description": "An assortment of assets that demonstrate features and capabilities of the glTF format",
+      "language": "PHP",
+      "stars": "592",
+      "forks": "58",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pmmp",
+      "name": "PocketMine-MP",
+      "full_name": "pmmp/PocketMine-MP",
+      "url": "https://github.com/pmmp/PocketMine-MP",
+      "description": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+      "language": "PHP",
+      "stars": "3378",
+      "forks": "1592",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PHP-CS-Fixer",
+      "name": "PHP-CS-Fixer",
+      "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
+      "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": "13181",
+      "forks": "1600",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nikic",
+      "name": "PHP-Parser",
+      "full_name": "nikic/PHP-Parser",
+      "url": "https://github.com/nikic/PHP-Parser",
+      "description": "A PHP parser written in PHP",
+      "language": "PHP",
+      "stars": "17255",
+      "forks": "1110",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "PrivateBin",
+      "name": "PrivateBin",
+      "full_name": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+      "language": "PHP",
+      "stars": "7247",
+      "forks": "869",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "63330",
+      "forks": "24384",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "openemr",
+      "name": "openemr",
+      "full_name": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "stars": "3495",
+      "forks": "2387",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-ide-helper",
+      "full_name": "barryvdh/laravel-ide-helper",
+      "url": "https://github.com/barryvdh/laravel-ide-helper",
+      "description": "IDE Helper for Laravel",
+      "language": "PHP",
+      "stars": "14597",
+      "forks": "1185",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "bagisto",
+      "name": "bagisto",
+      "full_name": "bagisto/bagisto",
+      "url": "https://github.com/bagisto/bagisto",
+      "description": "Free and open source laravel eCommerce platform",
+      "language": "PHP",
+      "stars": "19026",
+      "forks": "2485",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "7656",
+      "forks": "2053",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-debugbar",
+      "full_name": "barryvdh/laravel-debugbar",
+      "url": "https://github.com/barryvdh/laravel-debugbar",
+      "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+      "language": "PHP",
+      "stars": "18353",
+      "forks": "1582",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

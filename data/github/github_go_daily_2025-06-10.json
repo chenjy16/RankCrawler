@@ -1,0 +1,205 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-10 01:15:08",
+  "repositories": [
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29043",
+      "forks": "4340",
+      "today_stars": "152 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "15310",
+      "forks": "723",
+      "today_stars": "164 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mimir",
+      "full_name": "grafana/mimir",
+      "url": "https://github.com/grafana/mimir",
+      "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+      "language": "Go",
+      "stars": "4512",
+      "forks": "595",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": "28930",
+      "forks": "1611",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "full_name": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": "6124",
+      "forks": "1455",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "aandrew-me",
+      "name": "tgpt",
+      "full_name": "aandrew-me/tgpt",
+      "url": "https://github.com/aandrew-me/tgpt",
+      "description": "AI Chatbots in terminal without needing API keys",
+      "language": "Go",
+      "stars": "2627",
+      "forks": "258",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "2807",
+      "forks": "146",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "kubetail-org",
+      "name": "kubetail",
+      "full_name": "kubetail-org/kubetail",
+      "url": "https://github.com/kubetail-org/kubetail",
+      "description": "Real-time logging dashboard for Kubernetes (browser/terminal)",
+      "language": "Go",
+      "stars": "1296",
+      "forks": "72",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "16528",
+      "forks": "1821",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DNSCrypt",
+      "name": "dnscrypt-proxy",
+      "full_name": "DNSCrypt/dnscrypt-proxy",
+      "url": "https://github.com/DNSCrypt/dnscrypt-proxy",
+      "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+      "language": "Go",
+      "stars": "12124",
+      "forks": "1052",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "47712",
+      "forks": "2386",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24194",
+      "forks": "2888",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "akvorado",
+      "name": "akvorado",
+      "full_name": "akvorado/akvorado",
+      "url": "https://github.com/akvorado/akvorado",
+      "description": "Flow collector, enricher and visualizer",
+      "language": "Go",
+      "stars": "1645",
+      "forks": "104",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6107",
+      "forks": "3604",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "jeessy2",
+      "name": "ddns-go",
+      "full_name": "jeessy2/ddns-go",
+      "url": "https://github.com/jeessy2/ddns-go",
+      "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+      "language": "Go",
+      "stars": "14462",
+      "forks": "1638",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "11108",
+      "forks": "1232",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "asdf-vm",
+      "name": "asdf",
+      "full_name": "asdf-vm/asdf",
+      "url": "https://github.com/asdf-vm/asdf",
+      "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+      "language": "Go",
+      "stars": "23681",
+      "forks": "879",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5083",
+      "forks": "973",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
