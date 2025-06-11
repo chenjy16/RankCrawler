@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-11 01:14:42",
+  "repositories": [
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29172",
+      "forks": "4349",
+      "today_stars": "147 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "gateway",
+      "full_name": "envoyproxy/gateway",
+      "url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "language": "Go",
+      "stars": "1925",
+      "forks": "489",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17305",
+      "forks": "1585",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35260",
+      "forks": "3242",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "sashabaranov",
+      "name": "go-openai",
+      "full_name": "sashabaranov/go-openai",
+      "url": "https://github.com/sashabaranov/go-openai",
+      "description": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+      "language": "Go",
+      "stars": "10049",
+      "forks": "1611",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "go-resty",
+      "name": "resty",
+      "full_name": "go-resty/resty",
+      "url": "https://github.com/go-resty/resty",
+      "description": "Simple HTTP, REST, and SSE client library for Go",
+      "language": "Go",
+      "stars": "10944",
+      "forks": "754",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5750",
+      "forks": "1172",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-rollouts",
+      "full_name": "argoproj/argo-rollouts",
+      "url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "language": "Go",
+      "stars": "3047",
+      "forks": "965",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "1735",
+      "forks": "309",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "full_name": "uber-go/zap",
+      "url": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": "23184",
+      "forks": "1476",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "full_name": "kubernetes/client-go",
+      "url": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": "9447",
+      "forks": "2992",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "volcano-sh",
+      "name": "volcano",
+      "full_name": "volcano-sh/volcano",
+      "url": "https://github.com/volcano-sh/volcano",
+      "description": "A Cloud Native Batch System (Project under CNCF)",
+      "language": "Go",
+      "stars": "4728",
+      "forks": "1097",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69867",
+      "forks": "18767",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3633",
+      "forks": "2801",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "abiosoft",
+      "name": "colima",
+      "full_name": "abiosoft/colima",
+      "url": "https://github.com/abiosoft/colima",
+      "description": "Container runtimes on macOS (and Linux) with minimal setup",
+      "language": "Go",
+      "stars": "23074",
+      "forks": "456",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "12898",
+      "forks": "1186",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "fyne-io",
+      "name": "fyne",
+      "full_name": "fyne-io/fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "language": "Go",
+      "stars": "26560",
+      "forks": "1453",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "WireGuard",
+      "name": "wireguard-go",
+      "full_name": "WireGuard/wireguard-go",
+      "url": "https://github.com/WireGuard/wireguard-go",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+      "language": "Go",
+      "stars": "3502",
+      "forks": "1204",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "quic-go",
+      "name": "quic-go",
+      "full_name": "quic-go/quic-go",
+      "url": "https://github.com/quic-go/quic-go",
+      "description": "A QUIC implementation in pure Go",
+      "language": "Go",
+      "stars": "10719",
+      "forks": "1384",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "cli",
+      "full_name": "docker/cli",
+      "url": "https://github.com/docker/cli",
+      "description": "The Docker CLI",
+      "language": "Go",
+      "stars": "5289",
+      "forks": "2001",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18720",
+      "forks": "3567",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

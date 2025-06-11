@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-06-11 01:15:48",
+  "repositories": [
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "full_name": "yugabyte/yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "stars": "9549",
+      "forks": "1144",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "12997",
+      "forks": "755",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15416",
+      "forks": "7697",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10194",
+      "forks": "1508",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195424",
+      "forks": "56229",
+      "today_stars": "550 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "64853",
+      "forks": "8476",
+      "today_stars": "202 stars this week"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5933",
+      "forks": "2704",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4053",
+      "forks": "475",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9504",
+      "forks": "3262",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "libarchive",
+      "name": "libarchive",
+      "full_name": "libarchive/libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "stars": "3210",
+      "forks": "811",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "10905",
+      "forks": "1193",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "full_name": "xmrig/xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": "9261",
+      "forks": "3642",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "ish-app",
+      "name": "ish",
+      "full_name": "ish-app/ish",
+      "url": "https://github.com/ish-app/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": "18107",
+      "forks": "1052",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4116",
+      "forks": "1547",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "74762",
+      "forks": "6073",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26748",
+      "forks": "2543",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2280",
+      "forks": "556",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "16015",
+      "forks": "783",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5152",
+      "forks": "2751",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "ufrisk",
+      "name": "pcileech",
+      "full_name": "ufrisk/pcileech",
+      "url": "https://github.com/ufrisk/pcileech",
+      "description": "Direct Memory Access (DMA) Attack Software",
+      "language": "C",
+      "stars": "5819",
+      "forks": "831",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55187",
+      "forks": "26299",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "Encryqed",
+      "name": "Dumper-7",
+      "full_name": "Encryqed/Dumper-7",
+      "url": "https://github.com/Encryqed/Dumper-7",
+      "description": "Unreal Engine SDK Generator",
+      "language": "C",
+      "stars": "1183",
+      "forks": "263",
+      "today_stars": "19 stars this week"
+    }
+  ]
+}

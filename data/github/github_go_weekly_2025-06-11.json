@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-11 01:14:48",
+  "repositories": [
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "15380",
+      "forks": "725",
+      "today_stars": "1,528 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29172",
+      "forks": "4349",
+      "today_stars": "395 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "72493",
+      "forks": "4610",
+      "today_stars": "910 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1303",
+      "forks": "141",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32554",
+      "forks": "4374",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18315",
+      "forks": "8270",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "11456",
+      "forks": "1651",
+      "today_stars": "701 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3085",
+      "forks": "690",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "full_name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": "18631",
+      "forks": "8387",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "27115",
+      "forks": "2661",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "containers",
+      "name": "buildah",
+      "full_name": "containers/buildah",
+      "url": "https://github.com/containers/buildah",
+      "description": "A tool that facilitates building OCI images.",
+      "language": "Go",
+      "stars": "7948",
+      "forks": "824",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "dagger",
+      "name": "dagger",
+      "full_name": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+      "language": "Go",
+      "stars": "13871",
+      "forks": "737",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "8814",
+      "forks": "1239",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "4272",
+      "forks": "322",
+      "today_stars": "158 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23032",
+      "forks": "1848",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "full_name": "cloudreve/Cloudreve",
+      "url": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23355",
+      "forks": "3572",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7173",
+      "forks": "670",
+      "today_stars": "102 stars this week"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11322",
+      "forks": "804",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "ankitpokhrel",
+      "name": "jira-cli",
+      "full_name": "ankitpokhrel/jira-cli",
+      "url": "https://github.com/ankitpokhrel/jira-cli",
+      "description": "🔥 Feature-rich interactive Jira command line.",
+      "language": "Go",
+      "stars": "4425",
+      "forks": "249",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "karpenter-provider-aws",
+      "full_name": "aws/karpenter-provider-aws",
+      "url": "https://github.com/aws/karpenter-provider-aws",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "7303",
+      "forks": "1107",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35260",
+      "forks": "3242",
+      "today_stars": "190 stars this week"
+    }
+  ]
+}

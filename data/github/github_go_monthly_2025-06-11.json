@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-06-11 01:14:56",
+  "repositories": [
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "15380",
+      "forks": "725",
+      "today_stars": "1,853 stars this month"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18315",
+      "forks": "8270",
+      "today_stars": "390 stars this month"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "5014",
+      "forks": "363",
+      "today_stars": "3,959 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1445",
+      "forks": "100",
+      "today_stars": "1,355 stars this month"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "63562",
+      "forks": "1653",
+      "today_stars": "2,535 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "72493",
+      "forks": "4610",
+      "today_stars": "2,519 stars this month"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29172",
+      "forks": "4349",
+      "today_stars": "896 stars this month"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+      "language": "Go",
+      "stars": "41734",
+      "forks": "2963",
+      "today_stars": "2,502 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27087",
+      "forks": "2585",
+      "today_stars": "874 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "20177",
+      "forks": "1621",
+      "today_stars": "452 stars this month"
+    },
+    {
+      "author": "weaviate",
+      "name": "weaviate",
+      "full_name": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "language": "Go",
+      "stars": "13602",
+      "forks": "965",
+      "today_stars": "345 stars this month"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "12493",
+      "forks": "378",
+      "today_stars": "1,187 stars this month"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "4951",
+      "forks": "24311",
+      "today_stars": "84 stars this month"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23032",
+      "forks": "1848",
+      "today_stars": "587 stars this month"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7173",
+      "forks": "670",
+      "today_stars": "235 stars this month"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14278",
+      "forks": "1389",
+      "today_stars": "322 stars this month"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "39367",
+      "forks": "6623",
+      "today_stars": "367 stars this month"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "12898",
+      "forks": "1186",
+      "today_stars": "396 stars this month"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "50889",
+      "forks": "4553",
+      "today_stars": "660 stars this month"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "70839",
+      "forks": "2523",
+      "today_stars": "901 stars this month"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1303",
+      "forks": "141",
+      "today_stars": "432 stars this month"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cloudflared",
+      "full_name": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+      "language": "Go",
+      "stars": "10757",
+      "forks": "963",
+      "today_stars": "249 stars this month"
+    }
+  ]
+}

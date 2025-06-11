@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-11 01:15:41",
+  "repositories": [
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2280",
+      "forks": "556",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9811",
+      "forks": "2499",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15539",
+      "forks": "1153",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "guanzhi",
+      "name": "GmSSL",
+      "full_name": "guanzhi/GmSSL",
+      "url": "https://github.com/guanzhi/GmSSL",
+      "description": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+      "language": "C",
+      "stars": "5559",
+      "forks": "1727",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27564",
+      "forks": "10583",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11780",
+      "forks": "2793",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12249",
+      "forks": "7478",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "OpenVPN",
+      "name": "openvpn",
+      "full_name": "OpenVPN/openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "stars": "11930",
+      "forks": "3110",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-sr",
+      "full_name": "espressif/esp-sr",
+      "url": "https://github.com/espressif/esp-sr",
+      "description": "Speech recognition",
+      "language": "C",
+      "stars": "961",
+      "forks": "144",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "util-linux",
+      "name": "util-linux",
+      "full_name": "util-linux/util-linux",
+      "url": "https://github.com/util-linux/util-linux",
+      "description": "",
+      "language": "C",
+      "stars": "2883",
+      "forks": "1254",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "30946",
+      "forks": "3044",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "123431",
+      "forks": "11572",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "full_name": "mattn/go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": "8516",
+      "forks": "1135",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195424",
+      "forks": "56229",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3352",
+      "forks": "1328",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "832",
+      "forks": "1565",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11426",
+      "forks": "808",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5771",
+      "forks": "1130",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "23977",
+      "forks": "4920",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2612",
+      "forks": "680",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10417",
+      "forks": "5575",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "stars": "11179",
+      "forks": "5185",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "full_name": "Tencent/wcdb",
+      "url": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": "11129",
+      "forks": "1443",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

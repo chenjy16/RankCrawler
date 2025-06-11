@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-11 01:15:02",
+  "repositories": [
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+      "language": "Rust",
+      "stars": "6347",
+      "forks": "390",
+      "today_stars": "373 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "8136",
+      "forks": "259",
+      "today_stars": "605 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "8077",
+      "forks": "264",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": "12183",
+      "forks": "598",
+      "today_stars": "194 stars today"
+    },
+    {
+      "author": "kata-containers",
+      "name": "kata-containers",
+      "full_name": "kata-containers/kata-containers",
+      "url": "https://github.com/kata-containers/kata-containers",
+      "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+      "language": "Rust",
+      "stars": "6257",
+      "forks": "1115",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "15481",
+      "forks": "588",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "14332",
+      "forks": "1067",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "1872",
+      "forks": "85",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "7869",
+      "forks": "650",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3124",
+      "forks": "1074",
+      "today_stars": "534 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19686",
+      "forks": "1761",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "19364",
+      "forks": "684",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "11335",
+      "forks": "587",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "full_name": "libp2p/rust-libp2p",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of the libp2p networking stack.",
+      "language": "Rust",
+      "stars": "5028",
+      "forks": "1078",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "90380",
+      "forks": "12969",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "66952",
+      "forks": "3242",
+      "today_stars": "263 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "7846",
+      "forks": "1559",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "jtroo",
+      "name": "kanata",
+      "full_name": "jtroo/kanata",
+      "url": "https://github.com/jtroo/kanata",
+      "description": "Improve keyboard comfort and usability with advanced customization",
+      "language": "Rust",
+      "stars": "5186",
+      "forks": "185",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "brave",
+      "name": "adblock-rust",
+      "full_name": "brave/adblock-rust",
+      "url": "https://github.com/brave/adblock-rust",
+      "description": "Brave's Rust-based adblock engine",
+      "language": "Rust",
+      "stars": "1735",
+      "forks": "144",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "45316",
+      "forks": "2147",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "2905",
+      "forks": "216",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40016",
+      "forks": "3944",
+      "today_stars": "25 stars today"
+    }
+  ]
+}
