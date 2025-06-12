@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-12 01:13:51",
+  "repositories": [
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21917",
+      "forks": "4511",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "27995",
+      "forks": "7255",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29231",
+      "forks": "4352",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "14649",
+      "forks": "1793",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5752",
+      "forks": "1172",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "19775",
+      "forks": "6068",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "28885",
+      "forks": "2519",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6410",
+      "forks": "1026",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "zalando",
+      "name": "postgres-operator",
+      "full_name": "zalando/postgres-operator",
+      "url": "https://github.com/zalando/postgres-operator",
+      "description": "Postgres operator creates and manages PostgreSQL clusters running in Kubernetes",
+      "language": "Go",
+      "stars": "4728",
+      "forks": "1026",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "12913",
+      "forks": "1186",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "zeromicro",
+      "name": "go-zero",
+      "full_name": "zeromicro/go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "language": "Go",
+      "stars": "31183",
+      "forks": "4125",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "2927",
+      "forks": "153",
+      "today_stars": "94 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3636",
+      "forks": "2805",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "82685",
+      "forks": "8228",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mimir",
+      "full_name": "grafana/mimir",
+      "url": "https://github.com/grafana/mimir",
+      "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+      "language": "Go",
+      "stars": "4517",
+      "forks": "596",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "gateway",
+      "full_name": "envoyproxy/gateway",
+      "url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "language": "Go",
+      "stars": "1932",
+      "forks": "490",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-google",
+      "full_name": "hashicorp/terraform-provider-google",
+      "url": "https://github.com/hashicorp/terraform-provider-google",
+      "description": "Terraform Provider for Google Cloud Platform",
+      "language": "Go",
+      "stars": "2490",
+      "forks": "1809",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "7049",
+      "forks": "893",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "16799",
+      "forks": "1480",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15661",
+      "forks": "5650",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

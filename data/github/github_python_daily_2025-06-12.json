@@ -1,0 +1,150 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-06-12 01:12:51",
+  "repositories": [
+    {
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "35244",
+      "forks": "4046",
+      "today_stars": "529 stars today"
+    },
+    {
+      "author": "jwohlwend",
+      "name": "boltz",
+      "full_name": "jwohlwend/boltz",
+      "url": "https://github.com/jwohlwend/boltz",
+      "description": "Official repository for the Boltz biomolecular interaction models",
+      "language": "Python",
+      "stars": "2679",
+      "forks": "398",
+      "today_stars": "420 stars today"
+    },
+    {
+      "author": "jdepoix",
+      "name": "youtube-transcript-api",
+      "full_name": "jdepoix/youtube-transcript-api",
+      "url": "https://github.com/jdepoix/youtube-transcript-api",
+      "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
+      "language": "Python",
+      "stars": "4191",
+      "forks": "478",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "autogen",
+      "full_name": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour",
+      "language": "Python",
+      "stars": "45843",
+      "forks": "6958",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "emcie-co",
+      "name": "parlant",
+      "full_name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "Parlant is the open-source conversation modeling engine for building better, deliberate Agentic UX. It gives you the power of LLMs without the unpredictability.",
+      "language": "Python",
+      "stars": "3113",
+      "forks": "316",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "RockChinQ",
+      "name": "LangBot",
+      "full_name": "RockChinQ/LangBot",
+      "url": "https://github.com/RockChinQ/LangBot",
+      "description": "🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ Bots for QQ / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent",
+      "language": "Python",
+      "stars": "11794",
+      "forks": "894",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-agents-python",
+      "full_name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": "11335",
+      "forks": "1645",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": "62921",
+      "forks": "7105",
+      "today_stars": "102 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "airflow",
+      "full_name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "stars": "40508",
+      "forks": "15152",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "physicsnemo",
+      "full_name": "NVIDIA/physicsnemo",
+      "url": "https://github.com/NVIDIA/physicsnemo",
+      "description": "Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods",
+      "language": "Python",
+      "stars": "1594",
+      "forks": "362",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "localstack",
+      "name": "localstack",
+      "full_name": "localstack/localstack",
+      "url": "https://github.com/localstack/localstack",
+      "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+      "language": "Python",
+      "stars": "59249",
+      "forks": "4164",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "Lightning-AI",
+      "name": "pytorch-lightning",
+      "full_name": "Lightning-AI/pytorch-lightning",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning",
+      "description": "Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.",
+      "language": "Python",
+      "stars": "29599",
+      "forks": "3510",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "vllm-ascend",
+      "full_name": "vllm-project/vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "language": "Python",
+      "stars": "746",
+      "forks": "188",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

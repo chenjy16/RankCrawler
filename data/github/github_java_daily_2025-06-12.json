@@ -1,0 +1,271 @@
+{
+  "language": "java",
+  "period": "daily",
+  "fetch_time": "2025-06-12 01:14:29",
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "spring-ai-alibaba",
+      "full_name": "alibaba/spring-ai-alibaba",
+      "url": "https://github.com/alibaba/spring-ai-alibaba",
+      "description": "Agentic AI Framework for Java Developers",
+      "language": "Java",
+      "stars": "3999",
+      "forks": "756",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "iceberg",
+      "full_name": "apache/iceberg",
+      "url": "https://github.com/apache/iceberg",
+      "description": "Apache Iceberg",
+      "language": "Java",
+      "stars": "7565",
+      "forks": "2605",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kestra-io",
+      "name": "kestra",
+      "full_name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...",
+      "language": "Java",
+      "stars": "18842",
+      "forks": "1556",
+      "today_stars": "278 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai",
+      "full_name": "spring-projects/spring-ai",
+      "url": "https://github.com/spring-projects/spring-ai",
+      "description": "An Application Framework for AI Engineering",
+      "language": "Java",
+      "stars": "5700",
+      "forks": "1558",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "kafka",
+      "full_name": "apache/kafka",
+      "url": "https://github.com/apache/kafka",
+      "description": "Mirror of Apache Kafka",
+      "language": "Java",
+      "stars": "30256",
+      "forks": "14441",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "gravitino",
+      "full_name": "apache/gravitino",
+      "url": "https://github.com/apache/gravitino",
+      "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+      "language": "Java",
+      "stars": "1599",
+      "forks": "491",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "cassandra",
+      "full_name": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Apache Cassandra®",
+      "language": "Java",
+      "stars": "9231",
+      "forks": "3715",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "paimon",
+      "full_name": "apache/paimon",
+      "url": "https://github.com/apache/paimon",
+      "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+      "language": "Java",
+      "stars": "2836",
+      "forks": "1089",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apache",
+      "name": "hudi",
+      "full_name": "apache/hudi",
+      "url": "https://github.com/apache/hudi",
+      "description": "Upserts, Deletes And Incremental Processing on Big Data.",
+      "language": "Java",
+      "stars": "5833",
+      "forks": "2412",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "netty",
+      "name": "netty",
+      "full_name": "netty/netty",
+      "url": "https://github.com/netty/netty",
+      "description": "Netty project - an event-driven asynchronous network application framework",
+      "language": "Java",
+      "stars": "34160",
+      "forks": "16106",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "StarRocks",
+      "name": "starrocks",
+      "full_name": "StarRocks/starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "stars": "10118",
+      "forks": "2021",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OpenLineage",
+      "name": "OpenLineage",
+      "full_name": "OpenLineage/OpenLineage",
+      "url": "https://github.com/OpenLineage/OpenLineage",
+      "description": "An Open Standard for lineage metadata collection",
+      "language": "Java",
+      "stars": "1965",
+      "forks": "341",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "thingsboard",
+      "name": "thingsboard",
+      "full_name": "thingsboard/thingsboard",
+      "url": "https://github.com/thingsboard/thingsboard",
+      "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+      "language": "Java",
+      "stars": "19075",
+      "forks": "5620",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "java-sdk",
+      "full_name": "modelcontextprotocol/java-sdk",
+      "url": "https://github.com/modelcontextprotocol/java-sdk",
+      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+      "language": "Java",
+      "stars": "1789",
+      "forks": "452",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "hadoop",
+      "full_name": "apache/hadoop",
+      "url": "https://github.com/apache/hadoop",
+      "description": "Apache Hadoop",
+      "language": "Java",
+      "stars": "15122",
+      "forks": "9051",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "hkhcoder",
+      "name": "vprofile-project",
+      "full_name": "hkhcoder/vprofile-project",
+      "url": "https://github.com/hkhcoder/vprofile-project",
+      "description": "",
+      "language": "Java",
+      "stars": "676",
+      "forks": "3324",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-security",
+      "full_name": "spring-projects/spring-security",
+      "url": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "stars": "9165",
+      "forks": "6058",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "doris",
+      "full_name": "apache/doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+      "language": "Java",
+      "stars": "13801",
+      "forks": "3455",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "OpenAPITools",
+      "name": "openapi-generator",
+      "full_name": "OpenAPITools/openapi-generator",
+      "url": "https://github.com/OpenAPITools/openapi-generator",
+      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+      "language": "Java",
+      "stars": "23963",
+      "forks": "6977",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "cloudstack",
+      "full_name": "apache/cloudstack",
+      "url": "https://github.com/apache/cloudstack",
+      "description": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
+      "language": "Java",
+      "stars": "2394",
+      "forks": "1184",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "noties",
+      "name": "Markwon",
+      "full_name": "noties/Markwon",
+      "url": "https://github.com/noties/Markwon",
+      "description": "Android markdown library (no WebView)",
+      "language": "Java",
+      "stars": "3087",
+      "forks": "357",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "opensearch-project",
+      "name": "OpenSearch",
+      "full_name": "opensearch-project/OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "description": "🔎 Open source distributed and RESTful search engine.",
+      "language": "Java",
+      "stars": "10917",
+      "forks": "2081",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "spring-projects",
+      "name": "spring-ai-examples",
+      "full_name": "spring-projects/spring-ai-examples",
+      "url": "https://github.com/spring-projects/spring-ai-examples",
+      "description": "",
+      "language": "Java",
+      "stars": "595",
+      "forks": "231",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OpenRefine",
+      "name": "OpenRefine",
+      "full_name": "OpenRefine/OpenRefine",
+      "url": "https://github.com/OpenRefine/OpenRefine",
+      "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+      "language": "Java",
+      "stars": "11383",
+      "forks": "2064",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

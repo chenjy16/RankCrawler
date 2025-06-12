@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-12 01:13:57",
+  "repositories": [
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "15452",
+      "forks": "726",
+      "today_stars": "1,513 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29231",
+      "forks": "4352",
+      "today_stars": "468 stars this week"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "11481",
+      "forks": "1649",
+      "today_stars": "624 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1317",
+      "forks": "143",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32565",
+      "forks": "4376",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "dagger",
+      "name": "dagger",
+      "full_name": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+      "language": "Go",
+      "stars": "13882",
+      "forks": "738",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "karpenter-provider-aws",
+      "full_name": "aws/karpenter-provider-aws",
+      "url": "https://github.com/aws/karpenter-provider-aws",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "7304",
+      "forks": "1108",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "72534",
+      "forks": "4611",
+      "today_stars": "769 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3087",
+      "forks": "690",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "16546",
+      "forks": "1821",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "ankitpokhrel",
+      "name": "jira-cli",
+      "full_name": "ankitpokhrel/jira-cli",
+      "url": "https://github.com/ankitpokhrel/jira-cli",
+      "description": "🔥 Feature-rich interactive Jira command line.",
+      "language": "Go",
+      "stars": "4429",
+      "forks": "249",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "cloudreve",
+      "name": "Cloudreve",
+      "full_name": "cloudreve/Cloudreve",
+      "url": "https://github.com/cloudreve/Cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23497",
+      "forks": "3577",
+      "today_stars": "230 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "8821",
+      "forks": "1239",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "WireGuard",
+      "name": "wireguard-go",
+      "full_name": "WireGuard/wireguard-go",
+      "url": "https://github.com/WireGuard/wireguard-go",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+      "language": "Go",
+      "stars": "3506",
+      "forks": "1205",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "8061",
+      "forks": "315",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "19501",
+      "forks": "1870",
+      "today_stars": "113 stars this week"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "4704",
+      "forks": "905",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7184",
+      "forks": "671",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23066",
+      "forks": "1850",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11329",
+      "forks": "804",
+      "today_stars": "42 stars this week"
+    }
+  ]
+}

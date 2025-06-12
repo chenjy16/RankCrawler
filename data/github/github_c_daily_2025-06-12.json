@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-12 01:14:49",
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3354",
+      "forks": "1330",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27581",
+      "forks": "10589",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11445",
+      "forks": "808",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5359",
+      "forks": "1969",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "13929",
+      "forks": "2156",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2283",
+      "forks": "557",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "wcdb",
+      "full_name": "Tencent/wcdb",
+      "url": "https://github.com/Tencent/wcdb",
+      "description": "WCDB is a cross-platform database framework developed by WeChat.",
+      "language": "C",
+      "stars": "11134",
+      "forks": "1443",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12257",
+      "forks": "7483",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11293",
+      "forks": "1845",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10646",
+      "forks": "2934",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libjpeg-turbo",
+      "name": "libjpeg-turbo",
+      "full_name": "libjpeg-turbo/libjpeg-turbo",
+      "url": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+      "description": "Main libjpeg-turbo repository",
+      "language": "C",
+      "stars": "3959",
+      "forks": "1072",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "21884",
+      "forks": "838",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "pgactive",
+      "full_name": "aws/pgactive",
+      "url": "https://github.com/aws/pgactive",
+      "description": "",
+      "language": "C",
+      "stars": "158",
+      "forks": "5",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "glouw",
+      "name": "ctl",
+      "full_name": "glouw/ctl",
+      "url": "https://github.com/glouw/ctl",
+      "description": "The C Template Library",
+      "language": "C",
+      "stars": "1175",
+      "forks": "86",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "pocoproject",
+      "name": "poco",
+      "full_name": "pocoproject/poco",
+      "url": "https://github.com/pocoproject/poco",
+      "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+      "language": "C",
+      "stars": "9039",
+      "forks": "2272",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6809",
+      "forks": "1566",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5324",
+      "forks": "1536",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1325",
+      "forks": "144",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "dunst-project",
+      "name": "dunst",
+      "full_name": "dunst-project/dunst",
+      "url": "https://github.com/dunst-project/dunst",
+      "description": "Lightweight and customizable notification daemon",
+      "language": "C",
+      "stars": "5003",
+      "forks": "361",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "656",
+      "forks": "3205",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "lwip-tcpip",
+      "name": "lwip",
+      "full_name": "lwip-tcpip/lwip",
+      "url": "https://github.com/lwip-tcpip/lwip",
+      "description": "lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git",
+      "language": "C",
+      "stars": "1287",
+      "forks": "464",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13699",
+      "forks": "4241",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1084",
+      "forks": "1326",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-06-12 01:14:56",
+  "repositories": [
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "full_name": "yugabyte/yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "stars": "9552",
+      "forks": "1144",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15421",
+      "forks": "7698",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "10913",
+      "forks": "1194",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "64870",
+      "forks": "8480",
+      "today_stars": "201 stars this week"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10195",
+      "forks": "1511",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195500",
+      "forks": "56228",
+      "today_stars": "543 stars this week"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14279",
+      "forks": "4014",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4054",
+      "forks": "474",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13009",
+      "forks": "757",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9508",
+      "forks": "3264",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5933",
+      "forks": "2707",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4117",
+      "forks": "1549",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "ish-app",
+      "name": "ish",
+      "full_name": "ish-app/ish",
+      "url": "https://github.com/ish-app/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": "18109",
+      "forks": "1053",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "ProtonVPN",
+      "name": "android-app",
+      "full_name": "ProtonVPN/android-app",
+      "url": "https://github.com/ProtonVPN/android-app",
+      "description": "Official ProtonVPN Android app",
+      "language": "C",
+      "stars": "2751",
+      "forks": "363",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27581",
+      "forks": "10589",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": "6809",
+      "forks": "1872",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "ufrisk",
+      "name": "pcileech",
+      "full_name": "ufrisk/pcileech",
+      "url": "https://github.com/ufrisk/pcileech",
+      "description": "Direct Memory Access (DMA) Attack Software",
+      "language": "C",
+      "stars": "5826",
+      "forks": "831",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "libarchive",
+      "name": "libarchive",
+      "full_name": "libarchive/libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "stars": "3211",
+      "forks": "812",
+      "today_stars": "9 stars this week"
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "full_name": "xmrig/xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": "9262",
+      "forks": "3644",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "RfidResearchGroup",
+      "name": "proxmark3",
+      "full_name": "RfidResearchGroup/proxmark3",
+      "url": "https://github.com/RfidResearchGroup/proxmark3",
+      "description": "Iceman Fork - Proxmark3",
+      "language": "C",
+      "stars": "4616",
+      "forks": "1164",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "libimobiledevice",
+      "name": "libimobiledevice",
+      "full_name": "libimobiledevice/libimobiledevice",
+      "url": "https://github.com/libimobiledevice/libimobiledevice",
+      "description": "A cross-platform protocol library to communicate with iOS devices",
+      "language": "C",
+      "stars": "7057",
+      "forks": "1394",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4733",
+      "forks": "954",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "FRRouting",
+      "name": "frr",
+      "full_name": "FRRouting/frr",
+      "url": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "stars": "3698",
+      "forks": "1344",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "26766",
+      "forks": "2544",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12257",
+      "forks": "7483",
+      "today_stars": "41 stars this week"
+    }
+  ]
+}
