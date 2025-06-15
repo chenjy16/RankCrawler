@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "weekly",
+  "fetch_time": "2025-06-15 01:24:13",
+  "repositories": [
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40255",
+      "forks": "5889",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "220",
+      "forks": "26",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48426",
+      "forks": "7191",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "24028",
+      "forks": "4643",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+      "language": "Ruby",
+      "stars": "5310",
+      "forks": "144",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "43931",
+      "forks": "10280",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14402",
+      "forks": "12851",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "kilimchoi",
+      "name": "engineering-blogs",
+      "full_name": "kilimchoi/engineering-blogs",
+      "url": "https://github.com/kilimchoi/engineering-blogs",
+      "description": "A curated list of engineering blogs",
+      "language": "Ruby",
+      "stars": "33209",
+      "forks": "1779",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "35728",
+      "forks": "14358",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "ViewComponent",
+      "name": "view_component",
+      "full_name": "ViewComponent/view_component",
+      "url": "https://github.com/ViewComponent/view_component",
+      "description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.",
+      "language": "Ruby",
+      "stars": "3423",
+      "forks": "454",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "12799",
+      "forks": "4539",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50184",
+      "forks": "10111",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2432",
+      "forks": "155",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "pglombardo",
+      "name": "PasswordPusher",
+      "full_name": "pglombardo/PasswordPusher",
+      "url": "https://github.com/pglombardo/PasswordPusher",
+      "description": "🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs.",
+      "language": "Ruby",
+      "stars": "2463",
+      "forks": "398",
+      "today_stars": "11 stars this week"
+    },
+    {
+      "author": "varvet",
+      "name": "pundit",
+      "full_name": "varvet/pundit",
+      "url": "https://github.com/varvet/pundit",
+      "description": "Minimal authorization through OO design and pure Ruby classes",
+      "language": "Ruby",
+      "stars": "8406",
+      "forks": "641",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "freeCodeCamp",
+      "name": "devdocs",
+      "full_name": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "stars": "36368",
+      "forks": "2426",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11251",
+      "forks": "2631",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22690",
+      "forks": "5435",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "yjacquin",
+      "name": "fast-mcp",
+      "full_name": "yjacquin/fast-mcp",
+      "url": "https://github.com/yjacquin/fast-mcp",
+      "description": "A Ruby Implementation of the Model Context Protocol",
+      "language": "Ruby",
+      "stars": "756",
+      "forks": "47",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "forem",
+      "name": "forem",
+      "full_name": "forem/forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "stars": "22332",
+      "forks": "4123",
+      "today_stars": "9 stars this week"
+    },
+    {
+      "author": "decidim",
+      "name": "decidim",
+      "full_name": "decidim/decidim",
+      "url": "https://github.com/decidim/decidim",
+      "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+      "language": "Ruby",
+      "stars": "1570",
+      "forks": "423",
+      "today_stars": "6 stars this week"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "7825",
+      "forks": "2518",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "ruby",
+      "name": "gem_rbs_collection",
+      "full_name": "ruby/gem_rbs_collection",
+      "url": "https://github.com/ruby/gem_rbs_collection",
+      "description": "A collection of RBS for gems.",
+      "language": "Ruby",
+      "stars": "281",
+      "forks": "124",
+      "today_stars": "1 star this week"
+    }
+  ]
+}
