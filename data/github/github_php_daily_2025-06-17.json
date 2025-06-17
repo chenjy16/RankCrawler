@@ -1,0 +1,260 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-06-17 01:16:48",
+  "repositories": [
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+      "language": "PHP",
+      "stars": "24235",
+      "forks": "3518",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "HiEventsDev",
+      "name": "Hi.Events",
+      "full_name": "HiEventsDev/Hi.Events",
+      "url": "https://github.com/HiEventsDev/Hi.Events",
+      "description": "Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️",
+      "language": "PHP",
+      "stars": "2950",
+      "forks": "381",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "29809",
+      "forks": "4303",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-dompdf",
+      "full_name": "barryvdh/laravel-dompdf",
+      "url": "https://github.com/barryvdh/laravel-dompdf",
+      "description": "A DOMPDF Wrapper for Laravel",
+      "language": "PHP",
+      "stars": "7018",
+      "forks": "987",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PrivateBin",
+      "name": "PrivateBin",
+      "full_name": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+      "language": "PHP",
+      "stars": "7270",
+      "forks": "870",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "7027",
+      "forks": "789",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "7688",
+      "forks": "2062",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "FreshRSS",
+      "name": "FreshRSS",
+      "full_name": "FreshRSS/FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
+      "language": "PHP",
+      "stars": "11749",
+      "forks": "963",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "inspector-apm",
+      "name": "neuron-ai",
+      "full_name": "inspector-apm/neuron-ai",
+      "url": "https://github.com/inspector-apm/neuron-ai",
+      "description": "The PHP Agent Development Kit to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "language": "PHP",
+      "stars": "733",
+      "forks": "60",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ellite",
+      "name": "Wallos",
+      "full_name": "ellite/Wallos",
+      "url": "https://github.com/ellite/Wallos",
+      "description": "Wallos: Open-Source Personal Subscription Tracker",
+      "language": "PHP",
+      "stars": "4974",
+      "forks": "221",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9710",
+      "forks": "719",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "full_name": "matomo-org/matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "stars": "20591",
+      "forks": "2731",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sebastianbergmann",
+      "name": "phpunit",
+      "full_name": "sebastianbergmann/phpunit",
+      "url": "https://github.com/sebastianbergmann/phpunit",
+      "description": "The PHP Unit Testing framework.",
+      "language": "PHP",
+      "stars": "19870",
+      "forks": "2211",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "prasathmani",
+      "name": "tinyfilemanager",
+      "full_name": "prasathmani/tinyfilemanager",
+      "url": "https://github.com/prasathmani/tinyfilemanager",
+      "description": "Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager",
+      "language": "PHP",
+      "stars": "5389",
+      "forks": "1744",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "33730",
+      "forks": "11404",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "PHP-CS-Fixer",
+      "name": "PHP-CS-Fixer",
+      "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
+      "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer",
+      "description": "A tool to automatically fix PHP Coding Standards issues",
+      "language": "PHP",
+      "stars": "13184",
+      "forks": "1603",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21529",
+      "forks": "9807",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-debugbar",
+      "full_name": "barryvdh/laravel-debugbar",
+      "url": "https://github.com/barryvdh/laravel-debugbar",
+      "description": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+      "language": "PHP",
+      "stars": "18387",
+      "forks": "1581",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "danielbrendel",
+      "name": "hortusfox-web",
+      "full_name": "danielbrendel/hortusfox-web",
+      "url": "https://github.com/danielbrendel/hortusfox-web",
+      "description": "Self-hosted collaborative plant management and tracking system for plant enthusiasts",
+      "language": "PHP",
+      "stars": "1054",
+      "forks": "48",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "monicahq",
+      "name": "monica",
+      "full_name": "monicahq/monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "stars": "22885",
+      "forks": "2302",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "dr5hn",
+      "name": "countries-states-cities-database",
+      "full_name": "dr5hn/countries-states-cities-database",
+      "url": "https://github.com/dr5hn/countries-states-cities-database",
+      "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+      "language": "PHP",
+      "stars": "8400",
+      "forks": "2794",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "livewire",
+      "name": "livewire",
+      "full_name": "livewire/livewire",
+      "url": "https://github.com/livewire/livewire",
+      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+      "language": "PHP",
+      "stars": "22947",
+      "forks": "1643",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nunomaduro",
+      "name": "collision",
+      "full_name": "nunomaduro/collision",
+      "url": "https://github.com/nunomaduro/collision",
+      "description": "💥 Collision is a beautiful error reporting tool for command-line applications",
+      "language": "PHP",
+      "stars": "4606",
+      "forks": "167",
+      "today_stars": "1 star today"
+    }
+  ]
+}
