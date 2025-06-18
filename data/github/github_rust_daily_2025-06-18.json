@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-18 01:14:46",
+  "repositories": [
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "11125",
+      "forks": "422",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19430",
+      "forks": "607",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "stalwartlabs",
+      "name": "stalwart",
+      "full_name": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": "8759",
+      "forks": "421",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "24212",
+      "forks": "1657",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "8839",
+      "forks": "286",
+      "today_stars": "84 stars today"
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "full_name": "seanmonstar/reqwest",
+      "url": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": "10719",
+      "forks": "1243",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "15164",
+      "forks": "591",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10249",
+      "forks": "820",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30184",
+      "forks": "3617",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38035",
+      "forks": "2879",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "jsgroth",
+      "name": "jgenesis",
+      "full_name": "jsgroth/jgenesis",
+      "url": "https://github.com/jsgroth/jgenesis",
+      "description": "Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator",
+      "language": "Rust",
+      "stars": "185",
+      "forks": "7",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "30783",
+      "forks": "3193",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "27500",
+      "forks": "1788",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "plugins-workspace",
+      "full_name": "tauri-apps/plugins-workspace",
+      "url": "https://github.com/tauri-apps/plugins-workspace",
+      "description": "All of the official Tauri plugins in one place!",
+      "language": "Rust",
+      "stars": "1300",
+      "forks": "392",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34059",
+      "forks": "2269",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "40099",
+      "forks": "1401",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "mdBook",
+      "full_name": "rust-lang/mdBook",
+      "url": "https://github.com/rust-lang/mdBook",
+      "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+      "language": "Rust",
+      "stars": "19834",
+      "forks": "1737",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Wilfred",
+      "name": "difftastic",
+      "full_name": "Wilfred/difftastic",
+      "url": "https://github.com/Wilfred/difftastic",
+      "description": "a structural diff that understands syntax 🟥🟩",
+      "language": "Rust",
+      "stars": "22405",
+      "forks": "379",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "opendal",
+      "full_name": "apache/opendal",
+      "url": "https://github.com/apache/opendal",
+      "description": "Apache OpenDAL: One Layer, All Storage.",
+      "language": "Rust",
+      "stars": "4180",
+      "forks": "601",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "mountpoint-s3",
+      "full_name": "awslabs/mountpoint-s3",
+      "url": "https://github.com/awslabs/mountpoint-s3",
+      "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+      "language": "Rust",
+      "stars": "5235",
+      "forks": "206",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "the AI-native open-source embedding database",
+      "language": "Rust",
+      "stars": "20524",
+      "forks": "1649",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "mozilla",
+      "name": "sccache",
+      "full_name": "mozilla/sccache",
+      "url": "https://github.com/mozilla/sccache",
+      "description": "Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.",
+      "language": "Rust",
+      "stars": "6381",
+      "forks": "576",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

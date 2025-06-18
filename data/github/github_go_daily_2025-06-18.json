@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-18 01:14:25",
+  "repositories": [
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5309",
+      "forks": "1651",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15681",
+      "forks": "5653",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "google-cloud-go",
+      "full_name": "googleapis/google-cloud-go",
+      "url": "https://github.com/googleapis/google-cloud-go",
+      "description": "Google Cloud Client Libraries for Go.",
+      "language": "Go",
+      "stars": "4273",
+      "forks": "1431",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "karpenter",
+      "full_name": "kubernetes-sigs/karpenter",
+      "url": "https://github.com/kubernetes-sigs/karpenter",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "1057",
+      "forks": "289",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "lejianwen",
+      "name": "rustdesk-api",
+      "full_name": "lejianwen/rustdesk-api",
+      "url": "https://github.com/lejianwen/rustdesk-api",
+      "description": "Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login",
+      "language": "Go",
+      "stars": "1390",
+      "forks": "292",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18486",
+      "forks": "1373",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Musixal",
+      "name": "Backhaul",
+      "full_name": "Musixal/Backhaul",
+      "url": "https://github.com/Musixal/Backhaul",
+      "description": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+      "language": "Go",
+      "stars": "402",
+      "forks": "86",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "10507",
+      "forks": "737",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49627",
+      "forks": "10075",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "full_name": "uber-go/zap",
+      "url": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": "23218",
+      "forks": "1476",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2470",
+      "forks": "231",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mark3labs",
+      "name": "mcp-go",
+      "full_name": "mark3labs/mcp-go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+      "language": "Go",
+      "stars": "5834",
+      "forks": "533",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "tempo",
+      "full_name": "grafana/tempo",
+      "url": "https://github.com/grafana/tempo",
+      "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+      "language": "Go",
+      "stars": "4531",
+      "forks": "582",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "go-sql-driver",
+      "name": "mysql",
+      "full_name": "go-sql-driver/mysql",
+      "url": "https://github.com/go-sql-driver/mysql",
+      "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+      "language": "Go",
+      "stars": "14864",
+      "forks": "2331",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11385",
+      "forks": "809",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "asdf-vm",
+      "name": "asdf",
+      "full_name": "asdf-vm/asdf",
+      "url": "https://github.com/asdf-vm/asdf",
+      "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+      "language": "Go",
+      "stars": "23727",
+      "forks": "880",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "full_name": "labstack/echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": "31150",
+      "forks": "2275",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24351",
+      "forks": "2904",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "full_name": "kubernetes/client-go",
+      "url": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": "9460",
+      "forks": "2996",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "143927",
+      "forks": "12107",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "full_name": "coredns/coredns",
+      "url": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": "13086",
+      "forks": "2250",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24746",
+      "forks": "1652",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

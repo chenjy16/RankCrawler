@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-18 01:15:26",
+  "repositories": [
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "198",
+      "forks": "23",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "27194",
+      "forks": "7348",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24004",
+      "forks": "4923",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5173",
+      "forks": "2761",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "FreeRDP",
+      "name": "FreeRDP",
+      "full_name": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "stars": "11854",
+      "forks": "15056",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "195882",
+      "forks": "56421",
+      "today_stars": "84 stars today"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4206",
+      "forks": "706",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11763",
+      "forks": "5181",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12693",
+      "forks": "1877",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "libsql",
+      "full_name": "tursodatabase/libsql",
+      "url": "https://github.com/tursodatabase/libsql",
+      "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+      "language": "C",
+      "stars": "14889",
+      "forks": "391",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "open-gpu-kernel-modules",
+      "full_name": "NVIDIA/open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "stars": "15895",
+      "forks": "1417",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "662",
+      "forks": "3210",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cosmos72",
+      "name": "twin",
+      "full_name": "cosmos72/twin",
+      "url": "https://github.com/cosmos72/twin",
+      "description": "Text mode window environment. A \"retro\" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server",
+      "language": "C",
+      "stars": "915",
+      "forks": "47",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4720",
+      "forks": "919",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5910",
+      "forks": "869",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "15862",
+      "forks": "1869",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6971",
+      "forks": "1705",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15477",
+      "forks": "7707",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25094",
+      "forks": "2259",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4128",
+      "forks": "1558",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5940",
+      "forks": "2707",
+      "today_stars": "1 star today"
+    }
+  ]
+}

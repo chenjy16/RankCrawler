@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-06-18 01:15:47",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24335",
+      "forks": "3348",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "4916",
+      "forks": "1274",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "15246",
+      "forks": "2918",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "82674",
+      "forks": "56200",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "11842",
+      "forks": "1931",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "81875",
+      "forks": "12116",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "16943",
+      "forks": "3276",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15572",
+      "forks": "3741",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "nixl",
+      "full_name": "ai-dynamo/nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "language": "C++",
+      "stars": "413",
+      "forks": "95",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "35571",
+      "forks": "3915",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "facontidavide",
+      "name": "PlotJuggler",
+      "full_name": "facontidavide/PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
+      "language": "C++",
+      "stars": "5041",
+      "forks": "682",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "BlackINT3",
+      "name": "OpenArk",
+      "full_name": "BlackINT3/OpenArk",
+      "url": "https://github.com/BlackINT3/OpenArk",
+      "description": "The Next Generation of Anti-Rookit(ARK) tool for Windows.",
+      "language": "C++",
+      "stars": "11236",
+      "forks": "983",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tflite-micro",
+      "full_name": "tensorflow/tflite-micro",
+      "url": "https://github.com/tensorflow/tflite-micro",
+      "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+      "language": "C++",
+      "stars": "2323",
+      "forks": "898",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "122691",
+      "forks": "24714",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3201",
+      "forks": "1477",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "LightGBM",
+      "full_name": "microsoft/LightGBM",
+      "url": "https://github.com/microsoft/LightGBM",
+      "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "language": "C++",
+      "stars": "17311",
+      "forks": "3899",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "41231",
+      "forks": "7394",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "maplibre",
+      "name": "maplibre-native",
+      "full_name": "maplibre/maplibre-native",
+      "url": "https://github.com/maplibre/maplibre-native",
+      "description": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
+      "language": "C++",
+      "stars": "1380",
+      "forks": "396",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "30325",
+      "forks": "2383",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "66208",
+      "forks": "10944",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "27012",
+      "forks": "8785",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

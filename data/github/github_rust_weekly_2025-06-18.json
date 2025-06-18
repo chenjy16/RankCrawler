@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-06-18 01:14:52",
+  "repositories": [
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "7474",
+      "forks": "447",
+      "today_stars": "1,300 stars this week"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "8839",
+      "forks": "286",
+      "today_stars": "807 stars this week"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": "12988",
+      "forks": "613",
+      "today_stars": "836 stars this week"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "9018",
+      "forks": "280",
+      "today_stars": "1,079 stars this week"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "15164",
+      "forks": "591",
+      "today_stars": "475 stars this week"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5745",
+      "forks": "416",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "14776",
+      "forks": "1194",
+      "today_stars": "451 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "21116",
+      "forks": "3556",
+      "today_stars": "619 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "45541",
+      "forks": "2157",
+      "today_stars": "240 stars this week"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3560",
+      "forks": "1226",
+      "today_stars": "516 stars this week"
+    },
+    {
+      "author": "trifectatechfoundation",
+      "name": "sudo-rs",
+      "full_name": "trifectatechfoundation/sudo-rs",
+      "url": "https://github.com/trifectatechfoundation/sudo-rs",
+      "description": "A memory safe implementation of sudo and su.",
+      "language": "Rust",
+      "stars": "3716",
+      "forks": "113",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "kata-containers",
+      "name": "kata-containers",
+      "full_name": "kata-containers/kata-containers",
+      "url": "https://github.com/kata-containers/kata-containers",
+      "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+      "language": "Rust",
+      "stars": "6351",
+      "forks": "1122",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "24466",
+      "forks": "662",
+      "today_stars": "245 stars this week"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "19460",
+      "forks": "689",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "svenstaro",
+      "name": "genact",
+      "full_name": "svenstaro/genact",
+      "url": "https://github.com/svenstaro/genact",
+      "description": "🌀 A nonsense activity generator",
+      "language": "Rust",
+      "stars": "10790",
+      "forks": "445",
+      "today_stars": "127 stars this week"
+    },
+    {
+      "author": "huggingface",
+      "name": "text-embeddings-inference",
+      "full_name": "huggingface/text-embeddings-inference",
+      "url": "https://github.com/huggingface/text-embeddings-inference",
+      "description": "A blazing fast inference solution for text embeddings models",
+      "language": "Rust",
+      "stars": "3700",
+      "forks": "274",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "7905",
+      "forks": "1579",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "full_name": "rust-unofficial/awesome-rust",
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": "50947",
+      "forks": "2934",
+      "today_stars": "183 stars this week"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "15571",
+      "forks": "592",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "49374",
+      "forks": "2137",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19430",
+      "forks": "607",
+      "today_stars": "182 stars this week"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2105",
+      "forks": "161",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "795",
+      "forks": "138",
+      "today_stars": "35 stars this week"
+    }
+  ]
+}
