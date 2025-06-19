@@ -1,0 +1,216 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-19 01:15:41",
+  "repositories": [
+    {
+      "author": "coturn",
+      "name": "coturn",
+      "full_name": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "description": "coturn TURN server project",
+      "language": "C",
+      "stars": "12521",
+      "forks": "2128",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "14451",
+      "forks": "548",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11586",
+      "forks": "957",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12309",
+      "forks": "7510",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "665",
+      "forks": "3211",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19465",
+      "forks": "1604",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55314",
+      "forks": "26325",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2302",
+      "forks": "560",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27635",
+      "forks": "10605",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11620",
+      "forks": "3321",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "31957",
+      "forks": "1637",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22784",
+      "forks": "11272",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11015",
+      "forks": "1442",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "yugabyte",
+      "name": "yugabyte-db",
+      "full_name": "yugabyte/yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "stars": "9574",
+      "forks": "1146",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39169",
+      "forks": "7892",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29094",
+      "forks": "7835",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24015",
+      "forks": "4923",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4550",
+      "forks": "1033",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19927",
+      "forks": "3673",
+      "today_stars": "12 stars today"
+    }
+  ]
+}
