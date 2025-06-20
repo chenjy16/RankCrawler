@@ -1,0 +1,161 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-06-20 01:13:14",
+  "repositories": [
+    {
+      "author": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": "50154",
+      "forks": "8201",
+      "today_stars": "99 stars today"
+    },
+    {
+      "author": "cyclotruc",
+      "name": "gitingest",
+      "full_name": "cyclotruc/gitingest",
+      "url": "https://github.com/cyclotruc/gitingest",
+      "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+      "language": "Python",
+      "stars": "9334",
+      "forks": "721",
+      "today_stars": "96 stars today"
+    },
+    {
+      "author": "netbox-community",
+      "name": "netbox",
+      "full_name": "netbox-community/netbox",
+      "url": "https://github.com/netbox-community/netbox",
+      "description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+      "language": "Python",
+      "stars": "17958",
+      "forks": "2736",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "cookiecutter",
+      "name": "cookiecutter-django",
+      "full_name": "cookiecutter/cookiecutter-django",
+      "url": "https://github.com/cookiecutter/cookiecutter-django",
+      "description": "Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.",
+      "language": "Python",
+      "stars": "12851",
+      "forks": "2986",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mindsdb",
+      "name": "mindsdb",
+      "full_name": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+      "language": "Python",
+      "stars": "32409",
+      "forks": "5328",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry",
+      "full_name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": "41139",
+      "forks": "4371",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "python-sdk",
+      "full_name": "modelcontextprotocol/python-sdk",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "description": "The official Python SDK for Model Context Protocol servers and clients",
+      "language": "Python",
+      "stars": "14808",
+      "forks": "1827",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "KoljaB",
+      "name": "RealtimeSTT",
+      "full_name": "KoljaB/RealtimeSTT",
+      "url": "https://github.com/KoljaB/RealtimeSTT",
+      "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+      "language": "Python",
+      "stars": "7695",
+      "forks": "633",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "polarsource",
+      "name": "polar",
+      "full_name": "polarsource/polar",
+      "url": "https://github.com/polarsource/polar",
+      "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+      "language": "Python",
+      "stars": "5549",
+      "forks": "319",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "All-Hands-AI",
+      "name": "OpenHands",
+      "full_name": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "description": "🙌 OpenHands: Code Less, Make More",
+      "language": "Python",
+      "stars": "58676",
+      "forks": "6755",
+      "today_stars": "170 stars today"
+    },
+    {
+      "author": "comet-ml",
+      "name": "opik",
+      "full_name": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "language": "Python",
+      "stars": "9954",
+      "forks": "677",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "rougier",
+      "name": "numpy-100",
+      "full_name": "rougier/numpy-100",
+      "url": "https://github.com/rougier/numpy-100",
+      "description": "100 numpy exercises (with solutions)",
+      "language": "Python",
+      "stars": "12936",
+      "forks": "6061",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "sqlmapproject",
+      "name": "sqlmap",
+      "full_name": "sqlmapproject/sqlmap",
+      "url": "https://github.com/sqlmapproject/sqlmap",
+      "description": "Automatic SQL injection and database takeover tool",
+      "language": "Python",
+      "stars": "34520",
+      "forks": "5929",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TransformerEngine",
+      "full_name": "NVIDIA/TransformerEngine",
+      "url": "https://github.com/NVIDIA/TransformerEngine",
+      "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "language": "Python",
+      "stars": "2496",
+      "forks": "434",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

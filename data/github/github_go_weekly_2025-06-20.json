@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-20 01:14:17",
+  "repositories": [
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "8775",
+      "forks": "329",
+      "today_stars": "672 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "8979",
+      "forks": "1248",
+      "today_stars": "161 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "16075",
+      "forks": "1120",
+      "today_stars": "680 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "29084",
+      "forks": "2538",
+      "today_stars": "197 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29460",
+      "forks": "4371",
+      "today_stars": "223 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "32360",
+      "forks": "917",
+      "today_stars": "218 stars this week"
+    },
+    {
+      "author": "cloudreve",
+      "name": "cloudreve",
+      "full_name": "cloudreve/cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23719",
+      "forks": "3601",
+      "today_stars": "182 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24410",
+      "forks": "2906",
+      "today_stars": "178 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "71097",
+      "forks": "2530",
+      "today_stars": "213 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "tempo",
+      "full_name": "grafana/tempo",
+      "url": "https://github.com/grafana/tempo",
+      "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+      "language": "Go",
+      "stars": "4548",
+      "forks": "582",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1448",
+      "forks": "155",
+      "today_stars": "97 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "full_name": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": "18142",
+      "forks": "414",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5339",
+      "forks": "1251",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35487",
+      "forks": "3262",
+      "today_stars": "184 stars this week"
+    },
+    {
+      "author": "gtsteffaniak",
+      "name": "filebrowser",
+      "full_name": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "1963",
+      "forks": "54",
+      "today_stars": "1,027 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6645",
+      "forks": "803",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "145746",
+      "forks": "12360",
+      "today_stars": "484 stars this week"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31287",
+      "forks": "4823",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "11783",
+      "forks": "1719",
+      "today_stars": "321 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-20 01:14:29",
+  "repositories": [
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7087",
+      "forks": "11533",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "90998",
+      "forks": "13112",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "14918",
+      "forks": "1211",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "16307",
+      "forks": "535",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "61601",
+      "forks": "4508",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "16275",
+      "forks": "549",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19507",
+      "forks": "615",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15322",
+      "forks": "610",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "TabbyML",
+      "name": "tabby",
+      "full_name": "TabbyML/tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "description": "Self-hosted AI coding assistant",
+      "language": "Rust",
+      "stars": "31483",
+      "forks": "1503",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "4819",
+      "forks": "352",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "40173",
+      "forks": "1404",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "limbo",
+      "full_name": "tursodatabase/limbo",
+      "url": "https://github.com/tursodatabase/limbo",
+      "description": "Limbo is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "11163",
+      "forks": "425",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "58319",
+      "forks": "1669",
+      "today_stars": "122 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34093",
+      "forks": "2273",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38075",
+      "forks": "2885",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "candle",
+      "full_name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": "17432",
+      "forks": "1125",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29432",
+      "forks": "998",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "XAMPPRocky",
+      "name": "tokei",
+      "full_name": "XAMPPRocky/tokei",
+      "url": "https://github.com/XAMPPRocky/tokei",
+      "description": "Count your code, quickly.",
+      "language": "Rust",
+      "stars": "12668",
+      "forks": "585",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "51943",
+      "forks": "2079",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-rust",
+      "full_name": "open-telemetry/opentelemetry-rust",
+      "url": "https://github.com/open-telemetry/opentelemetry-rust",
+      "description": "The Rust OpenTelemetry implementation",
+      "language": "Rust",
+      "stars": "2201",
+      "forks": "531",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "20769",
+      "forks": "1502",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "16786",
+      "forks": "890",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

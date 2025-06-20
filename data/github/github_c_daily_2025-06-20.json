@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-20 01:15:07",
+  "repositories": [
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15539",
+      "forks": "7710",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12597",
+      "forks": "2201",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "19944",
+      "forks": "3676",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "mcu-tools",
+      "name": "mcuboot",
+      "full_name": "mcu-tools/mcuboot",
+      "url": "https://github.com/mcu-tools/mcuboot",
+      "description": "Secure boot for 32-bit Microcontrollers!",
+      "language": "C",
+      "stars": "1547",
+      "forks": "771",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5945",
+      "forks": "2710",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "666",
+      "forks": "3212",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "14475",
+      "forks": "548",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "firedancer-io",
+      "name": "firedancer",
+      "full_name": "firedancer-io/firedancer",
+      "url": "https://github.com/firedancer-io/firedancer",
+      "description": "Firedancer is Jump Crypto's Solana validator software.",
+      "language": "C",
+      "stars": "1203",
+      "forks": "277",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12714",
+      "forks": "1879",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "22787",
+      "forks": "11276",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ARM-software",
+      "name": "CMSIS-DSP",
+      "full_name": "ARM-software/CMSIS-DSP",
+      "url": "https://github.com/ARM-software/CMSIS-DSP",
+      "description": "CMSIS-DSP embedded compute library for Cortex-M and Cortex-A",
+      "language": "C",
+      "stars": "730",
+      "forks": "178",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11621",
+      "forks": "3322",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pjsip",
+      "name": "pjproject",
+      "full_name": "pjsip/pjproject",
+      "url": "https://github.com/pjsip/pjproject",
+      "description": "PJSIP project",
+      "language": "C",
+      "stars": "2320",
+      "forks": "867",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4267",
+      "forks": "1092",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12318",
+      "forks": "7517",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4550",
+      "forks": "1033",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14297",
+      "forks": "4019",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "haproxy",
+      "name": "haproxy",
+      "full_name": "haproxy/haproxy",
+      "url": "https://github.com/haproxy/haproxy",
+      "description": "HAProxy Load Balancer's development branch (mirror of git.haproxy.org)",
+      "language": "C",
+      "stars": "5695",
+      "forks": "845",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6824",
+      "forks": "1567",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19316",
+      "forks": "948",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "6980",
+      "forks": "1707",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4724",
+      "forks": "922",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "313",
+      "forks": "676",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
