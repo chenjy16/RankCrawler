@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-21 01:13:27",
+  "repositories": [
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "8928",
+      "forks": "332",
+      "today_stars": "817 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "9044",
+      "forks": "1250",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "71136",
+      "forks": "2530",
+      "today_stars": "226 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "16150",
+      "forks": "1133",
+      "today_stars": "568 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "29118",
+      "forks": "2540",
+      "today_stars": "200 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29482",
+      "forks": "4372",
+      "today_stars": "200 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "144332",
+      "forks": "12144",
+      "today_stars": "832 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24424",
+      "forks": "2909",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "32393",
+      "forks": "919",
+      "today_stars": "224 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "145808",
+      "forks": "12360",
+      "today_stars": "484 stars this week"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35506",
+      "forks": "3262",
+      "today_stars": "175 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40820",
+      "forks": "2953",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "gtsteffaniak",
+      "name": "filebrowser",
+      "full_name": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "2006",
+      "forks": "55",
+      "today_stars": "967 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6650",
+      "forks": "803",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31294",
+      "forks": "4825",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "tempo",
+      "full_name": "grafana/tempo",
+      "url": "https://github.com/grafana/tempo",
+      "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+      "language": "Go",
+      "stars": "4556",
+      "forks": "583",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "Ingenimax",
+      "name": "agent-sdk-go",
+      "full_name": "Ingenimax/agent-sdk-go",
+      "url": "https://github.com/Ingenimax/agent-sdk-go",
+      "description": "",
+      "language": "Go",
+      "stars": "142",
+      "forks": "48",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "huh",
+      "full_name": "charmbracelet/huh",
+      "url": "https://github.com/charmbracelet/huh",
+      "description": "Build terminal forms and prompts 🤷🏻‍♀️",
+      "language": "Go",
+      "stars": "5676",
+      "forks": "179",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "loft-sh",
+      "name": "devpod",
+      "full_name": "loft-sh/devpod",
+      "url": "https://github.com/loft-sh/devpod",
+      "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+      "language": "Go",
+      "stars": "13790",
+      "forks": "450",
+      "today_stars": "102 stars this week"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5342",
+      "forks": "1252",
+      "today_stars": "34 stars this week"
+    }
+  ]
+}

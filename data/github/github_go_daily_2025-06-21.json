@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-21 01:13:21",
+  "repositories": [
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "8928",
+      "forks": "332",
+      "today_stars": "172 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "25751",
+      "forks": "3694",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "9044",
+      "forks": "1250",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40820",
+      "forks": "2953",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "manusa",
+      "name": "kubernetes-mcp-server",
+      "full_name": "manusa/kubernetes-mcp-server",
+      "url": "https://github.com/manusa/kubernetes-mcp-server",
+      "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+      "language": "Go",
+      "stars": "304",
+      "forks": "53",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "25287",
+      "forks": "966",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+      "language": "Go",
+      "stars": "5118",
+      "forks": "598",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49162",
+      "forks": "20933",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10361",
+      "forks": "9542",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "6089",
+      "forks": "500",
+      "today_stars": "215 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "144332",
+      "forks": "12144",
+      "today_stars": "201 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1560",
+      "forks": "112",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "7307",
+      "forks": "916",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19609",
+      "forks": "878",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tmc",
+      "name": "langchaingo",
+      "full_name": "tmc/langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+      "language": "Go",
+      "stars": "6930",
+      "forks": "865",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "erigontech",
+      "name": "erigon",
+      "full_name": "erigontech/erigon",
+      "url": "https://github.com/erigontech/erigon",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "language": "Go",
+      "stars": "3371",
+      "forks": "1307",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "full_name": "dexidp/dex",
+      "url": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+      "language": "Go",
+      "stars": "9956",
+      "forks": "1805",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21948",
+      "forks": "4517",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "full_name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "language": "Go",
+      "stars": "23068",
+      "forks": "6735",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "51089",
+      "forks": "4574",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "GoogleContainerTools",
+      "name": "kaniko",
+      "full_name": "GoogleContainerTools/kaniko",
+      "url": "https://github.com/GoogleContainerTools/kaniko",
+      "description": "Build Container Images In Kubernetes",
+      "language": "Go",
+      "stars": "15632",
+      "forks": "1499",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "28714",
+      "forks": "2055",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "full_name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": "18653",
+      "forks": "8391",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3103",
+      "forks": "688",
+      "today_stars": "1 star today"
+    }
+  ]
+}

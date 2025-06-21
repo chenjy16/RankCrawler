@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-21 01:13:40",
+  "repositories": [
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7130",
+      "forks": "11536",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "61658",
+      "forks": "4526",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "9011",
+      "forks": "234",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "16329",
+      "forks": "551",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28263",
+      "forks": "1960",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "full_name": "huggingface/tokenizers",
+      "url": "https://github.com/huggingface/tokenizers",
+      "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": "9819",
+      "forks": "924",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "42237",
+      "forks": "1133",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "smallcloudai",
+      "name": "refact",
+      "full_name": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "language": "Rust",
+      "stars": "2204",
+      "forks": "173",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34101",
+      "forks": "2274",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "matter-labs",
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "url": "https://github.com/matter-labs/zksync-era",
+      "description": "zkSync era",
+      "language": "Rust",
+      "stars": "3178",
+      "forks": "2128",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "67801",
+      "forks": "3294",
+      "today_stars": "215 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "40200",
+      "forks": "1405",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19547",
+      "forks": "617",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10274",
+      "forks": "826",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk-server",
+      "full_name": "rustdesk/rustdesk-server",
+      "url": "https://github.com/rustdesk/rustdesk-server",
+      "description": "RustDesk Server Program",
+      "language": "Rust",
+      "stars": "8019",
+      "forks": "1782",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7359",
+      "forks": "1508",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tracing",
+      "full_name": "tokio-rs/tracing",
+      "url": "https://github.com/tokio-rs/tracing",
+      "description": "Application level tracing for Rust.",
+      "language": "Rust",
+      "stars": "5991",
+      "forks": "798",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "27943",
+      "forks": "2007",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "15150",
+      "forks": "1769",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "91093",
+      "forks": "13133",
+      "today_stars": "108 stars today"
+    }
+  ]
+}
