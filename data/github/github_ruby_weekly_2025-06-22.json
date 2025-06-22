@@ -1,0 +1,249 @@
+{
+  "language": "ruby",
+  "period": "weekly",
+  "fetch_time": "2025-06-22 01:23:28",
+  "repositories": [
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "24127",
+      "forks": "4697",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48476",
+      "forks": "7201",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "freeCodeCamp",
+      "name": "devdocs",
+      "full_name": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "stars": "36410",
+      "forks": "2430",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50223",
+      "forks": "10118",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15626",
+      "forks": "1135",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11294",
+      "forks": "2641",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "explore",
+      "full_name": "github/explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "stars": "4432",
+      "forks": "13267",
+      "today_stars": "6 stars this week"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "12820",
+      "forks": "4549",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "12782",
+      "forks": "587",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5100",
+      "forks": "1133",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26726",
+      "forks": "4438",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-ruby",
+      "full_name": "aws/aws-sdk-ruby",
+      "url": "https://github.com/aws/aws-sdk-ruby",
+      "description": "The official AWS SDK for Ruby",
+      "language": "Ruby",
+      "stars": "3616",
+      "forks": "1223",
+      "today_stars": "1 star this week"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "7843",
+      "forks": "2519",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "246",
+      "forks": "35",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "9289",
+      "forks": "684",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "maybe-finance",
+      "name": "maybe",
+      "full_name": "maybe-finance/maybe",
+      "url": "https://github.com/maybe-finance/maybe",
+      "description": "The personal finance app for everyone",
+      "language": "Ruby",
+      "stars": "44703",
+      "forks": "3291",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24196",
+      "forks": "5534",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3778",
+      "forks": "1816",
+      "today_stars": "3 stars this week"
+    },
+    {
+      "author": "rails",
+      "name": "solid_queue",
+      "full_name": "rails/solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
+      "language": "Ruby",
+      "stars": "2134",
+      "forks": "176",
+      "today_stars": "4 stars this week"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44347",
+      "forks": "8563",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "openai-ruby",
+      "full_name": "openai/openai-ruby",
+      "url": "https://github.com/openai/openai-ruby",
+      "description": "Official Ruby SDK for the OpenAI API",
+      "language": "Ruby",
+      "stars": "240",
+      "forks": "14",
+      "today_stars": "11 stars this week"
+    },
+    {
+      "author": "rswag",
+      "name": "rswag",
+      "full_name": "rswag/rswag",
+      "url": "https://github.com/rswag/rswag",
+      "description": "Seamlessly adds a Swagger to Rails-based API's",
+      "language": "Ruby",
+      "stars": "2095",
+      "forks": "450",
+      "today_stars": "2 stars this week"
+    }
+  ]
+}

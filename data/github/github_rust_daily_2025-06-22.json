@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-06-22 01:21:29",
+  "repositories": [
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "42418",
+      "forks": "1135",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "68034",
+      "forks": "3318",
+      "today_stars": "209 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "61706",
+      "forks": "4535",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "9035",
+      "forks": "235",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "eza-community",
+      "name": "eza",
+      "full_name": "eza-community/eza",
+      "url": "https://github.com/eza-community/eza",
+      "description": "A modern alternative to ls",
+      "language": "Rust",
+      "stars": "15929",
+      "forks": "299",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "asterinas",
+      "name": "asterinas",
+      "full_name": "asterinas/asterinas",
+      "url": "https://github.com/asterinas/asterinas",
+      "description": "Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.",
+      "language": "Rust",
+      "stars": "3209",
+      "forks": "195",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15339",
+      "forks": "614",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "biliticket",
+      "name": "bili_ticket_rush",
+      "full_name": "biliticket/bili_ticket_rush",
+      "url": "https://github.com/biliticket/bili_ticket_rush",
+      "description": "自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。",
+      "language": "Rust",
+      "stars": "344",
+      "forks": "31",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28270",
+      "forks": "1961",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "93765",
+      "forks": "2899",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "26071",
+      "forks": "554",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29447",
+      "forks": "1000",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24444",
+      "forks": "1416",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "candle",
+      "full_name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": "17454",
+      "forks": "1127",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7132",
+      "forks": "11539",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "11394",
+      "forks": "596",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "45642",
+      "forks": "2160",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "19763",
+      "forks": "1776",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "5095",
+      "forks": "440",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "16713",
+      "forks": "1131",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19574",
+      "forks": "618",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40190",
+      "forks": "3962",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "rivet-gg",
+      "name": "rivet",
+      "full_name": "rivet-gg/rivet",
+      "url": "https://github.com/rivet-gg/rivet",
+      "description": "🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.",
+      "language": "Rust",
+      "stars": "4014",
+      "forks": "104",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "14963",
+      "forks": "1415",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
