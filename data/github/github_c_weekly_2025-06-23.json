@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-06-23 01:20:24",
+  "repositories": [
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11676",
+      "forks": "817",
+      "today_stars": "187 stars this week"
+    },
+    {
+      "author": "kingToolbox",
+      "name": "WindTerm",
+      "full_name": "kingToolbox/WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "stars": "26835",
+      "forks": "2078",
+      "today_stars": "207 stars this week"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "14524",
+      "forks": "552",
+      "today_stars": "149 stars this week"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24031",
+      "forks": "4923",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "124035",
+      "forks": "11617",
+      "today_stars": "378 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "pgactive",
+      "full_name": "aws/pgactive",
+      "url": "https://github.com/aws/pgactive",
+      "description": "",
+      "language": "C",
+      "stars": "297",
+      "forks": "17",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15613",
+      "forks": "7712",
+      "today_stars": "167 stars this week"
+    },
+    {
+      "author": "ufrisk",
+      "name": "pcileech",
+      "full_name": "ufrisk/pcileech",
+      "url": "https://github.com/ufrisk/pcileech",
+      "description": "Direct Memory Access (DMA) Attack Software",
+      "language": "C",
+      "stars": "5934",
+      "forks": "849",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12333",
+      "forks": "7529",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "13963",
+      "forks": "2160",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11616",
+      "forks": "957",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25128",
+      "forks": "2265",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "open5gs",
+      "name": "open5gs",
+      "full_name": "open5gs/open5gs",
+      "url": "https://github.com/open5gs/open5gs",
+      "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",
+      "language": "C",
+      "stars": "2100",
+      "forks": "847",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "SoftEtherVPN",
+      "name": "SoftEtherVPN",
+      "full_name": "SoftEtherVPN/SoftEtherVPN",
+      "url": "https://github.com/SoftEtherVPN/SoftEtherVPN",
+      "description": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+      "language": "C",
+      "stars": "12342",
+      "forks": "2666",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "670",
+      "forks": "3212",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "FreeRDP",
+      "name": "FreeRDP",
+      "full_name": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "stars": "11875",
+      "forks": "15061",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "mcu-tools",
+      "name": "mcuboot",
+      "full_name": "mcu-tools/mcuboot",
+      "url": "https://github.com/mcu-tools/mcuboot",
+      "description": "Secure boot for 32-bit Microcontrollers!",
+      "language": "C",
+      "stars": "1552",
+      "forks": "772",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19485",
+      "forks": "1605",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12631",
+      "forks": "2211",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "31807",
+      "forks": "2756",
+      "today_stars": "130 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4727",
+      "forks": "922",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "xemu-project",
+      "name": "xemu",
+      "full_name": "xemu-project/xemu",
+      "url": "https://github.com/xemu-project/xemu",
+      "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+      "language": "C",
+      "stars": "3269",
+      "forks": "328",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6831",
+      "forks": "1568",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4216",
+      "forks": "710",
+      "today_stars": "18 stars this week"
+    }
+  ]
+}

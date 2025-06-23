@@ -1,0 +1,194 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-06-23 01:21:56",
+  "repositories": [
+    {
+      "author": "iina",
+      "name": "iina",
+      "full_name": "iina/iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "language": "Swift",
+      "stars": "40833",
+      "forks": "2640",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "alienator88",
+      "name": "Pearcleaner",
+      "full_name": "alienator88/Pearcleaner",
+      "url": "https://github.com/alienator88/Pearcleaner",
+      "description": "A free, source-available and fair-code licensed mac app cleaner",
+      "language": "Swift",
+      "stars": "7184",
+      "forks": "166",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "migueldeicaza",
+      "name": "SwiftTerm",
+      "full_name": "migueldeicaza/SwiftTerm",
+      "url": "https://github.com/migueldeicaza/SwiftTerm",
+      "description": "Xterm/VT100 Terminal emulator in Swift",
+      "language": "Swift",
+      "stars": "1104",
+      "forks": "152",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "khcrysalis",
+      "name": "Feather",
+      "full_name": "khcrysalis/Feather",
+      "url": "https://github.com/khcrysalis/Feather",
+      "description": "Feather is a free on-device iOS application manager/installer, using certificates part of the Apple Developer Program.",
+      "language": "Swift",
+      "stars": "2333",
+      "forks": "185",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "signalapp",
+      "name": "Signal-iOS",
+      "full_name": "signalapp/Signal-iOS",
+      "url": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "Swift",
+      "stars": "11386",
+      "forks": "3211",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25312",
+      "forks": "1490",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "utmapp",
+      "name": "UTM",
+      "full_name": "utmapp/UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "language": "Swift",
+      "stars": "29891",
+      "forks": "1474",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13410",
+      "forks": "1544",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ejbills",
+      "name": "DockDoor",
+      "full_name": "ejbills/DockDoor",
+      "url": "https://github.com/ejbills/DockDoor",
+      "description": "Window peeking & alt-tab for macOS",
+      "language": "Swift",
+      "stars": "2511",
+      "forks": "55",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "argmaxinc",
+      "name": "WhisperKit",
+      "full_name": "argmaxinc/WhisperKit",
+      "url": "https://github.com/argmaxinc/WhisperKit",
+      "description": "On-device Speech Recognition for Apple Silicon",
+      "language": "Swift",
+      "stars": "4720",
+      "forks": "411",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Whisky-App",
+      "name": "Whisky",
+      "full_name": "Whisky-App/Whisky",
+      "url": "https://github.com/Whisky-App/Whisky",
+      "description": "A modern Wine wrapper for macOS built with SwiftUI",
+      "language": "Swift",
+      "stars": "14604",
+      "forks": "398",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7571",
+      "forks": "761",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "PlayCover",
+      "name": "PlayCover",
+      "full_name": "PlayCover/PlayCover",
+      "url": "https://github.com/PlayCover/PlayCover",
+      "description": "Community fork of PlayCover",
+      "language": "Swift",
+      "stars": "9631",
+      "forks": "806",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tuist",
+      "name": "tuist",
+      "full_name": "tuist/tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship",
+      "language": "Swift",
+      "stars": "5096",
+      "forks": "627",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "supabase",
+      "name": "supabase-swift",
+      "full_name": "supabase/supabase-swift",
+      "url": "https://github.com/supabase/supabase-swift",
+      "description": "A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",
+      "language": "Swift",
+      "stars": "933",
+      "forks": "150",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27895",
+      "forks": "6042",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "exelban",
+      "name": "stats",
+      "full_name": "exelban/stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
+      "language": "Swift",
+      "stars": "32075",
+      "forks": "1015",
+      "today_stars": "20 stars today"
+    }
+  ]
+}
