@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-24 01:15:08",
+  "repositories": [
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "33416",
+      "forks": "2578",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "13076",
+      "forks": "1208",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "16298",
+      "forks": "756",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "psviderski",
+      "name": "uncloud",
+      "full_name": "psviderski/uncloud",
+      "url": "https://github.com/psviderski/uncloud",
+      "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+      "language": "Go",
+      "stars": "1078",
+      "forks": "26",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31319",
+      "forks": "4829",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "google",
+      "name": "gvisor",
+      "full_name": "google/gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "language": "Go",
+      "stars": "16614",
+      "forks": "1388",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "65077",
+      "forks": "4362",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "29757",
+      "forks": "3349",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "72951",
+      "forks": "4633",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "Musixal",
+      "name": "Backhaul",
+      "full_name": "Musixal/Backhaul",
+      "url": "https://github.com/Musixal/Backhaul",
+      "description": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+      "language": "Go",
+      "stars": "456",
+      "forks": "96",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "domain-list-community",
+      "full_name": "v2fly/domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+      "language": "Go",
+      "stars": "6038",
+      "forks": "1028",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "diagram-as-code",
+      "full_name": "awslabs/diagram-as-code",
+      "url": "https://github.com/awslabs/diagram-as-code",
+      "description": "Diagram-as-code for AWS architecture.",
+      "language": "Go",
+      "stars": "862",
+      "forks": "58",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "Aylur",
+      "name": "ags",
+      "full_name": "Aylur/ags",
+      "url": "https://github.com/Aylur/ags",
+      "description": "Scaffolding CLI for Astal+TypeScript",
+      "language": "Go",
+      "stars": "2642",
+      "forks": "143",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Forceu",
+      "name": "Gokapi",
+      "full_name": "Forceu/Gokapi",
+      "url": "https://github.com/Forceu/Gokapi",
+      "description": "Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
+      "language": "Go",
+      "stars": "1977",
+      "forks": "89",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "16649",
+      "forks": "1827",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24489",
+      "forks": "2911",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "kitops-ml",
+      "name": "kitops",
+      "full_name": "kitops-ml/kitops",
+      "url": "https://github.com/kitops-ml/kitops",
+      "description": "An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.",
+      "language": "Go",
+      "stars": "913",
+      "forks": "101",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "61249",
+      "forks": "2098",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "ginuerzh",
+      "name": "gost",
+      "full_name": "ginuerzh/gost",
+      "url": "https://github.com/ginuerzh/gost",
+      "description": "GO Simple Tunnel - a simple tunnel written in golang",
+      "language": "Go",
+      "stars": "16861",
+      "forks": "2571",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
