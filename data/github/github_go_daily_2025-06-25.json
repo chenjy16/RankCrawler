@@ -1,0 +1,282 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-25 01:15:38",
+  "repositories": [
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45449",
+      "forks": "9905",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "erigontech",
+      "name": "erigon",
+      "full_name": "erigontech/erigon",
+      "url": "https://github.com/erigontech/erigon",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "language": "Go",
+      "stars": "3381",
+      "forks": "1310",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "caarlos0",
+      "name": "env",
+      "full_name": "caarlos0/env",
+      "url": "https://github.com/caarlos0/env",
+      "description": "A simple, zero-dependencies library to parse environment variables into structs",
+      "language": "Go",
+      "stars": "5576",
+      "forks": "264",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "weibaohui",
+      "name": "k8m",
+      "full_name": "weibaohui/k8m",
+      "url": "https://github.com/weibaohui/k8m",
+      "description": "一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
+      "language": "Go",
+      "stars": "520",
+      "forks": "84",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "20350",
+      "forks": "1632",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "82854",
+      "forks": "8243",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "diagram-as-code",
+      "full_name": "awslabs/diagram-as-code",
+      "url": "https://github.com/awslabs/diagram-as-code",
+      "description": "Diagram-as-code for AWS architecture.",
+      "language": "Go",
+      "stars": "908",
+      "forks": "61",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1545",
+      "forks": "166",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5777",
+      "forks": "1177",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "a-h",
+      "name": "templ",
+      "full_name": "a-h/templ",
+      "url": "https://github.com/a-h/templ",
+      "description": "A language for writing HTML user interfaces in Go.",
+      "language": "Go",
+      "stars": "9407",
+      "forks": "315",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "95405",
+      "forks": "14153",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "11870",
+      "forks": "1275",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15702",
+      "forks": "5655",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "k3s-io",
+      "name": "k3s",
+      "full_name": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "language": "Go",
+      "stars": "30017",
+      "forks": "2459",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "full_name": "hashicorp/nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": "15565",
+      "forks": "1992",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "19612",
+      "forks": "1883",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kube-state-metrics",
+      "full_name": "kubernetes/kube-state-metrics",
+      "url": "https://github.com/kubernetes/kube-state-metrics",
+      "description": "Add-on agent to generate and expose cluster-level metrics.",
+      "language": "Go",
+      "stars": "5773",
+      "forks": "2087",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49690",
+      "forks": "10091",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35663",
+      "forks": "5431",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "bnb-chain",
+      "name": "bsc",
+      "full_name": "bnb-chain/bsc",
+      "url": "https://github.com/bnb-chain/bsc",
+      "description": "A BNB Smart Chain client based on the go-ethereum fork",
+      "language": "Go",
+      "stars": "3018",
+      "forks": "1691",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-contrib",
+      "full_name": "open-telemetry/opentelemetry-go-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+      "description": "Collection of extensions for OpenTelemetry-Go.",
+      "language": "Go",
+      "stars": "1444",
+      "forks": "665",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "juicedata",
+      "name": "juicefs",
+      "full_name": "juicedata/juicefs",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "language": "Go",
+      "stars": "11750",
+      "forks": "1047",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "13106",
+      "forks": "1213",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "sirupsen",
+      "name": "logrus",
+      "full_name": "sirupsen/logrus",
+      "url": "https://github.com/sirupsen/logrus",
+      "description": "Structured, pluggable logging for Go.",
+      "language": "Go",
+      "stars": "25323",
+      "forks": "2273",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ray-project",
+      "name": "kuberay",
+      "full_name": "ray-project/kuberay",
+      "url": "https://github.com/ray-project/kuberay",
+      "description": "A toolkit to run Ray applications on Kubernetes",
+      "language": "Go",
+      "stars": "1843",
+      "forks": "548",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
