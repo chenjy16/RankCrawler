@@ -1,0 +1,183 @@
+{
+  "language": "all",
+  "period": "monthly",
+  "fetch_time": "2025-06-26 01:13:36",
+  "repositories": [
+    {
+      "author": "DataExpert-io",
+      "name": "data-engineer-handbook",
+      "full_name": "DataExpert-io/data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "language": "Jupyter Notebook",
+      "stars": "34035",
+      "forks": "6528",
+      "today_stars": "6,121 stars this month"
+    },
+    {
+      "author": "Fosowl",
+      "name": "agenticSeek",
+      "full_name": "Fosowl/agenticSeek",
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)",
+      "language": "Python",
+      "stars": "19434",
+      "forks": "1894",
+      "today_stars": "15,351 stars this month"
+    },
+    {
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "46242",
+      "forks": "5265",
+      "today_stars": "13,785 stars this month"
+    },
+    {
+      "author": "anthropics",
+      "name": "anthropic-cookbook",
+      "full_name": "anthropics/anthropic-cookbook",
+      "url": "https://github.com/anthropics/anthropic-cookbook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": "17041",
+      "forks": "1764",
+      "today_stars": "4,672 stars this month"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "7997",
+      "forks": "480",
+      "today_stars": "3,722 stars this month"
+    },
+    {
+      "author": "anthropics",
+      "name": "courses",
+      "full_name": "anthropics/courses",
+      "url": "https://github.com/anthropics/courses",
+      "description": "Anthropic's educational courses",
+      "language": "Jupyter Notebook",
+      "stars": "15933",
+      "forks": "1376",
+      "today_stars": "4,259 stars this month"
+    },
+    {
+      "author": "menloresearch",
+      "name": "jan",
+      "full_name": "menloresearch/jan",
+      "url": "https://github.com/menloresearch/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+      "language": "TypeScript",
+      "stars": "33414",
+      "forks": "1935",
+      "today_stars": "4,256 stars this month"
+    },
+    {
+      "author": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": "15308",
+      "forks": "854",
+      "today_stars": "5,434 stars this month"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Python",
+      "stars": "9321",
+      "forks": "1124",
+      "today_stars": "3,391 stars this month"
+    },
+    {
+      "author": "sindresorhus",
+      "name": "awesome",
+      "full_name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "language": null,
+      "stars": "373497",
+      "forks": "29903",
+      "today_stars": "11,740 stars this month"
+    },
+    {
+      "author": "datawhalechina",
+      "name": "self-llm",
+      "full_name": "datawhalechina/self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+      "language": "Jupyter Notebook",
+      "stars": "19437",
+      "forks": "1996",
+      "today_stars": "3,867 stars this month"
+    },
+    {
+      "author": "DrKLO",
+      "name": "Telegram",
+      "full_name": "DrKLO/Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "Java",
+      "stars": "26767",
+      "forks": "8589",
+      "today_stars": "639 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "qlib",
+      "full_name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+      "language": "Python",
+      "stars": "25839",
+      "forks": "3957",
+      "today_stars": "4,884 stars this month"
+    },
+    {
+      "author": "donnemartin",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": "308260",
+      "forks": "50842",
+      "today_stars": "7,687 stars this month"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "16427",
+      "forks": "760",
+      "today_stars": "2,749 stars this month"
+    },
+    {
+      "author": "mindsdb",
+      "name": "mindsdb",
+      "full_name": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+      "language": "Python",
+      "stars": "32742",
+      "forks": "5367",
+      "today_stars": "3,257 stars this month"
+    }
+  ]
+}

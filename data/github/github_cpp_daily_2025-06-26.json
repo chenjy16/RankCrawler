@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-06-26 01:15:55",
+  "repositories": [
+    {
+      "author": "shader-slang",
+      "name": "slang",
+      "full_name": "shader-slang/slang",
+      "url": "https://github.com/shader-slang/slang",
+      "description": "Making it easier to work with shaders",
+      "language": "C++",
+      "stars": "4176",
+      "forks": "316",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "MrNeRF",
+      "name": "gaussian-splatting-cuda",
+      "full_name": "MrNeRF/gaussian-splatting-cuda",
+      "url": "https://github.com/MrNeRF/gaussian-splatting-cuda",
+      "description": "3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!",
+      "language": "C++",
+      "stars": "1137",
+      "forks": "100",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "Paddle",
+      "full_name": "PaddlePaddle/Paddle",
+      "url": "https://github.com/PaddlePaddle/Paddle",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "language": "C++",
+      "stars": "22899",
+      "forks": "5755",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ashishps1",
+      "name": "awesome-low-level-design",
+      "full_name": "ashishps1/awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "C++",
+      "stars": "15459",
+      "forks": "3808",
+      "today_stars": "169 stars today"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C-Plus-Plus",
+      "full_name": "TheAlgorithms/C-Plus-Plus",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+      "language": "C++",
+      "stars": "32108",
+      "forks": "7406",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "isl-org",
+      "name": "Open3D",
+      "full_name": "isl-org/Open3D",
+      "url": "https://github.com/isl-org/Open3D",
+      "description": "Open3D: A Modern Library for 3D Data Processing",
+      "language": "C++",
+      "stars": "12467",
+      "forks": "2435",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "isledecomp",
+      "name": "isle-portable",
+      "full_name": "isledecomp/isle-portable",
+      "url": "https://github.com/isledecomp/isle-portable",
+      "description": "A portable version of LEGO Island (1997)",
+      "language": "C++",
+      "stars": "683",
+      "forks": "61",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19520",
+      "forks": "3115",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "18309",
+      "forks": "4061",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "EsotericSoftware",
+      "name": "spine-runtimes",
+      "full_name": "EsotericSoftware/spine-runtimes",
+      "url": "https://github.com/EsotericSoftware/spine-runtimes",
+      "description": "2D skeletal animation runtimes for Spine.",
+      "language": "C++",
+      "stars": "4714",
+      "forks": "2986",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "15591",
+      "forks": "2997",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3465",
+      "forks": "290",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46198",
+      "forks": "7042",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10847",
+      "forks": "1522",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5524",
+      "forks": "1968",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "82773",
+      "forks": "56202",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "openvinotoolkit",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": "8479",
+      "forks": "2634",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14504",
+      "forks": "2443",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "filament",
+      "full_name": "google/filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "stars": "18596",
+      "forks": "1991",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "rapidjson",
+      "full_name": "Tencent/rapidjson",
+      "url": "https://github.com/Tencent/rapidjson",
+      "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "language": "C++",
+      "stars": "14741",
+      "forks": "3600",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Livox-SDK",
+      "name": "livox_ros_driver2",
+      "full_name": "Livox-SDK/livox_ros_driver2",
+      "url": "https://github.com/Livox-SDK/livox_ros_driver2",
+      "description": "Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.",
+      "language": "C++",
+      "stars": "406",
+      "forks": "362",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "MAZHARMIK",
+      "name": "Interview_DS_Algo",
+      "full_name": "MAZHARMIK/Interview_DS_Algo",
+      "url": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+      "description": "Super Repository for Coding Interview Preperation",
+      "language": "C++",
+      "stars": "2497",
+      "forks": "1294",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "airockchip",
+      "name": "rknn-llm",
+      "full_name": "airockchip/rknn-llm",
+      "url": "https://github.com/airockchip/rknn-llm",
+      "description": "",
+      "language": "Python",
+      "stars": "844",
+      "forks": "101",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36243",
+      "forks": "10416",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
