@@ -1,0 +1,271 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-06-27 01:17:11",
+  "repositories": [
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "47784",
+      "forks": "7685",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "garnet",
+      "full_name": "microsoft/garnet",
+      "url": "https://github.com/microsoft/garnet",
+      "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+      "language": "C#",
+      "stars": "11247",
+      "forks": "580",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Lidarr",
+      "name": "Lidarr",
+      "full_name": "Lidarr/Lidarr",
+      "url": "https://github.com/Lidarr/Lidarr",
+      "description": "Looks and smells like Sonarr but made for music.",
+      "language": "C#",
+      "stars": "4213",
+      "forks": "281",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-dotnet",
+      "full_name": "openai/openai-dotnet",
+      "url": "https://github.com/openai/openai-dotnet",
+      "description": "The official .NET library for the OpenAI API",
+      "language": "C#",
+      "stars": "2101",
+      "forks": "276",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "runtime",
+      "full_name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "language": "C#",
+      "stars": "16557",
+      "forks": "5057",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "radzenhq",
+      "name": "radzen-blazor",
+      "full_name": "radzenhq/radzen-blazor",
+      "url": "https://github.com/radzenhq/radzen-blazor",
+      "description": "Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",
+      "language": "C#",
+      "stars": "3980",
+      "forks": "892",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Unity-Technologies",
+      "name": "ml-agents",
+      "full_name": "Unity-Technologies/ml-agents",
+      "url": "https://github.com/Unity-Technologies/ml-agents",
+      "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+      "language": "C#",
+      "stars": "18314",
+      "forks": "4298",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "2dust",
+      "name": "v2rayN",
+      "full_name": "2dust/v2rayN",
+      "url": "https://github.com/2dust/v2rayN",
+      "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+      "language": "C#",
+      "stars": "82038",
+      "forks": "12835",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "ErsatzTV",
+      "name": "ErsatzTV",
+      "full_name": "ErsatzTV/ErsatzTV",
+      "url": "https://github.com/ErsatzTV/ErsatzTV",
+      "description": "Stream custom live channels using your own media",
+      "language": "C#",
+      "stars": "1689",
+      "forks": "68",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36801",
+      "forks": "10377",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5809",
+      "forks": "4988",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14195",
+      "forks": "3273",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "MudBlazor",
+      "name": "MudBlazor",
+      "full_name": "MudBlazor/MudBlazor",
+      "url": "https://github.com/MudBlazor/MudBlazor",
+      "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+      "language": "C#",
+      "stars": "9225",
+      "forks": "1463",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "27994",
+      "forks": "2418",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "space-wizards",
+      "name": "space-station-14",
+      "full_name": "space-wizards/space-station-14",
+      "url": "https://github.com/space-wizards/space-station-14",
+      "description": "A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.",
+      "language": "C#",
+      "stars": "3136",
+      "forks": "4389",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dotnet",
+      "name": "msbuild",
+      "full_name": "dotnet/msbuild",
+      "url": "https://github.com/dotnet/msbuild",
+      "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+      "language": "C#",
+      "stars": "5403",
+      "forks": "1384",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "umbraco",
+      "name": "Umbraco-CMS",
+      "full_name": "umbraco/Umbraco-CMS",
+      "url": "https://github.com/umbraco/Umbraco-CMS",
+      "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+      "language": "C#",
+      "stars": "4876",
+      "forks": "2784",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "sbom-tool",
+      "full_name": "microsoft/sbom-tool",
+      "url": "https://github.com/microsoft/sbom-tool",
+      "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+      "language": "C#",
+      "stars": "1826",
+      "forks": "168",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "scriban",
+      "name": "scriban",
+      "full_name": "scriban/scriban",
+      "url": "https://github.com/scriban/scriban",
+      "description": "A fast, powerful, safe and lightweight scripting language and engine for .NET",
+      "language": "C#",
+      "stars": "3524",
+      "forks": "376",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mRemoteNG",
+      "name": "mRemoteNG",
+      "full_name": "mRemoteNG/mRemoteNG",
+      "url": "https://github.com/mRemoteNG/mRemoteNG",
+      "description": "mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.",
+      "language": "C#",
+      "stars": "9828",
+      "forks": "1470",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "maui",
+      "full_name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": "22759",
+      "forks": "1848",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ant-design-blazor",
+      "name": "ant-design-blazor",
+      "full_name": "ant-design-blazor/ant-design-blazor",
+      "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+      "description": "🌈A rich set of enterprise-class UI components based on Ant Design and Blazor.",
+      "language": "C#",
+      "stars": "6053",
+      "forks": "1138",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "UglyToad",
+      "name": "PdfPig",
+      "full_name": "UglyToad/PdfPig",
+      "url": "https://github.com/UglyToad/PdfPig",
+      "description": "Read and extract text and other content from PDFs in C# (port of PDFBox)",
+      "language": "C#",
+      "stars": "2066",
+      "forks": "263",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "RMC-14",
+      "name": "RMC-14",
+      "full_name": "RMC-14/RMC-14",
+      "url": "https://github.com/RMC-14/RMC-14",
+      "description": "RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.",
+      "language": "C#",
+      "stars": "163",
+      "forks": "472",
+      "today_stars": "1 star today"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-06-27 01:16:00",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "edit",
+      "full_name": "microsoft/edit",
+      "url": "https://github.com/microsoft/edit",
+      "description": "We all edit.",
+      "language": "Rust",
+      "stars": "10717",
+      "forks": "464",
+      "today_stars": "2,073 stars this week"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "43276",
+      "forks": "1155",
+      "today_stars": "1,112 stars this week"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "28909",
+      "forks": "1183",
+      "today_stars": "805 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29530",
+      "forks": "1007",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "61904",
+      "forks": "4582",
+      "today_stars": "384 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "91560",
+      "forks": "13246",
+      "today_stars": "602 stars this week"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "24760",
+      "forks": "666",
+      "today_stars": "256 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "68918",
+      "forks": "3368",
+      "today_stars": "1,392 stars this week"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15398",
+      "forks": "617",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "16311",
+      "forks": "647",
+      "today_stars": "1,328 stars this week"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "quickwit",
+      "full_name": "quickwit-oss/quickwit",
+      "url": "https://github.com/quickwit-oss/quickwit",
+      "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+      "language": "Rust",
+      "stars": "10147",
+      "forks": "464",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "93916",
+      "forks": "2912",
+      "today_stars": "273 stars this week"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19716",
+      "forks": "623",
+      "today_stars": "230 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28353",
+      "forks": "1964",
+      "today_stars": "123 stars this week"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "780",
+      "forks": "331",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7149",
+      "forks": "11539",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "rivet-gg",
+      "name": "rivet",
+      "full_name": "rivet-gg/rivet",
+      "url": "https://github.com/rivet-gg/rivet",
+      "description": "🔩 The open-source serverless platform. Easily deploy & scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.",
+      "language": "Rust",
+      "stars": "4103",
+      "forks": "104",
+      "today_stars": "169 stars this week"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "9104",
+      "forks": "235",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "26148",
+      "forks": "553",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "apache",
+      "name": "iggy",
+      "full_name": "apache/iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "stars": "2653",
+      "forks": "152",
+      "today_stars": "64 stars this week"
+    }
+  ]
+}

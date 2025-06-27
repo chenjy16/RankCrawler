@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-06-27 01:15:47",
+  "repositories": [
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "16474",
+      "forks": "763",
+      "today_stars": "2,766 stars this month"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29585",
+      "forks": "4380",
+      "today_stars": "997 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "73050",
+      "forks": "4641",
+      "today_stars": "2,645 stars this month"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "6314",
+      "forks": "523",
+      "today_stars": "4,815 stars this month"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18429",
+      "forks": "8338",
+      "today_stars": "375 stars this month"
+    },
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "9361",
+      "forks": "343",
+      "today_stars": "1,477 stars this month"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1593",
+      "forks": "176",
+      "today_stars": "516 stars this month"
+    },
+    {
+      "author": "cloudreve",
+      "name": "cloudreve",
+      "full_name": "cloudreve/cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23823",
+      "forks": "3606",
+      "today_stars": "780 stars this month"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "39557",
+      "forks": "6682",
+      "today_stars": "428 stars this month"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "9143",
+      "forks": "1256",
+      "today_stars": "408 stars this month"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "13133",
+      "forks": "1219",
+      "today_stars": "462 stars this month"
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "25847",
+      "forks": "3704",
+      "today_stars": "366 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "gum",
+      "full_name": "charmbracelet/gum",
+      "url": "https://github.com/charmbracelet/gum",
+      "description": "A tool for glamorous shell scripts 🎀",
+      "language": "Go",
+      "stars": "20126",
+      "forks": "400",
+      "today_stars": "410 stars this month"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32665",
+      "forks": "4386",
+      "today_stars": "249 stars this month"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "19638",
+      "forks": "1885",
+      "today_stars": "461 stars this month"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3118",
+      "forks": "692",
+      "today_stars": "70 stars this month"
+    },
+    {
+      "author": "ankitpokhrel",
+      "name": "jira-cli",
+      "full_name": "ankitpokhrel/jira-cli",
+      "url": "https://github.com/ankitpokhrel/jira-cli",
+      "description": "🔥 Feature-rich interactive Jira command line.",
+      "language": "Go",
+      "stars": "4478",
+      "forks": "255",
+      "today_stars": "96 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "20826",
+      "forks": "1649",
+      "today_stars": "773 stars this month"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24556",
+      "forks": "2916",
+      "today_stars": "688 stars this month"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "115973",
+      "forks": "40834",
+      "today_stars": "774 stars this month"
+    },
+    {
+      "author": "seaweedfs",
+      "name": "seaweedfs",
+      "full_name": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+      "language": "Go",
+      "stars": "24932",
+      "forks": "2426",
+      "today_stars": "542 stars this month"
+    },
+    {
+      "author": "ltaoo",
+      "name": "wx_channels_download",
+      "full_name": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "language": "Go",
+      "stars": "2271",
+      "forks": "334",
+      "today_stars": "371 stars this month"
+    }
+  ]
+}

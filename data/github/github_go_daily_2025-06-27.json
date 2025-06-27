@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-27 01:15:34",
+  "repositories": [
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "20826",
+      "forks": "1649",
+      "today_stars": "300 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1709",
+      "forks": "120",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "opentofu",
+      "name": "opentofu",
+      "full_name": "opentofu/opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+      "language": "Go",
+      "stars": "25813",
+      "forks": "1036",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "24820",
+      "forks": "1654",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18429",
+      "forks": "8338",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "kitops-ml",
+      "name": "kitops",
+      "full_name": "kitops-ml/kitops",
+      "url": "https://github.com/kitops-ml/kitops",
+      "description": "An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.",
+      "language": "Go",
+      "stars": "985",
+      "forks": "110",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-workflows",
+      "full_name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "stars": "15763",
+      "forks": "3325",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32665",
+      "forks": "4386",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "95494",
+      "forks": "14156",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-contrib",
+      "full_name": "open-telemetry/opentelemetry-go-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-contrib",
+      "description": "Collection of extensions for OpenTelemetry-Go.",
+      "language": "Go",
+      "stars": "1447",
+      "forks": "668",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "zap",
+      "full_name": "uber-go/zap",
+      "url": "https://github.com/uber-go/zap",
+      "description": "Blazing fast, structured, leveled logging in Go.",
+      "language": "Go",
+      "stars": "23259",
+      "forks": "1479",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10058",
+      "forks": "647",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21963",
+      "forks": "4518",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-azurerm",
+      "full_name": "hashicorp/terraform-provider-azurerm",
+      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": "4770",
+      "forks": "4808",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "juicedata",
+      "name": "juicefs",
+      "full_name": "juicedata/juicefs",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "language": "Go",
+      "stars": "11769",
+      "forks": "1047",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10376",
+      "forks": "9549",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "full_name": "thanos-io/thanos",
+      "url": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+      "language": "Go",
+      "stars": "13584",
+      "forks": "2175",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "81784",
+      "forks": "7912",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "3882",
+      "forks": "648",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nxtrace",
+      "name": "NTrace-core",
+      "full_name": "nxtrace/NTrace-core",
+      "url": "https://github.com/nxtrace/NTrace-core",
+      "description": "NextTrace, an open source visual route tracking CLI tool",
+      "language": "Go",
+      "stars": "6759",
+      "forks": "392",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5132",
+      "forks": "985",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24319",
+      "forks": "3057",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "full_name": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": "21509",
+      "forks": "2597",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
