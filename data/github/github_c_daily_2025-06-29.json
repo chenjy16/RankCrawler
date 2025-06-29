@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-06-29 01:23:50",
+  "repositories": [
+    {
+      "author": "gentilkiwi",
+      "name": "mimikatz",
+      "full_name": "gentilkiwi/mimikatz",
+      "url": "https://github.com/gentilkiwi/mimikatz",
+      "description": "A little tool to play with Windows security",
+      "language": "C",
+      "stars": "20376",
+      "forks": "3912",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "rxi",
+      "name": "microui",
+      "full_name": "rxi/microui",
+      "url": "https://github.com/rxi/microui",
+      "description": "A tiny immediate-mode UI library",
+      "language": "C",
+      "stars": "4485",
+      "forks": "286",
+      "today_stars": "113 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12384",
+      "forks": "7565",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13219",
+      "forks": "783",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3382",
+      "forks": "1433",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "civetweb",
+      "name": "civetweb",
+      "full_name": "civetweb/civetweb",
+      "url": "https://github.com/civetweb/civetweb",
+      "description": "Embedded C/C++ web server",
+      "language": "C",
+      "stars": "3104",
+      "forks": "989",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10701",
+      "forks": "2936",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4585",
+      "forks": "1335",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-examples",
+      "full_name": "raspberrypi/pico-examples",
+      "url": "https://github.com/raspberrypi/pico-examples",
+      "description": "",
+      "language": "C",
+      "stars": "3364",
+      "forks": "924",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3012",
+      "forks": "450",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11793",
+      "forks": "5186",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Safe3",
+      "name": "uuWAF",
+      "full_name": "Safe3/uuWAF",
+      "url": "https://github.com/Safe3/uuWAF",
+      "description": "An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.",
+      "language": "C",
+      "stars": "1272",
+      "forks": "141",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7376",
+      "forks": "4990",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39194",
+      "forks": "7898",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "196571",
+      "forks": "56727",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "OpenVPN",
+      "name": "openvpn",
+      "full_name": "OpenVPN/openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "stars": "12017",
+      "forks": "3119",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "74915",
+      "forks": "6077",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "pjsip",
+      "name": "pjproject",
+      "full_name": "pjsip/pjproject",
+      "url": "https://github.com/pjsip/pjproject",
+      "description": "PJSIP project",
+      "language": "C",
+      "stars": "2331",
+      "forks": "868",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13731",
+      "forks": "4248",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24054",
+      "forks": "4927",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "c3lang",
+      "name": "c3c",
+      "full_name": "c3lang/c3c",
+      "url": "https://github.com/c3lang/c3c",
+      "description": "Compiler for the C3 language",
+      "language": "C",
+      "stars": "4194",
+      "forks": "279",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-06-29 01:23:18",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "edit",
+      "full_name": "microsoft/edit",
+      "url": "https://github.com/microsoft/edit",
+      "description": "We all edit.",
+      "language": "Rust",
+      "stars": "10968",
+      "forks": "475",
+      "today_stars": "2,319 stars this week"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "43411",
+      "forks": "1158",
+      "today_stars": "1,113 stars this week"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "29088",
+      "forks": "1191",
+      "today_stars": "1,012 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "69418",
+      "forks": "3386",
+      "today_stars": "1,497 stars this week"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": "13791",
+      "forks": "641",
+      "today_stars": "496 stars this week"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "19760",
+      "forks": "627",
+      "today_stars": "206 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12223",
+      "forks": "1703",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "biliticket",
+      "name": "bili_ticket_rush",
+      "full_name": "biliticket/bili_ticket_rush",
+      "url": "https://github.com/biliticket/bili_ticket_rush",
+      "description": "自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 |超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。",
+      "language": "Rust",
+      "stars": "453",
+      "forks": "43",
+      "today_stars": "109 stars this week"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "quickwit",
+      "full_name": "quickwit-oss/quickwit",
+      "url": "https://github.com/quickwit-oss/quickwit",
+      "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+      "language": "Rust",
+      "stars": "10161",
+      "forks": "464",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "rerun-io",
+      "name": "rerun",
+      "full_name": "rerun-io/rerun",
+      "url": "https://github.com/rerun-io/rerun",
+      "description": "Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.",
+      "language": "Rust",
+      "stars": "8725",
+      "forks": "478",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "91669",
+      "forks": "13266",
+      "today_stars": "576 stars this week"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "809",
+      "forks": "356",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15411",
+      "forks": "618",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "aome510",
+      "name": "spotify-player",
+      "full_name": "aome510/spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
+      "language": "Rust",
+      "stars": "4829",
+      "forks": "221",
+      "today_stars": "146 stars this week"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "24785",
+      "forks": "666",
+      "today_stars": "246 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "16352",
+      "forks": "647",
+      "today_stars": "400 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29542",
+      "forks": "1007",
+      "today_stars": "115 stars this week"
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "full_name": "PyO3/pyo3",
+      "url": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": "13911",
+      "forks": "852",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "witnessmenow",
+      "name": "ESP32-Cheap-Yellow-Display",
+      "full_name": "witnessmenow/ESP32-Cheap-Yellow-Display",
+      "url": "https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display",
+      "description": "Building a community around a cheap ESP32 Display with a touch screen",
+      "language": "Rust",
+      "stars": "2739",
+      "forks": "278",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "rust-unofficial",
+      "name": "awesome-rust",
+      "full_name": "rust-unofficial/awesome-rust",
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "stars": "51174",
+      "forks": "2952",
+      "today_stars": "172 stars this week"
+    },
+    {
+      "author": "redlib-org",
+      "name": "redlib",
+      "full_name": "redlib-org/redlib",
+      "url": "https://github.com/redlib-org/redlib",
+      "description": "Private front-end for Reddit",
+      "language": "Rust",
+      "stars": "2148",
+      "forks": "144",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16568",
+      "forks": "1446",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "quickwit-oss",
+      "name": "tantivy",
+      "full_name": "quickwit-oss/tantivy",
+      "url": "https://github.com/quickwit-oss/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+      "language": "Rust",
+      "stars": "13361",
+      "forks": "767",
+      "today_stars": "73 stars this week"
+    }
+  ]
+}

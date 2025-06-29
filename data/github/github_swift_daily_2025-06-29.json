@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-06-29 01:25:27",
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "swift-protobuf",
+      "full_name": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "stars": "4697",
+      "forks": "478",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "skiptools",
+      "name": "skip",
+      "full_name": "skiptools/skip",
+      "url": "https://github.com/skiptools/skip",
+      "description": "Skip enables the creation of native SwiftUI apps for iOS and Android",
+      "language": "Swift",
+      "stars": "1896",
+      "forks": "56",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "onevcat",
+      "name": "Kingfisher",
+      "full_name": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "stars": "23900",
+      "forks": "2708",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13419",
+      "forks": "1545",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wojciech-kulik",
+      "name": "FlashSpace",
+      "full_name": "wojciech-kulik/FlashSpace",
+      "url": "https://github.com/wojciech-kulik/FlashSpace",
+      "description": "FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡",
+      "language": "Swift",
+      "stars": "1987",
+      "forks": "39",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1865",
+      "forks": "154",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3453",
+      "forks": "440",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "peripheryapp",
+      "name": "periphery",
+      "full_name": "peripheryapp/periphery",
+      "url": "https://github.com/peripheryapp/periphery",
+      "description": "A tool to identify unused code in Swift projects.",
+      "language": "Swift",
+      "stars": "5753",
+      "forks": "202",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "MonitorControl",
+      "name": "MonitorControl",
+      "full_name": "MonitorControl/MonitorControl",
+      "url": "https://github.com/MonitorControl/MonitorControl",
+      "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+      "language": "Swift",
+      "stars": "30250",
+      "forks": "862",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "kean",
+      "name": "Nuke",
+      "full_name": "kean/Nuke",
+      "url": "https://github.com/kean/Nuke",
+      "description": "Image loading system",
+      "language": "Swift",
+      "stars": "8374",
+      "forks": "545",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-nio",
+      "full_name": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "stars": "8182",
+      "forks": "683",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "3957",
+      "forks": "626",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Beingpax",
+      "name": "VoiceInk",
+      "full_name": "Beingpax/VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "language": "Swift",
+      "stars": "947",
+      "forks": "106",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "signalapp",
+      "name": "Signal-iOS",
+      "full_name": "signalapp/Signal-iOS",
+      "url": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "Swift",
+      "stars": "11395",
+      "forks": "3210",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25340",
+      "forks": "1491",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3951",
+      "forks": "751",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-java",
+      "full_name": "swiftlang/swift-java",
+      "url": "https://github.com/swiftlang/swift-java",
+      "description": "Java interopability support for Swift",
+      "language": "Swift",
+      "stars": "984",
+      "forks": "45",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ReactiveX",
+      "name": "RxSwift",
+      "full_name": "ReactiveX/RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "description": "Reactive Programming in Swift",
+      "language": "Swift",
+      "stars": "24598",
+      "forks": "4191",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "argmaxinc",
+      "name": "WhisperKit",
+      "full_name": "argmaxinc/WhisperKit",
+      "url": "https://github.com/argmaxinc/WhisperKit",
+      "description": "On-device Speech Recognition for Apple Silicon",
+      "language": "Swift",
+      "stars": "4762",
+      "forks": "415",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "github",
+      "name": "CopilotForXcode",
+      "full_name": "github/CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "description": "Xcode extension for GitHub Copilot",
+      "language": "Swift",
+      "stars": "4303",
+      "forks": "799",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-sdk-ios",
+      "full_name": "DataDog/dd-sdk-ios",
+      "url": "https://github.com/DataDog/dd-sdk-ios",
+      "description": "Datadog SDK for iOS - Swift and Objective-C.",
+      "language": "Swift",
+      "stars": "242",
+      "forks": "145",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-algorithms",
+      "full_name": "apple/swift-algorithms",
+      "url": "https://github.com/apple/swift-algorithms",
+      "description": "Commonly used sequence and collection algorithms for Swift",
+      "language": "Swift",
+      "stars": "6185",
+      "forks": "449",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vsouza",
+      "name": "awesome-ios",
+      "full_name": "vsouza/awesome-ios",
+      "url": "https://github.com/vsouza/awesome-ios",
+      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+      "language": "Swift",
+      "stars": "49231",
+      "forks": "6911",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

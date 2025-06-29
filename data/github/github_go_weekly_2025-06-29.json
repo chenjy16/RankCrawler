@@ -1,0 +1,194 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-06-29 01:22:59",
+  "repositories": [
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21225",
+      "forks": "1661",
+      "today_stars": "936 stars this week"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "29974",
+      "forks": "3360",
+      "today_stars": "286 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1627",
+      "forks": "181",
+      "today_stars": "160 stars this week"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "49277",
+      "forks": "5879",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3123",
+      "forks": "692",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "9417",
+      "forks": "344",
+      "today_stars": "443 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "32680",
+      "forks": "928",
+      "today_stars": "264 stars this week"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23713",
+      "forks": "3555",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "Musixal",
+      "name": "Backhaul",
+      "full_name": "Musixal/Backhaul",
+      "url": "https://github.com/Musixal/Backhaul",
+      "description": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+      "language": "Go",
+      "stars": "516",
+      "forks": "105",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18866",
+      "forks": "3602",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10142",
+      "forks": "649",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45478",
+      "forks": "9911",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "v2ray",
+      "name": "v2ray-core",
+      "full_name": "v2ray/v2ray-core",
+      "url": "https://github.com/v2ray/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "46142",
+      "forks": "8916",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "kitops-ml",
+      "name": "kitops",
+      "full_name": "kitops-ml/kitops",
+      "url": "https://github.com/kitops-ml/kitops",
+      "description": "An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.",
+      "language": "Go",
+      "stars": "1001",
+      "forks": "110",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10383",
+      "forks": "9552",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "95569",
+      "forks": "14161",
+      "today_stars": "310 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5782",
+      "forks": "1180",
+      "today_stars": "14 stars this week"
+    }
+  ]
+}

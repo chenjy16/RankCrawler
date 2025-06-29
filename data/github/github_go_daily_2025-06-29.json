@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-06-29 01:22:52",
+  "repositories": [
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5397",
+      "forks": "1260",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "gtsteffaniak",
+      "name": "filebrowser",
+      "full_name": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "2377",
+      "forks": "67",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1794",
+      "forks": "123",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23365",
+      "forks": "1875",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21225",
+      "forks": "1661",
+      "today_stars": "190 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "full_name": "kubernetes-sigs/kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": "11524",
+      "forks": "2314",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "11005",
+      "forks": "754",
+      "today_stars": "208 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "69992",
+      "forks": "18780",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "JanDeDobbeleer",
+      "name": "oh-my-posh",
+      "full_name": "JanDeDobbeleer/oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "language": "Go",
+      "stars": "19418",
+      "forks": "2542",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "29974",
+      "forks": "3360",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "lima-vm",
+      "name": "lima",
+      "full_name": "lima-vm/lima",
+      "url": "https://github.com/lima-vm/lima",
+      "description": "Linux virtual machines, with a focus on running containers",
+      "language": "Go",
+      "stars": "17582",
+      "forks": "673",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12041",
+      "forks": "917",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3123",
+      "forks": "692",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10142",
+      "forks": "649",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "32680",
+      "forks": "928",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "KAI-Scheduler",
+      "full_name": "NVIDIA/KAI-Scheduler",
+      "url": "https://github.com/NVIDIA/KAI-Scheduler",
+      "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+      "language": "Go",
+      "stars": "677",
+      "forks": "71",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "21966",
+      "forks": "4519",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3666",
+      "forks": "2842",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "11887",
+      "forks": "1277",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "53402",
+      "forks": "5977",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "k3s-io",
+      "name": "k3s",
+      "full_name": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "language": "Go",
+      "stars": "30068",
+      "forks": "2463",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "14915",
+      "forks": "1822",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "joho",
+      "name": "godotenv",
+      "full_name": "joho/godotenv",
+      "url": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+      "language": "Go",
+      "stars": "9415",
+      "forks": "428",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
