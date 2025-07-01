@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-07-01 01:23:00",
+  "repositories": [
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21278",
+      "forks": "1663",
+      "today_stars": "978 stars this week"
+    },
+    {
+      "author": "aldinokemal",
+      "name": "go-whatsapp-web-multidevice",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP",
+      "language": "Go",
+      "stars": "1192",
+      "forks": "425",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "30019",
+      "forks": "3361",
+      "today_stars": "280 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "1805",
+      "forks": "127",
+      "today_stars": "230 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "32737",
+      "forks": "929",
+      "today_stars": "278 stars this week"
+    },
+    {
+      "author": "juicedata",
+      "name": "juicefs",
+      "full_name": "juicedata/juicefs",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "language": "Go",
+      "stars": "11805",
+      "forks": "1049",
+      "today_stars": "71 stars this week"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "11514",
+      "forks": "764",
+      "today_stars": "899 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10165",
+      "forks": "650",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "25728",
+      "forks": "976",
+      "today_stars": "336 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "40974",
+      "forks": "2957",
+      "today_stars": "130 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "146458",
+      "forks": "12379",
+      "today_stars": "502 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24635",
+      "forks": "2929",
+      "today_stars": "166 stars this week"
+    },
+    {
+      "author": "bnb-chain",
+      "name": "bsc",
+      "full_name": "bnb-chain/bsc",
+      "url": "https://github.com/bnb-chain/bsc",
+      "description": "A BNB Smart Chain client based on the go-ethereum fork",
+      "language": "Go",
+      "stars": "3021",
+      "forks": "1697",
+      "today_stars": "9 stars this week"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5430",
+      "forks": "1261",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "gateway-api",
+      "full_name": "kubernetes-sigs/gateway-api",
+      "url": "https://github.com/kubernetes-sigs/gateway-api",
+      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "language": "Go",
+      "stars": "2151",
+      "forks": "554",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1652",
+      "forks": "183",
+      "today_stars": "153 stars this week"
+    },
+    {
+      "author": "Musixal",
+      "name": "Backhaul",
+      "full_name": "Musixal/Backhaul",
+      "url": "https://github.com/Musixal/Backhaul",
+      "description": "Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.",
+      "language": "Go",
+      "stars": "535",
+      "forks": "108",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "psviderski",
+      "name": "uncloud",
+      "full_name": "psviderski/uncloud",
+      "url": "https://github.com/psviderski/uncloud",
+      "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+      "language": "Go",
+      "stars": "1548",
+      "forks": "36",
+      "today_stars": "427 stars this week"
+    },
+    {
+      "author": "awslabs",
+      "name": "diagram-as-code",
+      "full_name": "awslabs/diagram-as-code",
+      "url": "https://github.com/awslabs/diagram-as-code",
+      "description": "Diagram-as-code for AWS architecture.",
+      "language": "Go",
+      "stars": "973",
+      "forks": "62",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23720",
+      "forks": "3555",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45487",
+      "forks": "9912",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10388",
+      "forks": "9552",
+      "today_stars": "18 stars this week"
+    }
+  ]
+}
