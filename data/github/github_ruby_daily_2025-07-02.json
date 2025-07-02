@@ -1,0 +1,238 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-07-02 01:17:36",
+  "repositories": [
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5117",
+      "forks": "1140",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50274",
+      "forks": "10131",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11344",
+      "forks": "2645",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "maybe-finance",
+      "name": "maybe",
+      "full_name": "maybe-finance/maybe",
+      "url": "https://github.com/maybe-finance/maybe",
+      "description": "The personal finance app for everyone",
+      "language": "Ruby",
+      "stars": "44821",
+      "forks": "3297",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44418",
+      "forks": "8565",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "yjacquin",
+      "name": "fast-mcp",
+      "full_name": "yjacquin/fast-mcp",
+      "url": "https://github.com/yjacquin/fast-mcp",
+      "description": "A Ruby Implementation of the Model Context Protocol",
+      "language": "Ruby",
+      "stars": "814",
+      "forks": "55",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "35832",
+      "forks": "14382",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2488",
+      "forks": "172",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4925",
+      "forks": "835",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "CMSgov",
+      "name": "price-transparency-guide",
+      "full_name": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "stars": "399",
+      "forks": "118",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15652",
+      "forks": "1136",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40310",
+      "forks": "5898",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "276",
+      "forks": "39",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22722",
+      "forks": "5434",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14715",
+      "forks": "5102",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26756",
+      "forks": "4441",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "46596",
+      "forks": "4022",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "362",
+      "forks": "394",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1033",
+      "forks": "222",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14434",
+      "forks": "12890",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "MizzyPD",
+      "name": "Pokemon-Daybreak",
+      "full_name": "MizzyPD/Pokemon-Daybreak",
+      "url": "https://github.com/MizzyPD/Pokemon-Daybreak",
+      "description": "",
+      "language": "Ruby",
+      "stars": "111",
+      "forks": "194",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

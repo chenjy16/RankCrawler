@@ -1,0 +1,216 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-02 01:16:19",
+  "repositories": [
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13261",
+      "forks": "786",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69837",
+      "forks": "24104",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5937",
+      "forks": "872",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32038",
+      "forks": "1641",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20028",
+      "forks": "3690",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3790",
+      "forks": "1324",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "henrypp",
+      "name": "simplewall",
+      "full_name": "henrypp/simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "language": "C",
+      "stars": "7125",
+      "forks": "555",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24063",
+      "forks": "4929",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nmap",
+      "name": "nmap",
+      "full_name": "nmap/nmap",
+      "url": "https://github.com/nmap/nmap",
+      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+      "language": "C",
+      "stars": "11304",
+      "forks": "2563",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31131",
+      "forks": "3053",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "7209",
+      "forks": "529",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "mattn",
+      "name": "go-sqlite3",
+      "full_name": "mattn/go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "description": "sqlite3 driver for go using database/sql",
+      "language": "C",
+      "stars": "8550",
+      "forks": "1134",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4590",
+      "forks": "1337",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15686",
+      "forks": "7736",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "aleksey-hoffman",
+      "name": "sigma-file-manager",
+      "full_name": "aleksey-hoffman/sigma-file-manager",
+      "url": "https://github.com/aleksey-hoffman/sigma-file-manager",
+      "description": "\"Sigma File Manager\" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.",
+      "language": "C",
+      "stars": "4869",
+      "forks": "179",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7387",
+      "forks": "4994",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "196760",
+      "forks": "56769",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "22120",
+      "forks": "931",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8335",
+      "forks": "3030",
+      "today_stars": "1 star today"
+    }
+  ]
+}
