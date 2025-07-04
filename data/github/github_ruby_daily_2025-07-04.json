@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-07-04 01:16:57",
+  "repositories": [
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "24275",
+      "forks": "4782",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "freeCodeCamp",
+      "name": "devdocs",
+      "full_name": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "stars": "36499",
+      "forks": "2436",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48525",
+      "forks": "7208",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44440",
+      "forks": "8566",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24197",
+      "forks": "5532",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57030",
+      "forks": "21858",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11357",
+      "forks": "2647",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "puma",
+      "name": "puma",
+      "full_name": "puma/puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "stars": "7765",
+      "forks": "1466",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40314",
+      "forks": "5900",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2498",
+      "forks": "178",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "lostisland",
+      "name": "faraday",
+      "full_name": "lostisland/faraday",
+      "url": "https://github.com/lostisland/faraday",
+      "description": "Simple, but flexible HTTP client library, with support for multiple backends.",
+      "language": "Ruby",
+      "stars": "5831",
+      "forks": "995",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44118",
+      "forks": "10312",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5119",
+      "forks": "1141",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "faker-ruby",
+      "name": "faker",
+      "full_name": "faker-ruby/faker",
+      "url": "https://github.com/faker-ruby/faker",
+      "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+      "language": "Ruby",
+      "stars": "11370",
+      "forks": "3177",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "openstreetmap",
+      "name": "openstreetmap-website",
+      "full_name": "openstreetmap/openstreetmap-website",
+      "url": "https://github.com/openstreetmap/openstreetmap-website",
+      "description": "The Rails application that powers OpenStreetMap",
+      "language": "Ruby",
+      "stars": "2423",
+      "forks": "978",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "363",
+      "forks": "394",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22723",
+      "forks": "5433",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3779",
+      "forks": "1817",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ytti",
+      "name": "oxidized",
+      "full_name": "ytti/oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "stars": "3019",
+      "forks": "978",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1033",
+      "forks": "222",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "asciidoctor",
+      "name": "asciidoctor",
+      "full_name": "asciidoctor/asciidoctor",
+      "url": "https://github.com/asciidoctor/asciidoctor",
+      "description": "💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",
+      "language": "Ruby",
+      "stars": "5001",
+      "forks": "814",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4928",
+      "forks": "835",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "instructure",
+      "name": "canvas-lms",
+      "full_name": "instructure/canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "stars": "6070",
+      "forks": "2706",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
