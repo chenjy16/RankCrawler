@@ -1,0 +1,260 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-07-05 01:13:56",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "PowerToys",
+      "full_name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Windows system utilities to maximize productivity",
+      "language": "C#",
+      "stars": "120518",
+      "forks": "7145",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "wpf",
+      "full_name": "dotnet/wpf",
+      "url": "https://github.com/dotnet/wpf",
+      "description": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+      "language": "C#",
+      "stars": "7376",
+      "forks": "1218",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "msbuild",
+      "full_name": "dotnet/msbuild",
+      "url": "https://github.com/dotnet/msbuild",
+      "description": "The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.",
+      "language": "C#",
+      "stars": "5410",
+      "forks": "1386",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "peass-ng",
+      "name": "PEASS-ng",
+      "full_name": "peass-ng/PEASS-ng",
+      "url": "https://github.com/peass-ng/PEASS-ng",
+      "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+      "language": "C#",
+      "stars": "17834",
+      "forks": "3252",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mob-sakai",
+      "name": "ParticleEffectForUGUI",
+      "full_name": "mob-sakai/ParticleEffectForUGUI",
+      "url": "https://github.com/mob-sakai/ParticleEffectForUGUI",
+      "description": "Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.",
+      "language": "C#",
+      "stars": "4994",
+      "forks": "680",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "csharp-sdk",
+      "full_name": "modelcontextprotocol/csharp-sdk",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+      "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
+      "language": "C#",
+      "stars": "2710",
+      "forks": "405",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4629",
+      "forks": "649",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "egametang",
+      "name": "ET",
+      "full_name": "egametang/ET",
+      "url": "https://github.com/egametang/ET",
+      "description": "Unity3D Client And C# Server Framework",
+      "language": "C#",
+      "stars": "9357",
+      "forks": "3164",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-net",
+      "full_name": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+      "language": "C#",
+      "stars": "5810",
+      "forks": "4990",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "umbraco",
+      "name": "Umbraco-CMS",
+      "full_name": "umbraco/Umbraco-CMS",
+      "url": "https://github.com/umbraco/Umbraco-CMS",
+      "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+      "language": "C#",
+      "stars": "4884",
+      "forks": "2787",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "36835",
+      "forks": "10383",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "riok",
+      "name": "mapperly",
+      "full_name": "riok/mapperly",
+      "url": "https://github.com/riok/mapperly",
+      "description": "A .NET source generator for generating object mappings. No runtime reflection.",
+      "language": "C#",
+      "stars": "3447",
+      "forks": "178",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "runtime",
+      "full_name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "language": "C#",
+      "stars": "16590",
+      "forks": "5069",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19659",
+      "forks": "4148",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "AdaptiveCards",
+      "full_name": "microsoft/AdaptiveCards",
+      "url": "https://github.com/microsoft/AdaptiveCards",
+      "description": "A new way for developers to exchange card content in a common and consistent way.",
+      "language": "C#",
+      "stars": "1851",
+      "forks": "578",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14201",
+      "forks": "3279",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dotnet",
+      "name": "dotnet",
+      "full_name": "dotnet/dotnet",
+      "url": "https://github.com/dotnet/dotnet",
+      "description": "Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.",
+      "language": "C#",
+      "stars": "652",
+      "forks": "178",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "aras-p",
+      "name": "UnityGaussianSplatting",
+      "full_name": "aras-p/UnityGaussianSplatting",
+      "url": "https://github.com/aras-p/UnityGaussianSplatting",
+      "description": "Toy Gaussian Splatting visualization in Unity",
+      "language": "C#",
+      "stars": "2639",
+      "forks": "331",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "artifacts-credprovider",
+      "full_name": "microsoft/artifacts-credprovider",
+      "url": "https://github.com/microsoft/artifacts-credprovider",
+      "description": "The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds.",
+      "language": "C#",
+      "stars": "856",
+      "forks": "719",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-dotnet",
+      "full_name": "DataDog/dd-trace-dotnet",
+      "url": "https://github.com/DataDog/dd-trace-dotnet",
+      "description": ".NET Client Library for Datadog APM",
+      "language": "C#",
+      "stars": "504",
+      "forks": "147",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "azure-pipelines-agent",
+      "full_name": "microsoft/azure-pipelines-agent",
+      "url": "https://github.com/microsoft/azure-pipelines-agent",
+      "description": "Azure Pipelines Agent 🚀",
+      "language": "C#",
+      "stars": "1802",
+      "forks": "889",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Azure-Samples",
+      "name": "cognitive-services-speech-sdk",
+      "full_name": "Azure-Samples/cognitive-services-speech-sdk",
+      "url": "https://github.com/Azure-Samples/cognitive-services-speech-sdk",
+      "description": "Sample code for the Microsoft Cognitive Services Speech SDK",
+      "language": "C#",
+      "stars": "3230",
+      "forks": "1963",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mRemoteNG",
+      "name": "mRemoteNG",
+      "full_name": "mRemoteNG/mRemoteNG",
+      "url": "https://github.com/mRemoteNG/mRemoteNG",
+      "description": "mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.",
+      "language": "C#",
+      "stars": "9869",
+      "forks": "1472",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

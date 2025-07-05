@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-05 01:12:40",
+  "repositories": [
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "21631",
+      "forks": "3779",
+      "today_stars": "311 stars today"
+    },
+    {
+      "author": "theopfr",
+      "name": "somo",
+      "full_name": "theopfr/somo",
+      "url": "https://github.com/theopfr/somo",
+      "description": "A human-friendly alternative to netstat for socket and port monitoring on Linux.",
+      "language": "Rust",
+      "stars": "1786",
+      "forks": "47",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "828",
+      "forks": "38",
+      "today_stars": "331 stars today"
+    },
+    {
+      "author": "vosen",
+      "name": "ZLUDA",
+      "full_name": "vosen/ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "stars": "11756",
+      "forks": "750",
+      "today_stars": "103 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow-rs",
+      "full_name": "apache/arrow-rs",
+      "url": "https://github.com/apache/arrow-rs",
+      "description": "Official Rust implementation of Apache Arrow",
+      "language": "Rust",
+      "stars": "3012",
+      "forks": "965",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "60334",
+      "forks": "1718",
+      "today_stars": "143 stars today"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "5515",
+      "forks": "283",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30269",
+      "forks": "3625",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "967",
+      "forks": "168",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28074",
+      "forks": "2022",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4774",
+      "forks": "1690",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "15032",
+      "forks": "1426",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "104801",
+      "forks": "13497",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "52188",
+      "forks": "2092",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "11578",
+      "forks": "444",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4396",
+      "forks": "1579",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6314",
+      "forks": "3784",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "immunant",
+      "name": "c2rust",
+      "full_name": "immunant/c2rust",
+      "url": "https://github.com/immunant/c2rust",
+      "description": "Migrate C code to Rust",
+      "language": "Rust",
+      "stars": "4376",
+      "forks": "267",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "24937",
+      "forks": "764",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "hrkfdn",
+      "name": "ncspot",
+      "full_name": "hrkfdn/ncspot",
+      "url": "https://github.com/hrkfdn/ncspot",
+      "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+      "language": "Rust",
+      "stars": "5899",
+      "forks": "236",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "15219",
+      "forks": "1783",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

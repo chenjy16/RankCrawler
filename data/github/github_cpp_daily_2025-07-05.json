@@ -1,0 +1,282 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-05 01:13:37",
+  "repositories": [
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "44713",
+      "forks": "1910",
+      "today_stars": "286 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "30022",
+      "forks": "6544",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "thrift",
+      "full_name": "apache/thrift",
+      "url": "https://github.com/apache/thrift",
+      "description": "Apache Thrift",
+      "language": "C++",
+      "stars": "10728",
+      "forks": "4063",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "67956",
+      "forks": "9998",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4186",
+      "forks": "505",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "MariaDB",
+      "name": "server",
+      "full_name": "MariaDB/server",
+      "url": "https://github.com/MariaDB/server",
+      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+      "language": "C++",
+      "stars": "6169",
+      "forks": "1834",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "976",
+      "forks": "214",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17105",
+      "forks": "3318",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "bytedance",
+      "name": "btrace",
+      "full_name": "bytedance/btrace",
+      "url": "https://github.com/bytedance/btrace",
+      "description": "🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.",
+      "language": "C++",
+      "stars": "2235",
+      "forks": "302",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26644",
+      "forks": "4822",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "epezent",
+      "name": "implot",
+      "full_name": "epezent/implot",
+      "url": "https://github.com/epezent/implot",
+      "description": "Immediate Mode Plotting",
+      "language": "C++",
+      "stars": "5404",
+      "forks": "591",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "moveit",
+      "name": "moveit2",
+      "full_name": "moveit/moveit2",
+      "url": "https://github.com/moveit/moveit2",
+      "description": "🤖 MoveIt for ROS 2",
+      "language": "C++",
+      "stars": "1394",
+      "forks": "640",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "27071",
+      "forks": "8785",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9596",
+      "forks": "1693",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16780",
+      "forks": "2187",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "namazso",
+      "name": "OpenHashTab",
+      "full_name": "namazso/OpenHashTab",
+      "url": "https://github.com/namazso/OpenHashTab",
+      "description": "📝 File hashing and checking shell extension",
+      "language": "C++",
+      "stars": "4021",
+      "forks": "176",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv_contrib",
+      "full_name": "opencv/opencv_contrib",
+      "url": "https://github.com/opencv/opencv_contrib",
+      "description": "Repository for OpenCV's extra modules",
+      "language": "C++",
+      "stars": "9745",
+      "forks": "5822",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "full_name": "IntelRealSense/librealsense",
+      "url": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": "8019",
+      "forks": "4871",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "16110",
+      "forks": "3092",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "zen-browser",
+      "name": "desktop",
+      "full_name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": "33819",
+      "forks": "949",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "LightGBM",
+      "full_name": "microsoft/LightGBM",
+      "url": "https://github.com/microsoft/LightGBM",
+      "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "language": "C++",
+      "stars": "17366",
+      "forks": "3908",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "eProsima",
+      "name": "Fast-DDS",
+      "full_name": "eProsima/Fast-DDS",
+      "url": "https://github.com/eProsima/Fast-DDS",
+      "description": "The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com",
+      "language": "C++",
+      "stars": "2475",
+      "forks": "829",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "shader-slang",
+      "name": "slang",
+      "full_name": "shader-slang/slang",
+      "url": "https://github.com/shader-slang/slang",
+      "description": "Making it easier to work with shaders",
+      "language": "C++",
+      "stars": "4213",
+      "forks": "319",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "FastDeploy",
+      "full_name": "PaddlePaddle/FastDeploy",
+      "url": "https://github.com/PaddlePaddle/FastDeploy",
+      "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
+      "language": "C++",
+      "stars": "3362",
+      "forks": "537",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3241",
+      "forks": "1498",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
