@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-06 01:21:38",
+  "repositories": [
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+      "language": "Go",
+      "stars": "42343",
+      "forks": "3016",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "16949",
+      "forks": "783",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-rollouts",
+      "full_name": "argoproj/argo-rollouts",
+      "url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "language": "Go",
+      "stars": "3146",
+      "forks": "989",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11094",
+      "forks": "1533",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3140",
+      "forks": "697",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "28904",
+      "forks": "1406",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "seaweedfs",
+      "name": "seaweedfs",
+      "full_name": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+      "language": "Go",
+      "stars": "25071",
+      "forks": "2428",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49760",
+      "forks": "10103",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mcp-grafana",
+      "full_name": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "language": "Go",
+      "stars": "1091",
+      "forks": "93",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "53560",
+      "forks": "5993",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "runc",
+      "full_name": "opencontainers/runc",
+      "url": "https://github.com/opencontainers/runc",
+      "description": "CLI tool for spawning and running containers according to the OCI specification",
+      "language": "Go",
+      "stars": "12500",
+      "forks": "2194",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "prometheus-operator",
+      "name": "prometheus-operator",
+      "full_name": "prometheus-operator/prometheus-operator",
+      "url": "https://github.com/prometheus-operator/prometheus-operator",
+      "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+      "language": "Go",
+      "stars": "9533",
+      "forks": "3777",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35801",
+      "forks": "3277",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "full_name": "gravitational/teleport",
+      "url": "https://github.com/gravitational/teleport",
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "language": "Go",
+      "stars": "18740",
+      "forks": "1872",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "iam-veeramalla",
+      "name": "observability-zero-to-hero",
+      "full_name": "iam-veeramalla/observability-zero-to-hero",
+      "url": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+      "description": "Repo for learning observability",
+      "language": "Go",
+      "stars": "2205",
+      "forks": "3402",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "1855",
+      "forks": "326",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "jpillora",
+      "name": "chisel",
+      "full_name": "jpillora/chisel",
+      "url": "https://github.com/jpillora/chisel",
+      "description": "A fast TCP/UDP tunnel over HTTP",
+      "language": "Go",
+      "stars": "14735",
+      "forks": "1493",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "crossplane",
+      "name": "crossplane",
+      "full_name": "crossplane/crossplane",
+      "url": "https://github.com/crossplane/crossplane",
+      "description": "The Cloud Native Control Plane",
+      "language": "Go",
+      "stars": "10476",
+      "forks": "1041",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "full_name": "ThreeDotsLabs/watermill",
+      "url": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Building event-driven applications the easy way in Go.",
+      "language": "Go",
+      "stars": "8619",
+      "forks": "441",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19708",
+      "forks": "884",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11538",
+      "forks": "1738",
+      "today_stars": "27 stars today"
+    }
+  ]
+}

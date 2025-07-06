@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-06 01:22:42",
+  "repositories": [
+    {
+      "author": "OpenVPN",
+      "name": "openvpn",
+      "full_name": "OpenVPN/openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "stars": "12056",
+      "forks": "3124",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "rxi",
+      "name": "microui",
+      "full_name": "rxi/microui",
+      "url": "https://github.com/rxi/microui",
+      "description": "A tiny immediate-mode UI library",
+      "language": "C",
+      "stars": "4611",
+      "forks": "294",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7393",
+      "forks": "4994",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20076",
+      "forks": "3699",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "GEIGEIGEIST",
+      "name": "TOTEM",
+      "full_name": "GEIGEIGEIST/TOTEM",
+      "url": "https://github.com/GEIGEIGEIST/TOTEM",
+      "description": "TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040",
+      "language": "C",
+      "stars": "1357",
+      "forks": "182",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "16405",
+      "forks": "807",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "henrypp",
+      "name": "simplewall",
+      "full_name": "henrypp/simplewall",
+      "url": "https://github.com/henrypp/simplewall",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "language": "C",
+      "stars": "7145",
+      "forks": "555",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19452",
+      "forks": "952",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "74979",
+      "forks": "6081",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5997",
+      "forks": "859",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8350",
+      "forks": "2466",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24078",
+      "forks": "4934",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "sanitizers",
+      "full_name": "google/sanitizers",
+      "url": "https://github.com/google/sanitizers",
+      "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
+      "language": "C",
+      "stars": "12003",
+      "forks": "1072",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "65383",
+      "forks": "8524",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27897",
+      "forks": "10649",
+      "today_stars": "225 stars this week"
+    },
+    {
+      "author": "FelixKratz",
+      "name": "SketchyBar",
+      "full_name": "FelixKratz/SketchyBar",
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "description": "A highly customizable macOS status bar replacement",
+      "language": "C",
+      "stars": "9231",
+      "forks": "131",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69890",
+      "forks": "24113",
+      "today_stars": "115 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-instrumentation",
+      "full_name": "open-telemetry/opentelemetry-go-instrumentation",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+      "description": "OpenTelemetry Auto Instrumentation using eBPF",
+      "language": "C",
+      "stars": "843",
+      "forks": "118",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13301",
+      "forks": "793",
+      "today_stars": "97 stars this week"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31170",
+      "forks": "3056",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "7233",
+      "forks": "530",
+      "today_stars": "86 stars this week"
+    }
+  ]
+}

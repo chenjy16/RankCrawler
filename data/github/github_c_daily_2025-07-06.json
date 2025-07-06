@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-06 01:22:35",
+  "repositories": [
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27897",
+      "forks": "10649",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "5983",
+      "forks": "2723",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38007",
+      "forks": "2218",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11662",
+      "forks": "3333",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4596",
+      "forks": "1339",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "22952",
+      "forks": "3114",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "5997",
+      "forks": "859",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cloudwu",
+      "name": "skynet",
+      "full_name": "cloudwu/skynet",
+      "url": "https://github.com/cloudwu/skynet",
+      "description": "A lightweight online game framework",
+      "language": "C",
+      "stars": "13744",
+      "forks": "4249",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "stars": "11255",
+      "forks": "5207",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19322",
+      "forks": "41983",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11565",
+      "forks": "3434",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29255",
+      "forks": "7846",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-instrumentation",
+      "full_name": "open-telemetry/opentelemetry-go-instrumentation",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+      "description": "OpenTelemetry Auto Instrumentation using eBPF",
+      "language": "C",
+      "stars": "843",
+      "forks": "118",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "4011",
+      "forks": "1273",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13952",
+      "forks": "5562",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rswier",
+      "name": "c4",
+      "full_name": "rswier/c4",
+      "url": "https://github.com/rswier/c4",
+      "description": "C in four functions",
+      "language": "C",
+      "stars": "10209",
+      "forks": "1463",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20568",
+      "forks": "8267",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4750",
+      "forks": "925",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Encryqed",
+      "name": "Dumper-7",
+      "full_name": "Encryqed/Dumper-7",
+      "url": "https://github.com/Encryqed/Dumper-7",
+      "description": "Unreal Engine SDK Generator",
+      "language": "C",
+      "stars": "1245",
+      "forks": "276",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "6918",
+      "forks": "342",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25473",
+      "forks": "3715",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
