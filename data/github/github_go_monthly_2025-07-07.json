@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-07-07 01:19:44",
+  "repositories": [
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "9564",
+      "forks": "349",
+      "today_stars": "1,626 stars this month"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29762",
+      "forks": "4397",
+      "today_stars": "1,036 stars this month"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "1729",
+      "forks": "188",
+      "today_stars": "493 stars this month"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "16981",
+      "forks": "784",
+      "today_stars": "2,564 stars this month"
+    },
+    {
+      "author": "cloudreve",
+      "name": "cloudreve",
+      "full_name": "cloudreve/cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "23946",
+      "forks": "3616",
+      "today_stars": "694 stars this month"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "24856",
+      "forks": "2939",
+      "today_stars": "795 stars this month"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "146827",
+      "forks": "12388",
+      "today_stars": "2,044 stars this month"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "13269",
+      "forks": "1231",
+      "today_stars": "444 stars this month"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "30148",
+      "forks": "3375",
+      "today_stars": "886 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21377",
+      "forks": "1672",
+      "today_stars": "1,267 stars this month"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "24797",
+      "forks": "977",
+      "today_stars": "1,427 stars this month"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "39738",
+      "forks": "6728",
+      "today_stars": "467 stars this month"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "116175",
+      "forks": "40892",
+      "today_stars": "756 stars this month"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10218",
+      "forks": "653",
+      "today_stars": "264 stars this month"
+    },
+    {
+      "author": "WireGuard",
+      "name": "wireguard-go",
+      "full_name": "WireGuard/wireguard-go",
+      "url": "https://github.com/WireGuard/wireguard-go",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+      "language": "Go",
+      "stars": "3582",
+      "forks": "1229",
+      "today_stars": "94 stars this month"
+    },
+    {
+      "author": "openimsdk",
+      "name": "open-im-server",
+      "full_name": "openimsdk/open-im-server",
+      "url": "https://github.com/openimsdk/open-im-server",
+      "description": "IM Chat ChatGPT",
+      "language": "Go",
+      "stars": "14989",
+      "forks": "2633",
+      "today_stars": "189 stars this month"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "49402",
+      "forks": "5900",
+      "today_stars": "544 stars this month"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-rollouts",
+      "full_name": "argoproj/argo-rollouts",
+      "url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "language": "Go",
+      "stars": "3151",
+      "forks": "989",
+      "today_stars": "119 stars this month"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "9178",
+      "forks": "1260",
+      "today_stars": "406 stars this month"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "6539",
+      "forks": "558",
+      "today_stars": "1,908 stars this month"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31398",
+      "forks": "4841",
+      "today_stars": "266 stars this month"
+    }
+  ]
+}

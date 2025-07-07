@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-07 01:19:50",
+  "repositories": [
+    {
+      "author": "vosen",
+      "name": "ZLUDA",
+      "full_name": "vosen/ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "stars": "12132",
+      "forks": "761",
+      "today_stars": "102 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "26437",
+      "forks": "840",
+      "today_stars": "220 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "21853",
+      "forks": "3858",
+      "today_stars": "66 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "1379",
+      "forks": "63",
+      "today_stars": "408 stars today"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "40110",
+      "forks": "7472",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7444",
+      "forks": "489",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "modrinth",
+      "name": "code",
+      "full_name": "modrinth/code",
+      "url": "https://github.com/modrinth/code",
+      "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+      "language": "Rust",
+      "stars": "1496",
+      "forks": "294",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "11002",
+      "forks": "458",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gyroflow",
+      "name": "gyroflow",
+      "full_name": "gyroflow/gyroflow",
+      "url": "https://github.com/gyroflow/gyroflow",
+      "description": "Video stabilization using gyroscope data",
+      "language": "Rust",
+      "stars": "7563",
+      "forks": "342",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "iggy",
+      "full_name": "apache/iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "stars": "2724",
+      "forks": "158",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "edit",
+      "full_name": "microsoft/edit",
+      "url": "https://github.com/microsoft/edit",
+      "description": "We all edit.",
+      "language": "Rust",
+      "stars": "11478",
+      "forks": "500",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "7033",
+      "forks": "1099",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "full_name": "libp2p/rust-libp2p",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of the libp2p networking stack.",
+      "language": "Rust",
+      "stars": "5063",
+      "forks": "1094",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "11734",
+      "forks": "444",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "9441",
+      "forks": "330",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "5565",
+      "forks": "286",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "vlayer-xyz",
+      "name": "vlayer",
+      "full_name": "vlayer-xyz/vlayer",
+      "url": "https://github.com/vlayer-xyz/vlayer",
+      "description": "",
+      "language": "Rust",
+      "stars": "84",
+      "forks": "19",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25012",
+      "forks": "765",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "104849",
+      "forks": "13500",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "26309",
+      "forks": "560",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "94277",
+      "forks": "2937",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "17031",
+      "forks": "574",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "Hachimi-Hachimi",
+      "name": "Hachimi",
+      "full_name": "Hachimi-Hachimi/Hachimi",
+      "url": "https://github.com/Hachimi-Hachimi/Hachimi",
+      "description": "はちみーをなめると〜 Game enhancement and translation mod for Honse Game.",
+      "language": "Rust",
+      "stars": "102",
+      "forks": "11",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
