@@ -1,0 +1,205 @@
+{
+  "language": "python",
+  "period": "monthly",
+  "fetch_time": "2025-07-09 01:15:53",
+  "repositories": [
+    {
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "48991",
+      "forks": "5639",
+      "today_stars": "15,636 stars this month"
+    },
+    {
+      "author": "NanmiCoder",
+      "name": "MediaCrawler",
+      "full_name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": "28629",
+      "forks": "7191",
+      "today_stars": "5,441 stars this month"
+    },
+    {
+      "author": "stanford-oval",
+      "name": "storm",
+      "full_name": "stanford-oval/storm",
+      "url": "https://github.com/stanford-oval/storm",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "language": "Python",
+      "stars": "26412",
+      "forks": "2374",
+      "today_stars": "1,942 stars this month"
+    },
+    {
+      "author": "opendatalab",
+      "name": "MinerU",
+      "full_name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+      "language": "Python",
+      "stars": "38509",
+      "forks": "3162",
+      "today_stars": "3,908 stars this month"
+    },
+    {
+      "author": "jwohlwend",
+      "name": "boltz",
+      "full_name": "jwohlwend/boltz",
+      "url": "https://github.com/jwohlwend/boltz",
+      "description": "Official repository for the Boltz biomolecular interaction models",
+      "language": "Python",
+      "stars": "3038",
+      "forks": "482",
+      "today_stars": "985 stars this month"
+    },
+    {
+      "author": "coleam00",
+      "name": "ottomator-agents",
+      "full_name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": "3429",
+      "forks": "1222",
+      "today_stars": "1,389 stars this month"
+    },
+    {
+      "author": "snailyp",
+      "name": "gemini-balance",
+      "full_name": "snailyp/gemini-balance",
+      "url": "https://github.com/snailyp/gemini-balance",
+      "description": "Gemini polling proxy service （gemini轮询代理服务）",
+      "language": "Python",
+      "stars": "2855",
+      "forks": "491",
+      "today_stars": "1,136 stars this month"
+    },
+    {
+      "author": "aliasrobotics",
+      "name": "cai",
+      "full_name": "aliasrobotics/cai",
+      "url": "https://github.com/aliasrobotics/cai",
+      "description": "Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence",
+      "language": "Python",
+      "stars": "1605",
+      "forks": "205",
+      "today_stars": "566 stars this month"
+    },
+    {
+      "author": "HKUDS",
+      "name": "AutoAgent",
+      "full_name": "HKUDS/AutoAgent",
+      "url": "https://github.com/HKUDS/AutoAgent",
+      "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+      "language": "Python",
+      "stars": "5468",
+      "forks": "749",
+      "today_stars": "837 stars this month"
+    },
+    {
+      "author": "huggingface",
+      "name": "lerobot",
+      "full_name": "huggingface/lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "language": "Python",
+      "stars": "15615",
+      "forks": "2109",
+      "today_stars": "1,462 stars this month"
+    },
+    {
+      "author": "confident-ai",
+      "name": "deepeval",
+      "full_name": "confident-ai/deepeval",
+      "url": "https://github.com/confident-ai/deepeval",
+      "description": "The LLM Evaluation Framework",
+      "language": "Python",
+      "stars": "9050",
+      "forks": "791",
+      "today_stars": "1,932 stars this month"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "vggt",
+      "full_name": "facebookresearch/vggt",
+      "url": "https://github.com/facebookresearch/vggt",
+      "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
+      "language": "Python",
+      "stars": "9543",
+      "forks": "916",
+      "today_stars": "2,250 stars this month"
+    },
+    {
+      "author": "LMCache",
+      "name": "LMCache",
+      "full_name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": "2527",
+      "forks": "301",
+      "today_stars": "1,239 stars this month"
+    },
+    {
+      "author": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": "78753",
+      "forks": "6779",
+      "today_stars": "904 stars this month"
+    },
+    {
+      "author": "black-forest-labs",
+      "name": "flux",
+      "full_name": "black-forest-labs/flux",
+      "url": "https://github.com/black-forest-labs/flux",
+      "description": "Official inference repo for FLUX.1 models",
+      "language": "Python",
+      "stars": "23317",
+      "forks": "1676",
+      "today_stars": "1,122 stars this month"
+    },
+    {
+      "author": "stanfordnlp",
+      "name": "dspy",
+      "full_name": "stanfordnlp/dspy",
+      "url": "https://github.com/stanfordnlp/dspy",
+      "description": "DSPy: The framework for programming—not prompting—language models",
+      "language": "Python",
+      "stars": "26195",
+      "forks": "2015",
+      "today_stars": "1,175 stars this month"
+    },
+    {
+      "author": "volcengine",
+      "name": "verl",
+      "full_name": "volcengine/verl",
+      "url": "https://github.com/volcengine/verl",
+      "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+      "language": "Python",
+      "stars": "10534",
+      "forks": "1740",
+      "today_stars": "1,428 stars this month"
+    },
+    {
+      "author": "mikumifa",
+      "name": "biliTickerBuy",
+      "full_name": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "language": "Python",
+      "stars": "2707",
+      "forks": "358",
+      "today_stars": "1,019 stars this month"
+    }
+  ]
+}
