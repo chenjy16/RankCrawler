@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-07-10 01:15:13",
+  "repositories": [
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "3994",
+      "forks": "332",
+      "today_stars": "970 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "3705",
+      "forks": "182",
+      "today_stars": "650 stars today"
+    },
+    {
+      "author": "anthropics",
+      "name": "prompt-eng-interactive-tutorial",
+      "full_name": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "stars": "16161",
+      "forks": "1480",
+      "today_stars": "451 stars today"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "WebAgent",
+      "full_name": "Alibaba-NLP/WebAgent",
+      "url": "https://github.com/Alibaba-NLP/WebAgent",
+      "description": "🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+      "language": "Python",
+      "stars": "2797",
+      "forks": "194",
+      "today_stars": "780 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "8208",
+      "forks": "987",
+      "today_stars": "159 stars today"
+    },
+    {
+      "author": "ed-donner",
+      "name": "agents",
+      "full_name": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
+      "description": "Repo for the Complete Agentic AI Engineering Course",
+      "language": "Jupyter Notebook",
+      "stars": "1057",
+      "forks": "789",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "wanghongenpin",
+      "name": "proxypin",
+      "full_name": "wanghongenpin/proxypin",
+      "url": "https://github.com/wanghongenpin/proxypin",
+      "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+      "language": "Dart",
+      "stars": "9395",
+      "forks": "812",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "11 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": "29625",
+      "forks": "8387",
+      "today_stars": "246 stars today"
+    },
+    {
+      "author": "punkpeye",
+      "name": "awesome-mcp-clients",
+      "full_name": "punkpeye/awesome-mcp-clients",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "description": "A collection of MCP clients.",
+      "language": null,
+      "stars": "4307",
+      "forks": "303",
+      "today_stars": "96 stars today"
+    },
+    {
+      "author": "strapi",
+      "name": "strapi",
+      "full_name": "strapi/strapi",
+      "url": "https://github.com/strapi/strapi",
+      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "language": "TypeScript",
+      "stars": "67478",
+      "forks": "8702",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "MoGe",
+      "full_name": "microsoft/MoGe",
+      "url": "https://github.com/microsoft/MoGe",
+      "description": "[CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+      "language": "Python",
+      "stars": "1243",
+      "forks": "72",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12376",
+      "forks": "1987",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "ed-donner",
+      "name": "llm_engineering",
+      "full_name": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "stars": "2835",
+      "forks": "2279",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "71776",
+      "forks": "2544",
+      "today_stars": "62 stars today"
+    }
+  ]
+}

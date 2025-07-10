@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-10 01:17:45",
+  "repositories": [
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12377",
+      "forks": "1987",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "30854",
+      "forks": "2427",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "ashishps1",
+      "name": "awesome-low-level-design",
+      "full_name": "ashishps1/awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "C++",
+      "stars": "15996",
+      "forks": "3936",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "daijro",
+      "name": "camoufox",
+      "full_name": "daijro/camoufox",
+      "url": "https://github.com/daijro/camoufox",
+      "description": "🦊 Anti-detect browser",
+      "language": "C++",
+      "stars": "2608",
+      "forks": "214",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "9723",
+      "forks": "14177",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29549",
+      "forks": "5722",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kasmtech",
+      "name": "KasmVNC",
+      "full_name": "kasmtech/KasmVNC",
+      "url": "https://github.com/kasmtech/KasmVNC",
+      "description": "Modern VNC Server and client, web based and secure",
+      "language": "C++",
+      "stars": "4194",
+      "forks": "361",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "18817",
+      "forks": "4085",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "26248",
+      "forks": "4997",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7819",
+      "forks": "1305",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5543",
+      "forks": "1976",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openvinotoolkit",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": "8550",
+      "forks": "2645",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "UZ-SLAMLab",
+      "name": "ORB_SLAM3",
+      "full_name": "UZ-SLAMLab/ORB_SLAM3",
+      "url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+      "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+      "language": "C++",
+      "stars": "7450",
+      "forks": "2773",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5524",
+      "forks": "493",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "CrowCpp",
+      "name": "Crow",
+      "full_name": "CrowCpp/Crow",
+      "url": "https://github.com/CrowCpp/Crow",
+      "description": "A Fast and Easy to use microframework for the web.",
+      "language": "C++",
+      "stars": "4008",
+      "forks": "458",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3529",
+      "forks": "298",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19558",
+      "forks": "3120",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "190669",
+      "forks": "74747",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "41400",
+      "forks": "4435",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "composable_kernel",
+      "full_name": "ROCm/composable_kernel",
+      "url": "https://github.com/ROCm/composable_kernel",
+      "description": "Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators",
+      "language": "C++",
+      "stars": "434",
+      "forks": "208",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "facontidavide",
+      "name": "PlotJuggler",
+      "full_name": "facontidavide/PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
+      "language": "C++",
+      "stars": "5147",
+      "forks": "688",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "re2",
+      "full_name": "google/re2",
+      "url": "https://github.com/google/re2",
+      "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+      "language": "C++",
+      "stars": "9338",
+      "forks": "1164",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "full_name": "IntelRealSense/librealsense",
+      "url": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": "8029",
+      "forks": "4873",
+      "today_stars": "4 stars today"
+    }
+  ]
+}
