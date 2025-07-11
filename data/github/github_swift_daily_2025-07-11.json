@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-07-11 01:19:58",
+  "repositories": [
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6163",
+      "forks": "381",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "yonaskolb",
+      "name": "XcodeGen",
+      "full_name": "yonaskolb/XcodeGen",
+      "url": "https://github.com/yonaskolb/XcodeGen",
+      "description": "A Swift command line tool for generating your Xcode project",
+      "language": "Swift",
+      "stars": "7523",
+      "forks": "840",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "ReactiveX",
+      "name": "RxSwift",
+      "full_name": "ReactiveX/RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "description": "Reactive Programming in Swift",
+      "language": "Swift",
+      "stars": "24614",
+      "forks": "4188",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "onevcat",
+      "name": "Kingfisher",
+      "full_name": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "stars": "23934",
+      "forks": "2715",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19077",
+      "forks": "2259",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "41980",
+      "forks": "7619",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-package-manager",
+      "full_name": "swiftlang/swift-package-manager",
+      "url": "https://github.com/swiftlang/swift-package-manager",
+      "description": "The Package Manager for the Swift Programming Language",
+      "language": "Swift",
+      "stars": "9965",
+      "forks": "1405",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13455",
+      "forks": "1549",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tuist",
+      "name": "tuist",
+      "full_name": "tuist/tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship",
+      "language": "Swift",
+      "stars": "5142",
+      "forks": "636",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "3969",
+      "forks": "629",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-sdk-ios",
+      "full_name": "DataDog/dd-sdk-ios",
+      "url": "https://github.com/DataDog/dd-sdk-ios",
+      "description": "Datadog SDK for iOS - Swift and Objective-C.",
+      "language": "Swift",
+      "stars": "242",
+      "forks": "147",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27901",
+      "forks": "6041",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rileytestut",
+      "name": "Delta",
+      "full_name": "rileytestut/Delta",
+      "url": "https://github.com/rileytestut/Delta",
+      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
+      "language": "Swift",
+      "stars": "5452",
+      "forks": "411",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rxhanson",
+      "name": "Rectangle",
+      "full_name": "rxhanson/Rectangle",
+      "url": "https://github.com/rxhanson/Rectangle",
+      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+      "language": "Swift",
+      "stars": "27229",
+      "forks": "837",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1876",
+      "forks": "153",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "AzureAD",
+      "name": "microsoft-authentication-library-for-objc",
+      "full_name": "AzureAD/microsoft-authentication-library-for-objc",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-objc",
+      "description": "Microsoft Authentication Library (MSAL) for iOS and macOS",
+      "language": "Swift",
+      "stars": "294",
+      "forks": "146",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "hackiftekhar",
+      "name": "IQKeyboardManager",
+      "full_name": "hackiftekhar/IQKeyboardManager",
+      "url": "https://github.com/hackiftekhar/IQKeyboardManager",
+      "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
+      "language": "Swift",
+      "stars": "16581",
+      "forks": "2428",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ios",
+      "full_name": "stripe/stripe-ios",
+      "url": "https://github.com/stripe/stripe-ios",
+      "description": "Stripe iOS SDK",
+      "language": "Swift",
+      "stars": "2417",
+      "forks": "1006",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7900",
+      "forks": "3621",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26330",
+      "forks": "3803",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mrousavy",
+      "name": "react-native-vision-camera",
+      "full_name": "mrousavy/react-native-vision-camera",
+      "url": "https://github.com/mrousavy/react-native-vision-camera",
+      "description": "📸 A powerful, high-performance React Native Camera library.",
+      "language": "Swift",
+      "stars": "8569",
+      "forks": "1222",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3957",
+      "forks": "749",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-protobuf",
+      "full_name": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "stars": "4700",
+      "forks": "479",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-11 01:18:21",
+  "repositories": [
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3342",
+      "forks": "1297",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11070",
+      "forks": "1442",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "eclipse-paho",
+      "name": "paho.mqtt.c",
+      "full_name": "eclipse-paho/paho.mqtt.c",
+      "url": "https://github.com/eclipse-paho/paho.mqtt.c",
+      "description": "An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/",
+      "language": "C",
+      "stars": "2111",
+      "forks": "1131",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12869",
+      "forks": "1903",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "rbaron",
+      "name": "b-parasite",
+      "full_name": "rbaron/b-parasite",
+      "url": "https://github.com/rbaron/b-parasite",
+      "description": "🌱💧 An open source DIY soil moisture sensor",
+      "language": "C",
+      "stars": "2218",
+      "forks": "170",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "greatscottgadgets",
+      "name": "hackrf",
+      "full_name": "greatscottgadgets/hackrf",
+      "url": "https://github.com/greatscottgadgets/hackrf",
+      "description": "low cost software radio platform",
+      "language": "C",
+      "stars": "7139",
+      "forks": "1603",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5988",
+      "forks": "879",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "VirusTotal",
+      "name": "yara",
+      "full_name": "VirusTotal/yara",
+      "url": "https://github.com/VirusTotal/yara",
+      "description": "The pattern matching swiss knife",
+      "language": "C",
+      "stars": "8910",
+      "forks": "1513",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11840",
+      "forks": "5199",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3224",
+      "forks": "458",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12448",
+      "forks": "7616",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "692",
+      "forks": "3211",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "4046",
+      "forks": "427",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10516",
+      "forks": "5604",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13388",
+      "forks": "795",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "civetweb",
+      "name": "civetweb",
+      "full_name": "civetweb/civetweb",
+      "url": "https://github.com/civetweb/civetweb",
+      "description": "Embedded C/C++ web server",
+      "language": "C",
+      "stars": "3128",
+      "forks": "993",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25494",
+      "forks": "3716",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4600",
+      "forks": "1038",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55594",
+      "forks": "26387",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "am32-firmware",
+      "name": "AM32",
+      "full_name": "am32-firmware/AM32",
+      "url": "https://github.com/am32-firmware/AM32",
+      "description": "",
+      "language": "C",
+      "stars": "531",
+      "forks": "216",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "197398",
+      "forks": "56888",
+      "today_stars": "83 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4754",
+      "forks": "927",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5401",
+      "forks": "1548",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

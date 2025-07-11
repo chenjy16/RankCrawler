@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-11 01:17:22",
+  "repositories": [
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "4940",
+      "forks": "385",
+      "today_stars": "1,040 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28174",
+      "forks": "7278",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45635",
+      "forks": "9928",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "8580",
+      "forks": "1016",
+      "today_stars": "457 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "14801",
+      "forks": "1023",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27450",
+      "forks": "2620",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "beam-cloud",
+      "name": "beta9",
+      "full_name": "beam-cloud/beta9",
+      "url": "https://github.com/beam-cloud/beta9",
+      "description": "Secure, high-performance AI infrastructure in Python.",
+      "language": "Go",
+      "stars": "1008",
+      "forks": "76",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "3151",
+      "forks": "85",
+      "today_stars": "223 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19369",
+      "forks": "2322",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "71901",
+      "forks": "2546",
+      "today_stars": "215 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6125",
+      "forks": "3628",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "49515",
+      "forks": "5907",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "mikefarah",
+      "name": "yq",
+      "full_name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+      "language": "Go",
+      "stars": "13715",
+      "forks": "663",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15742",
+      "forks": "5659",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "cadvisor",
+      "full_name": "google/cadvisor",
+      "url": "https://github.com/google/cadvisor",
+      "description": "Analyzes resource usage and performance characteristics of running containers.",
+      "language": "Go",
+      "stars": "18126",
+      "forks": "2379",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "karpenter-provider-aws",
+      "full_name": "aws/karpenter-provider-aws",
+      "url": "https://github.com/aws/karpenter-provider-aws",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "7359",
+      "forks": "1134",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10422",
+      "forks": "1440",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "asdf-vm",
+      "name": "asdf",
+      "full_name": "asdf-vm/asdf",
+      "url": "https://github.com/asdf-vm/asdf",
+      "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+      "language": "Go",
+      "stars": "23862",
+      "forks": "879",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3694",
+      "forks": "2876",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "language": "Go",
+      "stars": "8322",
+      "forks": "2718",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22000",
+      "forks": "4525",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "heroiclabs",
+      "name": "nakama",
+      "full_name": "heroiclabs/nakama",
+      "url": "https://github.com/heroiclabs/nakama",
+      "description": "Distributed server for social and realtime games and apps.",
+      "language": "Go",
+      "stars": "11253",
+      "forks": "1245",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5812",
+      "forks": "1193",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

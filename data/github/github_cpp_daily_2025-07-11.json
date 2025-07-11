@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-11 01:18:41",
+  "repositories": [
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16860",
+      "forks": "2189",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6268",
+      "forks": "1635",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "67962",
+      "forks": "15762",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "190681",
+      "forks": "74745",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5549",
+      "forks": "1979",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "full_name": "IntelRealSense/librealsense",
+      "url": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": "8035",
+      "forks": "4873",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12450",
+      "forks": "1991",
+      "today_stars": "110 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29559",
+      "forks": "5722",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "facontidavide",
+      "name": "PlotJuggler",
+      "full_name": "facontidavide/PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
+      "language": "C++",
+      "stars": "5150",
+      "forks": "689",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46398",
+      "forks": "7054",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15684",
+      "forks": "3765",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "loveBabbar",
+      "name": "CodeHelp-DSA-Busted-Series",
+      "full_name": "loveBabbar/CodeHelp-DSA-Busted-Series",
+      "url": "https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series",
+      "description": "This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.",
+      "language": "C++",
+      "stars": "3566",
+      "forks": "2441",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36306",
+      "forks": "10426",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5527",
+      "forks": "494",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43281",
+      "forks": "10845",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "CrowCpp",
+      "name": "Crow",
+      "full_name": "CrowCpp/Crow",
+      "url": "https://github.com/CrowCpp/Crow",
+      "description": "A Fast and Easy to use microframework for the web.",
+      "language": "C++",
+      "stars": "4016",
+      "forks": "458",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "f3d-app",
+      "name": "f3d",
+      "full_name": "f3d-app/f3d",
+      "url": "https://github.com/f3d-app/f3d",
+      "description": "Fast and minimalist 3D viewer.",
+      "language": "C++",
+      "stars": "3604",
+      "forks": "315",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "11830",
+      "forks": "2220",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "google",
+      "name": "libphonenumber",
+      "full_name": "google/libphonenumber",
+      "url": "https://github.com/google/libphonenumber",
+      "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+      "language": "C++",
+      "stars": "17348",
+      "forks": "2105",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "3850",
+      "forks": "962",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "5399",
+      "forks": "1294",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "eProsima",
+      "name": "Fast-DDS",
+      "full_name": "eProsima/Fast-DDS",
+      "url": "https://github.com/eProsima/Fast-DDS",
+      "description": "The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com",
+      "language": "C++",
+      "stars": "2485",
+      "forks": "831",
+      "today_stars": "1 star today"
+    }
+  ]
+}
