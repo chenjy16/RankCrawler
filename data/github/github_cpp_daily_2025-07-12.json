@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-12 01:20:07",
+  "repositories": [
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68269",
+      "forks": "15775",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36351",
+      "forks": "10425",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16919",
+      "forks": "2192",
+      "today_stars": "97 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.",
+      "language": "C++",
+      "stars": "645",
+      "forks": "90",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5551",
+      "forks": "1979",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lraton",
+      "name": "FlopperZiro",
+      "full_name": "lraton/FlopperZiro",
+      "url": "https://github.com/lraton/FlopperZiro",
+      "description": "A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE",
+      "language": "C++",
+      "stars": "1234",
+      "forks": "49",
+      "today_stars": "143 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12477",
+      "forks": "1995",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "26254",
+      "forks": "5001",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "full_name": "Tencent/ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C++",
+      "stars": "21769",
+      "forks": "4289",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cccl",
+      "full_name": "NVIDIA/cccl",
+      "url": "https://github.com/NVIDIA/cccl",
+      "description": "CUDA Core Compute Libraries",
+      "language": "C++",
+      "stars": "1752",
+      "forks": "236",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29561",
+      "forks": "5724",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6271",
+      "forks": "1634",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "NVIDIA-RTX",
+      "name": "NVRHI",
+      "full_name": "NVIDIA-RTX/NVRHI",
+      "url": "https://github.com/NVIDIA-RTX/NVRHI",
+      "description": "",
+      "language": "C++",
+      "stars": "1332",
+      "forks": "156",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "6649",
+      "forks": "768",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "calculator",
+      "full_name": "microsoft/calculator",
+      "url": "https://github.com/microsoft/calculator",
+      "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+      "language": "C++",
+      "stars": "30453",
+      "forks": "5567",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10988",
+      "forks": "1577",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "66797",
+      "forks": "11031",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46414",
+      "forks": "7056",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22049",
+      "forks": "2663",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19562",
+      "forks": "3122",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "canonical",
+      "name": "multipass",
+      "full_name": "canonical/multipass",
+      "url": "https://github.com/canonical/multipass",
+      "description": "Multipass orchestrates virtual Ubuntu instances",
+      "language": "C++",
+      "stars": "8488",
+      "forks": "709",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "122992",
+      "forks": "24754",
+      "today_stars": "23 stars today"
+    }
+  ]
+}

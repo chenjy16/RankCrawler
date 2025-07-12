@@ -1,0 +1,172 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-07-12 01:17:31",
+  "repositories": [
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68269",
+      "forks": "15775",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "5566",
+      "forks": "424",
+      "today_stars": "818 stars today"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "WebAgent",
+      "full_name": "Alibaba-NLP/WebAgent",
+      "url": "https://github.com/Alibaba-NLP/WebAgent",
+      "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+      "language": "Python",
+      "stars": "3614",
+      "forks": "258",
+      "today_stars": "419 stars today"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "2945",
+      "forks": "2972",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "snap-stanford",
+      "name": "Biomni",
+      "full_name": "snap-stanford/Biomni",
+      "url": "https://github.com/snap-stanford/Biomni",
+      "description": "Biomni: a general-purpose biomedical AI agent",
+      "language": "Python",
+      "stars": "1318",
+      "forks": "137",
+      "today_stars": "420 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36351",
+      "forks": "10425",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ByteByteGoHq",
+      "name": "system-design-101",
+      "full_name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": null,
+      "stars": "74495",
+      "forks": "7958",
+      "today_stars": "349 stars today"
+    },
+    {
+      "author": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "17061",
+      "forks": "1204",
+      "today_stars": "74 stars today"
+    },
+    {
+      "author": "LMCache",
+      "name": "LMCache",
+      "full_name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": "3005",
+      "forks": "331",
+      "today_stars": "217 stars today"
+    },
+    {
+      "author": "punkpeye",
+      "name": "awesome-mcp-clients",
+      "full_name": "punkpeye/awesome-mcp-clients",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "description": "A collection of MCP clients.",
+      "language": null,
+      "stars": "4744",
+      "forks": "330",
+      "today_stars": "207 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45772",
+      "forks": "9937",
+      "today_stars": "145 stars today"
+    },
+    {
+      "author": "landing-ai",
+      "name": "agentic-doc",
+      "full_name": "landing-ai/agentic-doc",
+      "url": "https://github.com/landing-ai/agentic-doc",
+      "description": "Python library for Agentic Document Extraction from LandingAI",
+      "language": "Python",
+      "stars": "821",
+      "forks": "88",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5855",
+      "forks": "1195",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry",
+      "full_name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": "41373",
+      "forks": "4388",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "antiwork",
+      "name": "flexile",
+      "full_name": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments as easy as 1-2-3",
+      "language": "Ruby",
+      "stars": "597",
+      "forks": "194",
+      "today_stars": "15 stars today"
+    }
+  ]
+}
