@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-13 01:25:20",
+  "repositories": [
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68475",
+      "forks": "15789",
+      "today_stars": "473 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "16959",
+      "forks": "2194",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "10994",
+      "forks": "1578",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36382",
+      "forks": "10429",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "84528",
+      "forks": "37509",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46431",
+      "forks": "7053",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26715",
+      "forks": "4835",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "66819",
+      "forks": "11033",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "7869",
+      "forks": "1312",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "190711",
+      "forks": "74747",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29566",
+      "forks": "5726",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "leveldb",
+      "full_name": "google/leveldb",
+      "url": "https://github.com/google/leveldb",
+      "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+      "language": "C++",
+      "stars": "37867",
+      "forks": "8037",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars": "5407",
+      "forks": "1295",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15691",
+      "forks": "3771",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chromium",
+      "name": "chromium",
+      "full_name": "chromium/chromium",
+      "url": "https://github.com/chromium/chromium",
+      "description": "The official GitHub mirror of the Chromium source",
+      "language": "C++",
+      "stars": "21129",
+      "forks": "7768",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "41679",
+      "forks": "7457",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "calculator",
+      "full_name": "microsoft/calculator",
+      "url": "https://github.com/microsoft/calculator",
+      "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+      "language": "C++",
+      "stars": "30457",
+      "forks": "5566",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17169",
+      "forks": "3331",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "995",
+      "forks": "221",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-cpp",
+      "full_name": "open-telemetry/opentelemetry-cpp",
+      "url": "https://github.com/open-telemetry/opentelemetry-cpp",
+      "description": "The OpenTelemetry C++ Client",
+      "language": "C++",
+      "stars": "1088",
+      "forks": "485",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15456",
+      "forks": "1393",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "google",
+      "name": "or-tools",
+      "full_name": "google/or-tools",
+      "url": "https://github.com/google/or-tools",
+      "description": "Google's Operations Research tools:",
+      "language": "C++",
+      "stars": "12212",
+      "forks": "2247",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "CLIUtils",
+      "name": "CLI11",
+      "full_name": "CLIUtils/CLI11",
+      "url": "https://github.com/CLIUtils/CLI11",
+      "description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.",
+      "language": "C++",
+      "stars": "3727",
+      "forks": "375",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

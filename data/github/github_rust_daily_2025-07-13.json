@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-13 01:24:23",
+  "repositories": [
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7171",
+      "forks": "11544",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "16047",
+      "forks": "1364",
+      "today_stars": "164 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "25746",
+      "forks": "1781",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "62403",
+      "forks": "4685",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "24639",
+      "forks": "1695",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "26582",
+      "forks": "568",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "6927",
+      "forks": "166",
+      "today_stars": "173 stars today"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "16865",
+      "forks": "1141",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "92643",
+      "forks": "13471",
+      "today_stars": "110 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "candle",
+      "full_name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": "17600",
+      "forks": "1145",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "19050",
+      "forks": "717",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "full_name": "solana-labs/solana",
+      "url": "https://github.com/solana-labs/solana",
+      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "language": "Rust",
+      "stars": "14234",
+      "forks": "4990",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5882",
+      "forks": "431",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "858",
+      "forks": "421",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "36635",
+      "forks": "1147",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "46695",
+      "forks": "2203",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "17370",
+      "forks": "579",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "61178",
+      "forks": "1753",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "Xerxes-2",
+      "name": "clewdr",
+      "full_name": "Xerxes-2/clewdr",
+      "url": "https://github.com/Xerxes-2/clewdr",
+      "description": "High Performance LLM Reverse Proxy",
+      "language": "Rust",
+      "stars": "321",
+      "forks": "57",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "afnanenayet",
+      "name": "diffsitter",
+      "full_name": "afnanenayet/diffsitter",
+      "url": "https://github.com/afnanenayet/diffsitter",
+      "description": "A tree-sitter based AST difftool to get meaningful semantic diffs",
+      "language": "Rust",
+      "stars": "2096",
+      "forks": "39",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "14582",
+      "forks": "1096",
+      "today_stars": "16 stars today"
+    }
+  ]
+}

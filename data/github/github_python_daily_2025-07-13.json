@@ -1,0 +1,227 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-07-13 01:23:10",
+  "repositories": [
+    {
+      "author": "snap-stanford",
+      "name": "Biomni",
+      "full_name": "snap-stanford/Biomni",
+      "url": "https://github.com/snap-stanford/Biomni",
+      "description": "Biomni: a general-purpose biomedical AI agent",
+      "language": "Python",
+      "stars": "1495",
+      "forks": "161",
+      "today_stars": "203 stars today"
+    },
+    {
+      "author": "getzep",
+      "name": "graphiti",
+      "full_name": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "language": "Python",
+      "stars": "12709",
+      "forks": "1081",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "landing-ai",
+      "name": "agentic-doc",
+      "full_name": "landing-ai/agentic-doc",
+      "url": "https://github.com/landing-ai/agentic-doc",
+      "description": "Python library for Agentic Document Extraction from LandingAI",
+      "language": "Python",
+      "stars": "953",
+      "forks": "97",
+      "today_stars": "131 stars today"
+    },
+    {
+      "author": "ocrmypdf",
+      "name": "OCRmyPDF",
+      "full_name": "ocrmypdf/OCRmyPDF",
+      "url": "https://github.com/ocrmypdf/OCRmyPDF",
+      "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+      "language": "Python",
+      "stars": "30199",
+      "forks": "2078",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "psf",
+      "name": "black",
+      "full_name": "psf/black",
+      "url": "https://github.com/psf/black",
+      "description": "The uncompromising Python code formatter",
+      "language": "Python",
+      "stars": "40568",
+      "forks": "2606",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "WebAgent",
+      "full_name": "Alibaba-NLP/WebAgent",
+      "url": "https://github.com/Alibaba-NLP/WebAgent",
+      "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+      "language": "Python",
+      "stars": "3797",
+      "forks": "275",
+      "today_stars": "209 stars today"
+    },
+    {
+      "author": "odoo",
+      "name": "odoo",
+      "full_name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": "44231",
+      "forks": "28649",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": "176860",
+      "forks": "45872",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry",
+      "full_name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": "41416",
+      "forks": "4388",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "EleutherAI",
+      "name": "lm-evaluation-harness",
+      "full_name": "EleutherAI/lm-evaluation-harness",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+      "description": "A framework for few-shot evaluation of language models.",
+      "language": "Python",
+      "stars": "9531",
+      "forks": "2534",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": "65322",
+      "forks": "7473",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "17194",
+      "forks": "1206",
+      "today_stars": "196 stars today"
+    },
+    {
+      "author": "infiniflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+      "language": "Python",
+      "stars": "59688",
+      "forks": "5958",
+      "today_stars": "71 stars today"
+    },
+    {
+      "author": "jax-ml",
+      "name": "jax",
+      "full_name": "jax-ml/jax",
+      "url": "https://github.com/jax-ml/jax",
+      "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+      "language": "Python",
+      "stars": "32777",
+      "forks": "3097",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "langchain-ai",
+      "name": "langgraph",
+      "full_name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient language agents as graphs.",
+      "language": "Python",
+      "stars": "15600",
+      "forks": "2680",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "agno-agi",
+      "name": "agno",
+      "full_name": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno",
+      "description": "Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.",
+      "language": "Python",
+      "stars": "29770",
+      "forks": "3788",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": "52077",
+      "forks": "8663",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "coleam00",
+      "name": "ai-agents-masterclass",
+      "full_name": "coleam00/ai-agents-masterclass",
+      "url": "https://github.com/coleam00/ai-agents-masterclass",
+      "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+      "language": "Python",
+      "stars": "2688",
+      "forks": "1125",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "lukas-blecher",
+      "name": "LaTeX-OCR",
+      "full_name": "lukas-blecher/LaTeX-OCR",
+      "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+      "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+      "language": "Python",
+      "stars": "14926",
+      "forks": "1203",
+      "today_stars": "182 stars today"
+    },
+    {
+      "author": "markqvist",
+      "name": "Reticulum",
+      "full_name": "markqvist/Reticulum",
+      "url": "https://github.com/markqvist/Reticulum",
+      "description": "The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.",
+      "language": "Python",
+      "stars": "2861",
+      "forks": "193",
+      "today_stars": "50 stars today"
+    }
+  ]
+}

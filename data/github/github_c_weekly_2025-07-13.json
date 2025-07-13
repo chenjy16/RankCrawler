@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-13 01:25:08",
+  "repositories": [
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5992",
+      "forks": "879",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8421",
+      "forks": "2490",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11938",
+      "forks": "2807",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "14004",
+      "forks": "2163",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9687",
+      "forks": "3306",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "65518",
+      "forks": "8545",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "284",
+      "forks": "48",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20155",
+      "forks": "3703",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13433",
+      "forks": "800",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4270",
+      "forks": "719",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）",
+      "language": "C",
+      "stars": "6308",
+      "forks": "695",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "ripplebiz",
+      "name": "MeshCore",
+      "full_name": "ripplebiz/MeshCore",
+      "url": "https://github.com/ripplebiz/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "stars": "724",
+      "forks": "107",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19604",
+      "forks": "1624",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15542",
+      "forks": "3558",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69971",
+      "forks": "24120",
+      "today_stars": "110 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "197486",
+      "forks": "56912",
+      "today_stars": "538 stars this week"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21560",
+      "forks": "3979",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15781",
+      "forks": "7751",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "peng-zhihui",
+      "name": "ElectronBot",
+      "full_name": "peng-zhihui/ElectronBot",
+      "url": "https://github.com/peng-zhihui/ElectronBot",
+      "description": "",
+      "language": "C",
+      "stars": "8765",
+      "forks": "1987",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "erincatto",
+      "name": "box2d",
+      "full_name": "erincatto/box2d",
+      "url": "https://github.com/erincatto/box2d",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": "8948",
+      "forks": "1646",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39239",
+      "forks": "7907",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "libsql",
+      "full_name": "tursodatabase/libsql",
+      "url": "https://github.com/tursodatabase/libsql",
+      "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+      "language": "C",
+      "stars": "15171",
+      "forks": "408",
+      "today_stars": "135 stars this week"
+    }
+  ]
+}
