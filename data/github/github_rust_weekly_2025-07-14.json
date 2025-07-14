@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-07-14 01:21:14",
+  "repositories": [
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "4709",
+      "forks": "213",
+      "today_stars": "3,362 stars this week"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "28230",
+      "forks": "927",
+      "today_stars": "2,065 stars this week"
+    },
+    {
+      "author": "smallcloudai",
+      "name": "refact",
+      "full_name": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "language": "Rust",
+      "stars": "2936",
+      "forks": "241",
+      "today_stars": "531 stars this week"
+    },
+    {
+      "author": "vosen",
+      "name": "ZLUDA",
+      "full_name": "vosen/ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "stars": "12618",
+      "forks": "787",
+      "today_stars": "617 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "12022",
+      "forks": "455",
+      "today_stars": "325 stars this week"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "16266",
+      "forks": "1378",
+      "today_stars": "661 stars this week"
+    },
+    {
+      "author": "huggingface",
+      "name": "candle",
+      "full_name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": "17610",
+      "forks": "1145",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7449",
+      "forks": "1542",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "26505",
+      "forks": "563",
+      "today_stars": "213 stars this week"
+    },
+    {
+      "author": "restatedev",
+      "name": "restate",
+      "full_name": "restatedev/restate",
+      "url": "https://github.com/restatedev/restate",
+      "description": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+      "language": "Rust",
+      "stars": "2659",
+      "forks": "88",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "4640",
+      "forks": "201",
+      "today_stars": "242 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105001",
+      "forks": "13538",
+      "today_stars": "203 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24626",
+      "forks": "1433",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "5650",
+      "forks": "487",
+      "today_stars": "185 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "92717",
+      "forks": "13486",
+      "today_stars": "646 stars this week"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25145",
+      "forks": "767",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "30407",
+      "forks": "1821",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "24654",
+      "forks": "1696",
+      "today_stars": "149 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10335",
+      "forks": "835",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2163",
+      "forks": "169",
+      "today_stars": "29 stars this week"
+    }
+  ]
+}
