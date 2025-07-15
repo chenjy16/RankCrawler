@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-15 01:21:07",
+  "repositories": [
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "9623",
+      "forks": "346",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "16582",
+      "forks": "1395",
+      "today_stars": "401 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38545",
+      "forks": "2916",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40554",
+      "forks": "3993",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3660",
+      "forks": "1182",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "30995",
+      "forks": "3202",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "26669",
+      "forks": "570",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "restatedev",
+      "name": "restate",
+      "full_name": "restatedev/restate",
+      "url": "https://github.com/restatedev/restate",
+      "description": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+      "language": "Rust",
+      "stars": "2682",
+      "forks": "88",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "Xerxes-2",
+      "name": "clewdr",
+      "full_name": "Xerxes-2/clewdr",
+      "url": "https://github.com/Xerxes-2/clewdr",
+      "description": "High Performance LLM Reverse Proxy",
+      "language": "Rust",
+      "stars": "356",
+      "forks": "63",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "tokenizers",
+      "full_name": "huggingface/tokenizers",
+      "url": "https://github.com/huggingface/tokenizers",
+      "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+      "language": "Rust",
+      "stars": "9891",
+      "forks": "934",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16376",
+      "forks": "3708",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "SeaQL",
+      "name": "sea-orm",
+      "full_name": "SeaQL/sea-orm",
+      "url": "https://github.com/SeaQL/sea-orm",
+      "description": "🐚 An async & dynamic ORM for Rust",
+      "language": "Rust",
+      "stars": "8459",
+      "forks": "594",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "25777",
+      "forks": "1782",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "61363",
+      "forks": "1761",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "46789",
+      "forks": "2204",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "13974",
+      "forks": "436",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "tock",
+      "name": "tock",
+      "full_name": "tock/tock",
+      "url": "https://github.com/tock/tock",
+      "description": "A secure embedded operating system for microcontrollers",
+      "language": "Rust",
+      "stars": "5912",
+      "forks": "755",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "renoise",
+      "name": "pattrns",
+      "full_name": "renoise/pattrns",
+      "url": "https://github.com/renoise/pattrns",
+      "description": "Experimental imperative-style music sequence generator engine",
+      "language": "Rust",
+      "stars": "175",
+      "forks": "5",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "katanemo",
+      "name": "archgw",
+      "full_name": "katanemo/archgw",
+      "url": "https://github.com/katanemo/archgw",
+      "description": "The edge and AI gateway for agentic apps. Arch handles the messy low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. It’s a language and framework friendly infrastructure layer designed to help you build and ship agentic apps faster.",
+      "language": "Rust",
+      "stars": "3185",
+      "forks": "172",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "alexpasmantier",
+      "name": "television",
+      "full_name": "alexpasmantier/television",
+      "url": "https://github.com/alexpasmantier/television",
+      "description": "A cross-platform, fast and extensible general purpose fuzzy finder 📺",
+      "language": "Rust",
+      "stars": "3105",
+      "forks": "69",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "59216",
+      "forks": "10703",
+      "today_stars": "19 stars today"
+    }
+  ]
+}

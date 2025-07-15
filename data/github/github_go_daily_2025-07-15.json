@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-15 01:20:48",
+  "repositories": [
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "146497",
+      "forks": "12382",
+      "today_stars": "100 stars today"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
+      "language": "Go",
+      "stars": "523",
+      "forks": "145",
+      "today_stars": "186 stars today"
+    },
+    {
+      "author": "Forceu",
+      "name": "Gokapi",
+      "full_name": "Forceu/Gokapi",
+      "url": "https://github.com/Forceu/Gokapi",
+      "description": "Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
+      "language": "Go",
+      "stars": "2111",
+      "forks": "98",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "full_name": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "stars": "24585",
+      "forks": "1248",
+      "today_stars": "60 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "29933",
+      "forks": "4420",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "5941",
+      "forks": "1202",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "IBM",
+      "name": "sarama",
+      "full_name": "IBM/sarama",
+      "url": "https://github.com/IBM/sarama",
+      "description": "Sarama is a Go library for Apache Kafka.",
+      "language": "Go",
+      "stars": "12100",
+      "forks": "1817",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "25084",
+      "forks": "2958",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "jeessy2",
+      "name": "ddns-go",
+      "full_name": "jeessy2/ddns-go",
+      "url": "https://github.com/jeessy2/ddns-go",
+      "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+      "language": "Go",
+      "stars": "14764",
+      "forks": "1668",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "go-gost",
+      "name": "gost",
+      "full_name": "go-gost/gost",
+      "url": "https://github.com/go-gost/gost",
+      "description": "GO Simple Tunnel - a simple tunnel written in golang",
+      "language": "Go",
+      "stars": "5375",
+      "forks": "604",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "11923",
+      "forks": "793",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32766",
+      "forks": "4407",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29104",
+      "forks": "1416",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22009",
+      "forks": "3304",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "29719",
+      "forks": "2588",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "full_name": "bettercap/bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": "17835",
+      "forks": "1545",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "pion",
+      "name": "webrtc",
+      "full_name": "pion/webrtc",
+      "url": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": "15057",
+      "forks": "1754",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14577",
+      "forks": "4152",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Ullaakut",
+      "name": "cameradar",
+      "full_name": "Ullaakut/cameradar",
+      "url": "https://github.com/Ullaakut/cameradar",
+      "description": "Cameradar hacks its way into RTSP videosurveillance cameras",
+      "language": "Go",
+      "stars": "4530",
+      "forks": "559",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "weaviate",
+      "name": "weaviate",
+      "full_name": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "language": "Go",
+      "stars": "13914",
+      "forks": "998",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "full_name": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": "37044",
+      "forks": "8020",
+      "today_stars": "4 stars today"
+    }
+  ]
+}

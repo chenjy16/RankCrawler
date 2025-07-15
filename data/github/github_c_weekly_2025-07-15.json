@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-15 01:21:52",
+  "repositories": [
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "11950",
+      "forks": "2805",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "5992",
+      "forks": "880",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4277",
+      "forks": "717",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13478",
+      "forks": "805",
+      "today_stars": "171 stars this week"
+    },
+    {
+      "author": "htop-dev",
+      "name": "htop",
+      "full_name": "htop-dev/htop",
+      "url": "https://github.com/htop-dev/htop",
+      "description": "htop - an interactive process viewer",
+      "language": "C",
+      "stars": "7226",
+      "forks": "503",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "65565",
+      "forks": "8545",
+      "today_stars": "176 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3110",
+      "forks": "512",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15791",
+      "forks": "7754",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "69994",
+      "forks": "24121",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15557",
+      "forks": "3561",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20178",
+      "forks": "3709",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9701",
+      "forks": "3305",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12467",
+      "forks": "7638",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2835",
+      "forks": "1326",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "vanhauser-thc",
+      "name": "thc-hydra",
+      "full_name": "vanhauser-thc/thc-hydra",
+      "url": "https://github.com/vanhauser-thc/thc-hydra",
+      "description": "hydra",
+      "language": "C",
+      "stars": "10604",
+      "forks": "2195",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27207",
+      "forks": "2583",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "291",
+      "forks": "51",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "846",
+      "forks": "1588",
+      "today_stars": "4 stars this week"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39248",
+      "forks": "7906",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）",
+      "language": "C",
+      "stars": "6317",
+      "forks": "694",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "erincatto",
+      "name": "box2d",
+      "full_name": "erincatto/box2d",
+      "url": "https://github.com/erincatto/box2d",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": "8961",
+      "forks": "1647",
+      "today_stars": "36 stars this week"
+    }
+  ]
+}
