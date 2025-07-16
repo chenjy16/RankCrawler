@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-16 01:18:24",
+  "repositories": [
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21084",
+      "forks": "2458",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3704",
+      "forks": "2885",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17010",
+      "forks": "1491",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22020",
+      "forks": "3304",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
+      "language": "Go",
+      "stars": "571",
+      "forks": "158",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "30571",
+      "forks": "1666",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "ArvinLovegood",
+      "name": "go-stock",
+      "full_name": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "stars": "1962",
+      "forks": "321",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29136",
+      "forks": "4493",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18659",
+      "forks": "1379",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "27718",
+      "forks": "2708",
+      "today_stars": "101 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "buildkit",
+      "full_name": "moby/buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "stars": "9218",
+      "forks": "1264",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "18962",
+      "forks": "3609",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38528",
+      "forks": "4059",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "distribution",
+      "name": "distribution",
+      "full_name": "distribution/distribution",
+      "url": "https://github.com/distribution/distribution",
+      "description": "The toolkit to pack, ship, store, and deliver container content",
+      "language": "Go",
+      "stars": "9698",
+      "forks": "2626",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "59478",
+      "forks": "9662",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41119",
+      "forks": "2963",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32775",
+      "forks": "4406",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35796",
+      "forks": "5457",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19750",
+      "forks": "883",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "lxc",
+      "name": "incus",
+      "full_name": "lxc/incus",
+      "url": "https://github.com/lxc/incus",
+      "description": "Powerful system container and virtual machine manager",
+      "language": "Go",
+      "stars": "3787",
+      "forks": "324",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "35989",
+      "forks": "3298",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21484",
+      "forks": "1676",
+      "today_stars": "16 stars today"
+    }
+  ]
+}

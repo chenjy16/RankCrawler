@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-16 01:19:20",
+  "repositories": [
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20190",
+      "forks": "3709",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "6680",
+      "forks": "773",
+      "today_stars": "185 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12909",
+      "forks": "1902",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "197694",
+      "forks": "56955",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "eunomia-bpf",
+      "name": "bpf-developer-tutorial",
+      "full_name": "eunomia-bpf/bpf-developer-tutorial",
+      "url": "https://github.com/eunomia-bpf/bpf-developer-tutorial",
+      "description": "eBPF Developer Tutorial: Learning eBPF Step by Step with Examples",
+      "language": "C",
+      "stars": "3324",
+      "forks": "462",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11697",
+      "forks": "3339",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6257",
+      "forks": "2579",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1676",
+      "forks": "170",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "citusdata",
+      "name": "pg_cron",
+      "full_name": "citusdata/pg_cron",
+      "url": "https://github.com/citusdata/pg_cron",
+      "description": "Run periodic jobs in PostgreSQL",
+      "language": "C",
+      "stars": "3378",
+      "forks": "222",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libbpf",
+      "name": "libbpf",
+      "full_name": "libbpf/libbpf",
+      "url": "https://github.com/libbpf/libbpf",
+      "description": "Automated upstream mirror for libbpf stand-alone build.",
+      "language": "C",
+      "stars": "2436",
+      "forks": "451",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "flightlessmango",
+      "name": "MangoHud",
+      "full_name": "flightlessmango/MangoHud",
+      "url": "https://github.com/flightlessmango/MangoHud",
+      "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb",
+      "language": "C",
+      "stars": "7415",
+      "forks": "346",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zmkfirmware",
+      "name": "zmk",
+      "full_name": "zmkfirmware/zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "stars": "3386",
+      "forks": "3371",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3615",
+      "forks": "1619",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3231",
+      "forks": "461",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13982",
+      "forks": "5576",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "quickjs-ng",
+      "name": "quickjs",
+      "full_name": "quickjs-ng/quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "stars": "1837",
+      "forks": "187",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30836",
+      "forks": "19577",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "27960",
+      "forks": "10663",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "libexpat",
+      "name": "libexpat",
+      "full_name": "libexpat/libexpat",
+      "url": "https://github.com/libexpat/libexpat",
+      "description": "🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub",
+      "language": "C",
+      "stars": "1212",
+      "forks": "470",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10533",
+      "forks": "5606",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7039",
+      "forks": "1725",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23454",
+      "forks": "4938",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "linux-rdma",
+      "name": "rdma-core",
+      "full_name": "linux-rdma/rdma-core",
+      "url": "https://github.com/linux-rdma/rdma-core",
+      "description": "RDMA core userspace libraries and daemons",
+      "language": "C",
+      "stars": "1864",
+      "forks": "763",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
