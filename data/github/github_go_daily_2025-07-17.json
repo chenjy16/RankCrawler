@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-17 01:19:23",
+  "repositories": [
+    {
+      "author": "argoproj",
+      "name": "argo-workflows",
+      "full_name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "stars": "15840",
+      "forks": "3341",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hypermodeinc",
+      "name": "badger",
+      "full_name": "hypermodeinc/badger",
+      "url": "https://github.com/hypermodeinc/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": "14785",
+      "forks": "1234",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "bcicen",
+      "name": "ctop",
+      "full_name": "bcicen/ctop",
+      "url": "https://github.com/bcicen/ctop",
+      "description": "Top-like interface for container metrics",
+      "language": "Go",
+      "stars": "16569",
+      "forks": "562",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17332",
+      "forks": "1477",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "27760",
+      "forks": "2709",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3155",
+      "forks": "701",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tmc",
+      "name": "langchaingo",
+      "full_name": "tmc/langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+      "language": "Go",
+      "stars": "7161",
+      "forks": "890",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "21520",
+      "forks": "1677",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7343",
+      "forks": "954",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "getzep",
+      "name": "zep",
+      "full_name": "getzep/zep",
+      "url": "https://github.com/getzep/zep",
+      "description": "Zep | Examples, Integrations, & More",
+      "language": "Go",
+      "stars": "3383",
+      "forks": "513",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22020",
+      "forks": "4525",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "36011",
+      "forks": "3300",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "harvester",
+      "name": "harvester",
+      "full_name": "harvester/harvester",
+      "url": "https://github.com/harvester/harvester",
+      "description": "Open source hyperconverged infrastructure (HCI) software",
+      "language": "Go",
+      "stars": "4530",
+      "forks": "369",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49848",
+      "forks": "10109",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "1898",
+      "forks": "333",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-go",
+      "full_name": "testcontainers/testcontainers-go",
+      "url": "https://github.com/testcontainers/testcontainers-go",
+      "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+      "language": "Go",
+      "stars": "4193",
+      "forks": "551",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38536",
+      "forks": "4061",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "38733",
+      "forks": "5975",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "full_name": "kubernetes/autoscaler",
+      "url": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": "8480",
+      "forks": "4148",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

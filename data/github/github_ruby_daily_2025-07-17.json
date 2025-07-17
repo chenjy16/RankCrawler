@@ -1,0 +1,216 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-07-17 01:21:36",
+  "repositories": [
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22766",
+      "forks": "5435",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57114",
+      "forks": "21872",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "12879",
+      "forks": "599",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system",
+      "language": "Ruby",
+      "stars": "4946",
+      "forks": "842",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
+      "language": "Ruby",
+      "stars": "5554",
+      "forks": "157",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "320",
+      "forks": "45",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44551",
+      "forks": "8572",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14741",
+      "forks": "5109",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "366",
+      "forks": "395",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "antiwork",
+      "name": "gumroad",
+      "full_name": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "Sell stuff and see what sticks",
+      "language": "Ruby",
+      "stars": "6482",
+      "forks": "1069",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24216",
+      "forks": "5539",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13341",
+      "forks": "2452",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44246",
+      "forks": "10340",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "Shopify",
+      "name": "liquid",
+      "full_name": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "stars": "11411",
+      "forks": "1467",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40348",
+      "forks": "5907",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1033",
+      "forks": "222",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "riscv-software-src",
+      "name": "riscv-unified-db",
+      "full_name": "riscv-software-src/riscv-unified-db",
+      "url": "https://github.com/riscv-software-src/riscv-unified-db",
+      "description": "Machine-readable database of the RISC-V specification, and tools to generate various views",
+      "language": "Ruby",
+      "stars": "80",
+      "forks": "50",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5133",
+      "forks": "1145",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14476",
+      "forks": "12923",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
