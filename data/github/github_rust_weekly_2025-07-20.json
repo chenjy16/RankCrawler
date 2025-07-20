@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-07-20 01:26:18",
+  "repositories": [
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "16887",
+      "forks": "1426",
+      "today_stars": "886 stars this week"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38865",
+      "forks": "2941",
+      "today_stars": "401 stars this week"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "21338",
+      "forks": "1936",
+      "today_stars": "96 stars this week"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28222",
+      "forks": "2040",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "Xerxes-2",
+      "name": "clewdr",
+      "full_name": "Xerxes-2/clewdr",
+      "url": "https://github.com/Xerxes-2/clewdr",
+      "description": "High Performance LLM Reverse Proxy",
+      "language": "Rust",
+      "stars": "395",
+      "forks": "72",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "restatedev",
+      "name": "restate",
+      "full_name": "restatedev/restate",
+      "url": "https://github.com/restatedev/restate",
+      "description": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+      "language": "Rust",
+      "stars": "2712",
+      "forks": "88",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "27821",
+      "forks": "1838",
+      "today_stars": "152 stars this week"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "5826",
+      "forks": "499",
+      "today_stars": "218 stars this week"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "7446",
+      "forks": "255",
+      "today_stars": "153 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1230",
+      "forks": "202",
+      "today_stars": "203 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "93479",
+      "forks": "13597",
+      "today_stars": "888 stars this week"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "14670",
+      "forks": "1101",
+      "today_stars": "96 stars this week"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "11685",
+      "forks": "623",
+      "today_stars": "131 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "62674",
+      "forks": "4736",
+      "today_stars": "325 stars this week"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "5748",
+      "forks": "249",
+      "today_stars": "1,198 stars this week"
+    },
+    {
+      "author": "katanemo",
+      "name": "archgw",
+      "full_name": "katanemo/archgw",
+      "url": "https://github.com/katanemo/archgw",
+      "description": "The edge and AI gateway for agents. Arch is an intelligent proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to any LLM. It's a framework-agnostic infrastructure layer that helps you build agents faster.",
+      "language": "Rust",
+      "stars": "3303",
+      "forks": "175",
+      "today_stars": "216 stars this week"
+    },
+    {
+      "author": "databendlabs",
+      "name": "databend",
+      "full_name": "databendlabs/databend",
+      "url": "https://github.com/databendlabs/databend",
+      "description": "𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",
+      "language": "Rust",
+      "stars": "8647",
+      "forks": "795",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105148",
+      "forks": "13554",
+      "today_stars": "213 stars this week"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4440",
+      "forks": "1595",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "8137",
+      "forks": "661",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "17645",
+      "forks": "569",
+      "today_stars": "278 stars this week"
+    },
+    {
+      "author": "getzola",
+      "name": "zola",
+      "full_name": "getzola/zola",
+      "url": "https://github.com/getzola/zola",
+      "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+      "language": "Rust",
+      "stars": "15576",
+      "forks": "1057",
+      "today_stars": "45 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-20 01:25:53",
+  "repositories": [
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15290",
+      "forks": "1856",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "17978",
+      "forks": "1424",
+      "today_stars": "257 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "22170",
+      "forks": "1708",
+      "today_stars": "232 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15916",
+      "forks": "5672",
+      "today_stars": "115 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "k6",
+      "full_name": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript",
+      "language": "Go",
+      "stars": "28294",
+      "forks": "1383",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mcp-grafana",
+      "full_name": "grafana/mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "language": "Go",
+      "stars": "1216",
+      "forks": "105",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "full_name": "kubernetes-sigs/kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": "11581",
+      "forks": "2322",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5420",
+      "forks": "1687",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "full_name": "gravitational/teleport",
+      "url": "https://github.com/gravitational/teleport",
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "language": "Go",
+      "stars": "18814",
+      "forks": "1882",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3718",
+      "forks": "2891",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22027",
+      "forks": "4526",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13346",
+      "forks": "2322",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41167",
+      "forks": "2966",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "83209",
+      "forks": "8265",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "psviderski",
+      "name": "uncloud",
+      "full_name": "psviderski/uncloud",
+      "url": "https://github.com/psviderski/uncloud",
+      "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
+      "language": "Go",
+      "stars": "2023",
+      "forks": "52",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "bbolt",
+      "full_name": "etcd-io/bbolt",
+      "url": "https://github.com/etcd-io/bbolt",
+      "description": "An embedded key/value database for Go.",
+      "language": "Go",
+      "stars": "8932",
+      "forks": "692",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jaegertracing",
+      "name": "jaeger",
+      "full_name": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "stars": "21610",
+      "forks": "2611",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "EndlessCheng",
+      "name": "codeforces-go",
+      "full_name": "EndlessCheng/codeforces-go",
+      "url": "https://github.com/EndlessCheng/codeforces-go",
+      "description": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+      "language": "Go",
+      "stars": "7010",
+      "forks": "715",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26226",
+      "forks": "991",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "caarlos0",
+      "name": "env",
+      "full_name": "caarlos0/env",
+      "url": "https://github.com/caarlos0/env",
+      "description": "A simple, zero-dependencies library to parse environment variables into structs",
+      "language": "Go",
+      "stars": "5641",
+      "forks": "267",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38560",
+      "forks": "4064",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "116411",
+      "forks": "40967",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "146974",
+      "forks": "12453",
+      "today_stars": "94 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-azurerm",
+      "full_name": "hashicorp/terraform-provider-azurerm",
+      "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+      "description": "Terraform provider for Azure Resource Manager",
+      "language": "Go",
+      "stars": "4795",
+      "forks": "4819",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

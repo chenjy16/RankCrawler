@@ -1,0 +1,161 @@
+{
+  "language": "javascript",
+  "period": "weekly",
+  "fetch_time": "2025-07-20 01:25:20",
+  "repositories": [
+    {
+      "author": "gorhill",
+      "name": "uBlock",
+      "full_name": "gorhill/uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": "56415",
+      "forks": "3603",
+      "today_stars": "1,142 stars this week"
+    },
+    {
+      "author": "bluewave-labs",
+      "name": "Checkmate",
+      "full_name": "bluewave-labs/Checkmate",
+      "url": "https://github.com/bluewave-labs/Checkmate",
+      "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
+      "language": "JavaScript",
+      "stars": "6973",
+      "forks": "448",
+      "today_stars": "788 stars this week"
+    },
+    {
+      "author": "Mintplex-Labs",
+      "name": "anything-llm",
+      "full_name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.",
+      "language": "JavaScript",
+      "stars": "46766",
+      "forks": "4733",
+      "today_stars": "373 stars this week"
+    },
+    {
+      "author": "leaningtech",
+      "name": "webvm",
+      "full_name": "leaningtech/webvm",
+      "url": "https://github.com/leaningtech/webvm",
+      "description": "Virtual Machine for the Web",
+      "language": "JavaScript",
+      "stars": "15236",
+      "forks": "2693",
+      "today_stars": "725 stars this week"
+    },
+    {
+      "author": "GitSquared",
+      "name": "edex-ui",
+      "full_name": "GitSquared/edex-ui",
+      "url": "https://github.com/GitSquared/edex-ui",
+      "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+      "language": "JavaScript",
+      "stars": "42642",
+      "forks": "2780",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "remoteintech",
+      "name": "remote-jobs",
+      "full_name": "remoteintech/remote-jobs",
+      "url": "https://github.com/remoteintech/remote-jobs",
+      "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+      "language": "JavaScript",
+      "stars": "32860",
+      "forks": "3403",
+      "today_stars": "666 stars this week"
+    },
+    {
+      "author": "nodejs",
+      "name": "node",
+      "full_name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": "112274",
+      "forks": "32203",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "react",
+      "full_name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": "237415",
+      "forks": "48958",
+      "today_stars": "292 stars this week"
+    },
+    {
+      "author": "vercel",
+      "name": "next.js",
+      "full_name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": "133294",
+      "forks": "28876",
+      "today_stars": "246 stars this week"
+    },
+    {
+      "author": "academind",
+      "name": "react-complete-guide-course-resources",
+      "full_name": "academind/react-complete-guide-course-resources",
+      "url": "https://github.com/academind/react-complete-guide-course-resources",
+      "description": "React - The Complete Guide Course Resources (Code, Attachments, Slides)",
+      "language": "JavaScript",
+      "stars": "3303",
+      "forks": "2545",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "sveltejs",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": "83456",
+      "forks": "4569",
+      "today_stars": "113 stars this week"
+    },
+    {
+      "author": "louislam",
+      "name": "uptime-kuma",
+      "full_name": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "stars": "72096",
+      "forks": "6392",
+      "today_stars": "315 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "monaco-editor",
+      "full_name": "microsoft/monaco-editor",
+      "url": "https://github.com/microsoft/monaco-editor",
+      "description": "A browser based code editor",
+      "language": "JavaScript",
+      "stars": "43281",
+      "forks": "3820",
+      "today_stars": "88 stars this week"
+    },
+    {
+      "author": "songquanpeng",
+      "name": "one-api",
+      "full_name": "songquanpeng/one-api",
+      "url": "https://github.com/songquanpeng/one-api",
+      "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+      "language": "JavaScript",
+      "stars": "26240",
+      "forks": "5291",
+      "today_stars": "152 stars this week"
+    }
+  ]
+}
