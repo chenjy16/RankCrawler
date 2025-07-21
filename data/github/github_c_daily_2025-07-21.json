@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-21 01:24:05",
+  "repositories": [
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20623",
+      "forks": "8304",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23073",
+      "forks": "11383",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "SpaghettiKart",
+      "full_name": "HarbourMasters/SpaghettiKart",
+      "url": "https://github.com/HarbourMasters/SpaghettiKart",
+      "description": "",
+      "language": "C",
+      "stars": "1536",
+      "forks": "79",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32227",
+      "forks": "1650",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "13998",
+      "forks": "5577",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12875",
+      "forks": "2263",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "125371",
+      "forks": "11744",
+      "today_stars": "60 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11617",
+      "forks": "1923",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11725",
+      "forks": "3340",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "4862",
+      "forks": "433",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8269",
+      "forks": "3087",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5179",
+      "forks": "235",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "26938",
+      "forks": "2033",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "11971",
+      "forks": "841",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3367",
+      "forks": "1306",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ish-app",
+      "name": "ish",
+      "full_name": "ish-app/ish",
+      "url": "https://github.com/ish-app/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "stars": "18266",
+      "forks": "1087",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198004",
+      "forks": "57018",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "zmkfirmware",
+      "name": "zmk",
+      "full_name": "zmkfirmware/zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "stars": "3398",
+      "forks": "3381",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "gnuton",
+      "name": "asuswrt-merlin.ng",
+      "full_name": "gnuton/asuswrt-merlin.ng",
+      "url": "https://github.com/gnuton/asuswrt-merlin.ng",
+      "description": "Extends the support of Merlin firmware to more ASUS routers",
+      "language": "C",
+      "stars": "1804",
+      "forks": "99",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "moonlight-stream",
+      "name": "moonlight-android",
+      "full_name": "moonlight-stream/moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "stars": "5372",
+      "forks": "846",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11747",
+      "forks": "968",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27289",
+      "forks": "2597",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

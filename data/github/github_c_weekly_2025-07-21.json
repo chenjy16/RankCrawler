@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-21 01:24:12",
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198004",
+      "forks": "57018",
+      "today_stars": "535 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20623",
+      "forks": "8304",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "6750",
+      "forks": "786",
+      "today_stars": "323 stars this week"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32227",
+      "forks": "1650",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "palera1n",
+      "name": "palera1n",
+      "full_name": "palera1n/palera1n",
+      "url": "https://github.com/palera1n/palera1n",
+      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+      "language": "C",
+      "stars": "5612",
+      "forks": "669",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "aws",
+      "name": "pgactive",
+      "full_name": "aws/pgactive",
+      "url": "https://github.com/aws/pgactive",
+      "description": "",
+      "language": "C",
+      "stars": "980",
+      "forks": "26",
+      "today_stars": "660 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3160",
+      "forks": "543",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11374",
+      "forks": "1854",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12944",
+      "forks": "1907",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "Tencent",
+      "name": "puerts",
+      "full_name": "Tencent/puerts",
+      "url": "https://github.com/Tencent/puerts",
+      "description": "PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.",
+      "language": "C",
+      "stars": "5592",
+      "forks": "763",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13579",
+      "forks": "812",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15534",
+      "forks": "1741",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "PufferAI",
+      "name": "PufferLib",
+      "full_name": "PufferAI/PufferLib",
+      "url": "https://github.com/PufferAI/PufferLib",
+      "description": "Simplifying reinforcement learning for complex game environments",
+      "language": "C",
+      "stars": "2851",
+      "forks": "178",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20238",
+      "forks": "3717",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3623",
+      "forks": "1622",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30849",
+      "forks": "19575",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1734",
+      "forks": "175",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38366",
+      "forks": "6789",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5718",
+      "forks": "1208",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "65701",
+      "forks": "8559",
+      "today_stars": "189 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4771",
+      "forks": "928",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "714",
+      "forks": "3215",
+      "today_stars": "14 stars this week"
+    }
+  ]
+}
