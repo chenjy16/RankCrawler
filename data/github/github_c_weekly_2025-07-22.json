@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-22 01:20:10",
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198044",
+      "forks": "57029",
+      "today_stars": "498 stars this week"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15539",
+      "forks": "1742",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32237",
+      "forks": "1650",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "6762",
+      "forks": "788",
+      "today_stars": "327 stars this week"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11373",
+      "forks": "1855",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13595",
+      "forks": "812",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "Tencent",
+      "name": "puerts",
+      "full_name": "Tencent/puerts",
+      "url": "https://github.com/Tencent/puerts",
+      "description": "PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.",
+      "language": "C",
+      "stars": "5596",
+      "forks": "764",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20626",
+      "forks": "8305",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20244",
+      "forks": "3718",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12881",
+      "forks": "2264",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12952",
+      "forks": "1908",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1746",
+      "forks": "176",
+      "today_stars": "92 stars this week"
+    },
+    {
+      "author": "eunomia-bpf",
+      "name": "bpf-developer-tutorial",
+      "full_name": "eunomia-bpf/bpf-developer-tutorial",
+      "url": "https://github.com/eunomia-bpf/bpf-developer-tutorial",
+      "description": "eBPF Developer Tutorial: Learning eBPF Step by Step with Examples",
+      "language": "C",
+      "stars": "3357",
+      "forks": "464",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3165",
+      "forks": "547",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3625",
+      "forks": "1622",
+      "today_stars": "13 stars this week"
+    },
+    {
+      "author": "Cyan4973",
+      "name": "xxHash",
+      "full_name": "Cyan4973/xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "stars": "10041",
+      "forks": "843",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4773",
+      "forks": "929",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7072",
+      "forks": "1732",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19660",
+      "forks": "1628",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "quickjs-ng",
+      "name": "quickjs",
+      "full_name": "quickjs-ng/quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "stars": "1867",
+      "forks": "188",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "palera1n",
+      "name": "palera1n",
+      "full_name": "palera1n/palera1n",
+      "url": "https://github.com/palera1n/palera1n",
+      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+      "language": "C",
+      "stars": "5612",
+      "forks": "671",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31330",
+      "forks": "3070",
+      "today_stars": "78 stars this week"
+    }
+  ]
+}

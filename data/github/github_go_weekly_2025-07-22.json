@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-07-22 01:19:12",
+  "repositories": [
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "22379",
+      "forks": "1718",
+      "today_stars": "886 stars this week"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15976",
+      "forks": "5678",
+      "today_stars": "228 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "18451",
+      "forks": "1503",
+      "today_stars": "1,085 stars this week"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15530",
+      "forks": "1870",
+      "today_stars": "399 stars this week"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22067",
+      "forks": "3320",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27620",
+      "forks": "2636",
+      "today_stars": "116 stars this week"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+      "language": "Go",
+      "stars": "83244",
+      "forks": "8270",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "weaviate",
+      "name": "weaviate",
+      "full_name": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+      "language": "Go",
+      "stars": "13987",
+      "forks": "1007",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22386",
+      "forks": "4408",
+      "today_stars": "132 stars this week"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "11981",
+      "forks": "1288",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "147134",
+      "forks": "12474",
+      "today_stars": "714 stars this week"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "27892",
+      "forks": "2715",
+      "today_stars": "282 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13378",
+      "forks": "2327",
+      "today_stars": "71 stars this week"
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "full_name": "quii/learn-go-with-tests",
+      "url": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": "23018",
+      "forks": "2888",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "3964",
+      "forks": "628",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "getzep",
+      "name": "zep",
+      "full_name": "getzep/zep",
+      "url": "https://github.com/getzep/zep",
+      "description": "Zep | Examples, Integrations, & More",
+      "language": "Go",
+      "stars": "3410",
+      "forks": "518",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "hypermodeinc",
+      "name": "badger",
+      "full_name": "hypermodeinc/badger",
+      "url": "https://github.com/hypermodeinc/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": "14817",
+      "forks": "1235",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "9128",
+      "forks": "650",
+      "today_stars": "148 stars this week"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7379",
+      "forks": "953",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21110",
+      "forks": "2462",
+      "today_stars": "38 stars this week"
+    }
+  ]
+}

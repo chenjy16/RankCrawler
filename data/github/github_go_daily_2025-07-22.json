@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-22 01:19:05",
+  "repositories": [
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15530",
+      "forks": "1870",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "18451",
+      "forks": "1503",
+      "today_stars": "227 stars today"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "54724",
+      "forks": "2856",
+      "today_stars": "346 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "15976",
+      "forks": "5678",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "14333",
+      "forks": "354",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23816",
+      "forks": "1907",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2122",
+      "forks": "214",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49338",
+      "forks": "20987",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29223",
+      "forks": "1423",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "kitops-ml",
+      "name": "kitops",
+      "full_name": "kitops-ml/kitops",
+      "url": "https://github.com/kitops-ml/kitops",
+      "description": "An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.",
+      "language": "Go",
+      "stars": "1080",
+      "forks": "123",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "qichiyuhub",
+      "name": "rule",
+      "full_name": "qichiyuhub/rule",
+      "url": "https://github.com/qichiyuhub/rule",
+      "description": "Clash、Sing-box、等分流规则",
+      "language": "Go",
+      "stars": "608",
+      "forks": "580",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "147134",
+      "forks": "12474",
+      "today_stars": "97 stars today"
+    },
+    {
+      "author": "v2ray",
+      "name": "domain-list-community",
+      "full_name": "v2ray/domain-list-community",
+      "url": "https://github.com/v2ray/domain-list-community",
+      "description": "Community managed domain list",
+      "language": "Go",
+      "stars": "2463",
+      "forks": "459",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22034",
+      "forks": "4526",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22386",
+      "forks": "4408",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "22379",
+      "forks": "1718",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "96418",
+      "forks": "14234",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "everywall",
+      "name": "ladder",
+      "full_name": "everywall/ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+      "language": "Go",
+      "stars": "4967",
+      "forks": "204",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "donetick",
+      "name": "donetick",
+      "full_name": "donetick/donetick",
+      "url": "https://github.com/donetick/donetick",
+      "description": "Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized",
+      "language": "Go",
+      "stars": "888",
+      "forks": "37",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "garethgeorge",
+      "name": "backrest",
+      "full_name": "garethgeorge/backrest",
+      "url": "https://github.com/garethgeorge/backrest",
+      "description": "Backrest is a web UI and orchestrator for restic backup.",
+      "language": "Go",
+      "stars": "3447",
+      "forks": "90",
+      "today_stars": "37 stars today"
+    }
+  ]
+}
