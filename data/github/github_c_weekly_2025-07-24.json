@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-24 01:20:30",
+  "repositories": [
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32250",
+      "forks": "1650",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7794",
+      "forks": "2079",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15554",
+      "forks": "1747",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "ripplebiz",
+      "name": "MeshCore",
+      "full_name": "ripplebiz/MeshCore",
+      "url": "https://github.com/ripplebiz/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "stars": "765",
+      "forks": "115",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11376",
+      "forks": "1855",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38380",
+      "forks": "6796",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7079",
+      "forks": "1733",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12892",
+      "forks": "2266",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "htop-dev",
+      "name": "htop",
+      "full_name": "htop-dev/htop",
+      "url": "https://github.com/htop-dev/htop",
+      "description": "htop - an interactive process viewer",
+      "language": "C",
+      "stars": "7264",
+      "forks": "512",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4220",
+      "forks": "1579",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20631",
+      "forks": "8313",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11595",
+      "forks": "3444",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11748",
+      "forks": "3342",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "xiph",
+      "name": "rnnoise",
+      "full_name": "xiph/rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "stars": "4871",
+      "forks": "972",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12581",
+      "forks": "7681",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14008",
+      "forks": "5587",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3184",
+      "forks": "557",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13653",
+      "forks": "819",
+      "today_stars": "149 stars this week"
+    },
+    {
+      "author": "Tencent",
+      "name": "puerts",
+      "full_name": "Tencent/puerts",
+      "url": "https://github.com/Tencent/puerts",
+      "description": "PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.",
+      "language": "C",
+      "stars": "5599",
+      "forks": "764",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25548",
+      "forks": "3725",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4779",
+      "forks": "930",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9407",
+      "forks": "999",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "12974",
+      "forks": "1912",
+      "today_stars": "59 stars this week"
+    }
+  ]
+}

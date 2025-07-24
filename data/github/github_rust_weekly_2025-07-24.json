@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-07-24 01:19:50",
+  "repositories": [
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38935",
+      "forks": "2946",
+      "today_stars": "340 stars this week"
+    },
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "12163",
+      "forks": "642",
+      "today_stars": "588 stars this week"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4451",
+      "forks": "1602",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "raphamorim",
+      "name": "rio",
+      "full_name": "raphamorim/rio",
+      "url": "https://github.com/raphamorim/rio",
+      "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+      "language": "Rust",
+      "stars": "5403",
+      "forks": "203",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "27854",
+      "forks": "1845",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "21388",
+      "forks": "1945",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "28727",
+      "forks": "1987",
+      "today_stars": "224 stars this week"
+    },
+    {
+      "author": "gfx-rs",
+      "name": "wgpu",
+      "full_name": "gfx-rs/wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "stars": "14714",
+      "forks": "1104",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28260",
+      "forks": "2041",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3856",
+      "forks": "1195",
+      "today_stars": "169 stars this week"
+    },
+    {
+      "author": "fujiapple852",
+      "name": "trippy",
+      "full_name": "fujiapple852/trippy",
+      "url": "https://github.com/fujiapple852/trippy",
+      "description": "A network diagnostic tool",
+      "language": "Rust",
+      "stars": "5478",
+      "forks": "143",
+      "today_stars": "587 stars this week"
+    },
+    {
+      "author": "szabodanika",
+      "name": "microbin",
+      "full_name": "szabodanika/microbin",
+      "url": "https://github.com/szabodanika/microbin",
+      "description": "A secure, configurable file-sharing and URL shortening web app written in Rust.",
+      "language": "Rust",
+      "stars": "3712",
+      "forks": "232",
+      "today_stars": "263 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "5980",
+      "forks": "311",
+      "today_stars": "242 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "62368",
+      "forks": "1795",
+      "today_stars": "817 stars this week"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11864",
+      "forks": "336",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "katanemo",
+      "name": "archgw",
+      "full_name": "katanemo/archgw",
+      "url": "https://github.com/katanemo/archgw",
+      "description": "The smart edge and AI gateway for agents. Arch is a proxy server that handles the low-level work in building agents like applying guardrails, routing prompts to the right agent, and unifying access to LLMs. It is framework-agnostic, natively understands prompts, and helps you build agents faster.",
+      "language": "Rust",
+      "stars": "3357",
+      "forks": "176",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "22726",
+      "forks": "2419",
+      "today_stars": "325 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "41030",
+      "forks": "1448",
+      "today_stars": "212 stars this week"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "7498",
+      "forks": "257",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "93742",
+      "forks": "13648",
+      "today_stars": "691 stars this week"
+    },
+    {
+      "author": "Xerxes-2",
+      "name": "clewdr",
+      "full_name": "Xerxes-2/clewdr",
+      "url": "https://github.com/Xerxes-2/clewdr",
+      "description": "High Performance LLM Reverse Proxy",
+      "language": "Rust",
+      "stars": "411",
+      "forks": "76",
+      "today_stars": "37 stars this week"
+    }
+  ]
+}
