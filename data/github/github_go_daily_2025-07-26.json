@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-26 01:17:13",
+  "repositories": [
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "13626",
+      "forks": "853",
+      "today_stars": "985 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "7714",
+      "forks": "650",
+      "today_stars": "542 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70303",
+      "forks": "18786",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "full_name": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": "6217",
+      "forks": "1475",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20167",
+      "forks": "6212",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "kubernetes-mcp-server",
+      "full_name": "containers/kubernetes-mcp-server",
+      "url": "https://github.com/containers/kubernetes-mcp-server",
+      "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+      "language": "Go",
+      "stars": "413",
+      "forks": "69",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "54148",
+      "forks": "6037",
+      "today_stars": "140 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10424",
+      "forks": "9603",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11682",
+      "forks": "1753",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22037",
+      "forks": "4535",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7388",
+      "forks": "682",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "45919",
+      "forks": "9945",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "opencost",
+      "name": "opencost",
+      "full_name": "opencost/opencost",
+      "url": "https://github.com/opencost/opencost",
+      "description": "Cost monitoring for Kubernetes workloads and cloud costs",
+      "language": "Go",
+      "stars": "5929",
+      "forks": "645",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26498",
+      "forks": "999",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "language": "Go",
+      "stars": "8349",
+      "forks": "2728",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19029",
+      "forks": "3618",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "full_name": "cosmos/cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": "6669",
+      "forks": "3948",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14605",
+      "forks": "1424",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "full_name": "onsi/ginkgo",
+      "url": "https://github.com/onsi/ginkgo",
+      "description": "A Modern Testing Framework for Go",
+      "language": "Go",
+      "stars": "8728",
+      "forks": "676",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38591",
+      "forks": "4069",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "helm-unittest",
+      "name": "helm-unittest",
+      "full_name": "helm-unittest/helm-unittest",
+      "url": "https://github.com/helm-unittest/helm-unittest",
+      "description": "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.",
+      "language": "Go",
+      "stars": "1076",
+      "forks": "284",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28270",
+      "forks": "7291",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "38784",
+      "forks": "5983",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

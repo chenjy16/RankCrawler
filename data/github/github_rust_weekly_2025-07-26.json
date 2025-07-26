@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-07-26 01:17:39",
+  "repositories": [
+    {
+      "author": "tracel-ai",
+      "name": "burn",
+      "full_name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+      "language": "Rust",
+      "stars": "12233",
+      "forks": "645",
+      "today_stars": "624 stars this week"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "22773",
+      "forks": "2426",
+      "today_stars": "344 stars this week"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2249",
+      "forks": "178",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "41102",
+      "forks": "1454",
+      "today_stars": "232 stars this week"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4458",
+      "forks": "1604",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "fujiapple852",
+      "name": "trippy",
+      "full_name": "fujiapple852/trippy",
+      "url": "https://github.com/fujiapple852/trippy",
+      "description": "A network diagnostic tool",
+      "language": "Rust",
+      "stars": "5695",
+      "forks": "154",
+      "today_stars": "727 stars this week"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3933",
+      "forks": "1205",
+      "today_stars": "172 stars this week"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "38981",
+      "forks": "2953",
+      "today_stars": "180 stars this week"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Stream processing and management platform.",
+      "language": "Rust",
+      "stars": "8174",
+      "forks": "662",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "18123",
+      "forks": "596",
+      "today_stars": "589 stars this week"
+    },
+    {
+      "author": "szabodanika",
+      "name": "microbin",
+      "full_name": "szabodanika/microbin",
+      "url": "https://github.com/szabodanika/microbin",
+      "description": "A secure, configurable file-sharing and URL shortening web app written in Rust.",
+      "language": "Rust",
+      "stars": "3733",
+      "forks": "231",
+      "today_stars": "279 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "6027",
+      "forks": "313",
+      "today_stars": "266 stars this week"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "11876",
+      "forks": "336",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "dandavison",
+      "name": "delta",
+      "full_name": "dandavison/delta",
+      "url": "https://github.com/dandavison/delta",
+      "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+      "language": "Rust",
+      "stars": "26942",
+      "forks": "424",
+      "today_stars": "151 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "62609",
+      "forks": "1800",
+      "today_stars": "818 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "22747",
+      "forks": "3893",
+      "today_stars": "776 stars this week"
+    },
+    {
+      "author": "databendlabs",
+      "name": "databend",
+      "full_name": "databendlabs/databend",
+      "url": "https://github.com/databendlabs/databend",
+      "description": "𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",
+      "language": "Rust",
+      "stars": "8682",
+      "forks": "795",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "cachix",
+      "name": "devenv",
+      "full_name": "cachix/devenv",
+      "url": "https://github.com/cachix/devenv",
+      "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
+      "language": "Rust",
+      "stars": "5406",
+      "forks": "403",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "93888",
+      "forks": "13687",
+      "today_stars": "520 stars this week"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "7152",
+      "forks": "1117",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "apache",
+      "name": "datafusion",
+      "full_name": "apache/datafusion",
+      "url": "https://github.com/apache/datafusion",
+      "description": "Apache DataFusion SQL Query Engine",
+      "language": "Rust",
+      "stars": "7533",
+      "forks": "1556",
+      "today_stars": "55 stars this week"
+    }
+  ]
+}

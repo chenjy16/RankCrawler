@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-26 01:18:17",
+  "repositories": [
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12665",
+      "forks": "7694",
+      "today_stars": "155 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13688",
+      "forks": "828",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5300",
+      "forks": "236",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32261",
+      "forks": "1650",
+      "today_stars": "63 stars this week"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11762",
+      "forks": "3341",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3265",
+      "forks": "464",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3189",
+      "forks": "563",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20644",
+      "forks": "8315",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4786",
+      "forks": "931",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15563",
+      "forks": "1749",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9418",
+      "forks": "999",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11597",
+      "forks": "3445",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11151",
+      "forks": "1450",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14015",
+      "forks": "5591",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7814",
+      "forks": "2082",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "125606",
+      "forks": "11763",
+      "today_stars": "383 stars this week"
+    },
+    {
+      "author": "asterisk",
+      "name": "asterisk",
+      "full_name": "asterisk/asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "stars": "2677",
+      "forks": "1083",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "PufferAI",
+      "name": "PufferLib",
+      "full_name": "PufferAI/PufferLib",
+      "url": "https://github.com/PufferAI/PufferLib",
+      "description": "Simplifying reinforcement learning for complex game environments",
+      "language": "C",
+      "stars": "2975",
+      "forks": "182",
+      "today_stars": "189 stars this week"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14544",
+      "forks": "3036",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15597",
+      "forks": "3569",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3378",
+      "forks": "1309",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8298",
+      "forks": "3096",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4332",
+      "forks": "1106",
+      "today_stars": "14 stars this week"
+    }
+  ]
+}
