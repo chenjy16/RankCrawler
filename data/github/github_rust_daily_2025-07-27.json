@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-27 01:26:28",
+  "repositories": [
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "22872",
+      "forks": "3892",
+      "today_stars": "115 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "9011",
+      "forks": "573",
+      "today_stars": "169 stars today"
+    },
+    {
+      "author": "datavzrd",
+      "name": "datavzrd",
+      "full_name": "datavzrd/datavzrd",
+      "url": "https://github.com/datavzrd/datavzrd",
+      "description": "A tool to create visual HTML reports from collections of CSV/TSV tables",
+      "language": "Rust",
+      "stars": "468",
+      "forks": "29",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "93940",
+      "forks": "13706",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "kata-containers",
+      "name": "kata-containers",
+      "full_name": "kata-containers/kata-containers",
+      "url": "https://github.com/kata-containers/kata-containers",
+      "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+      "language": "Rust",
+      "stars": "6516",
+      "forks": "1143",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "17240",
+      "forks": "1154",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "62955",
+      "forks": "4770",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "smallcloudai",
+      "name": "refact",
+      "full_name": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "language": "Rust",
+      "stars": "3091",
+      "forks": "255",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "4898",
+      "forks": "209",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow-rs",
+      "full_name": "apache/arrow-rs",
+      "url": "https://github.com/apache/arrow-rs",
+      "description": "Official Rust implementation of Apache Arrow",
+      "language": "Rust",
+      "stars": "3059",
+      "forks": "981",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fujiapple852",
+      "name": "trippy",
+      "full_name": "fujiapple852/trippy",
+      "url": "https://github.com/fujiapple852/trippy",
+      "description": "A network diagnostic tool",
+      "language": "Rust",
+      "stars": "5725",
+      "forks": "156",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2261",
+      "forks": "179",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "longbridge",
+      "name": "gpui-component",
+      "full_name": "longbridge/gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "UI components for building fantastic desktop application by using GPUI.",
+      "language": "Rust",
+      "stars": "3372",
+      "forks": "163",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "vosen",
+      "name": "ZLUDA",
+      "full_name": "vosen/ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "stars": "12783",
+      "forks": "796",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "5941",
+      "forks": "510",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105313",
+      "forks": "13583",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7211",
+      "forks": "11557",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "7159",
+      "forks": "1118",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "20012",
+      "forks": "1805",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30424",
+      "forks": "2092",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "3940",
+      "forks": "1205",
+      "today_stars": "15 stars today"
+    }
+  ]
+}

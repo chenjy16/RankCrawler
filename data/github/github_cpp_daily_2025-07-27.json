@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-27 01:27:25",
+  "repositories": [
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "11910",
+      "forks": "2231",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "async-profiler",
+      "name": "async-profiler",
+      "full_name": "async-profiler/async-profiler",
+      "url": "https://github.com/async-profiler/async-profiler",
+      "description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
+      "language": "C++",
+      "stars": "8360",
+      "forks": "922",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "foundationdb",
+      "full_name": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
+      "language": "C++",
+      "stars": "15517",
+      "forks": "1401",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": "28124",
+      "forks": "5707",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "mavlink",
+      "name": "qgroundcontrol",
+      "full_name": "mavlink/qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "stars": "3856",
+      "forks": "4157",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24536",
+      "forks": "3370",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebookincubator",
+      "name": "velox",
+      "full_name": "facebookincubator/velox",
+      "url": "https://github.com/facebookincubator/velox",
+      "description": "A composable and fully extensible C++ execution engine library for data management systems.",
+      "language": "C++",
+      "stars": "3826",
+      "forks": "1378",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19615",
+      "forks": "3120",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ikawrakow",
+      "name": "ik_llama.cpp",
+      "full_name": "ikawrakow/ik_llama.cpp",
+      "url": "https://github.com/ikawrakow/ik_llama.cpp",
+      "description": "llama.cpp fork with additional SOTA quants and improved performance",
+      "language": "C++",
+      "stars": "884",
+      "forks": "105",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "20919",
+      "forks": "1091",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "google",
+      "name": "filament",
+      "full_name": "google/filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "stars": "18686",
+      "forks": "2000",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "react-native-windows",
+      "full_name": "microsoft/react-native-windows",
+      "url": "https://github.com/microsoft/react-native-windows",
+      "description": "A framework for building native Windows apps with React.",
+      "language": "C++",
+      "stars": "16922",
+      "forks": "1165",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22118",
+      "forks": "2666",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "project-chip",
+      "name": "connectedhomeip",
+      "full_name": "project-chip/connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+      "language": "C++",
+      "stars": "8113",
+      "forks": "2216",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "41944",
+      "forks": "7503",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "nmslib",
+      "name": "hnswlib",
+      "full_name": "nmslib/hnswlib",
+      "url": "https://github.com/nmslib/hnswlib",
+      "description": "Header-only C++/python library for fast approximate nearest neighbors",
+      "language": "C++",
+      "stars": "4818",
+      "forks": "717",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "19210",
+      "forks": "4110",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "root-project",
+      "name": "root",
+      "full_name": "root-project/root",
+      "url": "https://github.com/root-project/root",
+      "description": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",
+      "language": "C++",
+      "stars": "2926",
+      "forks": "1367",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "68886",
+      "forks": "10507",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "83509",
+      "forks": "12459",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16139",
+      "forks": "2810",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12624",
+      "forks": "2015",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ZLMediaKit",
+      "name": "ZLMediaKit",
+      "full_name": "ZLMediaKit/ZLMediaKit",
+      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+      "language": "C++",
+      "stars": "15469",
+      "forks": "3728",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46591",
+      "forks": "7065",
+      "today_stars": "13 stars today"
+    }
+  ]
+}
