@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-07-28 01:25:31",
+  "repositories": [
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12694",
+      "forks": "7694",
+      "today_stars": "188 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13717",
+      "forks": "835",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5315",
+      "forks": "237",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11773",
+      "forks": "3343",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7701",
+      "forks": "1355",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15604",
+      "forks": "3568",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29466",
+      "forks": "7858",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14552",
+      "forks": "3038",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3270",
+      "forks": "463",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7826",
+      "forks": "2087",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "micropython",
+      "name": "micropython",
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "stars": "20654",
+      "forks": "8321",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4795",
+      "forks": "931",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11155",
+      "forks": "1451",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9421",
+      "forks": "999",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4309",
+      "forks": "721",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "henrypp",
+      "name": "memreduct",
+      "full_name": "henrypp/memreduct",
+      "url": "https://github.com/henrypp/memreduct",
+      "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
+      "language": "C",
+      "stars": "7678",
+      "forks": "505",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "28175",
+      "forks": "1162",
+      "today_stars": "113 stars this week"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11601",
+      "forks": "3445",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8301",
+      "forks": "3097",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14022",
+      "forks": "5591",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55778",
+      "forks": "26440",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21605",
+      "forks": "3991",
+      "today_stars": "30 stars this week"
+    }
+  ]
+}

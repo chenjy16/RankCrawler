@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-07-28 01:25:38",
+  "repositories": [
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "6897",
+      "forks": "797",
+      "today_stars": "634 stars this month"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8531",
+      "forks": "2551",
+      "today_stars": "249 stars this month"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "75220",
+      "forks": "6095",
+      "today_stars": "399 stars this month"
+    },
+    {
+      "author": "Serial-Studio",
+      "name": "Serial-Studio",
+      "full_name": "Serial-Studio/Serial-Studio",
+      "url": "https://github.com/Serial-Studio/Serial-Studio",
+      "description": "Visualize embedded device data.",
+      "language": "C",
+      "stars": "6061",
+      "forks": "895",
+      "today_stars": "468 stars this month"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13717",
+      "forks": "835",
+      "today_stars": "571 stars this month"
+    },
+    {
+      "author": "aws",
+      "name": "pgactive",
+      "full_name": "aws/pgactive",
+      "url": "https://github.com/aws/pgactive",
+      "description": "",
+      "language": "C",
+      "stars": "1023",
+      "forks": "27",
+      "today_stars": "722 stars this month"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9763",
+      "forks": "3323",
+      "today_stars": "195 stars this month"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19645",
+      "forks": "956",
+      "today_stars": "279 stars this month"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23144",
+      "forks": "11405",
+      "today_stars": "308 stars this month"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "14040",
+      "forks": "2165",
+      "today_stars": "104 stars this month"
+    },
+    {
+      "author": "greatscottgadgets",
+      "name": "hackrf",
+      "full_name": "greatscottgadgets/hackrf",
+      "url": "https://github.com/greatscottgadgets/hackrf",
+      "description": "low cost software radio platform",
+      "language": "C",
+      "stars": "7187",
+      "forks": "1611",
+      "today_stars": "100 stars this month"
+    },
+    {
+      "author": "OpenVPN",
+      "name": "openvpn",
+      "full_name": "OpenVPN/openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "stars": "12184",
+      "forks": "3136",
+      "today_stars": "186 stars this month"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "65859",
+      "forks": "8572",
+      "today_stars": "765 stars this month"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "851",
+      "forks": "1601",
+      "today_stars": "12 stars this month"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "7321",
+      "forks": "538",
+      "today_stars": "180 stars this month"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "16764",
+      "forks": "828",
+      "today_stars": "485 stars this month"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38291",
+      "forks": "2228",
+      "today_stars": "470 stars this month"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "11141",
+      "forks": "1209",
+      "today_stars": "147 stars this month"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "1799",
+      "forks": "182",
+      "today_stars": "333 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "125657",
+      "forks": "11767",
+      "today_stars": "1,512 stars this month"
+    },
+    {
+      "author": "eunomia-bpf",
+      "name": "bpf-developer-tutorial",
+      "full_name": "eunomia-bpf/bpf-developer-tutorial",
+      "url": "https://github.com/eunomia-bpf/bpf-developer-tutorial",
+      "description": "eBPF Developer Tutorial: Learning eBPF Step by Step with Examples",
+      "language": "C",
+      "stars": "3399",
+      "forks": "469",
+      "today_stars": "211 stars this month"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "SpaghettiKart",
+      "full_name": "HarbourMasters/SpaghettiKart",
+      "url": "https://github.com/HarbourMasters/SpaghettiKart",
+      "description": "",
+      "language": "C",
+      "stars": "1643",
+      "forks": "86",
+      "today_stars": "487 stars this month"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "333",
+      "forks": "62",
+      "today_stars": "98 stars this month"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20296",
+      "forks": "3724",
+      "today_stars": "334 stars this month"
+    },
+    {
+      "author": "DarkFlippers",
+      "name": "unleashed-firmware",
+      "full_name": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "stars": "19689",
+      "forks": "1638",
+      "today_stars": "204 stars this month"
+    }
+  ]
+}
