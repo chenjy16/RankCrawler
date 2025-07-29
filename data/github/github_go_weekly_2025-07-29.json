@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-07-29 01:28:10",
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70380",
+      "forks": "18788",
+      "today_stars": "276 stars this week"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "14232",
+      "forks": "891",
+      "today_stars": "2,211 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "8232",
+      "forks": "700",
+      "today_stars": "1,522 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "19498",
+      "forks": "1690",
+      "today_stars": "1,093 stars this week"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "54206",
+      "forks": "6039",
+      "today_stars": "329 stars this week"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "30961",
+      "forks": "1686",
+      "today_stars": "303 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13485",
+      "forks": "2342",
+      "today_stars": "113 stars this week"
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "full_name": "cosmos/cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": "6678",
+      "forks": "3955",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23951",
+      "forks": "1923",
+      "today_stars": "152 stars this week"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49919",
+      "forks": "10119",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "projectcalico",
+      "name": "calico",
+      "full_name": "projectcalico/calico",
+      "url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "language": "Go",
+      "stars": "6663",
+      "forks": "1452",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15750",
+      "forks": "1880",
+      "today_stars": "282 stars this week"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26581",
+      "forks": "1003",
+      "today_stars": "317 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "cli",
+      "full_name": "docker/cli",
+      "url": "https://github.com/docker/cli",
+      "description": "The Docker CLI",
+      "language": "Go",
+      "stars": "5373",
+      "forks": "2029",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2330",
+      "forks": "233",
+      "today_stars": "229 stars this week"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "12014",
+      "forks": "1291",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "5480",
+      "forks": "446",
+      "today_stars": "364 stars this week"
+    },
+    {
+      "author": "everywall",
+      "name": "ladder",
+      "full_name": "everywall/ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+      "language": "Go",
+      "stars": "5057",
+      "forks": "210",
+      "today_stars": "93 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "30226",
+      "forks": "2634",
+      "today_stars": "376 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14623",
+      "forks": "1428",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "54940",
+      "forks": "2875",
+      "today_stars": "260 stars this week"
+    }
+  ]
+}
