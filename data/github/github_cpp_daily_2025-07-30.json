@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-07-30 01:22:10",
+  "repositories": [
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46633",
+      "forks": "7077",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "facontidavide",
+      "name": "PlotJuggler",
+      "full_name": "facontidavide/PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
+      "language": "C++",
+      "stars": "5217",
+      "forks": "696",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "google",
+      "name": "highway",
+      "full_name": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "stars": "4766",
+      "forks": "364",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "HIllya51",
+      "name": "LunaTranslator",
+      "full_name": "HIllya51/LunaTranslator",
+      "url": "https://github.com/HIllya51/LunaTranslator",
+      "description": "视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard",
+      "language": "C++",
+      "stars": "7650",
+      "forks": "897",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "ZLMediaKit",
+      "name": "ZLMediaKit",
+      "full_name": "ZLMediaKit/ZLMediaKit",
+      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+      "language": "C++",
+      "stars": "15490",
+      "forks": "3737",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "MatsuriDayo",
+      "name": "nekoray",
+      "full_name": "MatsuriDayo/nekoray",
+      "url": "https://github.com/MatsuriDayo/nekoray",
+      "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+      "language": "C++",
+      "stars": "14801",
+      "forks": "1404",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "45925",
+      "forks": "1970",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "owasp-modsecurity",
+      "name": "ModSecurity",
+      "full_name": "owasp-modsecurity/ModSecurity",
+      "url": "https://github.com/owasp-modsecurity/ModSecurity",
+      "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+      "language": "C++",
+      "stars": "9040",
+      "forks": "1677",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "9835",
+      "forks": "14253",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "flameshot-org",
+      "name": "flameshot",
+      "full_name": "flameshot-org/flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "stars": "27276",
+      "forks": "1733",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "12815",
+      "forks": "4130",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rapidsai",
+      "name": "cudf",
+      "full_name": "rapidsai/cudf",
+      "url": "https://github.com/rapidsai/cudf",
+      "description": "cuDF - GPU DataFrame Library",
+      "language": "C++",
+      "stars": "9085",
+      "forks": "961",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "36370",
+      "forks": "3981",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "ggml",
+      "full_name": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "language": "C++",
+      "stars": "12891",
+      "forks": "1290",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "WindowsAppSDK",
+      "full_name": "microsoft/WindowsAppSDK",
+      "url": "https://github.com/microsoft/WindowsAppSDK",
+      "description": "The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
+      "language": "C++",
+      "stars": "4147",
+      "forks": "371",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36505",
+      "forks": "10437",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5577",
+      "forks": "496",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "full_name": "espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C++",
+      "stars": "15152",
+      "forks": "7661",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Project-OSRM",
+      "name": "osrm-backend",
+      "full_name": "Project-OSRM/osrm-backend",
+      "url": "https://github.com/Project-OSRM/osrm-backend",
+      "description": "Open Source Routing Machine - C++ backend",
+      "language": "C++",
+      "stars": "6984",
+      "forks": "3661",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68653",
+      "forks": "15807",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29636",
+      "forks": "5742",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "versatica",
+      "name": "mediasoup",
+      "full_name": "versatica/mediasoup",
+      "url": "https://github.com/versatica/mediasoup",
+      "description": "Cutting Edge WebRTC Video Conferencing",
+      "language": "C++",
+      "stars": "6736",
+      "forks": "1173",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17068",
+      "forks": "2197",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "JoeyDeVries",
+      "name": "LearnOpenGL",
+      "full_name": "JoeyDeVries/LearnOpenGL",
+      "url": "https://github.com/JoeyDeVries/LearnOpenGL",
+      "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
+      "language": "C++",
+      "stars": "11805",
+      "forks": "2886",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

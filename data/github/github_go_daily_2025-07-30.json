@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-30 01:20:52",
+  "repositories": [
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "5667",
+      "forks": "455",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "httpx",
+      "full_name": "projectdiscovery/httpx",
+      "url": "https://github.com/projectdiscovery/httpx",
+      "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+      "language": "Go",
+      "stars": "8778",
+      "forks": "940",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+      "language": "Go",
+      "stars": "13560",
+      "forks": "1278",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32826",
+      "forks": "4415",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "4998",
+      "forks": "961",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "donknap",
+      "name": "dpanel",
+      "full_name": "donknap/dpanel",
+      "url": "https://github.com/donknap/dpanel",
+      "description": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+      "language": "Go",
+      "stars": "3046",
+      "forks": "203",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "1222",
+      "forks": "102",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "28962",
+      "forks": "2061",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "8240",
+      "forks": "603",
+      "today_stars": "98 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "73956",
+      "forks": "4671",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "inngest",
+      "name": "inngest",
+      "full_name": "inngest/inngest",
+      "url": "https://github.com/inngest/inngest",
+      "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+      "language": "Go",
+      "stars": "3293",
+      "forks": "144",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "stakater",
+      "name": "Reloader",
+      "full_name": "stakater/Reloader",
+      "url": "https://github.com/stakater/Reloader",
+      "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
+      "language": "Go",
+      "stars": "8898",
+      "forks": "585",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5458",
+      "forks": "1696",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "29421",
+      "forks": "2083",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "loft-sh",
+      "name": "vcluster",
+      "full_name": "loft-sh/vcluster",
+      "url": "https://github.com/loft-sh/vcluster",
+      "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+      "language": "Go",
+      "stars": "10566",
+      "forks": "509",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "36234",
+      "forks": "3321",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "30269",
+      "forks": "2636",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "ariga",
+      "name": "atlas",
+      "full_name": "ariga/atlas",
+      "url": "https://github.com/ariga/atlas",
+      "description": "Manage your database schema as code",
+      "language": "Go",
+      "stars": "7125",
+      "forks": "308",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12227",
+      "forks": "925",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4196",
+      "forks": "697",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10342",
+      "forks": "668",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18746",
+      "forks": "1380",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

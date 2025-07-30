@@ -1,0 +1,227 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-07-30 01:23:30",
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "swift-nio",
+      "full_name": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "stars": "8218",
+      "forks": "693",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7662",
+      "forks": "770",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25438",
+      "forks": "1493",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13520",
+      "forks": "1553",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26369",
+      "forks": "3811",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AzureAD",
+      "name": "microsoft-authentication-library-for-objc",
+      "full_name": "AzureAD/microsoft-authentication-library-for-objc",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-objc",
+      "description": "Microsoft Authentication Library (MSAL) for iOS and macOS",
+      "language": "Swift",
+      "stars": "298",
+      "forks": "146",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-collections",
+      "full_name": "apple/swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
+      "language": "Swift",
+      "stars": "4144",
+      "forks": "335",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3481",
+      "forks": "447",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "42032",
+      "forks": "7627",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19102",
+      "forks": "2263",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nicklockwood",
+      "name": "SwiftFormat",
+      "full_name": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "description": "A command-line tool and Xcode Extension for formatting Swift code",
+      "language": "Swift",
+      "stars": "8469",
+      "forks": "656",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "wordpress-mobile",
+      "name": "WordPress-iOS",
+      "full_name": "wordpress-mobile/WordPress-iOS",
+      "url": "https://github.com/wordpress-mobile/WordPress-iOS",
+      "description": "WordPress for iOS - Official repository",
+      "language": "Swift",
+      "stars": "3811",
+      "forks": "1145",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6182",
+      "forks": "383",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "swift-sdk",
+      "full_name": "modelcontextprotocol/swift-sdk",
+      "url": "https://github.com/modelcontextprotocol/swift-sdk",
+      "description": "The official Swift SDK for Model Context Protocol servers and clients.",
+      "language": "Swift",
+      "stars": "858",
+      "forks": "94",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27921",
+      "forks": "6043",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7913",
+      "forks": "3636",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "SDWebImage",
+      "name": "SDWebImageSwiftUI",
+      "full_name": "SDWebImage/SDWebImageSwiftUI",
+      "url": "https://github.com/SDWebImage/SDWebImageSwiftUI",
+      "description": "SwiftUI Image loading and Animation framework powered by SDWebImage",
+      "language": "Swift",
+      "stars": "2443",
+      "forks": "249",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1905",
+      "forks": "155",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "shadowsocks",
+      "name": "ShadowsocksX-NG",
+      "full_name": "shadowsocks/ShadowsocksX-NG",
+      "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+      "description": "Next Generation of ShadowsocksX",
+      "language": "Swift",
+      "stars": "32806",
+      "forks": "7903",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3964",
+      "forks": "748",
+      "today_stars": "1 star today"
+    }
+  ]
+}

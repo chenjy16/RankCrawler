@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-07-30 01:21:50",
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198573",
+      "forks": "57128",
+      "today_stars": "94 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38415",
+      "forks": "6800",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11895",
+      "forks": "5218",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "RT-Thread",
+      "name": "rt-thread",
+      "full_name": "RT-Thread/rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "stars": "11309",
+      "forks": "5226",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20310",
+      "forks": "3731",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "6022",
+      "forks": "885",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "system-linux",
+      "name": "FazJammer",
+      "full_name": "system-linux/FazJammer",
+      "url": "https://github.com/system-linux/FazJammer",
+      "description": "A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.",
+      "language": "C",
+      "stars": "1136",
+      "forks": "82",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38321",
+      "forks": "2230",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ripplebiz",
+      "name": "MeshCore",
+      "full_name": "ripplebiz/MeshCore",
+      "url": "https://github.com/ripplebiz/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "stars": "787",
+      "forks": "119",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "puerts",
+      "full_name": "Tencent/puerts",
+      "url": "https://github.com/Tencent/puerts",
+      "description": "PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.",
+      "language": "C",
+      "stars": "5614",
+      "forks": "765",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4803",
+      "forks": "931",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10580",
+      "forks": "5628",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30872",
+      "forks": "19581",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "quickjs-ng",
+      "name": "quickjs",
+      "full_name": "quickjs-ng/quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "stars": "1911",
+      "forks": "193",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openvenues",
+      "name": "libpostal",
+      "full_name": "openvenues/libpostal",
+      "url": "https://github.com/openvenues/libpostal",
+      "description": "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+      "language": "C",
+      "stars": "4493",
+      "forks": "446",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "RamonUnch",
+      "name": "AltSnap",
+      "full_name": "RamonUnch/AltSnap",
+      "url": "https://github.com/RamonUnch/AltSnap",
+      "description": "Maintained continuation of Stefan Sundin's AltDrag",
+      "language": "C",
+      "stars": "3988",
+      "forks": "120",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5438",
+      "forks": "1554",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23092",
+      "forks": "3135",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-sdk",
+      "full_name": "raspberrypi/pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "description": "",
+      "language": "C",
+      "stars": "4343",
+      "forks": "1110",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28070",
+      "forks": "10682",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "11159",
+      "forks": "1210",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "rxi",
+      "name": "microui",
+      "full_name": "rxi/microui",
+      "url": "https://github.com/rxi/microui",
+      "description": "A tiny immediate-mode UI library",
+      "language": "C",
+      "stars": "4743",
+      "forks": "305",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "strongswan",
+      "name": "strongswan",
+      "full_name": "strongswan/strongswan",
+      "url": "https://github.com/strongswan/strongswan",
+      "description": "strongSwan - IPsec-based VPN",
+      "language": "C",
+      "stars": "2574",
+      "forks": "851",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1119",
+      "forks": "1343",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

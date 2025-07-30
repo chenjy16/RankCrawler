@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-07-30 01:20:58",
+  "repositories": [
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70396",
+      "forks": "18790",
+      "today_stars": "286 stars this week"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "5667",
+      "forks": "455",
+      "today_stars": "435 stars this week"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "14309",
+      "forks": "899",
+      "today_stars": "2,246 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "8299",
+      "forks": "701",
+      "today_stars": "1,593 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "19626",
+      "forks": "1712",
+      "today_stars": "1,027 stars this week"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "30979",
+      "forks": "1688",
+      "today_stars": "313 stars this week"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2337",
+      "forks": "234",
+      "today_stars": "169 stars this week"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "54224",
+      "forks": "6041",
+      "today_stars": "335 stars this week"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "4998",
+      "forks": "961",
+      "today_stars": "123 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13494",
+      "forks": "2343",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17594",
+      "forks": "1603",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "full_name": "cosmos/cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": "6675",
+      "forks": "3953",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "23979",
+      "forks": "1927",
+      "today_stars": "153 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "30269",
+      "forks": "2636",
+      "today_stars": "335 stars this week"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20213",
+      "forks": "6226",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7404",
+      "forks": "686",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "17500",
+      "forks": "1693",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "projectcalico",
+      "name": "calico",
+      "full_name": "projectcalico/calico",
+      "url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "language": "Go",
+      "stars": "6665",
+      "forks": "1452",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "full_name": "rivo/tview",
+      "url": "https://github.com/rivo/tview",
+      "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+      "language": "Go",
+      "stars": "12445",
+      "forks": "629",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "cli",
+      "full_name": "docker/cli",
+      "url": "https://github.com/docker/cli",
+      "description": "The Docker CLI",
+      "language": "Go",
+      "stars": "5373",
+      "forks": "2029",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14637",
+      "forks": "1427",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "opencost",
+      "name": "opencost",
+      "full_name": "opencost/opencost",
+      "url": "https://github.com/opencost/opencost",
+      "description": "Cost monitoring for Kubernetes workloads and cloud costs",
+      "language": "Go",
+      "stars": "5945",
+      "forks": "657",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26600",
+      "forks": "1005",
+      "today_stars": "294 stars this week"
+    }
+  ]
+}
