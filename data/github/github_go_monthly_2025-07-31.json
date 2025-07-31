@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-07-31 01:20:41",
+  "repositories": [
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "8335",
+      "forks": "607",
+      "today_stars": "6,720 stars this month"
+    },
+    {
+      "author": "aldinokemal",
+      "name": "go-whatsapp-web-multidevice",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "stars": "2127",
+      "forks": "526",
+      "today_stars": "1,167 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "22724",
+      "forks": "1736",
+      "today_stars": "1,524 stars this month"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "49575",
+      "forks": "2511",
+      "today_stars": "1,673 stars this month"
+    },
+    {
+      "author": "binwiederhier",
+      "name": "ntfy",
+      "full_name": "binwiederhier/ntfy",
+      "url": "https://github.com/binwiederhier/ntfy",
+      "description": "Send push notifications to your phone or desktop using PUT/POST",
+      "language": "Go",
+      "stars": "25455",
+      "forks": "1000",
+      "today_stars": "1,761 stars this month"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "25485",
+      "forks": "3000",
+      "today_stars": "990 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "1259",
+      "forks": "103",
+      "today_stars": "915 stars this month"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "19736",
+      "forks": "1734",
+      "today_stars": "3,227 stars this month"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "15702",
+      "forks": "1136",
+      "today_stars": "554 stars this month"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "9151",
+      "forks": "1087",
+      "today_stars": "1,643 stars this month"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29360",
+      "forks": "1436",
+      "today_stars": "580 stars this month"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15777",
+      "forks": "1886",
+      "today_stars": "871 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "mods",
+      "full_name": "charmbracelet/mods",
+      "url": "https://github.com/charmbracelet/mods",
+      "description": "AI on the command line",
+      "language": "Go",
+      "stars": "3947",
+      "forks": "164",
+      "today_stars": "185 stars this month"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "30333",
+      "forks": "2641",
+      "today_stars": "1,061 stars this month"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16051",
+      "forks": "5684",
+      "today_stars": "355 stars this month"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20038",
+      "forks": "1927",
+      "today_stars": "402 stars this month"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "54967",
+      "forks": "2880",
+      "today_stars": "932 stars this month"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40014",
+      "forks": "6836",
+      "today_stars": "486 stars this month"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "16956",
+      "forks": "1858",
+      "today_stars": "311 stars this month"
+    }
+  ]
+}

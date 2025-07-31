@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-07-31 01:20:48",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "94264",
+      "forks": "13783",
+      "today_stars": "162 stars today"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "37050",
+      "forks": "1167",
+      "today_stars": "174 stars today"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1395",
+      "forks": "192",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4477",
+      "forks": "1626",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "peer-2-peer that just works",
+      "language": "Rust",
+      "stars": "6490",
+      "forks": "286",
+      "today_stars": "316 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "15372",
+      "forks": "1438",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9208",
+      "forks": "2057",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "10006",
+      "forks": "1213",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "the AI-native open-source embedding database",
+      "language": "Rust",
+      "stars": "21390",
+      "forks": "1695",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "15925",
+      "forks": "612",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "40693",
+      "forks": "7597",
+      "today_stars": "212 stars today"
+    },
+    {
+      "author": "warp-tech",
+      "name": "warpgate",
+      "full_name": "warp-tech/warpgate",
+      "url": "https://github.com/warp-tech/warpgate",
+      "description": "Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+      "language": "Rust",
+      "stars": "5103",
+      "forks": "159",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19661",
+      "forks": "831",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "72854",
+      "forks": "3677",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "9995",
+      "forks": "365",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "LGUG2Z",
+      "name": "komorebi",
+      "full_name": "LGUG2Z/komorebi",
+      "url": "https://github.com/LGUG2Z/komorebi",
+      "description": "A tiling window manager for Windows 🍉",
+      "language": "Rust",
+      "stars": "12160",
+      "forks": "270",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "11174",
+      "forks": "1110",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "frectonz",
+      "name": "sql-studio",
+      "full_name": "frectonz/sql-studio",
+      "url": "https://github.com/frectonz/sql-studio",
+      "description": "SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]",
+      "language": "Rust",
+      "stars": "3175",
+      "forks": "96",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "sigoden",
+      "name": "dufs",
+      "full_name": "sigoden/dufs",
+      "url": "https://github.com/sigoden/dufs",
+      "description": "A file server that supports static serving, uploading, searching, accessing control, webdav...",
+      "language": "Rust",
+      "stars": "8525",
+      "forks": "429",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5953",
+      "forks": "437",
+      "today_stars": "19 stars today"
+    }
+  ]
+}

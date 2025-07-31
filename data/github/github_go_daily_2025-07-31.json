@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-07-31 01:20:29",
+  "repositories": [
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "5926",
+      "forks": "467",
+      "today_stars": "304 stars today"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11681",
+      "forks": "829",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "2003",
+      "forks": "174",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19428",
+      "forks": "2328",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5033",
+      "forks": "962",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-go",
+      "full_name": "testcontainers/testcontainers-go",
+      "url": "https://github.com/testcontainers/testcontainers-go",
+      "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+      "language": "Go",
+      "stars": "4236",
+      "forks": "554",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "1259",
+      "forks": "103",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3833",
+      "forks": "739",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "28976",
+      "forks": "2062",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mimir",
+      "full_name": "grafana/mimir",
+      "url": "https://github.com/grafana/mimir",
+      "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+      "language": "Go",
+      "stars": "4584",
+      "forks": "621",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23865",
+      "forks": "3562",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24008",
+      "forks": "1928",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "cloudreve",
+      "name": "cloudreve",
+      "full_name": "cloudreve/cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "24327",
+      "forks": "3639",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4226",
+      "forks": "701",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino-examples",
+      "full_name": "cloudwego/eino-examples",
+      "url": "https://github.com/cloudwego/eino-examples",
+      "description": "Examples and demonstrations for using the Eino framework",
+      "language": "Go",
+      "stars": "265",
+      "forks": "110",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28289",
+      "forks": "7292",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21141",
+      "forks": "2468",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5463",
+      "forks": "1696",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "full_name": "go-chi/chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": "20223",
+      "forks": "1032",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "ai-gateway",
+      "full_name": "envoyproxy/ai-gateway",
+      "url": "https://github.com/envoyproxy/ai-gateway",
+      "description": "Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.",
+      "language": "Go",
+      "stars": "424",
+      "forks": "80",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "36260",
+      "forks": "3322",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "kubeedge",
+      "name": "kubeedge",
+      "full_name": "kubeedge/kubeedge",
+      "url": "https://github.com/kubeedge/kubeedge",
+      "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+      "language": "Go",
+      "stars": "7162",
+      "forks": "1793",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
