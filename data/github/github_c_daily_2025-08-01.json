@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-01 01:29:09",
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198711",
+      "forks": "57149",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13027",
+      "forks": "1922",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15919",
+      "forks": "7793",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28090",
+      "forks": "10694",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38364",
+      "forks": "2233",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "riscv-software-src",
+      "name": "riscv-isa-sim",
+      "full_name": "riscv-software-src/riscv-isa-sim",
+      "url": "https://github.com/riscv-software-src/riscv-isa-sim",
+      "description": "Spike, a RISC-V ISA Simulator",
+      "language": "C",
+      "stars": "2775",
+      "forks": "960",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "6990",
+      "forks": "809",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "10799",
+      "forks": "1767",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19701",
+      "forks": "958",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39299",
+      "forks": "7920",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "6032",
+      "forks": "886",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6042",
+      "forks": "2740",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7457",
+      "forks": "606",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "9979",
+      "forks": "2517",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "full_name": "radareorg/radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": "22018",
+      "forks": "3093",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "C",
+      "stars": "6923",
+      "forks": "1933",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11907",
+      "forks": "5218",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4645",
+      "forks": "1045",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5386",
+      "forks": "241",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "msquic",
+      "full_name": "microsoft/msquic",
+      "url": "https://github.com/microsoft/msquic",
+      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "language": "C",
+      "stars": "4419",
+      "forks": "590",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38421",
+      "forks": "6805",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
