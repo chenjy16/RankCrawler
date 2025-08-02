@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-02 01:17:08",
+  "repositories": [
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "full_name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+      "language": "Go",
+      "stars": "16311",
+      "forks": "2455",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "kopia",
+      "name": "kopia",
+      "full_name": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "stars": "10688",
+      "forks": "518",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32850",
+      "forks": "4417",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "33808",
+      "forks": "954",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "1969",
+      "forks": "347",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "26067",
+      "forks": "4920",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "inngest",
+      "name": "inngest",
+      "full_name": "inngest/inngest",
+      "url": "https://github.com/inngest/inngest",
+      "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+      "language": "Go",
+      "stars": "3366",
+      "forks": "145",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27744",
+      "forks": "2646",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "26107",
+      "forks": "3735",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "148396",
+      "forks": "12632",
+      "today_stars": "198 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22059",
+      "forks": "4540",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6574",
+      "forks": "1071",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9595",
+      "forks": "698",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "9250",
+      "forks": "1104",
+      "today_stars": "60 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "34286",
+      "forks": "2679",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21149",
+      "forks": "2469",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "15129",
+      "forks": "1052",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10438",
+      "forks": "9628",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "HavocFramework",
+      "name": "Havoc",
+      "full_name": "HavocFramework/Havoc",
+      "url": "https://github.com/HavocFramework/Havoc",
+      "description": "The Havoc Framework",
+      "language": "Go",
+      "stars": "7728",
+      "forks": "1099",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "16050",
+      "forks": "1000",
+      "today_stars": "251 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "client-go",
+      "full_name": "kubernetes/client-go",
+      "url": "https://github.com/kubernetes/client-go",
+      "description": "Go client for Kubernetes.",
+      "language": "Go",
+      "stars": "9537",
+      "forks": "3010",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "6225",
+      "forks": "480",
+      "today_stars": "160 stars today"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2594",
+      "forks": "247",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
