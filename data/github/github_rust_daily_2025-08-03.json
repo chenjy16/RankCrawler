@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-03 01:27:36",
+  "repositories": [
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15742",
+      "forks": "639",
+      "today_stars": "83 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "17965",
+      "forks": "1532",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "94755",
+      "forks": "13862",
+      "today_stars": "98 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4621",
+      "forks": "511",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19758",
+      "forks": "841",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "facebookincubator",
+      "name": "below",
+      "full_name": "facebookincubator/below",
+      "url": "https://github.com/facebookincubator/below",
+      "description": "A time traveling resource monitor for modern Linux systems",
+      "language": "Rust",
+      "stars": "1545",
+      "forks": "80",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34691",
+      "forks": "2327",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "10064",
+      "forks": "371",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "23802",
+      "forks": "3927",
+      "today_stars": "385 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40828",
+      "forks": "4034",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27224",
+      "forks": "1343",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "6631",
+      "forks": "300",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "axum",
+      "full_name": "tokio-rs/axum",
+      "url": "https://github.com/tokio-rs/axum",
+      "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+      "language": "Rust",
+      "stars": "22565",
+      "forks": "1220",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "raphamorim",
+      "name": "rio",
+      "full_name": "raphamorim/rio",
+      "url": "https://github.com/raphamorim/rio",
+      "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+      "language": "Rust",
+      "stars": "5462",
+      "forks": "204",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "mountpoint-s3",
+      "full_name": "awslabs/mountpoint-s3",
+      "url": "https://github.com/awslabs/mountpoint-s3",
+      "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+      "language": "Rust",
+      "stars": "5330",
+      "forks": "211",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "31170",
+      "forks": "3210",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "893",
+      "forks": "468",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "boundless-xyz",
+      "name": "boundless",
+      "full_name": "boundless-xyz/boundless",
+      "url": "https://github.com/boundless-xyz/boundless",
+      "description": "Monorepo for Boundless, the universal ZK protocol",
+      "language": "Rust",
+      "stars": "139",
+      "forks": "133",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "7509",
+      "forks": "186",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "lumina-ai-inc",
+      "name": "chunkr",
+      "full_name": "lumina-ai-inc/chunkr",
+      "url": "https://github.com/lumina-ai-inc/chunkr",
+      "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+      "language": "Rust",
+      "stars": "2521",
+      "forks": "149",
+      "today_stars": "127 stars today"
+    },
+    {
+      "author": "Yamato-Security",
+      "name": "hayabusa",
+      "full_name": "Yamato-Security/hayabusa",
+      "url": "https://github.com/Yamato-Security/hayabusa",
+      "description": "Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.",
+      "language": "Rust",
+      "stars": "2747",
+      "forks": "235",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
