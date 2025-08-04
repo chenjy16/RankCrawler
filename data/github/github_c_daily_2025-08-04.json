@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-04 01:27:02",
+  "repositories": [
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23223",
+      "forks": "3138",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "libopencm3",
+      "name": "libopencm3",
+      "full_name": "libopencm3/libopencm3",
+      "url": "https://github.com/libopencm3/libopencm3",
+      "description": "Open source ARM Cortex-M microcontroller library",
+      "language": "C",
+      "stars": "3346",
+      "forks": "1087",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "126001",
+      "forks": "11803",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "12064",
+      "forks": "850",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23218",
+      "forks": "11420",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "zmkfirmware",
+      "name": "zmk",
+      "full_name": "zmkfirmware/zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "stars": "3443",
+      "forks": "3400",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rxi",
+      "name": "microui",
+      "full_name": "rxi/microui",
+      "url": "https://github.com/rxi/microui",
+      "description": "A tiny immediate-mode UI library",
+      "language": "C",
+      "stars": "4805",
+      "forks": "307",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15033",
+      "forks": "565",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27486",
+      "forks": "2610",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14044",
+      "forks": "5592",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8331",
+      "forks": "3122",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3258",
+      "forks": "598",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15941",
+      "forks": "7800",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "HarbourMasters",
+      "name": "Shipwright",
+      "full_name": "HarbourMasters/Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "stars": "4032",
+      "forks": "585",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "7070",
+      "forks": "358",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29519",
+      "forks": "7858",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31462",
+      "forks": "3085",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "axboe",
+      "name": "liburing",
+      "full_name": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "description": "Library providing helpers for the Linux kernel io_uring support",
+      "language": "C",
+      "stars": "3285",
+      "forks": "466",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "75312",
+      "forks": "6097",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "rvaiya",
+      "name": "keyd",
+      "full_name": "rvaiya/keyd",
+      "url": "https://github.com/rvaiya/keyd",
+      "description": "A key remapping daemon for linux.",
+      "language": "C",
+      "stars": "4062",
+      "forks": "215",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5778",
+      "forks": "1222",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "15616",
+      "forks": "545",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "c3lang",
+      "name": "c3c",
+      "full_name": "c3lang/c3c",
+      "url": "https://github.com/c3lang/c3c",
+      "description": "Compiler for the C3 language",
+      "language": "C",
+      "stars": "4296",
+      "forks": "284",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12969",
+      "forks": "2280",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4656",
+      "forks": "1047",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

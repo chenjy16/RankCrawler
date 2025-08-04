@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-04 01:26:11",
+  "repositories": [
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "6313",
+      "forks": "487",
+      "today_stars": "981 stars this week"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4325",
+      "forks": "716",
+      "today_stars": "224 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "20038",
+      "forks": "1827",
+      "today_stars": "709 stars this week"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "34332",
+      "forks": "2683",
+      "today_stars": "234 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17631",
+      "forks": "1610",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "kopia",
+      "name": "kopia",
+      "full_name": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "stars": "10728",
+      "forks": "521",
+      "today_stars": "398 stars this week"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5080",
+      "forks": "968",
+      "today_stars": "161 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "148575",
+      "forks": "12653",
+      "today_stars": "953 stars this week"
+    },
+    {
+      "author": "sky22333",
+      "name": "hubproxy",
+      "full_name": "sky22333/hubproxy",
+      "url": "https://github.com/sky22333/hubproxy",
+      "description": "基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。",
+      "language": "Go",
+      "stars": "1116",
+      "forks": "106",
+      "today_stars": "282 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "33883",
+      "forks": "960",
+      "today_stars": "303 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "oss-rebuild",
+      "full_name": "google/oss-rebuild",
+      "url": "https://github.com/google/oss-rebuild",
+      "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
+      "language": "Go",
+      "stars": "564",
+      "forks": "29",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "opentofu",
+      "name": "opentofu",
+      "full_name": "opentofu/opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+      "language": "Go",
+      "stars": "26159",
+      "forks": "1061",
+      "today_stars": "85 stars this week"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24470",
+      "forks": "3074",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "donknap",
+      "name": "dpanel",
+      "full_name": "donknap/dpanel",
+      "url": "https://github.com/donknap/dpanel",
+      "description": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+      "language": "Go",
+      "stars": "3086",
+      "forks": "206",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "full_name": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": "6244",
+      "forks": "1480",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "full_name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+      "language": "Go",
+      "stars": "16484",
+      "forks": "2510",
+      "today_stars": "368 stars this week"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "15803",
+      "forks": "1140",
+      "today_stars": "154 stars this week"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9690",
+      "forks": "702",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "23888",
+      "forks": "3560",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3838",
+      "forks": "736",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "dagger",
+      "name": "dagger",
+      "full_name": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+      "language": "Go",
+      "stars": "14416",
+      "forks": "768",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "cloudreve",
+      "name": "cloudreve",
+      "full_name": "cloudreve/cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+      "language": "Go",
+      "stars": "24409",
+      "forks": "3643",
+      "today_stars": "187 stars this week"
+    }
+  ]
+}

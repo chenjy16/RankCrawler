@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-04 01:26:24",
+  "repositories": [
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "stars": "28351",
+      "forks": "646",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "44510",
+      "forks": "1189",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15768",
+      "forks": "639",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12318",
+      "forks": "1735",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19777",
+      "forks": "840",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "lumina-ai-inc",
+      "name": "chunkr",
+      "full_name": "lumina-ai-inc/chunkr",
+      "url": "https://github.com/lumina-ai-inc/chunkr",
+      "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+      "language": "Rust",
+      "stars": "2549",
+      "forks": "151",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "59775",
+      "forks": "3156",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "jtroo",
+      "name": "kanata",
+      "full_name": "jtroo/kanata",
+      "url": "https://github.com/jtroo/kanata",
+      "description": "Improve keyboard comfort and usability with advanced customization",
+      "language": "Rust",
+      "stars": "5554",
+      "forks": "201",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "18080",
+      "forks": "1537",
+      "today_stars": "127 stars today"
+    },
+    {
+      "author": "emilk",
+      "name": "egui",
+      "full_name": "emilk/egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "stars": "26018",
+      "forks": "1807",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "894",
+      "forks": "468",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "11195",
+      "forks": "471",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "1908",
+      "forks": "285",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "18031",
+      "forks": "592",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "15421",
+      "forks": "584",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "73349",
+      "forks": "3713",
+      "today_stars": "235 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24769",
+      "forks": "1448",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "35951",
+      "forks": "1904",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "sharkdp",
+      "name": "bat",
+      "full_name": "sharkdp/bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": "53736",
+      "forks": "1318",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "31188",
+      "forks": "3214",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "mountpoint-s3",
+      "full_name": "awslabs/mountpoint-s3",
+      "url": "https://github.com/awslabs/mountpoint-s3",
+      "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+      "language": "Rust",
+      "stars": "5332",
+      "forks": "211",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "50275",
+      "forks": "2181",
+      "today_stars": "17 stars today"
+    }
+  ]
+}
