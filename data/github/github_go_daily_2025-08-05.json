@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-05 01:22:39",
+  "repositories": [
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "8818",
+      "forks": "634",
+      "today_stars": "178 stars today"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "17178",
+      "forks": "1066",
+      "today_stars": "561 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "55900",
+      "forks": "5420",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "30460",
+      "forks": "4480",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27789",
+      "forks": "2653",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26723",
+      "forks": "1010",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "coroot",
+      "name": "coroot",
+      "full_name": "coroot/coroot",
+      "url": "https://github.com/coroot/coroot",
+      "description": "Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+      "language": "Go",
+      "stars": "6812",
+      "forks": "297",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "sky22333",
+      "name": "hubproxy",
+      "full_name": "sky22333/hubproxy",
+      "url": "https://github.com/sky22333/hubproxy",
+      "description": "基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。",
+      "language": "Go",
+      "stars": "1141",
+      "forks": "108",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9719",
+      "forks": "701",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "51817",
+      "forks": "4626",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "5008",
+      "forks": "25032",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "33925",
+      "forks": "959",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "hypermodeinc",
+      "name": "dgraph",
+      "full_name": "hypermodeinc/dgraph",
+      "url": "https://github.com/hypermodeinc/dgraph",
+      "description": "high-performance graph database for real-time use cases",
+      "language": "Go",
+      "stars": "21086",
+      "forks": "1534",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5090",
+      "forks": "968",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "owasp-amass",
+      "name": "amass",
+      "full_name": "owasp-amass/amass",
+      "url": "https://github.com/owasp-amass/amass",
+      "description": "In-depth attack surface mapping and asset discovery",
+      "language": "Go",
+      "stars": "13355",
+      "forks": "2023",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "full_name": "slackhq/nebula",
+      "url": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": "15928",
+      "forks": "1054",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "domain-list-community",
+      "full_name": "v2fly/domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+      "language": "Go",
+      "stars": "6243",
+      "forks": "1062",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "25606",
+      "forks": "3014",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8854",
+      "forks": "1073",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": "29540",
+      "forks": "1624",
+      "today_stars": "24 stars today"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-05 01:23:37",
+  "repositories": [
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23226",
+      "forks": "11425",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "tsl0922",
+      "name": "ttyd",
+      "full_name": "tsl0922/ttyd",
+      "url": "https://github.com/tsl0922/ttyd",
+      "description": "Share your terminal over the web",
+      "language": "C",
+      "stars": "9616",
+      "forks": "987",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19447",
+      "forks": "42229",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3269",
+      "forks": "602",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16087",
+      "forks": "1906",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23334",
+      "forks": "3144",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "12072",
+      "forks": "851",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "xmrig",
+      "name": "xmrig",
+      "full_name": "xmrig/xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": "9365",
+      "forks": "3679",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pret",
+      "name": "pokeemerald",
+      "full_name": "pret/pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "stars": "2646",
+      "forks": "3307",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13856",
+      "forks": "857",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8391",
+      "forks": "3055",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27507",
+      "forks": "2612",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "zmkfirmware",
+      "name": "zmk",
+      "full_name": "zmkfirmware/zmk",
+      "url": "https://github.com/zmkfirmware/zmk",
+      "description": "ZMK Firmware Repository",
+      "language": "C",
+      "stars": "3445",
+      "forks": "3402",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "75326",
+      "forks": "6097",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "12976",
+      "forks": "2282",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "66024",
+      "forks": "8584",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11692",
+      "forks": "1932",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "shellphish",
+      "name": "how2heap",
+      "full_name": "shellphish/how2heap",
+      "url": "https://github.com/shellphish/how2heap",
+      "description": "A repository for learning various heap exploitation techniques.",
+      "language": "C",
+      "stars": "7824",
+      "forks": "1195",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dev-Ali2008",
+      "name": "xanite",
+      "full_name": "dev-Ali2008/xanite",
+      "url": "https://github.com/dev-Ali2008/xanite",
+      "description": "Xanite",
+      "language": "C",
+      "stars": "189",
+      "forks": "13",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2396",
+      "forks": "600",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15636",
+      "forks": "1758",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "126060",
+      "forks": "11805",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31499",
+      "forks": "3087",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14049",
+      "forks": "5597",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "istoreos",
+      "name": "istoreos",
+      "full_name": "istoreos/istoreos",
+      "url": "https://github.com/istoreos/istoreos",
+      "description": "提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10）",
+      "language": "C",
+      "stars": "6403",
+      "forks": "710",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

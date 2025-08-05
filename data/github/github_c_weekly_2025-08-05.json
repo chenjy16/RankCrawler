@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-08-05 01:23:44",
+  "repositories": [
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5422",
+      "forks": "242",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "198970",
+      "forks": "57194",
+      "today_stars": "579 stars this week"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15048",
+      "forks": "565",
+      "today_stars": "93 stars this week"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5786",
+      "forks": "1222",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15651",
+      "forks": "3576",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23334",
+      "forks": "3144",
+      "today_stars": "206 stars this week"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6049",
+      "forks": "2742",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38419",
+      "forks": "2237",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7475",
+      "forks": "606",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25615",
+      "forks": "3733",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23511",
+      "forks": "4951",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "15952",
+      "forks": "7804",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12785",
+      "forks": "7730",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "7079",
+      "forks": "359",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "HandBrake",
+      "name": "HandBrake",
+      "full_name": "HandBrake/HandBrake",
+      "url": "https://github.com/HandBrake/HandBrake",
+      "description": "HandBrake's main development repository",
+      "language": "C",
+      "stars": "20209",
+      "forks": "1460",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "11923",
+      "forks": "5221",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "winsiderss",
+      "name": "systeminformer",
+      "full_name": "winsiderss/systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+      "language": "C",
+      "stars": "12354",
+      "forks": "1513",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "asterisk",
+      "name": "asterisk",
+      "full_name": "asterisk/asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "stars": "2699",
+      "forks": "1094",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4657",
+      "forks": "1048",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8332",
+      "forks": "3126",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "ripplebiz",
+      "name": "MeshCore",
+      "full_name": "ripplebiz/MeshCore",
+      "url": "https://github.com/ripplebiz/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "stars": "801",
+      "forks": "127",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1127",
+      "forks": "1351",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10596",
+      "forks": "5642",
+      "today_stars": "20 stars this week"
+    }
+  ]
+}

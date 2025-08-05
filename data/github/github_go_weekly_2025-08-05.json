@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-05 01:22:45",
+  "repositories": [
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "6391",
+      "forks": "493",
+      "today_stars": "920 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "33925",
+      "forks": "959",
+      "today_stars": "308 stars this week"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4348",
+      "forks": "719",
+      "today_stars": "200 stars this week"
+    },
+    {
+      "author": "kopia",
+      "name": "kopia",
+      "full_name": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "stars": "10746",
+      "forks": "522",
+      "today_stars": "407 stars this week"
+    },
+    {
+      "author": "sky22333",
+      "name": "hubproxy",
+      "full_name": "sky22333/hubproxy",
+      "url": "https://github.com/sky22333/hubproxy",
+      "description": "基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。",
+      "language": "Go",
+      "stars": "1141",
+      "forks": "108",
+      "today_stars": "281 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17645",
+      "forks": "1611",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "oss-rebuild",
+      "full_name": "google/oss-rebuild",
+      "url": "https://github.com/google/oss-rebuild",
+      "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
+      "language": "Go",
+      "stars": "577",
+      "forks": "30",
+      "today_stars": "151 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "20127",
+      "forks": "1848",
+      "today_stars": "662 stars this week"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+      "language": "Go",
+      "stars": "148699",
+      "forks": "12664",
+      "today_stars": "975 stars this week"
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "full_name": "go-chi/chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": "20255",
+      "forks": "1036",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "15821",
+      "forks": "1141",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24487",
+      "forks": "3077",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9719",
+      "forks": "701",
+      "today_stars": "278 stars this week"
+    },
+    {
+      "author": "donknap",
+      "name": "dpanel",
+      "full_name": "donknap/dpanel",
+      "url": "https://github.com/donknap/dpanel",
+      "description": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+      "language": "Go",
+      "stars": "3093",
+      "forks": "206",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "dagger",
+      "name": "dagger",
+      "full_name": "dagger/dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+      "language": "Go",
+      "stars": "14429",
+      "forks": "770",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "full_name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+      "language": "Go",
+      "stars": "16490",
+      "forks": "2556",
+      "today_stars": "382 stars this week"
+    },
+    {
+      "author": "kubevirt",
+      "name": "kubevirt",
+      "full_name": "kubevirt/kubevirt",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "language": "Go",
+      "stars": "6249",
+      "forks": "1481",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5090",
+      "forks": "968",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "34360",
+      "forks": "2687",
+      "today_stars": "222 stars this week"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11721",
+      "forks": "832",
+      "today_stars": "68 stars this week"
+    },
+    {
+      "author": "cloudwego",
+      "name": "hertz",
+      "full_name": "cloudwego/hertz",
+      "url": "https://github.com/cloudwego/hertz",
+      "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+      "language": "Go",
+      "stars": "6550",
+      "forks": "600",
+      "today_stars": "59 stars this week"
+    }
+  ]
+}

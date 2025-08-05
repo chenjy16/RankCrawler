@@ -1,0 +1,216 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-08-05 01:23:04",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "94998",
+      "forks": "13898",
+      "today_stars": "1,006 stars this week"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "40878",
+      "forks": "7627",
+      "today_stars": "539 stars this week"
+    },
+    {
+      "author": "warp-tech",
+      "name": "warpgate",
+      "full_name": "warp-tech/warpgate",
+      "url": "https://github.com/warp-tech/warpgate",
+      "description": "Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+      "language": "Rust",
+      "stars": "5151",
+      "forks": "163",
+      "today_stars": "122 stars this week"
+    },
+    {
+      "author": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "peer-2-peer that just works",
+      "language": "Rust",
+      "stars": "6630",
+      "forks": "289",
+      "today_stars": "656 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34728",
+      "forks": "2330",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "63385",
+      "forks": "4833",
+      "today_stars": "378 stars this week"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "4085",
+      "forks": "435",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5983",
+      "forks": "440",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "37119",
+      "forks": "1169",
+      "today_stars": "329 stars this week"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "47576",
+      "forks": "2242",
+      "today_stars": "304 stars this week"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4489",
+      "forks": "1631",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "11203",
+      "forks": "1116",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16054",
+      "forks": "618",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1415",
+      "forks": "195",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19814",
+      "forks": "841",
+      "today_stars": "204 stars this week"
+    },
+    {
+      "author": "idootop",
+      "name": "open-xiaoai",
+      "full_name": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "description": "让小爱音箱「听见你的声音」，解锁无限可能。",
+      "language": "Rust",
+      "stars": "701",
+      "forks": "66",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "10154",
+      "forks": "1230",
+      "today_stars": "183 stars this week"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "59791",
+      "forks": "3158",
+      "today_stars": "148 stars this week"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "17531",
+      "forks": "1164",
+      "today_stars": "226 stars this week"
+    }
+  ]
+}
