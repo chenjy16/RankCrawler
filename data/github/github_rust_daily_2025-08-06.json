@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-06 01:21:20",
+  "repositories": [
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30535",
+      "forks": "2103",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16083",
+      "forks": "621",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "6117",
+      "forks": "534",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "cube-js",
+      "name": "cube",
+      "full_name": "cube-js/cube",
+      "url": "https://github.com/cube-js/cube",
+      "description": "📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics",
+      "language": "Rust",
+      "stars": "18757",
+      "forks": "1872",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30422",
+      "forks": "3635",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "6992",
+      "forks": "308",
+      "today_stars": "106 stars today"
+    },
+    {
+      "author": "TabbyML",
+      "name": "tabby",
+      "full_name": "TabbyML/tabby",
+      "url": "https://github.com/TabbyML/tabby",
+      "description": "Self-hosted AI coding assistant",
+      "language": "Rust",
+      "stars": "31899",
+      "forks": "1551",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cisagov",
+      "name": "thorium",
+      "full_name": "cisagov/thorium",
+      "url": "https://github.com/cisagov/thorium",
+      "description": "A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.",
+      "language": "Rust",
+      "stars": "753",
+      "forks": "88",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4652",
+      "forks": "515",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24801",
+      "forks": "1449",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "5162",
+      "forks": "424",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "10083",
+      "forks": "313",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "WebAssembly",
+      "name": "WASI",
+      "full_name": "WebAssembly/WASI",
+      "url": "https://github.com/WebAssembly/WASI",
+      "description": "WebAssembly System Interface",
+      "language": "Rust",
+      "stars": "5252",
+      "forks": "284",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nkaz001",
+      "name": "hftbacktest",
+      "full_name": "nkaz001/hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
+      "language": "Rust",
+      "stars": "2862",
+      "forks": "563",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28339",
+      "forks": "2059",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "22953",
+      "forks": "2439",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "stars": "28467",
+      "forks": "646",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "9332",
+      "forks": "606",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "boa-dev",
+      "name": "boa",
+      "full_name": "boa-dev/boa",
+      "url": "https://github.com/boa-dev/boa",
+      "description": "Boa is an embeddable Javascript engine written in Rust.",
+      "language": "Rust",
+      "stars": "5790",
+      "forks": "445",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "35978",
+      "forks": "1904",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "trailbaseio",
+      "name": "trailbase",
+      "full_name": "trailbaseio/trailbase",
+      "url": "https://github.com/trailbaseio/trailbase",
+      "description": "A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.",
+      "language": "Rust",
+      "stars": "2839",
+      "forks": "71",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34745",
+      "forks": "2332",
+      "today_stars": "14 stars today"
+    }
+  ]
+}

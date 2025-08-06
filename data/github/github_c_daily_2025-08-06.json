@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-06 01:21:58",
+  "repositories": [
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23620",
+      "forks": "3160",
+      "today_stars": "159 stars today"
+    },
+    {
+      "author": "tsl0922",
+      "name": "ttyd",
+      "full_name": "tsl0922/ttyd",
+      "url": "https://github.com/tsl0922/ttyd",
+      "description": "Share your terminal over the web",
+      "language": "C",
+      "stars": "9632",
+      "forks": "987",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5467",
+      "forks": "2160",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14056",
+      "forks": "5596",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "16906",
+      "forks": "836",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "22459",
+      "forks": "962",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6269",
+      "forks": "1816",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "TinyCC",
+      "name": "tinycc",
+      "full_name": "TinyCC/tinycc",
+      "url": "https://github.com/TinyCC/tinycc",
+      "description": "Unofficial mirror of mob development branch",
+      "language": "C",
+      "stars": "2397",
+      "forks": "430",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openssh",
+      "name": "openssh-portable",
+      "full_name": "openssh/openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "stars": "3458",
+      "forks": "1917",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "utkarshdalal",
+      "name": "GameNative",
+      "full_name": "utkarshdalal/GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "500",
+      "forks": "13",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "stm32duino",
+      "name": "Arduino_Core_STM32",
+      "full_name": "stm32duino/Arduino_Core_STM32",
+      "url": "https://github.com/stm32duino/Arduino_Core_STM32",
+      "description": "STM32 core support for Arduino",
+      "language": "C",
+      "stars": "3088",
+      "forks": "1022",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11694",
+      "forks": "1933",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10597",
+      "forks": "5641",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "12021",
+      "forks": "2820",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "15667",
+      "forks": "547",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "betaflight",
+      "name": "betaflight",
+      "full_name": "betaflight/betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "stars": "9804",
+      "forks": "3329",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23240",
+      "forks": "11428",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25410",
+      "forks": "2289",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OpenIPC",
+      "name": "firmware",
+      "full_name": "OpenIPC/firmware",
+      "url": "https://github.com/OpenIPC/firmware",
+      "description": "Alternative IP Camera firmware from an open community",
+      "language": "C",
+      "stars": "1710",
+      "forks": "319",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "libfuse",
+      "name": "libfuse",
+      "full_name": "libfuse/libfuse",
+      "url": "https://github.com/libfuse/libfuse",
+      "description": "The reference implementation of the Linux FUSE (Filesystem in Userspace) interface",
+      "language": "C",
+      "stars": "5723",
+      "forks": "1203",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31529",
+      "forks": "3088",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "intel",
+      "name": "xess",
+      "full_name": "intel/xess",
+      "url": "https://github.com/intel/xess",
+      "description": "Intel XeSS SDK",
+      "language": "C",
+      "stars": "798",
+      "forks": "50",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12796",
+      "forks": "7735",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

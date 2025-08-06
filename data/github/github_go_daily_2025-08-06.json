@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-06 01:21:01",
+  "repositories": [
+    {
+      "author": "coreybutler",
+      "name": "nvm-windows",
+      "full_name": "coreybutler/nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "stars": "42262",
+      "forks": "3579",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "screego",
+      "name": "server",
+      "full_name": "screego/server",
+      "url": "https://github.com/screego/server",
+      "description": "screen sharing for developers https://screego.net/",
+      "language": "Go",
+      "stars": "8987",
+      "forks": "652",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "dstotijn",
+      "name": "hetty",
+      "full_name": "dstotijn/hetty",
+      "url": "https://github.com/dstotijn/hetty",
+      "description": "An HTTP toolkit for security research.",
+      "language": "Go",
+      "stars": "7497",
+      "forks": "427",
+      "today_stars": "128 stars today"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "51855",
+      "forks": "4627",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "49980",
+      "forks": "10133",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3753",
+      "forks": "2922",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "30482",
+      "forks": "4485",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "nomad",
+      "full_name": "hashicorp/nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "stars": "15677",
+      "forks": "2008",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8861",
+      "forks": "1073",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21162",
+      "forks": "2471",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "13545",
+      "forks": "422",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "62655",
+      "forks": "2148",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35929",
+      "forks": "5477",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17133",
+      "forks": "1500",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10518",
+      "forks": "1450",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "21541",
+      "forks": "674",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "hypermodeinc",
+      "name": "badger",
+      "full_name": "hypermodeinc/badger",
+      "url": "https://github.com/hypermodeinc/badger",
+      "description": "Fast key-value DB in Go.",
+      "language": "Go",
+      "stars": "14875",
+      "forks": "1240",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "8897",
+      "forks": "645",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "full_name": "kubernetes/minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": "30772",
+      "forks": "5024",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "k3s-io",
+      "name": "k3s",
+      "full_name": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "language": "Go",
+      "stars": "30404",
+      "forks": "2490",
+      "today_stars": "15 stars today"
+    }
+  ]
+}
