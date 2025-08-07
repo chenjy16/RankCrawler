@@ -1,0 +1,282 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-08-07 01:22:41",
+  "repositories": [
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23814",
+      "forks": "3169",
+      "today_stars": "730 stars this week"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5799",
+      "forks": "1221",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5439",
+      "forks": "243",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "msquic",
+      "full_name": "microsoft/msquic",
+      "url": "https://github.com/microsoft/msquic",
+      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "language": "C",
+      "stars": "4432",
+      "forks": "591",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28226",
+      "forks": "10758",
+      "today_stars": "182 stars this week"
+    },
+    {
+      "author": "utkarshdalal",
+      "name": "GameNative",
+      "full_name": "utkarshdalal/GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "506",
+      "forks": "13",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4665",
+      "forks": "1049",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7479",
+      "forks": "606",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15060",
+      "forks": "565",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20455",
+      "forks": "3747",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23515",
+      "forks": "4951",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "22476",
+      "forks": "962",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "199102",
+      "forks": "57210",
+      "today_stars": "567 stars this week"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "55915",
+      "forks": "26488",
+      "today_stars": "128 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "15697",
+      "forks": "548",
+      "today_stars": "196 stars this week"
+    },
+    {
+      "author": "CodeWithHarry",
+      "name": "The-Ultimate-C-Programming-Course",
+      "full_name": "CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "url": "https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "description": "This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry",
+      "language": "C",
+      "stars": "820",
+      "forks": "257",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25627",
+      "forks": "3733",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "UberGuidoZ",
+      "name": "Flipper",
+      "full_name": "UberGuidoZ/Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "stars": "15660",
+      "forks": "3574",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8540",
+      "forks": "575",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8341",
+      "forks": "3124",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10602",
+      "forks": "5640",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38449",
+      "forks": "2238",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16093",
+      "forks": "1909",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11698",
+      "forks": "1933",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27542",
+      "forks": "2614",
+      "today_stars": "128 stars this week"
+    }
+  ]
+}

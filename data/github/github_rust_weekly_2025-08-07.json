@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-08-07 01:22:03",
+  "repositories": [
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "95219",
+      "forks": "13938",
+      "today_stars": "991 stars this week"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "11645",
+      "forks": "1331",
+      "today_stars": "1,038 stars this week"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+      "language": "Rust",
+      "stars": "40916",
+      "forks": "7634",
+      "today_stars": "265 stars this week"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16101",
+      "forks": "623",
+      "today_stars": "185 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "63482",
+      "forks": "4859",
+      "today_stars": "418 stars this week"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1416",
+      "forks": "195",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "EricLBuehler",
+      "name": "mistral.rs",
+      "full_name": "EricLBuehler/mistral.rs",
+      "url": "https://github.com/EricLBuehler/mistral.rs",
+      "description": "Blazingly fast LLM inference.",
+      "language": "Rust",
+      "stars": "5993",
+      "forks": "440",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "elkowar",
+      "name": "eww",
+      "full_name": "elkowar/eww",
+      "url": "https://github.com/elkowar/eww",
+      "description": "ElKowars wacky widgets",
+      "language": "Rust",
+      "stars": "11223",
+      "forks": "474",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+      "language": "Rust",
+      "stars": "4093",
+      "forks": "436",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "16924",
+      "forks": "657",
+      "today_stars": "287 stars this week"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "37142",
+      "forks": "1170",
+      "today_stars": "133 stars this week"
+    },
+    {
+      "author": "hyperium",
+      "name": "tonic",
+      "full_name": "hyperium/tonic",
+      "url": "https://github.com/hyperium/tonic",
+      "description": "A native gRPC client & server implementation with async/await support.",
+      "language": "Rust",
+      "stars": "11209",
+      "forks": "1118",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34759",
+      "forks": "2333",
+      "today_stars": "128 stars this week"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "31215",
+      "forks": "3215",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "peer-2-peer that just works",
+      "language": "Rust",
+      "stars": "6658",
+      "forks": "290",
+      "today_stars": "195 stars this week"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "6408",
+      "forks": "330",
+      "today_stars": "258 stars this week"
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "full_name": "PyO3/pyo3",
+      "url": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": "14123",
+      "forks": "861",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "glzr-io",
+      "name": "glazewm",
+      "full_name": "glzr-io/glazewm",
+      "url": "https://github.com/glzr-io/glazewm",
+      "description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
+      "language": "Rust",
+      "stars": "9395",
+      "forks": "274",
+      "today_stars": "91 stars this week"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30548",
+      "forks": "2102",
+      "today_stars": "93 stars this week"
+    },
+    {
+      "author": "gopher64",
+      "name": "gopher64",
+      "full_name": "gopher64/gopher64",
+      "url": "https://github.com/gopher64/gopher64",
+      "description": "Highly compatible N64 emulator",
+      "language": "Rust",
+      "stars": "349",
+      "forks": "7",
+      "today_stars": "13 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "25149",
+      "forks": "1742",
+      "today_stars": "158 stars this week"
+    },
+    {
+      "author": "aome510",
+      "name": "spotify-player",
+      "full_name": "aome510/spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
+      "language": "Rust",
+      "stars": "5109",
+      "forks": "237",
+      "today_stars": "85 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-07 01:22:35",
+  "repositories": [
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28226",
+      "forks": "10758",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7893",
+      "forks": "2097",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38470",
+      "forks": "6814",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23814",
+      "forks": "3169",
+      "today_stars": "325 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6272",
+      "forks": "1818",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6752",
+      "forks": "1317",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20455",
+      "forks": "3747",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "70323",
+      "forks": "24153",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4665",
+      "forks": "1049",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5900",
+      "forks": "1158",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "10872",
+      "forks": "1779",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29557",
+      "forks": "7864",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "27667",
+      "forks": "7448",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11826",
+      "forks": "3347",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7434",
+      "forks": "4996",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "libevent",
+      "name": "libevent",
+      "full_name": "libevent/libevent",
+      "url": "https://github.com/libevent/libevent",
+      "description": "Event notification library",
+      "language": "C",
+      "stars": "11616",
+      "forks": "3448",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pjsip",
+      "name": "pjproject",
+      "full_name": "pjsip/pjproject",
+      "url": "https://github.com/pjsip/pjproject",
+      "description": "PJSIP project",
+      "language": "C",
+      "stars": "2391",
+      "forks": "879",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13073",
+      "forks": "1929",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12806",
+      "forks": "7743",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ImageMagick",
+      "name": "ImageMagick",
+      "full_name": "ImageMagick/ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+      "language": "C",
+      "stars": "14155",
+      "forks": "1473",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
