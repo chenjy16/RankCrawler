@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-08-08 01:22:17",
+  "repositories": [
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23836",
+      "forks": "3169",
+      "today_stars": "747 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20605",
+      "forks": "3761",
+      "today_stars": "202 stars this week"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5804",
+      "forks": "1222",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28260",
+      "forks": "10765",
+      "today_stars": "212 stars this week"
+    },
+    {
+      "author": "utkarshdalal",
+      "name": "GameNative",
+      "full_name": "utkarshdalal/GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "507",
+      "forks": "13",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "tsl0922",
+      "name": "ttyd",
+      "full_name": "tsl0922/ttyd",
+      "url": "https://github.com/tsl0922/ttyd",
+      "description": "Share your terminal over the web",
+      "language": "C",
+      "stars": "9641",
+      "forks": "987",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "msquic",
+      "full_name": "microsoft/msquic",
+      "url": "https://github.com/microsoft/msquic",
+      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "language": "C",
+      "stars": "4433",
+      "forks": "591",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4668",
+      "forks": "1049",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23518",
+      "forks": "4951",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7902",
+      "forks": "2098",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15074",
+      "forks": "565",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "22491",
+      "forks": "963",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "15721",
+      "forks": "547",
+      "today_stars": "181 stars this week"
+    },
+    {
+      "author": "aircrack-ng",
+      "name": "aircrack-ng",
+      "full_name": "aircrack-ng/aircrack-ng",
+      "url": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
+      "language": "C",
+      "stars": "6275",
+      "forks": "1091",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "126204",
+      "forks": "11814",
+      "today_stars": "396 stars this week"
+    },
+    {
+      "author": "CodeWithHarry",
+      "name": "The-Ultimate-C-Programming-Course",
+      "full_name": "CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "url": "https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "description": "This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry",
+      "language": "C",
+      "stars": "821",
+      "forks": "265",
+      "today_stars": "13 stars this week"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8545",
+      "forks": "575",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "Next-Flip",
+      "name": "Momentum-Firmware",
+      "full_name": "Next-Flip/Momentum-Firmware",
+      "url": "https://github.com/Next-Flip/Momentum-Firmware",
+      "description": "🐬 Feature-rich, stable and customizable Flipper Firmware",
+      "language": "C",
+      "stars": "7094",
+      "forks": "361",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "jart",
+      "name": "cosmopolitan",
+      "full_name": "jart/cosmopolitan",
+      "url": "https://github.com/jart/cosmopolitan",
+      "description": "build-once run-anywhere c library",
+      "language": "C",
+      "stars": "19633",
+      "forks": "695",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8343",
+      "forks": "3127",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16094",
+      "forks": "1913",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7483",
+      "forks": "606",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8399",
+      "forks": "3059",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11694",
+      "forks": "1933",
+      "today_stars": "39 stars this week"
+    }
+  ]
+}

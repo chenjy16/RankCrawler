@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-08-08 01:19:54",
+  "repositories": [
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "12685",
+      "forks": "1390",
+      "today_stars": "1,894 stars today"
+    },
+    {
+      "author": "browserbase",
+      "name": "stagehand",
+      "full_name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": "15675",
+      "forks": "938",
+      "today_stars": "354 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20604",
+      "forks": "3761",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": "54423",
+      "forks": "9217",
+      "today_stars": "154 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "149376",
+      "forks": "12740",
+      "today_stars": "242 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "17756",
+      "forks": "828",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "62940",
+      "forks": "2160",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "full_name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": "24913",
+      "forks": "6150",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "simstudioai",
+      "name": "sim",
+      "full_name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": "7036",
+      "forks": "929",
+      "today_stars": "263 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-cookbook",
+      "full_name": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "stars": "66327",
+      "forks": "11010",
+      "today_stars": "315 stars today"
+    },
+    {
+      "author": "prisma",
+      "name": "prisma",
+      "full_name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": "43362",
+      "forks": "1828",
+      "today_stars": "230 stars today"
+    },
+    {
+      "author": "xiaoyaocz",
+      "name": "dart_simple_live",
+      "full_name": "xiaoyaocz/dart_simple_live",
+      "url": "https://github.com/xiaoyaocz/dart_simple_live",
+      "description": "简简单单的看直播",
+      "language": "Dart",
+      "stars": "11849",
+      "forks": "783",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "datawhalechina",
+      "name": "self-llm",
+      "full_name": "datawhalechina/self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+      "language": "Jupyter Notebook",
+      "stars": "22624",
+      "forks": "2285",
+      "today_stars": "87 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14273",
+      "forks": "3288",
+      "today_stars": "7 stars today"
+    }
+  ]
+}

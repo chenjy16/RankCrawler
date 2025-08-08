@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-08 01:22:30",
+  "repositories": [
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "full_name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": "24913",
+      "forks": "6150",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "flashinfer-ai",
+      "name": "flashinfer",
+      "full_name": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "C++",
+      "stars": "3499",
+      "forks": "419",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "12856",
+      "forks": "4142",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "OSGeo",
+      "name": "gdal",
+      "full_name": "OSGeo/gdal",
+      "url": "https://github.com/OSGeo/gdal",
+      "description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
+      "language": "C++",
+      "stars": "5445",
+      "forks": "2737",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "WSL",
+      "full_name": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "stars": "29484",
+      "forks": "1442",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "abdularis",
+      "name": "LAN-Share",
+      "full_name": "abdularis/LAN-Share",
+      "url": "https://github.com/abdularis/LAN-Share",
+      "description": "Cross platform LAN File transfer application built with Qt C++ framework",
+      "language": "C++",
+      "stars": "654",
+      "forks": "86",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "84258",
+      "forks": "12607",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "nixl",
+      "full_name": "ai-dynamo/nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "language": "C++",
+      "stars": "517",
+      "forks": "119",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cp-algorithms",
+      "name": "cp-algorithms",
+      "full_name": "cp-algorithms/cp-algorithms",
+      "url": "https://github.com/cp-algorithms/cp-algorithms",
+      "description": "Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)",
+      "language": "C++",
+      "stars": "9156",
+      "forks": "1825",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "dail8859",
+      "name": "NotepadNext",
+      "full_name": "dail8859/NotepadNext",
+      "url": "https://github.com/dail8859/NotepadNext",
+      "description": "A cross-platform, reimplementation of Notepad++",
+      "language": "C++",
+      "stars": "12030",
+      "forks": "712",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4456",
+      "forks": "546",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43455",
+      "forks": "10857",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8195",
+      "forks": "1370",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "rapidjson",
+      "full_name": "Tencent/rapidjson",
+      "url": "https://github.com/Tencent/rapidjson",
+      "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "language": "C++",
+      "stars": "14782",
+      "forks": "3610",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "colmap",
+      "name": "colmap",
+      "full_name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": "9110",
+      "forks": "1712",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "weidai11",
+      "name": "cryptopp",
+      "full_name": "weidai11/cryptopp",
+      "url": "https://github.com/weidai11/cryptopp",
+      "description": "free C++ class library of cryptographic schemes",
+      "language": "C++",
+      "stars": "5270",
+      "forks": "1631",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "drogonframework",
+      "name": "drogon",
+      "full_name": "drogonframework/drogon",
+      "url": "https://github.com/drogonframework/drogon",
+      "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+      "language": "C++",
+      "stars": "12775",
+      "forks": "1220",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tnodir",
+      "name": "fort",
+      "full_name": "tnodir/fort",
+      "url": "https://github.com/tnodir/fort",
+      "description": "Fort Firewall for Windows",
+      "language": "C++",
+      "stars": "2448",
+      "forks": "173",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "36524",
+      "forks": "3993",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "9892",
+      "forks": "14298",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "HIllya51",
+      "name": "LunaTranslator",
+      "full_name": "HIllya51/LunaTranslator",
+      "url": "https://github.com/HIllya51/LunaTranslator",
+      "description": "视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard",
+      "language": "C++",
+      "stars": "7941",
+      "forks": "915",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "6957",
+      "forks": "808",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46739",
+      "forks": "7085",
+      "today_stars": "12 stars today"
+    }
+  ]
+}

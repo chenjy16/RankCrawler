@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-08 01:22:11",
+  "repositories": [
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20605",
+      "forks": "3761",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "hashcat",
+      "name": "hashcat",
+      "full_name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": "23836",
+      "forks": "3169",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11199",
+      "forks": "1455",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38477",
+      "forks": "6814",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3403",
+      "forks": "1325",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ventoy",
+      "name": "Ventoy",
+      "full_name": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "stars": "69684",
+      "forks": "4431",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6279",
+      "forks": "1818",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7902",
+      "forks": "2098",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5459",
+      "forks": "1558",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14461",
+      "forks": "4055",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5904",
+      "forks": "1159",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28260",
+      "forks": "10765",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Heygem",
+      "full_name": "duixcom/Duix.Heygem",
+      "url": "https://github.com/duixcom/Duix.Heygem",
+      "description": "",
+      "language": "C",
+      "stars": "10893",
+      "forks": "1780",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "redcanaryco",
+      "name": "atomic-red-team",
+      "full_name": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "stars": "10843",
+      "forks": "2946",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4819",
+      "forks": "934",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "linux-rdma",
+      "name": "rdma-core",
+      "full_name": "linux-rdma/rdma-core",
+      "url": "https://github.com/linux-rdma/rdma-core",
+      "description": "RDMA core userspace libraries and daemons",
+      "language": "C",
+      "stars": "1892",
+      "forks": "765",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "jart",
+      "name": "cosmopolitan",
+      "full_name": "jart/cosmopolitan",
+      "url": "https://github.com/jart/cosmopolitan",
+      "description": "build-once run-anywhere c library",
+      "language": "C",
+      "stars": "19633",
+      "forks": "695",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Windows-driver-samples",
+      "full_name": "microsoft/Windows-driver-samples",
+      "url": "https://github.com/microsoft/Windows-driver-samples",
+      "description": "This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.",
+      "language": "C",
+      "stars": "7435",
+      "forks": "4996",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1131",
+      "forks": "1355",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "kokke",
+      "name": "tiny-AES-c",
+      "full_name": "kokke/tiny-AES-c",
+      "url": "https://github.com/kokke/tiny-AES-c",
+      "description": "Small portable AES128/192/256 in C",
+      "language": "C",
+      "stars": "4640",
+      "forks": "1348",
+      "today_stars": "1 star today"
+    }
+  ]
+}
