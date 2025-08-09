@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-08-09 01:17:40",
+  "repositories": [
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7919",
+      "forks": "3639",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "onevcat",
+      "name": "Kingfisher",
+      "full_name": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "stars": "23990",
+      "forks": "2718",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-async-algorithms",
+      "full_name": "apple/swift-async-algorithms",
+      "url": "https://github.com/apple/swift-async-algorithms",
+      "description": "Async Algorithms for Swift",
+      "language": "Swift",
+      "stars": "3359",
+      "forks": "170",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27928",
+      "forks": "6044",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "42048",
+      "forks": "7631",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26373",
+      "forks": "3816",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7679",
+      "forks": "769",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6190",
+      "forks": "385",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ios",
+      "full_name": "stripe/stripe-ios",
+      "url": "https://github.com/stripe/stripe-ios",
+      "description": "Stripe iOS SDK",
+      "language": "Swift",
+      "stars": "2426",
+      "forks": "1015",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3485",
+      "forks": "447",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-sdk-ios",
+      "full_name": "DataDog/dd-sdk-ios",
+      "url": "https://github.com/DataDog/dd-sdk-ios",
+      "description": "Datadog SDK for iOS - Swift and Objective-C.",
+      "language": "Swift",
+      "stars": "243",
+      "forks": "149",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "gonzalezreal",
+      "name": "swift-markdown-ui",
+      "full_name": "gonzalezreal/swift-markdown-ui",
+      "url": "https://github.com/gonzalezreal/swift-markdown-ui",
+      "description": "Display and customize Markdown text in SwiftUI",
+      "language": "Swift",
+      "stars": "3363",
+      "forks": "440",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nightscout",
+      "name": "Trio",
+      "full_name": "nightscout/Trio",
+      "url": "https://github.com/nightscout/Trio",
+      "description": "Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations.",
+      "language": "Swift",
+      "stars": "170",
+      "forks": "986",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "aws-amplify",
+      "name": "amplify-swift",
+      "full_name": "aws-amplify/amplify-swift",
+      "url": "https://github.com/aws-amplify/amplify-swift",
+      "description": "A declarative library for application development using cloud services.",
+      "language": "Swift",
+      "stars": "508",
+      "forks": "219",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mhaeuser",
+      "name": "Battery-Toolkit",
+      "full_name": "mhaeuser/Battery-Toolkit",
+      "url": "https://github.com/mhaeuser/Battery-Toolkit",
+      "description": "Control the platform power state of your Apple Silicon Mac.",
+      "language": "Swift",
+      "stars": "1569",
+      "forks": "42",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "zenangst",
+      "name": "KeyboardCowboy",
+      "full_name": "zenangst/KeyboardCowboy",
+      "url": "https://github.com/zenangst/KeyboardCowboy",
+      "description": "⌨️ The missing keyboard shortcut utility for macOS",
+      "language": "Swift",
+      "stars": "1753",
+      "forks": "28",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "swift-sdk",
+      "full_name": "modelcontextprotocol/swift-sdk",
+      "url": "https://github.com/modelcontextprotocol/swift-sdk",
+      "description": "The official Swift SDK for Model Context Protocol servers and clients.",
+      "language": "Swift",
+      "stars": "889",
+      "forks": "99",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "939",
+      "forks": "362",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "TheWidlarzGroup",
+      "name": "react-native-video",
+      "full_name": "TheWidlarzGroup/react-native-video",
+      "url": "https://github.com/TheWidlarzGroup/react-native-video",
+      "description": "A <Video /> component for react-native",
+      "language": "Swift",
+      "stars": "7484",
+      "forks": "2989",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-collections",
+      "full_name": "apple/swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
+      "language": "Swift",
+      "stars": "4150",
+      "forks": "340",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "scinfu",
+      "name": "SwiftSoup",
+      "full_name": "scinfu/SwiftSoup",
+      "url": "https://github.com/scinfu/SwiftSoup",
+      "description": "SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",
+      "language": "Swift",
+      "stars": "4900",
+      "forks": "368",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "RevenueCat",
+      "name": "purchases-ios",
+      "full_name": "RevenueCat/purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "language": "Swift",
+      "stars": "2736",
+      "forks": "377",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "SnapKit",
+      "name": "SnapKit",
+      "full_name": "SnapKit/SnapKit",
+      "url": "https://github.com/SnapKit/SnapKit",
+      "description": "A Swift Autolayout DSL for iOS & OS X",
+      "language": "Swift",
+      "stars": "20222",
+      "forks": "2023",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

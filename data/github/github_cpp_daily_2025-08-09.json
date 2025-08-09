@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-09 01:16:22",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "WSL",
+      "full_name": "microsoft/WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "stars": "29497",
+      "forks": "1442",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8199",
+      "forks": "1374",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "NixOS",
+      "name": "nix",
+      "full_name": "NixOS/nix",
+      "url": "https://github.com/NixOS/nix",
+      "description": "Nix, the purely functional package manager",
+      "language": "C++",
+      "stars": "14862",
+      "forks": "1693",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12757",
+      "forks": "2030",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "full_name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": "24951",
+      "forks": "6151",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "flameshot-org",
+      "name": "flameshot",
+      "full_name": "flameshot-org/flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "stars": "27450",
+      "forks": "1744",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "84355",
+      "forks": "12625",
+      "today_stars": "131 stars today"
+    },
+    {
+      "author": "tnodir",
+      "name": "fort",
+      "full_name": "tnodir/fort",
+      "url": "https://github.com/tnodir/fort",
+      "description": "Fort Firewall for Windows",
+      "language": "C++",
+      "stars": "2468",
+      "forks": "175",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36548",
+      "forks": "10448",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "dail8859",
+      "name": "NotepadNext",
+      "full_name": "dail8859/NotepadNext",
+      "url": "https://github.com/dail8859/NotepadNext",
+      "description": "A cross-platform, reimplementation of Notepad++",
+      "language": "C++",
+      "stars": "12052",
+      "forks": "713",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "mavlink",
+      "name": "qgroundcontrol",
+      "full_name": "mavlink/qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "stars": "3890",
+      "forks": "4186",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "26991",
+      "forks": "4868",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cccl",
+      "full_name": "NVIDIA/cccl",
+      "url": "https://github.com/NVIDIA/cccl",
+      "description": "CUDA Core Compute Libraries",
+      "language": "C++",
+      "stars": "1837",
+      "forks": "251",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": "6931",
+      "forks": "416",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "25747",
+      "forks": "4715",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "jrouwe",
+      "name": "JoltPhysics",
+      "full_name": "jrouwe/JoltPhysics",
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.",
+      "language": "C++",
+      "stars": "8271",
+      "forks": "559",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "facebookincubator",
+      "name": "velox",
+      "full_name": "facebookincubator/velox",
+      "url": "https://github.com/facebookincubator/velox",
+      "description": "A composable and fully extensible C++ execution engine library for data management systems.",
+      "language": "C++",
+      "stars": "3844",
+      "forks": "1388",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "flashinfer-ai",
+      "name": "flashinfer",
+      "full_name": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "C++",
+      "stars": "3509",
+      "forks": "422",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68734",
+      "forks": "15823",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "68936",
+      "forks": "10514",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16190",
+      "forks": "2818",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "shader-slang",
+      "name": "slang",
+      "full_name": "shader-slang/slang",
+      "url": "https://github.com/shader-slang/slang",
+      "description": "Making it easier to work with shaders",
+      "language": "C++",
+      "stars": "4375",
+      "forks": "331",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29661",
+      "forks": "5747",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "RobotLocomotion",
+      "name": "drake",
+      "full_name": "RobotLocomotion/drake",
+      "url": "https://github.com/RobotLocomotion/drake",
+      "description": "Model-based design and verification for robotics.",
+      "language": "C++",
+      "stars": "3662",
+      "forks": "1308",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
