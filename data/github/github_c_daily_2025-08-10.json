@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-10 01:25:57",
+  "repositories": [
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "13047",
+      "forks": "2292",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "20791",
+      "forks": "3766",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "199292",
+      "forks": "57261",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "screetsec",
+      "name": "TheFatRat",
+      "full_name": "screetsec/TheFatRat",
+      "url": "https://github.com/screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+      "language": "C",
+      "stars": "10412",
+      "forks": "2404",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "warmcat",
+      "name": "libwebsockets",
+      "full_name": "warmcat/libwebsockets",
+      "url": "https://github.com/warmcat/libwebsockets",
+      "description": "canonical libwebsockets.org networking library",
+      "language": "C",
+      "stars": "5067",
+      "forks": "1550",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "7914",
+      "forks": "2101",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "age",
+      "full_name": "apache/age",
+      "url": "https://github.com/apache/age",
+      "description": "Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.",
+      "language": "C",
+      "stars": "3729",
+      "forks": "441",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "4066",
+      "forks": "1284",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4674",
+      "forks": "1049",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "merbanan",
+      "name": "rtl_433",
+      "full_name": "merbanan/rtl_433",
+      "url": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+      "language": "C",
+      "stars": "6776",
+      "forks": "1426",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3409",
+      "forks": "1325",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasm-micro-runtime",
+      "full_name": "bytecodealliance/wasm-micro-runtime",
+      "url": "https://github.com/bytecodealliance/wasm-micro-runtime",
+      "description": "WebAssembly Micro Runtime (WAMR)",
+      "language": "C",
+      "stars": "5492",
+      "forks": "711",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6055",
+      "forks": "2743",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "OpenMathLib",
+      "name": "OpenBLAS",
+      "full_name": "OpenMathLib/OpenBLAS",
+      "url": "https://github.com/OpenMathLib/OpenBLAS",
+      "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+      "language": "C",
+      "stars": "6901",
+      "forks": "1583",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pygame",
+      "name": "pygame",
+      "full_name": "pygame/pygame",
+      "url": "https://github.com/pygame/pygame",
+      "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "language": "C",
+      "stars": "8197",
+      "forks": "3699",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11214",
+      "forks": "1455",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "13947",
+      "forks": "867",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10612",
+      "forks": "5641",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2700",
+      "forks": "694",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7133",
+      "forks": "1740",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hathach",
+      "name": "tinyusb",
+      "full_name": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "stars": "5814",
+      "forks": "1228",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12848",
+      "forks": "7754",
+      "today_stars": "22 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-10 01:25:18",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "33410",
+      "forks": "3860",
+      "today_stars": "616 stars today"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "13349",
+      "forks": "1438",
+      "today_stars": "302 stars today"
+    },
+    {
+      "author": "shshemi",
+      "name": "tabiew",
+      "full_name": "shshemi/tabiew",
+      "url": "https://github.com/shshemi/tabiew",
+      "description": "A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",
+      "language": "Rust",
+      "stars": "1968",
+      "forks": "55",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "neondatabase",
+      "name": "neon",
+      "full_name": "neondatabase/neon",
+      "url": "https://github.com/neondatabase/neon",
+      "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+      "language": "Rust",
+      "stars": "19352",
+      "forks": "738",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "lencx",
+      "name": "ChatGPT",
+      "full_name": "lencx/ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "language": "Rust",
+      "stars": "53987",
+      "forks": "6144",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "risingwavelabs",
+      "name": "risingwave",
+      "full_name": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "description": "Real-time event streaming platform. real-time data ingestion, stream processing, online serving, and data management.",
+      "language": "Rust",
+      "stars": "8221",
+      "forks": "666",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "full_name": "libp2p/rust-libp2p",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of the libp2p networking stack.",
+      "language": "Rust",
+      "stars": "5108",
+      "forks": "1105",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "64248",
+      "forks": "1869",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "29880",
+      "forks": "1003",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "esp-rs",
+      "name": "esp-hal",
+      "full_name": "esp-rs/esp-hal",
+      "url": "https://github.com/esp-rs/esp-hal",
+      "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+      "language": "Rust",
+      "stars": "1319",
+      "forks": "309",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4691",
+      "forks": "522",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bluealloy",
+      "name": "revm",
+      "full_name": "bluealloy/revm",
+      "url": "https://github.com/bluealloy/revm",
+      "description": "Rust implementation of the Ethereum Virtual Machine.",
+      "language": "Rust",
+      "stars": "1937",
+      "forks": "768",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "guidance-ai",
+      "name": "llguidance",
+      "full_name": "guidance-ai/llguidance",
+      "url": "https://github.com/guidance-ai/llguidance",
+      "description": "Super-fast Structured Outputs",
+      "language": "Rust",
+      "stars": "393",
+      "forks": "33",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow-rs",
+      "full_name": "apache/arrow-rs",
+      "url": "https://github.com/apache/arrow-rs",
+      "description": "Official Rust implementation of Apache Arrow",
+      "language": "Rust",
+      "stars": "3085",
+      "forks": "988",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "7253",
+      "forks": "1130",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105631",
+      "forks": "13626",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "28092",
+      "forks": "1858",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25631",
+      "forks": "785",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9260",
+      "forks": "2078",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "op-rs",
+      "name": "kona",
+      "full_name": "op-rs/kona",
+      "url": "https://github.com/op-rs/kona",
+      "description": "Monorepo for OP Stack Types, Components, and Services built in Rust.",
+      "language": "Rust",
+      "stars": "238",
+      "forks": "124",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "relay",
+      "full_name": "facebook/relay",
+      "url": "https://github.com/facebook/relay",
+      "description": "Relay is a JavaScript framework for building data-driven React applications.",
+      "language": "Rust",
+      "stars": "18809",
+      "forks": "1863",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "SeaQL",
+      "name": "sea-orm",
+      "full_name": "SeaQL/sea-orm",
+      "url": "https://github.com/SeaQL/sea-orm",
+      "description": "🐚 An async & dynamic ORM for Rust",
+      "language": "Rust",
+      "stars": "8572",
+      "forks": "599",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

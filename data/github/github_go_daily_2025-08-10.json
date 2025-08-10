@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-10 01:24:59",
+  "repositories": [
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "4149",
+      "forks": "112",
+      "today_stars": "112 stars today"
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "full_name": "gotify/server",
+      "url": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": "13422",
+      "forks": "738",
+      "today_stars": "128 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "63276",
+      "forks": "2174",
+      "today_stars": "97 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2181",
+      "forks": "182",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "17993",
+      "forks": "838",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7444",
+      "forks": "689",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5484",
+      "forks": "1699",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28323",
+      "forks": "7299",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20309",
+      "forks": "6255",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "19897",
+      "forks": "892",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "6018",
+      "forks": "1217",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fullstorydev",
+      "name": "grpcurl",
+      "full_name": "fullstorydev/grpcurl",
+      "url": "https://github.com/fullstorydev/grpcurl",
+      "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+      "language": "Go",
+      "stars": "11907",
+      "forks": "539",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
+      "language": "Go",
+      "stars": "821",
+      "forks": "346",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "sashabaranov",
+      "name": "go-openai",
+      "full_name": "sashabaranov/go-openai",
+      "url": "https://github.com/sashabaranov/go-openai",
+      "description": "OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",
+      "language": "Go",
+      "stars": "10226",
+      "forks": "1647",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "maximhq",
+      "name": "bifrost",
+      "full_name": "maximhq/bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "The Fastest LLM Gateway with built in OTel observability and MCP gateway",
+      "language": "Go",
+      "stars": "414",
+      "forks": "28",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "shirou",
+      "name": "gopsutil",
+      "full_name": "shirou/gopsutil",
+      "url": "https://github.com/shirou/gopsutil",
+      "description": "psutil for golang",
+      "language": "Go",
+      "stars": "11370",
+      "forks": "1629",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ray-project",
+      "name": "kuberay",
+      "full_name": "ray-project/kuberay",
+      "url": "https://github.com/ray-project/kuberay",
+      "description": "A toolkit to run Ray applications on Kubernetes",
+      "language": "Go",
+      "stars": "1954",
+      "forks": "590",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "kubernetes-mcp-server",
+      "full_name": "containers/kubernetes-mcp-server",
+      "url": "https://github.com/containers/kubernetes-mcp-server",
+      "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+      "language": "Go",
+      "stars": "461",
+      "forks": "86",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5358",
+      "forks": "639",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "full_name": "kubernetes-sigs/controller-runtime",
+      "url": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": "2769",
+      "forks": "1218",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22203",
+      "forks": "3348",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

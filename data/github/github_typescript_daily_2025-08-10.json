@@ -1,0 +1,183 @@
+{
+  "language": "typescript",
+  "period": "daily",
+  "fetch_time": "2025-08-10 01:24:41",
+  "repositories": [
+    {
+      "author": "hoppscotch",
+      "name": "hoppscotch",
+      "full_name": "hoppscotch/hoppscotch",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+      "language": "TypeScript",
+      "stars": "73433",
+      "forks": "5113",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "Budibase",
+      "name": "budibase",
+      "full_name": "Budibase/budibase",
+      "url": "https://github.com/Budibase/budibase",
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": "25271",
+      "forks": "1817",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "browser-use",
+      "name": "workflow-use",
+      "full_name": "browser-use/workflow-use",
+      "url": "https://github.com/browser-use/workflow-use",
+      "description": "⚙️ Create and run workflows (RPA 2.0)",
+      "language": "TypeScript",
+      "stars": "3636",
+      "forks": "281",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "scriptscat",
+      "name": "scriptcat",
+      "full_name": "scriptscat/scriptcat",
+      "url": "https://github.com/scriptscat/scriptcat",
+      "description": "ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展",
+      "language": "TypeScript",
+      "stars": "3145",
+      "forks": "234",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": "175559",
+      "forks": "34258",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "Eugeny",
+      "name": "tabby",
+      "full_name": "Eugeny/tabby",
+      "url": "https://github.com/Eugeny/tabby",
+      "description": "A terminal for a more modern age",
+      "language": "TypeScript",
+      "stars": "65377",
+      "forks": "3679",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "128239",
+      "forks": "39532",
+      "today_stars": "254 stars today"
+    },
+    {
+      "author": "lobehub",
+      "name": "lobe-chat",
+      "full_name": "lobehub/lobe-chat",
+      "url": "https://github.com/lobehub/lobe-chat",
+      "description": "🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+      "language": "TypeScript",
+      "stars": "64280",
+      "forks": "13350",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "examples",
+      "full_name": "vercel/examples",
+      "url": "https://github.com/vercel/examples",
+      "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+      "language": "TypeScript",
+      "stars": "3955",
+      "forks": "1323",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "browserbase",
+      "name": "stagehand",
+      "full_name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": "15984",
+      "forks": "955",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "elastic",
+      "name": "kibana",
+      "full_name": "elastic/kibana",
+      "url": "https://github.com/elastic/kibana",
+      "description": "Your window into the Elastic Stack",
+      "language": "TypeScript",
+      "stars": "20634",
+      "forks": "8408",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "calcom",
+      "name": "cal.com",
+      "full_name": "calcom/cal.com",
+      "url": "https://github.com/calcom/cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "stars": "37519",
+      "forks": "10193",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "idosal",
+      "name": "git-mcp",
+      "full_name": "idosal/git-mcp",
+      "url": "https://github.com/idosal/git-mcp",
+      "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+      "language": "TypeScript",
+      "stars": "4181",
+      "forks": "309",
+      "today_stars": "143 stars today"
+    },
+    {
+      "author": "agno-agi",
+      "name": "agent-ui",
+      "full_name": "agno-agi/agent-ui",
+      "url": "https://github.com/agno-agi/agent-ui",
+      "description": "A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.",
+      "language": "TypeScript",
+      "stars": "1103",
+      "forks": "202",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-node",
+      "full_name": "openai/openai-node",
+      "url": "https://github.com/openai/openai-node",
+      "description": "Official JavaScript / TypeScript library for the OpenAI API",
+      "language": "TypeScript",
+      "stars": "9591",
+      "forks": "1177",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "AykutSarac",
+      "name": "jsoncrack.com",
+      "full_name": "AykutSarac/jsoncrack.com",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+      "language": "TypeScript",
+      "stars": "40704",
+      "forks": "2879",
+      "today_stars": "35 stars today"
+    }
+  ]
+}
