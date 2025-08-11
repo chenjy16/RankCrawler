@@ -1,0 +1,194 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-11 01:21:51",
+  "repositories": [
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "18019",
+      "forks": "843",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "4310",
+      "forks": "117",
+      "today_stars": "304 stars today"
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "full_name": "gotify/server",
+      "url": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": "13449",
+      "forks": "739",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "sammcj",
+      "name": "gollama",
+      "full_name": "sammcj/gollama",
+      "url": "https://github.com/sammcj/gollama",
+      "description": "Go manage your Ollama models",
+      "language": "Go",
+      "stars": "1330",
+      "forks": "72",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "26855",
+      "forks": "1016",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "lxc",
+      "name": "incus",
+      "full_name": "lxc/incus",
+      "url": "https://github.com/lxc/incus",
+      "description": "Powerful system container and virtual machine manager",
+      "language": "Go",
+      "stars": "3926",
+      "forks": "337",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "97152",
+      "forks": "14305",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "url": "https://github.com/apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": "17063",
+      "forks": "1867",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "assets",
+      "full_name": "trustwallet/assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+      "language": "Go",
+      "stars": "5009",
+      "forks": "25114",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "49790",
+      "forks": "2533",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "qichiyuhub",
+      "name": "rule",
+      "full_name": "qichiyuhub/rule",
+      "url": "https://github.com/qichiyuhub/rule",
+      "description": "Clash、Sing-box、等分流规则",
+      "language": "Go",
+      "stars": "683",
+      "forks": "646",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ViRb3",
+      "name": "wgcf",
+      "full_name": "ViRb3/wgcf",
+      "url": "https://github.com/ViRb3/wgcf",
+      "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+      "language": "Go",
+      "stars": "6968",
+      "forks": "738",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24196",
+      "forks": "1946",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.",
+      "language": "Go",
+      "stars": "854",
+      "forks": "357",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2473",
+      "forks": "243",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "full_name": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "stars": "24937",
+      "forks": "1255",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "9961",
+      "forks": "371",
+      "today_stars": "18 stars today"
+    }
+  ]
+}

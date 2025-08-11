@@ -1,0 +1,282 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-08-11 01:22:16",
+  "repositories": [
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "13520",
+      "forks": "1459",
+      "today_stars": "3,428 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "33949",
+      "forks": "3904",
+      "today_stars": "2,029 stars this week"
+    },
+    {
+      "author": "cisagov",
+      "name": "thorium",
+      "full_name": "cisagov/thorium",
+      "url": "https://github.com/cisagov/thorium",
+      "description": "A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.",
+      "language": "Rust",
+      "stars": "826",
+      "forks": "95",
+      "today_stars": "257 stars this week"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16153",
+      "forks": "631",
+      "today_stars": "196 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "64325",
+      "forks": "1872",
+      "today_stars": "819 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "63645",
+      "forks": "4884",
+      "today_stars": "398 stars this week"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4863",
+      "forks": "1773",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "lumina-ai-inc",
+      "name": "chunkr",
+      "full_name": "lumina-ai-inc/chunkr",
+      "url": "https://github.com/lumina-ai-inc/chunkr",
+      "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+      "language": "Rust",
+      "stars": "2738",
+      "forks": "165",
+      "today_stars": "201 stars this week"
+    },
+    {
+      "author": "lencx",
+      "name": "ChatGPT",
+      "full_name": "lencx/ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "language": "Rust",
+      "stars": "53987",
+      "forks": "6144",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "gopher64",
+      "name": "gopher64",
+      "full_name": "gopher64/gopher64",
+      "url": "https://github.com/gopher64/gopher64",
+      "description": "Highly compatible N64 emulator",
+      "language": "Rust",
+      "stars": "369",
+      "forks": "7",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25653",
+      "forks": "787",
+      "today_stars": "195 stars this week"
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "full_name": "seanmonstar/warp",
+      "url": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": "9993",
+      "forks": "738",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "rathole-org",
+      "name": "rathole",
+      "full_name": "rathole-org/rathole",
+      "url": "https://github.com/rathole-org/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "11264",
+      "forks": "592",
+      "today_stars": "102 stars this week"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19954",
+      "forks": "844",
+      "today_stars": "186 stars this week"
+    },
+    {
+      "author": "ilya-zlobintsev",
+      "name": "LACT",
+      "full_name": "ilya-zlobintsev/LACT",
+      "url": "https://github.com/ilya-zlobintsev/LACT",
+      "description": "Linux GPU Configuration And Monitoring Tool",
+      "language": "Rust",
+      "stars": "2847",
+      "forks": "76",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30590",
+      "forks": "2104",
+      "today_stars": "109 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "73878",
+      "forks": "3785",
+      "today_stars": "622 stars this week"
+    },
+    {
+      "author": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": "24785",
+      "forks": "769",
+      "today_stars": "99 stars this week"
+    },
+    {
+      "author": "aome510",
+      "name": "spotify-player",
+      "full_name": "aome510/spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
+      "language": "Rust",
+      "stars": "5150",
+      "forks": "239",
+      "today_stars": "109 stars this week"
+    },
+    {
+      "author": "nkaz001",
+      "name": "hftbacktest",
+      "full_name": "nkaz001/hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
+      "language": "Rust",
+      "stars": "2885",
+      "forks": "569",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "95421",
+      "forks": "13989",
+      "today_stars": "628 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "25229",
+      "forks": "1760",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "bee-san",
+      "name": "RustScan",
+      "full_name": "bee-san/RustScan",
+      "url": "https://github.com/bee-san/RustScan",
+      "description": "🤖 The Modern Port Scanner 🤖",
+      "language": "Rust",
+      "stars": "17672",
+      "forks": "1173",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12345",
+      "forks": "1745",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "cube-js",
+      "name": "cube",
+      "full_name": "cube-js/cube",
+      "url": "https://github.com/cube-js/cube",
+      "description": "📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics",
+      "language": "Rust",
+      "stars": "18774",
+      "forks": "1875",
+      "today_stars": "32 stars this week"
+    }
+  ]
+}
