@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-08-12 01:13:03",
+  "repositories": [
+    {
+      "author": "nomic-ai",
+      "name": "gpt4all",
+      "full_name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": "75285",
+      "forks": "8154",
+      "today_stars": "465 stars today"
+    },
+    {
+      "author": "tadata-org",
+      "name": "fastapi_mcp",
+      "full_name": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "language": "Python",
+      "stars": "7477",
+      "forks": "609",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "trailofbits",
+      "name": "buttercup",
+      "full_name": "trailofbits/buttercup",
+      "url": "https://github.com/trailofbits/buttercup",
+      "description": "",
+      "language": "Python",
+      "stars": "531",
+      "forks": "58",
+      "today_stars": "94 stars today"
+    },
+    {
+      "author": "patchy631",
+      "name": "ai-engineering-hub",
+      "full_name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars": "16574",
+      "forks": "2813",
+      "today_stars": "252 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "34386",
+      "forks": "3927",
+      "today_stars": "540 stars today"
+    },
+    {
+      "author": "menloresearch",
+      "name": "jan",
+      "full_name": "menloresearch/jan",
+      "url": "https://github.com/menloresearch/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+      "language": "TypeScript",
+      "stars": "36187",
+      "forks": "2111",
+      "today_stars": "333 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+      "language": "Jupyter Notebook",
+      "stars": "94627",
+      "forks": "49242",
+      "today_stars": "138 stars today"
+    },
+    {
+      "author": "midday-ai",
+      "name": "midday",
+      "full_name": "midday-ai/midday",
+      "url": "https://github.com/midday-ai/midday",
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "language": "TypeScript",
+      "stars": "9846",
+      "forks": "914",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "xiaoyaocz",
+      "name": "dart_simple_live",
+      "full_name": "xiaoyaocz/dart_simple_live",
+      "url": "https://github.com/xiaoyaocz/dart_simple_live",
+      "description": "简简单单的看直播",
+      "language": "Dart",
+      "stars": "12281",
+      "forks": "925",
+      "today_stars": "174 stars today"
+    },
+    {
+      "author": "fastapi",
+      "name": "full-stack-fastapi-template",
+      "full_name": "fastapi/full-stack-fastapi-template",
+      "url": "https://github.com/fastapi/full-stack-fastapi-template",
+      "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+      "language": "TypeScript",
+      "stars": "35889",
+      "forks": "6846",
+      "today_stars": "419 stars today"
+    },
+    {
+      "author": "mendableai",
+      "name": "firecrawl",
+      "full_name": "mendableai/firecrawl",
+      "url": "https://github.com/mendableai/firecrawl",
+      "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+      "language": "TypeScript",
+      "stars": "46673",
+      "forks": "4250",
+      "today_stars": "323 stars today"
+    },
+    {
+      "author": "umami-software",
+      "name": "umami",
+      "full_name": "umami-software/umami",
+      "url": "https://github.com/umami-software/umami",
+      "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+      "language": "TypeScript",
+      "stars": "29280",
+      "forks": "5350",
+      "today_stars": "1,147 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": "13240",
+      "forks": "2304",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "idosal",
+      "name": "git-mcp",
+      "full_name": "idosal/git-mcp",
+      "url": "https://github.com/idosal/git-mcp",
+      "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+      "language": "TypeScript",
+      "stars": "4720",
+      "forks": "339",
+      "today_stars": "348 stars today"
+    }
+  ]
+}

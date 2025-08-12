@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-12 01:14:37",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "34386",
+      "forks": "3927",
+      "today_stars": "540 stars today"
+    },
+    {
+      "author": "SoundnessLabs",
+      "name": "soundness-layer",
+      "full_name": "SoundnessLabs/soundness-layer",
+      "url": "https://github.com/SoundnessLabs/soundness-layer",
+      "description": "Soundness Layer is a decentralized verification layer built on Walrus and Sui.",
+      "language": "Rust",
+      "stars": "318",
+      "forks": "770",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "5174",
+      "forks": "223",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "21630",
+      "forks": "1994",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "10291",
+      "forks": "379",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "47810",
+      "forks": "2252",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "cloud-hypervisor",
+      "name": "cloud-hypervisor",
+      "full_name": "cloud-hypervisor/cloud-hypervisor",
+      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "language": "Rust",
+      "stars": "4641",
+      "forks": "509",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27321",
+      "forks": "1348",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "17054",
+      "forks": "906",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "50420",
+      "forks": "2184",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "kitao",
+      "name": "pyxel",
+      "full_name": "kitao/pyxel",
+      "url": "https://github.com/kitao/pyxel",
+      "description": "A retro game engine for Python",
+      "language": "Rust",
+      "stars": "16556",
+      "forks": "895",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "15342",
+      "forks": "1811",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "27392",
+      "forks": "583",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "73925",
+      "forks": "3793",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "12774",
+      "forks": "507",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "signalapp",
+      "name": "libsignal",
+      "full_name": "signalapp/libsignal",
+      "url": "https://github.com/signalapp/libsignal",
+      "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+      "language": "Rust",
+      "stars": "4622",
+      "forks": "562",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16496",
+      "forks": "3736",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34835",
+      "forks": "2345",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40968",
+      "forks": "4046",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "18235",
+      "forks": "598",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "cocoindex-io",
+      "name": "cocoindex",
+      "full_name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Data transformation framework for AI. Ultra performant, with incremental processing.",
+      "language": "Rust",
+      "stars": "2489",
+      "forks": "163",
+      "today_stars": "30 stars today"
+    }
+  ]
+}
