@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-08-13 01:15:51",
+  "repositories": [
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "13756",
+      "forks": "1485",
+      "today_stars": "3,454 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "34661",
+      "forks": "3959",
+      "today_stars": "2,867 stars this week"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad-bft",
+      "full_name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": "224",
+      "forks": "64",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "64552",
+      "forks": "1877",
+      "today_stars": "804 stars this week"
+    },
+    {
+      "author": "lencx",
+      "name": "ChatGPT",
+      "full_name": "lencx/ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "language": "Rust",
+      "stars": "54007",
+      "forks": "6144",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "rathole-org",
+      "name": "rathole",
+      "full_name": "rathole-org/rathole",
+      "url": "https://github.com/rathole-org/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "11345",
+      "forks": "596",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "63719",
+      "forks": "4897",
+      "today_stars": "367 stars this week"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4878",
+      "forks": "1785",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "lumina-ai-inc",
+      "name": "chunkr",
+      "full_name": "lumina-ai-inc/chunkr",
+      "url": "https://github.com/lumina-ai-inc/chunkr",
+      "description": "Vision infrastructure to turn complex documents into RAG/LLM-ready data",
+      "language": "Rust",
+      "stars": "2756",
+      "forks": "167",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "aome510",
+      "name": "spotify-player",
+      "full_name": "aome510/spotify-player",
+      "url": "https://github.com/aome510/spotify-player",
+      "description": "A Spotify player in the terminal with full feature parity",
+      "language": "Rust",
+      "stars": "5165",
+      "forks": "242",
+      "today_stars": "105 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105723",
+      "forks": "13642",
+      "today_stars": "227 stars this week"
+    },
+    {
+      "author": "seanmonstar",
+      "name": "warp",
+      "full_name": "seanmonstar/warp",
+      "url": "https://github.com/seanmonstar/warp",
+      "description": "A super-easy, composable, web server framework for warp speeds.",
+      "language": "Rust",
+      "stars": "9999",
+      "forks": "739",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16196",
+      "forks": "632",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25704",
+      "forks": "787",
+      "today_stars": "198 stars this week"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "73667",
+      "forks": "3720",
+      "today_stars": "609 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29842",
+      "forks": "1034",
+      "today_stars": "66 stars this week"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "19972",
+      "forks": "844",
+      "today_stars": "134 stars this week"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27336",
+      "forks": "1348",
+      "today_stars": "100 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "34859",
+      "forks": "2345",
+      "today_stars": "132 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "17048",
+      "forks": "658",
+      "today_stars": "145 stars this week"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "14441",
+      "forks": "449",
+      "today_stars": "201 stars this week"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "21409",
+      "forks": "973",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-clippy",
+      "full_name": "rust-lang/rust-clippy",
+      "url": "https://github.com/rust-lang/rust-clippy",
+      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "language": "Rust",
+      "stars": "12354",
+      "forks": "1751",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "40992",
+      "forks": "4049",
+      "today_stars": "128 stars this week"
+    }
+  ]
+}

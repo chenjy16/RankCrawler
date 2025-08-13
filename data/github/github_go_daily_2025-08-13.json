@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-13 01:15:25",
+  "repositories": [
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5548",
+      "forks": "1705",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21237",
+      "forks": "2475",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "55421",
+      "forks": "2904",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32917",
+      "forks": "4418",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28335",
+      "forks": "7301",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3778",
+      "forks": "2936",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "97311",
+      "forks": "14316",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19463",
+      "forks": "2333",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17169",
+      "forks": "1506",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "j3ssie",
+      "name": "osmedeus",
+      "full_name": "j3ssie/osmedeus",
+      "url": "https://github.com/j3ssie/osmedeus",
+      "description": "A Workflow Engine for Offensive Security",
+      "language": "Go",
+      "stars": "5807",
+      "forks": "940",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+      "language": "Go",
+      "stars": "43552",
+      "forks": "3106",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "go-dev-frame",
+      "name": "sponge",
+      "full_name": "go-dev-frame/sponge",
+      "url": "https://github.com/go-dev-frame/sponge",
+      "description": "A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a \"low-code\" approach.",
+      "language": "Go",
+      "stars": "2339",
+      "forks": "217",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "getsops",
+      "name": "sops",
+      "full_name": "getsops/sops",
+      "url": "https://github.com/getsops/sops",
+      "description": "Simple and flexible tool for managing secrets",
+      "language": "Go",
+      "stars": "19150",
+      "forks": "956",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "full_name": "google/pprof",
+      "url": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": "8663",
+      "forks": "632",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2212",
+      "forks": "187",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3194",
+      "forks": "1320",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "kgateway-dev",
+      "name": "kgateway",
+      "full_name": "kgateway-dev/kgateway",
+      "url": "https://github.com/kgateway-dev/kgateway",
+      "description": "The Cloud-Native API Gateway and AI Gateway",
+      "language": "Go",
+      "stars": "4717",
+      "forks": "559",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio-go",
+      "full_name": "minio/minio-go",
+      "url": "https://github.com/minio/minio-go",
+      "description": "MinIO Go client SDK for S3 compatible object storage",
+      "language": "Go",
+      "stars": "2774",
+      "forks": "692",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sashabaranov",
+      "name": "go-openai",
+      "full_name": "sashabaranov/go-openai",
+      "url": "https://github.com/sashabaranov/go-openai",
+      "description": "OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go",
+      "language": "Go",
+      "stars": "10238",
+      "forks": "1648",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "joho",
+      "name": "godotenv",
+      "full_name": "joho/godotenv",
+      "url": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+      "language": "Go",
+      "stars": "9648",
+      "forks": "432",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "59884",
+      "forks": "9716",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "google",
+      "name": "go-github",
+      "full_name": "google/go-github",
+      "url": "https://github.com/google/go-github",
+      "description": "Go library for accessing the GitHub v3 API",
+      "language": "Go",
+      "stars": "10890",
+      "forks": "2154",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "controller-runtime",
+      "full_name": "kubernetes-sigs/controller-runtime",
+      "url": "https://github.com/kubernetes-sigs/controller-runtime",
+      "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+      "language": "Go",
+      "stars": "2774",
+      "forks": "1221",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

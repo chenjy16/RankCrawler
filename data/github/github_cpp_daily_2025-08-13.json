@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-13 01:16:42",
+  "repositories": [
+    {
+      "author": "nomic-ai",
+      "name": "gpt4all",
+      "full_name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": "76024",
+      "forks": "8201",
+      "today_stars": "1,397 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19670",
+      "forks": "3126",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3348",
+      "forks": "1535",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4478",
+      "forks": "551",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "84710",
+      "forks": "12679",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "5329",
+      "forks": "1430",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "BehaviorTree",
+      "name": "BehaviorTree.CPP",
+      "full_name": "BehaviorTree/BehaviorTree.CPP",
+      "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+      "description": "Behavior Trees Library in C++. Batteries included.",
+      "language": "C++",
+      "stars": "3507",
+      "forks": "753",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "zeux",
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": "6556",
+      "forks": "557",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "moveit",
+      "name": "moveit2",
+      "full_name": "moveit/moveit2",
+      "url": "https://github.com/moveit/moveit2",
+      "description": "🤖 MoveIt for ROS 2",
+      "language": "C++",
+      "stars": "1441",
+      "forks": "654",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "qinguoyi",
+      "name": "TinyWebServer",
+      "full_name": "qinguoyi/TinyWebServer",
+      "url": "https://github.com/qinguoyi/TinyWebServer",
+      "description": "🔥 Linux下C++轻量级WebServer服务器",
+      "language": "C++",
+      "stars": "18472",
+      "forks": "4133",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "libphonenumber",
+      "full_name": "google/libphonenumber",
+      "url": "https://github.com/google/libphonenumber",
+      "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+      "language": "C++",
+      "stars": "17440",
+      "forks": "2113",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "HKUST-Aerial-Robotics",
+      "name": "VINS-Fusion",
+      "full_name": "HKUST-Aerial-Robotics/VINS-Fusion",
+      "url": "https://github.com/HKUST-Aerial-Robotics/VINS-Fusion",
+      "description": "An optimization-based multi-sensor state estimator",
+      "language": "C++",
+      "stars": "4044",
+      "forks": "1497",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cocos",
+      "name": "cocos-engine",
+      "full_name": "cocos/cocos-engine",
+      "url": "https://github.com/cocos/cocos-engine",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": "8917",
+      "forks": "2029",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ossrs",
+      "name": "srs",
+      "full_name": "ossrs/srs",
+      "url": "https://github.com/ossrs/srs",
+      "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.",
+      "language": "C++",
+      "stars": "27471",
+      "forks": "5552",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "67522",
+      "forks": "11122",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17130",
+      "forks": "2206",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "27228",
+      "forks": "8796",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "CLIUtils",
+      "name": "CLI11",
+      "full_name": "CLIUtils/CLI11",
+      "url": "https://github.com/CLIUtils/CLI11",
+      "description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.",
+      "language": "C++",
+      "stars": "3796",
+      "forks": "382",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openvinotoolkit",
+      "name": "openvino",
+      "full_name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": "8709",
+      "forks": "2680",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "30271",
+      "forks": "6575",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "aseprite",
+      "name": "aseprite",
+      "full_name": "aseprite/aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "stars": "33280",
+      "forks": "7264",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "justcallmekoko",
+      "name": "ESP32Marauder",
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "stars": "8187",
+      "forks": "900",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "esphome",
+      "name": "esphome",
+      "full_name": "esphome/esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "language": "C++",
+      "stars": "9725",
+      "forks": "4452",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

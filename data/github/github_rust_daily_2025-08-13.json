@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-13 01:15:44",
+  "repositories": [
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "4047",
+      "forks": "1202",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "rathole-org",
+      "name": "rathole",
+      "full_name": "rathole-org/rathole",
+      "url": "https://github.com/rathole-org/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "11345",
+      "forks": "596",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "103847",
+      "forks": "5686",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ratatui",
+      "name": "ratatui",
+      "full_name": "ratatui/ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "stars": "14441",
+      "forks": "449",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "5202",
+      "forks": "224",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "29023",
+      "forks": "2014",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4878",
+      "forks": "1785",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "64552",
+      "forks": "1877",
+      "today_stars": "107 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "34661",
+      "forks": "3959",
+      "today_stars": "389 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16730",
+      "forks": "1476",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "full_name": "rust-lang/cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": "13878",
+      "forks": "2623",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "21409",
+      "forks": "973",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "8133",
+      "forks": "1660",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "idootop",
+      "name": "open-xiaoai",
+      "full_name": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "description": "让小爱音箱「听见你的声音」，解锁无限可能。",
+      "language": "Rust",
+      "stars": "741",
+      "forks": "73",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "starkware-libs",
+      "name": "cairo",
+      "full_name": "starkware-libs/cairo",
+      "url": "https://github.com/starkware-libs/cairo",
+      "description": "Cairo is the first Turing-complete language for creating provable programs for general computation.",
+      "language": "Rust",
+      "stars": "1785",
+      "forks": "617",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "39329",
+      "forks": "2991",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "solana-foundation",
+      "name": "anchor",
+      "full_name": "solana-foundation/anchor",
+      "url": "https://github.com/solana-foundation/anchor",
+      "description": "⚓ Solana Sealevel Framework",
+      "language": "Rust",
+      "stars": "4516",
+      "forks": "1642",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "54349",
+      "forks": "2210",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27336",
+      "forks": "1348",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "15348",
+      "forks": "1811",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
