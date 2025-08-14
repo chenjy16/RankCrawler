@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-08-14 01:16:07",
+  "repositories": [
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "19326",
+      "forks": "1232",
+      "today_stars": "7,492 stars this month"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "150124",
+      "forks": "12805",
+      "today_stars": "4,120 stars this month"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "22919",
+      "forks": "1746",
+      "today_stars": "1,520 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "1573",
+      "forks": "123",
+      "today_stars": "730 stars this month"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "6712",
+      "forks": "514",
+      "today_stars": "1,773 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34314",
+      "forks": "971",
+      "today_stars": "1,234 stars this month"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15975",
+      "forks": "1913",
+      "today_stars": "929 stars this month"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "63549",
+      "forks": "2187",
+      "today_stars": "1,749 stars this month"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "55730",
+      "forks": "2913",
+      "today_stars": "1,476 stars this month"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "20849",
+      "forks": "2030",
+      "today_stars": "3,589 stars this month"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "14823",
+      "forks": "964",
+      "today_stars": "2,973 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17700",
+      "forks": "1614",
+      "today_stars": "238 stars this month"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70462",
+      "forks": "18792",
+      "today_stars": "456 stars this month"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2254",
+      "forks": "190",
+      "today_stars": "217 stars this month"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14805",
+      "forks": "4261",
+      "today_stars": "256 stars this month"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "4684",
+      "forks": "134",
+      "today_stars": "1,431 stars this month"
+    },
+    {
+      "author": "korotovsky",
+      "name": "slack-mcp-server",
+      "full_name": "korotovsky/slack-mcp-server",
+      "url": "https://github.com/korotovsky/slack-mcp-server",
+      "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.",
+      "language": "Go",
+      "stars": "492",
+      "forks": "61",
+      "today_stars": "225 stars this month"
+    },
+    {
+      "author": "slackhq",
+      "name": "nebula",
+      "full_name": "slackhq/nebula",
+      "url": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "language": "Go",
+      "stars": "16006",
+      "forks": "1060",
+      "today_stars": "219 stars this month"
+    },
+    {
+      "author": "kopia",
+      "name": "kopia",
+      "full_name": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "stars": "10874",
+      "forks": "527",
+      "today_stars": "695 stars this month"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4529",
+      "forks": "739",
+      "today_stars": "592 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27894",
+      "forks": "2668",
+      "today_stars": "439 stars this month"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "30692",
+      "forks": "2683",
+      "today_stars": "1,108 stars this month"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29592",
+      "forks": "1445",
+      "today_stars": "600 stars this month"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9838",
+      "forks": "711",
+      "today_stars": "522 stars this month"
+    }
+  ]
+}

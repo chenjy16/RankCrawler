@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-14 01:15:54",
+  "repositories": [
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "55730",
+      "forks": "2913",
+      "today_stars": "327 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5633",
+      "forks": "1707",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3814",
+      "forks": "2937",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "74723",
+      "forks": "4691",
+      "today_stars": "311 stars today"
+    },
+    {
+      "author": "cloudnative-pg",
+      "name": "cloudnative-pg",
+      "full_name": "cloudnative-pg/cloudnative-pg",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+      "language": "Go",
+      "stars": "6570",
+      "forks": "489",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "php",
+      "name": "frankenphp",
+      "full_name": "php/frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "stars": "10020",
+      "forks": "372",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21272",
+      "forks": "2477",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49513",
+      "forks": "21079",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10656",
+      "forks": "963",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "gateway-api",
+      "full_name": "kubernetes-sigs/gateway-api",
+      "url": "https://github.com/kubernetes-sigs/gateway-api",
+      "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+      "language": "Go",
+      "stars": "2216",
+      "forks": "581",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAGI",
+      "full_name": "mudler/LocalAGI",
+      "url": "https://github.com/mudler/LocalAGI",
+      "description": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).",
+      "language": "Go",
+      "stars": "1047",
+      "forks": "146",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "13760",
+      "forks": "1298",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "15975",
+      "forks": "1913",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40220",
+      "forks": "6913",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "32925",
+      "forks": "4418",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "full_name": "vitessio/vitess",
+      "url": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": "19995",
+      "forks": "2232",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "59901",
+      "forks": "9717",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "97383",
+      "forks": "14325",
+      "today_stars": "90 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5382",
+      "forks": "642",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3198",
+      "forks": "1320",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "full_name": "google/pprof",
+      "url": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": "8667",
+      "forks": "632",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "26162",
+      "forks": "4934",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22103",
+      "forks": "4548",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
