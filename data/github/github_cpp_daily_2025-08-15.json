@@ -1,0 +1,216 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:17:35",
+  "repositories": [
+    {
+      "author": "colmap",
+      "name": "colmap",
+      "full_name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": "9267",
+      "forks": "1727",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36585",
+      "forks": "10452",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "desktop",
+      "full_name": "nextcloud/desktop",
+      "url": "https://github.com/nextcloud/desktop",
+      "description": "💻 Desktop sync client for Nextcloud",
+      "language": "C++",
+      "stars": "3347",
+      "forks": "852",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43499",
+      "forks": "10863",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27047",
+      "forks": "4878",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3763",
+      "forks": "350",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "brpc",
+      "full_name": "apache/brpc",
+      "url": "https://github.com/apache/brpc",
+      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "language": "C++",
+      "stars": "17255",
+      "forks": "4048",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "introlab",
+      "name": "rtabmap",
+      "full_name": "introlab/rtabmap",
+      "url": "https://github.com/introlab/rtabmap",
+      "description": "RTAB-Map library and standalone application",
+      "language": "C++",
+      "stars": "3291",
+      "forks": "855",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "42309",
+      "forks": "4547",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1078",
+      "forks": "246",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5607",
+      "forks": "498",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123404",
+      "forks": "24808",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "3939",
+      "forks": "984",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "valhalla",
+      "name": "valhalla",
+      "full_name": "valhalla/valhalla",
+      "url": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "stars": "4995",
+      "forks": "755",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "42327",
+      "forks": "7567",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "M2Team",
+      "name": "NanaZip",
+      "full_name": "M2Team/NanaZip",
+      "url": "https://github.com/M2Team/NanaZip",
+      "description": "The 7-Zip derivative intended for the modern Windows experience",
+      "language": "C++",
+      "stars": "11526",
+      "forks": "289",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "google",
+      "name": "leveldb",
+      "full_name": "google/leveldb",
+      "url": "https://github.com/google/leveldb",
+      "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+      "language": "C++",
+      "stars": "37997",
+      "forks": "8046",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "BehaviorTree",
+      "name": "BehaviorTree.CPP",
+      "full_name": "BehaviorTree/BehaviorTree.CPP",
+      "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+      "description": "Behavior Trees Library in C++. Batteries included.",
+      "language": "C++",
+      "stars": "3515",
+      "forks": "754",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "11328",
+      "forks": "1675",
+      "today_stars": "7 stars today"
+    }
+  ]
+}

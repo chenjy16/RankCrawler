@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:16:35",
+  "repositories": [
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "7544",
+      "forks": "350",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "idootop",
+      "name": "open-xiaoai",
+      "full_name": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "description": "让小爱音箱「听见你的声音」，解锁无限可能。",
+      "language": "Rust",
+      "stars": "811",
+      "forks": "81",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "24173",
+      "forks": "3929",
+      "today_stars": "151 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4730",
+      "forks": "531",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "41626",
+      "forks": "1484",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "21671",
+      "forks": "1711",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2432",
+      "forks": "191",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "6321",
+      "forks": "556",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "29302",
+      "forks": "2721",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "7654",
+      "forks": "192",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "5219",
+      "forks": "432",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "29998",
+      "forks": "1251",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16739",
+      "forks": "1476",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "24850",
+      "forks": "1458",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "libp2p",
+      "name": "rust-libp2p",
+      "full_name": "libp2p/rust-libp2p",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "The Rust Implementation of the libp2p networking stack.",
+      "language": "Rust",
+      "stars": "5126",
+      "forks": "1113",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+      "language": "Rust",
+      "stars": "20619",
+      "forks": "845",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30469",
+      "forks": "3634",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "9557",
+      "forks": "636",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "plugins-workspace",
+      "full_name": "tauri-apps/plugins-workspace",
+      "url": "https://github.com/tauri-apps/plugins-workspace",
+      "description": "All of the official Tauri plugins in one place!",
+      "language": "Rust",
+      "stars": "1373",
+      "forks": "413",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "95664",
+      "forks": "14054",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "29062",
+      "forks": "2014",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "seanmonstar",
+      "name": "reqwest",
+      "full_name": "seanmonstar/reqwest",
+      "url": "https://github.com/seanmonstar/reqwest",
+      "description": "An easy and powerful Rust HTTP Client",
+      "language": "Rust",
+      "stars": "10904",
+      "forks": "1271",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "7607",
+      "forks": "266",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

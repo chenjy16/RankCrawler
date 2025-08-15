@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:15:00",
+  "repositories": [
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "8931",
+      "forks": "375",
+      "today_stars": "990 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "poml",
+      "full_name": "microsoft/poml",
+      "url": "https://github.com/microsoft/poml",
+      "description": "Prompt Orchestration Markup Language",
+      "language": "TypeScript",
+      "stars": "2080",
+      "forks": "76",
+      "today_stars": "467 stars today"
+    },
+    {
+      "author": "pathwaycom",
+      "name": "pathway",
+      "full_name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": "31240",
+      "forks": "864",
+      "today_stars": "287 stars today"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5436",
+      "forks": "1033",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21309",
+      "forks": "2481",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "colmap",
+      "name": "colmap",
+      "full_name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": "9267",
+      "forks": "1727",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "angular",
+      "name": "components",
+      "full_name": "angular/components",
+      "url": "https://github.com/angular/components",
+      "description": "Component infrastructure and Material Design components for Angular",
+      "language": "TypeScript",
+      "stars": "24829",
+      "forks": "6811",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+      "language": "TypeScript",
+      "stars": "16315",
+      "forks": "1449",
+      "today_stars": "335 stars today"
+    },
+    {
+      "author": "midday-ai",
+      "name": "midday",
+      "full_name": "midday-ai/midday",
+      "url": "https://github.com/midday-ai/midday",
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "language": "TypeScript",
+      "stars": "10523",
+      "forks": "955",
+      "today_stars": "114 stars today"
+    },
+    {
+      "author": "conductor-oss",
+      "name": "conductor",
+      "full_name": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+      "language": "Java",
+      "stars": "25473",
+      "forks": "668",
+      "today_stars": "214 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46113",
+      "forks": "9967",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "ostris",
+      "name": "ai-toolkit",
+      "full_name": "ostris/ai-toolkit",
+      "url": "https://github.com/ostris/ai-toolkit",
+      "description": "The ultimate training toolkit for finetuning diffusion models",
+      "language": "Python",
+      "stars": "5803",
+      "forks": "675",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "embedding-atlas",
+      "full_name": "apple/embedding-atlas",
+      "url": "https://github.com/apple/embedding-atlas",
+      "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+      "language": "TypeScript",
+      "stars": "2356",
+      "forks": "102",
+      "today_stars": "490 stars today"
+    },
+    {
+      "author": "oop7",
+      "name": "YTSage",
+      "full_name": "oop7/YTSage",
+      "url": "https://github.com/oop7/YTSage",
+      "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+      "language": "Python",
+      "stars": "1529",
+      "forks": "97",
+      "today_stars": "205 stars today"
+    }
+  ]
+}

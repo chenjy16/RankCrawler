@@ -1,0 +1,161 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:15:19",
+  "repositories": [
+    {
+      "author": "pathwaycom",
+      "name": "pathway",
+      "full_name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": "31240",
+      "forks": "864",
+      "today_stars": "287 stars today"
+    },
+    {
+      "author": "ostris",
+      "name": "ai-toolkit",
+      "full_name": "ostris/ai-toolkit",
+      "url": "https://github.com/ostris/ai-toolkit",
+      "description": "The ultimate training toolkit for finetuning diffusion models",
+      "language": "Python",
+      "stars": "5803",
+      "forks": "675",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "oop7",
+      "name": "YTSage",
+      "full_name": "oop7/YTSage",
+      "url": "https://github.com/oop7/YTSage",
+      "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+      "language": "Python",
+      "stars": "1529",
+      "forks": "98",
+      "today_stars": "205 stars today"
+    },
+    {
+      "author": "LeCAR-Lab",
+      "name": "ASAP",
+      "full_name": "LeCAR-Lab/ASAP",
+      "url": "https://github.com/LeCAR-Lab/ASAP",
+      "description": "Official implementation of [RSS 2025] \"ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills\"",
+      "language": "Python",
+      "stars": "1426",
+      "forks": "137",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": "30516",
+      "forks": "1842",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "datalab-to",
+      "name": "marker",
+      "full_name": "datalab-to/marker",
+      "url": "https://github.com/datalab-to/marker",
+      "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+      "language": "Python",
+      "stars": "27497",
+      "forks": "1803",
+      "today_stars": "126 stars today"
+    },
+    {
+      "author": "PacktPublishing",
+      "name": "LLM-Engineers-Handbook",
+      "full_name": "PacktPublishing/LLM-Engineers-Handbook",
+      "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
+      "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
+      "language": "Python",
+      "stars": "3884",
+      "forks": "879",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "magentic-ui",
+      "full_name": "microsoft/magentic-ui",
+      "url": "https://github.com/microsoft/magentic-ui",
+      "description": "A research prototype of a human-centered web agent",
+      "language": "Python",
+      "stars": "7068",
+      "forks": "729",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "dagster-io",
+      "name": "dagster",
+      "full_name": "dagster-io/dagster",
+      "url": "https://github.com/dagster-io/dagster",
+      "description": "An orchestration platform for the development, production, and observation of data assets.",
+      "language": "Python",
+      "stars": "13786",
+      "forks": "1783",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "tadata-org",
+      "name": "fastapi_mcp",
+      "full_name": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "language": "Python",
+      "stars": "8443",
+      "forks": "665",
+      "today_stars": "423 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "python-sdk",
+      "full_name": "modelcontextprotocol/python-sdk",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "description": "The official Python SDK for Model Context Protocol servers and clients",
+      "language": "Python",
+      "stars": "17491",
+      "forks": "2305",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": "67625",
+      "forks": "7825",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "hiyouga",
+      "name": "LLaMA-Factory",
+      "full_name": "hiyouga/LLaMA-Factory",
+      "url": "https://github.com/hiyouga/LLaMA-Factory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "language": "Python",
+      "stars": "56197",
+      "forks": "6892",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "martinvigo",
+      "name": "email2phonenumber",
+      "full_name": "martinvigo/email2phonenumber",
+      "url": "https://github.com/martinvigo/email2phonenumber",
+      "description": "A OSINT tool to obtain a target's phone number just by having his email address",
+      "language": "Python",
+      "stars": "2443",
+      "forks": "288",
+      "today_stars": "20 stars today"
+    }
+  ]
+}

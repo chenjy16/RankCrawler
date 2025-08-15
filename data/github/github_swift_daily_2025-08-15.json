@@ -1,0 +1,238 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:18:53",
+  "repositories": [
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26391",
+      "forks": "3819",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25466",
+      "forks": "1497",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "42053",
+      "forks": "7637",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tuist",
+      "name": "tuist",
+      "full_name": "tuist/tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship",
+      "language": "Swift",
+      "stars": "5205",
+      "forks": "647",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rime",
+      "name": "squirrel",
+      "full_name": "rime/squirrel",
+      "url": "https://github.com/rime/squirrel",
+      "description": "【鼠鬚管】Rime for macOS",
+      "language": "Swift",
+      "stars": "5124",
+      "forks": "430",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "SwiftyJSON",
+      "name": "SwiftyJSON",
+      "full_name": "SwiftyJSON/SwiftyJSON",
+      "url": "https://github.com/SwiftyJSON/SwiftyJSON",
+      "description": "The better way to deal with JSON data in Swift.",
+      "language": "Swift",
+      "stars": "22903",
+      "forks": "3451",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "943",
+      "forks": "362",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vsouza",
+      "name": "awesome-ios",
+      "full_name": "vsouza/awesome-ios",
+      "url": "https://github.com/vsouza/awesome-ios",
+      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+      "language": "Swift",
+      "stars": "49618",
+      "forks": "6924",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-nio",
+      "full_name": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "stars": "8224",
+      "forks": "693",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "mapbox",
+      "name": "mapbox-maps-ios",
+      "full_name": "mapbox/mapbox-maps-ios",
+      "url": "https://github.com/mapbox/mapbox-maps-ios",
+      "description": "Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal",
+      "language": "Swift",
+      "stars": "543",
+      "forks": "184",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "hmlongco",
+      "name": "Factory",
+      "full_name": "hmlongco/Factory",
+      "url": "https://github.com/hmlongco/Factory",
+      "description": "A modern approach to Container-Based Dependency Injection for Swift and SwiftUI.",
+      "language": "Swift",
+      "stars": "2499",
+      "forks": "154",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1918",
+      "forks": "155",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "krzysztofzablocki",
+      "name": "Sourcery",
+      "full_name": "krzysztofzablocki/Sourcery",
+      "url": "https://github.com/krzysztofzablocki/Sourcery",
+      "description": "Meta-programming for Swift, stop writing boilerplate code.",
+      "language": "Swift",
+      "stars": "7910",
+      "forks": "632",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19136",
+      "forks": "2265",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27931",
+      "forks": "6046",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "TelegramMessenger",
+      "name": "Telegram-iOS",
+      "full_name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "Swift",
+      "stars": "6953",
+      "forks": "1958",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-protobuf",
+      "full_name": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "stars": "4718",
+      "forks": "482",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Finb",
+      "name": "Bark",
+      "full_name": "Finb/Bark",
+      "url": "https://github.com/Finb/Bark",
+      "description": "Bark is an iOS App which allows you to push custom notifications to your iPhone",
+      "language": "Swift",
+      "stars": "6392",
+      "forks": "519",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-collections",
+      "full_name": "apple/swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
+      "language": "Swift",
+      "stars": "4155",
+      "forks": "342",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "iina",
+      "name": "iina",
+      "full_name": "iina/iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "language": "Swift",
+      "stars": "41529",
+      "forks": "2659",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-package-manager",
+      "full_name": "swiftlang/swift-package-manager",
+      "url": "https://github.com/swiftlang/swift-package-manager",
+      "description": "The Package Manager for the Swift Programming Language",
+      "language": "Swift",
+      "stars": "9984",
+      "forks": "1416",
+      "today_stars": "1 star today"
+    }
+  ]
+}

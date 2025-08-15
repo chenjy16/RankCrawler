@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-15 01:16:16",
+  "repositories": [
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5436",
+      "forks": "1033",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21309",
+      "forks": "2481",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46113",
+      "forks": "9967",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "14037",
+      "forks": "663",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29221",
+      "forks": "4503",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "55921",
+      "forks": "2926",
+      "today_stars": "274 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3837",
+      "forks": "2947",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "74844",
+      "forks": "4692",
+      "today_stars": "149 stars today"
+    },
+    {
+      "author": "cloudnative-pg",
+      "name": "cloudnative-pg",
+      "full_name": "cloudnative-pg/cloudnative-pg",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+      "language": "Go",
+      "stars": "6585",
+      "forks": "492",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "13776",
+      "forks": "1301",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "hibiken",
+      "name": "asynq",
+      "full_name": "hibiken/asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "description": "Simple, reliable, and efficient distributed task queue in Go",
+      "language": "Go",
+      "stars": "11795",
+      "forks": "839",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22247",
+      "forks": "3367",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5660",
+      "forks": "1708",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17485",
+      "forks": "1485",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "full_name": "prometheus/client_golang",
+      "url": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": "5748",
+      "forks": "1226",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "2067",
+      "forks": "195",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "tempo",
+      "full_name": "grafana/tempo",
+      "url": "https://github.com/grafana/tempo",
+      "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+      "language": "Go",
+      "stars": "4678",
+      "forks": "602",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "karpenter",
+      "full_name": "kubernetes-sigs/karpenter",
+      "url": "https://github.com/kubernetes-sigs/karpenter",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "stars": "1251",
+      "forks": "320",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "11453",
+      "forks": "784",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20357",
+      "forks": "6271",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5385",
+      "forks": "643",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-mcp-server",
+      "full_name": "hashicorp/terraform-mcp-server",
+      "url": "https://github.com/hashicorp/terraform-mcp-server",
+      "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+      "language": "Go",
+      "stars": "821",
+      "forks": "68",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": "12410",
+      "forks": "2515",
+      "today_stars": "5 stars today"
+    }
+  ]
+}
