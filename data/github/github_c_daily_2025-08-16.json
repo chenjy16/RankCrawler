@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-16 01:13:28",
+  "repositories": [
+    {
+      "author": "tsoding",
+      "name": "nob.h",
+      "full_name": "tsoding/nob.h",
+      "url": "https://github.com/tsoding/nob.h",
+      "description": "Header only library for writing build recipes in C.",
+      "language": "C",
+      "stars": "1412",
+      "forks": "90",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "27744",
+      "forks": "7473",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "70480",
+      "forks": "24177",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27713",
+      "forks": "2625",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2424",
+      "forks": "609",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3423",
+      "forks": "1332",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "199810",
+      "forks": "57313",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "28425",
+      "forks": "1168",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15165",
+      "forks": "568",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12893",
+      "forks": "7783",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32382",
+      "forks": "1657",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "16024",
+      "forks": "7808",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "741",
+      "forks": "3217",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "17036",
+      "forks": "845",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "wolfSSL",
+      "name": "wolfssl",
+      "full_name": "wolfSSL/wolfssl",
+      "url": "https://github.com/wolfSSL/wolfssl",
+      "description": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3!",
+      "language": "C",
+      "stars": "2582",
+      "forks": "885",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4830",
+      "forks": "935",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "asg017",
+      "name": "sqlite-vec",
+      "full_name": "asg017/sqlite-vec",
+      "url": "https://github.com/asg017/sqlite-vec",
+      "description": "A vector search SQLite extension that runs anywhere!",
+      "language": "C",
+      "stars": "6002",
+      "forks": "226",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "opa334",
+      "name": "Dopamine",
+      "full_name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+      "language": "C",
+      "stars": "4242",
+      "forks": "5914",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Immediate-Mode-UI",
+      "name": "Nuklear",
+      "full_name": "Immediate-Mode-UI/Nuklear",
+      "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+      "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+      "language": "C",
+      "stars": "10295",
+      "forks": "626",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7774",
+      "forks": "1361",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25664",
+      "forks": "3738",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
