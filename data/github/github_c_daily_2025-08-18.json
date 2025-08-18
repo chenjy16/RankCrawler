@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-18 01:21:17",
+  "repositories": [
+    {
+      "author": "tsoding",
+      "name": "nob.h",
+      "full_name": "tsoding/nob.h",
+      "url": "https://github.com/tsoding/nob.h",
+      "description": "Header only library for writing build recipes in C.",
+      "language": "C",
+      "stars": "1599",
+      "forks": "95",
+      "today_stars": "123 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "15993",
+      "forks": "549",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4146",
+      "forks": "486",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38571",
+      "forks": "6821",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "opa334",
+      "name": "Dopamine",
+      "full_name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+      "language": "C",
+      "stars": "4247",
+      "forks": "5918",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "capstone-engine",
+      "name": "capstone",
+      "full_name": "capstone-engine/capstone",
+      "url": "https://github.com/capstone-engine/capstone",
+      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+      "language": "C",
+      "stars": "8212",
+      "forks": "1610",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19484",
+      "forks": "42357",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11735",
+      "forks": "1942",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39365",
+      "forks": "7933",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pret",
+      "name": "pokeemerald",
+      "full_name": "pret/pokeemerald",
+      "url": "https://github.com/pret/pokeemerald",
+      "description": "Decompilation of Pokémon Emerald",
+      "language": "C",
+      "stars": "2669",
+      "forks": "3346",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25675",
+      "forks": "3740",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23357",
+      "forks": "11461",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38562",
+      "forks": "2244",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14654",
+      "forks": "3056",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3429",
+      "forks": "1334",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "swaywm",
+      "name": "sway",
+      "full_name": "swaywm/sway",
+      "url": "https://github.com/swaywm/sway",
+      "description": "i3-compatible Wayland compositor",
+      "language": "C",
+      "stars": "15833",
+      "forks": "1175",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL_image",
+      "full_name": "libsdl-org/SDL_image",
+      "url": "https://github.com/libsdl-org/SDL_image",
+      "description": "Image decoding for many popular formats for Simple Directmedia Layer.",
+      "language": "C",
+      "stars": "789",
+      "forks": "231",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3680",
+      "forks": "1638",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "unicorn-engine",
+      "name": "unicorn",
+      "full_name": "unicorn-engine/unicorn",
+      "url": "https://github.com/unicorn-engine/unicorn",
+      "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+      "language": "C",
+      "stars": "8433",
+      "forks": "1429",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "86Box",
+      "name": "86Box",
+      "full_name": "86Box/86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "language": "C",
+      "stars": "3417",
+      "forks": "421",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "66240",
+      "forks": "8624",
+      "today_stars": "22 stars today"
+    }
+  ]
+}

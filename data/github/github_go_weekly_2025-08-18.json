@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-18 01:20:26",
+  "repositories": [
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5580",
+      "forks": "1046",
+      "today_stars": "302 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75074",
+      "forks": "4698",
+      "today_stars": "839 stars this week"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "56090",
+      "forks": "2933",
+      "today_stars": "985 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "14175",
+      "forks": "669",
+      "today_stars": "159 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21395",
+      "forks": "2484",
+      "today_stars": "224 stars this week"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "4875",
+      "forks": "142",
+      "today_stars": "591 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2331",
+      "forks": "194",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3846",
+      "forks": "2951",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5675",
+      "forks": "1710",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "schollz",
+      "name": "croc",
+      "full_name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars": "30848",
+      "forks": "1230",
+      "today_stars": "122 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "72951",
+      "forks": "2571",
+      "today_stars": "262 stars this week"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10708",
+      "forks": "962",
+      "today_stars": "103 stars this week"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "97530",
+      "forks": "14343",
+      "today_stars": "412 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49552",
+      "forks": "21117",
+      "today_stars": "99 stars this week"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23058",
+      "forks": "990",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "50181",
+      "forks": "5984",
+      "today_stars": "208 stars this week"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "27106",
+      "forks": "1024",
+      "today_stars": "276 stars this week"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5406",
+      "forks": "647",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40291",
+      "forks": "6934",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kops",
+      "full_name": "kubernetes/kops",
+      "url": "https://github.com/kubernetes/kops",
+      "description": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+      "language": "Go",
+      "stars": "16370",
+      "forks": "4683",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "crossplane",
+      "name": "crossplane",
+      "full_name": "crossplane/crossplane",
+      "url": "https://github.com/crossplane/crossplane",
+      "description": "The Cloud Native Control Plane",
+      "language": "Go",
+      "stars": "10729",
+      "forks": "1063",
+      "today_stars": "92 stars this week"
+    },
+    {
+      "author": "e2b-dev",
+      "name": "infra",
+      "full_name": "e2b-dev/infra",
+      "url": "https://github.com/e2b-dev/infra",
+      "description": "Infrastructure that's powering E2B Cloud.",
+      "language": "Go",
+      "stars": "607",
+      "forks": "146",
+      "today_stars": "28 stars this week"
+    }
+  ]
+}
