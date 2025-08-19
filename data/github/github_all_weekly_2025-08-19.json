@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "weekly",
+  "fetch_time": "2025-08-19 01:11:34",
+  "repositories": [
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "9773",
+      "forks": "425",
+      "today_stars": "3,807 stars this week"
+    },
+    {
+      "author": "apple",
+      "name": "embedding-atlas",
+      "full_name": "apple/embedding-atlas",
+      "url": "https://github.com/apple/embedding-atlas",
+      "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+      "language": "TypeScript",
+      "stars": "2731",
+      "forks": "119",
+      "today_stars": "1,845 stars this week"
+    },
+    {
+      "author": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+      "language": "TypeScript",
+      "stars": "17451",
+      "forks": "1586",
+      "today_stars": "1,821 stars this week"
+    },
+    {
+      "author": "dtyq",
+      "name": "magic",
+      "full_name": "dtyq/magic",
+      "url": "https://github.com/dtyq/magic",
+      "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+      "language": "PHP",
+      "stars": "2709",
+      "forks": "270",
+      "today_stars": "1,136 stars this week"
+    },
+    {
+      "author": "denizsafak",
+      "name": "abogen",
+      "full_name": "denizsafak/abogen",
+      "url": "https://github.com/denizsafak/abogen",
+      "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+      "language": "Python",
+      "stars": "2802",
+      "forks": "142",
+      "today_stars": "840 stars this week"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5606",
+      "forks": "1047",
+      "today_stars": "331 stars this week"
+    },
+    {
+      "author": "trailofbits",
+      "name": "buttercup",
+      "full_name": "trailofbits/buttercup",
+      "url": "https://github.com/trailofbits/buttercup",
+      "description": "",
+      "language": "Python",
+      "stars": "922",
+      "forks": "93",
+      "today_stars": "479 stars this week"
+    },
+    {
+      "author": "menloresearch",
+      "name": "jan",
+      "full_name": "menloresearch/jan",
+      "url": "https://github.com/menloresearch/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+      "language": "TypeScript",
+      "stars": "37198",
+      "forks": "2183",
+      "today_stars": "1,151 stars this week"
+    },
+    {
+      "author": "tadata-org",
+      "name": "fastapi_mcp",
+      "full_name": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "language": "Python",
+      "stars": "9055",
+      "forks": "708",
+      "today_stars": "1,743 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75161",
+      "forks": "4705",
+      "today_stars": "912 stars this week"
+    },
+    {
+      "author": "nomic-ai",
+      "name": "gpt4all",
+      "full_name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": "76454",
+      "forks": "8247",
+      "today_stars": "2,009 stars this week"
+    },
+    {
+      "author": "jitsi",
+      "name": "jitsi-meet",
+      "full_name": "jitsi/jitsi-meet",
+      "url": "https://github.com/jitsi/jitsi-meet",
+      "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+      "language": "TypeScript",
+      "stars": "26783",
+      "forks": "7379",
+      "today_stars": "601 stars this week"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5501",
+      "forks": "718",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+      "language": "PHP",
+      "stars": "25828",
+      "forks": "3686",
+      "today_stars": "430 stars this week"
+    }
+  ]
+}

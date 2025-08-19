@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-19 01:12:59",
+  "repositories": [
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "23184",
+      "forks": "2448",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "50590",
+      "forks": "2194",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "8172",
+      "forks": "1671",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "906",
+      "forks": "485",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "4445",
+      "forks": "1212",
+      "today_stars": "433 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "cargo",
+      "full_name": "rust-lang/cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "stars": "13902",
+      "forks": "2629",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "full_name": "hyperium/hyper",
+      "url": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": "15467",
+      "forks": "1669",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "39460",
+      "forks": "2999",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "44947",
+      "forks": "1200",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7583",
+      "forks": "537",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "18906",
+      "forks": "782",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "15889",
+      "forks": "649",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rustlings",
+      "full_name": "rust-lang/rustlings",
+      "url": "https://github.com/rust-lang/rustlings",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "language": "Rust",
+      "stars": "59656",
+      "forks": "10847",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "esp-rs",
+      "name": "esp-hal",
+      "full_name": "esp-rs/esp-hal",
+      "url": "https://github.com/esp-rs/esp-hal",
+      "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+      "language": "Rust",
+      "stars": "1339",
+      "forks": "314",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "stars": "28900",
+      "forks": "653",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16521",
+      "forks": "3741",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "63966",
+      "forks": "4941",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "Y2Z",
+      "name": "monolith",
+      "full_name": "Y2Z/monolith",
+      "url": "https://github.com/Y2Z/monolith",
+      "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file",
+      "language": "Rust",
+      "stars": "14109",
+      "forks": "409",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5501",
+      "forks": "718",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "awslabs",
+      "name": "llrt",
+      "full_name": "awslabs/llrt",
+      "url": "https://github.com/awslabs/llrt",
+      "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+      "language": "Rust",
+      "stars": "8549",
+      "forks": "377",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "103933",
+      "forks": "5688",
+      "today_stars": "29 stars today"
+    }
+  ]
+}

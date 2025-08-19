@@ -1,0 +1,216 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-08-19 01:14:55",
+  "repositories": [
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5176",
+      "forks": "1167",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Shopify",
+      "name": "roast",
+      "full_name": "Shopify/roast",
+      "url": "https://github.com/Shopify/roast",
+      "description": "Structured AI workflows made easy",
+      "language": "Ruby",
+      "stars": "849",
+      "forks": "40",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57297",
+      "forks": "21921",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "36183",
+      "forks": "14454",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14836",
+      "forks": "5125",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48881",
+      "forks": "7270",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44836",
+      "forks": "8623",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22857",
+      "forks": "5454",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "antiwork",
+      "name": "flexile",
+      "full_name": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments as easy as 1-2-3",
+      "language": "Ruby",
+      "stars": "708",
+      "forks": "287",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "forem",
+      "name": "forem",
+      "full_name": "forem/forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "stars": "22418",
+      "forks": "4135",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2719",
+      "forks": "225",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1034",
+      "forks": "221",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26817",
+      "forks": "4449",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "hackclub",
+      "name": "hackatime",
+      "full_name": "hackclub/hackatime",
+      "url": "https://github.com/hackclub/hackatime",
+      "description": "Just give it some time!",
+      "language": "Ruby",
+      "stars": "72",
+      "forks": "71",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "400",
+      "forks": "57",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "unsplash",
+      "name": "comment-on-pr",
+      "full_name": "unsplash/comment-on-pr",
+      "url": "https://github.com/unsplash/comment-on-pr",
+      "description": "A GitHub Action to comment on the relevant open PR when a commit is pushed.",
+      "language": "Ruby",
+      "stars": "149",
+      "forks": "82",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "newrelic",
+      "name": "newrelic-ruby-agent",
+      "full_name": "newrelic/newrelic-ruby-agent",
+      "url": "https://github.com/newrelic/newrelic-ruby-agent",
+      "description": "New Relic RPM Ruby Agent",
+      "language": "Ruby",
+      "stars": "1204",
+      "forks": "608",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "full_name": "fluent/fluentd",
+      "url": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": "13259",
+      "forks": "1363",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sous-chefs",
+      "name": "apt",
+      "full_name": "sous-chefs/apt",
+      "url": "https://github.com/sous-chefs/apt",
+      "description": "Development repository for the apt cookbook",
+      "language": "Ruby",
+      "stars": "200",
+      "forks": "261",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

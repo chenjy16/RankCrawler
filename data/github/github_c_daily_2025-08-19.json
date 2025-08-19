@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-19 01:13:37",
+  "repositories": [
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11740",
+      "forks": "1941",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "git",
+      "name": "git",
+      "full_name": "git/git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "stars": "56084",
+      "forks": "26546",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "tsoding",
+      "name": "nob.h",
+      "full_name": "tsoding/nob.h",
+      "url": "https://github.com/tsoding/nob.h",
+      "description": "Header only library for writing build recipes in C.",
+      "language": "C",
+      "stars": "1646",
+      "forks": "97",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "google",
+      "name": "security-research",
+      "full_name": "google/security-research",
+      "url": "https://github.com/google/security-research",
+      "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+      "language": "C",
+      "stars": "4152",
+      "forks": "486",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "66269",
+      "forks": "8626",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3349",
+      "forks": "661",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "16028",
+      "forks": "549",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "Dav1dde",
+      "name": "glad",
+      "full_name": "Dav1dde/glad",
+      "url": "https://github.com/Dav1dde/glad",
+      "description": "Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.",
+      "language": "C",
+      "stars": "4185",
+      "forks": "481",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "karpathy",
+      "name": "llama2.c",
+      "full_name": "karpathy/llama2.c",
+      "url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
+      "language": "C",
+      "stars": "18655",
+      "forks": "2324",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "2054",
+      "forks": "195",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "portapack-mayhem",
+      "name": "mayhem-firmware",
+      "full_name": "portapack-mayhem/mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "Custom firmware for the HackRF+PortaPack H1/H2/H4",
+      "language": "C",
+      "stars": "4376",
+      "forks": "729",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "aircrack-ng",
+      "name": "aircrack-ng",
+      "full_name": "aircrack-ng/aircrack-ng",
+      "url": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
+      "language": "C",
+      "stars": "6315",
+      "forks": "1097",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8693",
+      "forks": "2622",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "CTCaer",
+      "name": "hekate",
+      "full_name": "CTCaer/hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "stars": "7500",
+      "forks": "607",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29665",
+      "forks": "7874",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ComposersDesktop",
+      "name": "CDP8",
+      "full_name": "ComposersDesktop/CDP8",
+      "url": "https://github.com/ComposersDesktop/CDP8",
+      "description": "New version of CDP software",
+      "language": "C",
+      "stars": "265",
+      "forks": "12",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "200062",
+      "forks": "57358",
+      "today_stars": "126 stars today"
+    },
+    {
+      "author": "rxi",
+      "name": "microui",
+      "full_name": "rxi/microui",
+      "url": "https://github.com/rxi/microui",
+      "description": "A tiny immediate-mode UI library",
+      "language": "C",
+      "stars": "4866",
+      "forks": "312",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19489",
+      "forks": "42362",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25489",
+      "forks": "2295",
+      "today_stars": "7 stars today"
+    }
+  ]
+}
