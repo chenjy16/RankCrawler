@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "monthly",
+  "fetch_time": "2025-08-20 01:13:14",
+  "repositories": [
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "9884",
+      "forks": "432",
+      "today_stars": "4,626 stars this month"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48882",
+      "forks": "7271",
+      "today_stars": "342 stars this month"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57309",
+      "forks": "21923",
+      "today_stars": "243 stars this month"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "stars": "6413",
+      "forks": "194",
+      "today_stars": "866 stars this month"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2725",
+      "forks": "225",
+      "today_stars": "155 stars this month"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "36190",
+      "forks": "14455",
+      "today_stars": "315 stars this month"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22859",
+      "forks": "5454",
+      "today_stars": "117 stars this month"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44848",
+      "forks": "8626",
+      "today_stars": "318 stars this month"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13067",
+      "forks": "621",
+      "today_stars": "189 stars this month"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "24981",
+      "forks": "5145",
+      "today_stars": "450 stars this month"
+    },
+    {
+      "author": "github",
+      "name": "explore",
+      "full_name": "github/explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "stars": "4488",
+      "forks": "13423",
+      "today_stars": "38 stars this month"
+    },
+    {
+      "author": "antiwork",
+      "name": "flexile",
+      "full_name": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments as easy as 1-2-3",
+      "language": "Ruby",
+      "stars": "712",
+      "forks": "292",
+      "today_stars": "72 stars this month"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44572",
+      "forks": "10428",
+      "today_stars": "379 stars this month"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5177",
+      "forks": "1168",
+      "today_stars": "56 stars this month"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14841",
+      "forks": "5126",
+      "today_stars": "107 stars this month"
+    },
+    {
+      "author": "citation-style-language",
+      "name": "styles",
+      "full_name": "citation-style-language/styles",
+      "url": "https://github.com/citation-style-language/styles",
+      "description": "Official repository for Citation Style Language (CSL) citation styles.",
+      "language": "Ruby",
+      "stars": "3558",
+      "forks": "3937",
+      "today_stars": "31 stars this month"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50486",
+      "forks": "10167",
+      "today_stars": "203 stars this month"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "11741",
+      "forks": "2719",
+      "today_stars": "229 stars this month"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21498",
+      "forks": "11069",
+      "today_stars": "75 stars this month"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "12947",
+      "forks": "4644",
+      "today_stars": "94 stars this month"
+    },
+    {
+      "author": "CMSgov",
+      "name": "price-transparency-guide",
+      "full_name": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "stars": "411",
+      "forks": "119",
+      "today_stars": "8 stars this month"
+    },
+    {
+      "author": "Shopify",
+      "name": "liquid",
+      "full_name": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "stars": "11452",
+      "forks": "1466",
+      "today_stars": "54 stars this month"
+    },
+    {
+      "author": "pglombardo",
+      "name": "PasswordPusher",
+      "full_name": "pglombardo/PasswordPusher",
+      "url": "https://github.com/pglombardo/PasswordPusher",
+      "description": "🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs.",
+      "language": "Ruby",
+      "stars": "2583",
+      "forks": "405",
+      "today_stars": "73 stars this month"
+    }
+  ]
+}

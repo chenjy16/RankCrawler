@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-20 01:10:41",
+  "repositories": [
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9180",
+      "forks": "786",
+      "today_stars": "276 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27958",
+      "forks": "2677",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "sqshq",
+      "name": "sampler",
+      "full_name": "sqshq/sampler",
+      "url": "https://github.com/sqshq/sampler",
+      "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+      "language": "Go",
+      "stars": "13859",
+      "forks": "635",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17794",
+      "forks": "1618",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "50091",
+      "forks": "10143",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "full_name": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": "18854",
+      "forks": "438",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "36656",
+      "forks": "3349",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3207",
+      "forks": "708",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "osv-scanner",
+      "full_name": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars": "7640",
+      "forks": "451",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18746",
+      "forks": "8620",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70493",
+      "forks": "18797",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pdfcpu",
+      "name": "pdfcpu",
+      "full_name": "pdfcpu/pdfcpu",
+      "url": "https://github.com/pdfcpu/pdfcpu",
+      "description": "A PDF processor written in Go.",
+      "language": "Go",
+      "stars": "7912",
+      "forks": "555",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "wagoodman",
+      "name": "dive",
+      "full_name": "wagoodman/dive",
+      "url": "https://github.com/wagoodman/dive",
+      "description": "A tool for exploring each layer in a docker image",
+      "language": "Go",
+      "stars": "51753",
+      "forks": "1902",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "bettercap",
+      "name": "bettercap",
+      "full_name": "bettercap/bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "stars": "18005",
+      "forks": "1559",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "swaggo",
+      "name": "swag",
+      "full_name": "swaggo/swag",
+      "url": "https://github.com/swaggo/swag",
+      "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+      "language": "Go",
+      "stars": "12095",
+      "forks": "1293",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "28366",
+      "forks": "2751",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kueue",
+      "full_name": "kubernetes-sigs/kueue",
+      "url": "https://github.com/kubernetes-sigs/kueue",
+      "description": "Kubernetes-native Job Queueing",
+      "language": "Go",
+      "stars": "1949",
+      "forks": "392",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24412",
+      "forks": "2859",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "inngest",
+      "name": "inngest",
+      "full_name": "inngest/inngest",
+      "url": "https://github.com/inngest/inngest",
+      "description": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+      "language": "Go",
+      "stars": "3555",
+      "forks": "155",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "k6",
+      "full_name": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript",
+      "language": "Go",
+      "stars": "28546",
+      "forks": "1406",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+      "language": "Go",
+      "stars": "1015",
+      "forks": "409",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22109",
+      "forks": "4551",
+      "today_stars": "1 star today"
+    }
+  ]
+}

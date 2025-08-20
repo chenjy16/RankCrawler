@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-20 01:12:01",
+  "repositories": [
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7112",
+      "forks": "824",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5599",
+      "forks": "2001",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6330",
+      "forks": "1657",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "flameshot-org",
+      "name": "flameshot",
+      "full_name": "flameshot-org/flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "stars": "27562",
+      "forks": "1752",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24637",
+      "forks": "3381",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "83619",
+      "forks": "56264",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "NixOS",
+      "name": "nix",
+      "full_name": "NixOS/nix",
+      "url": "https://github.com/NixOS/nix",
+      "description": "Nix, the purely functional package manager",
+      "language": "C++",
+      "stars": "14933",
+      "forks": "1698",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "42438",
+      "forks": "7577",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "google",
+      "name": "filament",
+      "full_name": "google/filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "stars": "18751",
+      "forks": "2016",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ml-explore",
+      "name": "mlx",
+      "full_name": "ml-explore/mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "stars": "21976",
+      "forks": "1315",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27089",
+      "forks": "4886",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "openxla",
+      "name": "xla",
+      "full_name": "openxla/xla",
+      "url": "https://github.com/openxla/xla",
+      "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+      "language": "C++",
+      "stars": "3438",
+      "forks": "620",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "42491",
+      "forks": "4571",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "mltframework",
+      "name": "shotcut",
+      "full_name": "mltframework/shotcut",
+      "url": "https://github.com/mltframework/shotcut",
+      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+      "language": "C++",
+      "stars": "12515",
+      "forks": "1234",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46894",
+      "forks": "7099",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "SerenityOS",
+      "name": "serenity",
+      "full_name": "SerenityOS/serenity",
+      "url": "https://github.com/SerenityOS/serenity",
+      "description": "The Serenity Operating System 🐞",
+      "language": "C++",
+      "stars": "32211",
+      "forks": "3262",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "TixiaoShan",
+      "name": "LIO-SAM",
+      "full_name": "TixiaoShan/LIO-SAM",
+      "url": "https://github.com/TixiaoShan/LIO-SAM",
+      "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+      "language": "C++",
+      "stars": "4091",
+      "forks": "1395",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10457",
+      "forks": "1340",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "CrowCpp",
+      "name": "Crow",
+      "full_name": "CrowCpp/Crow",
+      "url": "https://github.com/CrowCpp/Crow",
+      "description": "A Fast and Easy to use microframework for the web.",
+      "language": "C++",
+      "stars": "4101",
+      "forks": "470",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "17783",
+      "forks": "3538",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "PixarAnimationStudios",
+      "name": "OpenUSD",
+      "full_name": "PixarAnimationStudios/OpenUSD",
+      "url": "https://github.com/PixarAnimationStudios/OpenUSD",
+      "description": "Universal Scene Description",
+      "language": "C++",
+      "stars": "6768",
+      "forks": "1324",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1087",
+      "forks": "246",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "36674",
+      "forks": "4008",
+      "today_stars": "18 stars today"
+    }
+  ]
+}
