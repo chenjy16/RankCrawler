@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-21 01:10:48",
+  "repositories": [
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "36698",
+      "forks": "4010",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "36",
+      "forks": "17",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68847",
+      "forks": "15829",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ApolloAuto",
+      "name": "apollo",
+      "full_name": "ApolloAuto/apollo",
+      "url": "https://github.com/ApolloAuto/apollo",
+      "description": "An open autonomous driving platform",
+      "language": "C++",
+      "stars": "25925",
+      "forks": "9806",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "68962",
+      "forks": "10135",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "cocos",
+      "name": "cocos-engine",
+      "full_name": "cocos/cocos-engine",
+      "url": "https://github.com/cocos/cocos-engine",
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": "8946",
+      "forks": "2031",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "fxsound2",
+      "name": "fxsound-app",
+      "full_name": "fxsound2/fxsound-app",
+      "url": "https://github.com/fxsound2/fxsound-app",
+      "description": "FxSound application and DSP source code",
+      "language": "C++",
+      "stars": "2906",
+      "forks": "236",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "117961",
+      "forks": "16340",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "mediapipe",
+      "full_name": "google-ai-edge/mediapipe",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "language": "C++",
+      "stars": "31050",
+      "forks": "5496",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19705",
+      "forks": "3133",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "zen-browser",
+      "name": "desktop",
+      "full_name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": "35338",
+      "forks": "1019",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7129",
+      "forks": "825",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24647",
+      "forks": "3381",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "9963",
+      "forks": "14345",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "12036",
+      "forks": "2234",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10478",
+      "forks": "1344",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191255",
+      "forks": "74787",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv_contrib",
+      "full_name": "opencv/opencv_contrib",
+      "url": "https://github.com/opencv/opencv_contrib",
+      "description": "Repository for OpenCV's extra modules",
+      "language": "C++",
+      "stars": "9795",
+      "forks": "5836",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46905",
+      "forks": "7102",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "TixiaoShan",
+      "name": "LIO-SAM",
+      "full_name": "TixiaoShan/LIO-SAM",
+      "url": "https://github.com/TixiaoShan/LIO-SAM",
+      "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+      "language": "C++",
+      "stars": "4096",
+      "forks": "1395",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "filament",
+      "full_name": "google/filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "stars": "18761",
+      "forks": "2017",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15852",
+      "forks": "3815",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "12907",
+      "forks": "4160",
+      "today_stars": "1 star today"
+    }
+  ]
+}

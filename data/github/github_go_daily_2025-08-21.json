@@ -1,0 +1,227 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-21 01:09:30",
+  "repositories": [
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2645",
+      "forks": "258",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9403",
+      "forks": "803",
+      "today_stars": "479 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "higress",
+      "full_name": "alibaba/higress",
+      "url": "https://github.com/alibaba/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "stars": "6183",
+      "forks": "796",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7493",
+      "forks": "689",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16106",
+      "forks": "5685",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "minikube",
+      "full_name": "kubernetes/minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "stars": "30836",
+      "forks": "5043",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "1978",
+      "forks": "213",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "isaacphi",
+      "name": "mcp-language-server",
+      "full_name": "isaacphi/mcp-language-server",
+      "url": "https://github.com/isaacphi/mcp-language-server",
+      "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+      "language": "Go",
+      "stars": "969",
+      "forks": "65",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9914",
+      "forks": "715",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20239",
+      "forks": "1953",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "27977",
+      "forks": "2678",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "4130",
+      "forks": "653",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18762",
+      "forks": "8634",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "k6",
+      "full_name": "grafana/k6",
+      "url": "https://github.com/grafana/k6",
+      "description": "A modern load testing tool, using Go and JavaScript",
+      "language": "Go",
+      "stars": "28555",
+      "forks": "1406",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "16065",
+      "forks": "1919",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4065",
+      "forks": "430",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24436",
+      "forks": "2862",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "35992",
+      "forks": "5491",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "EndlessCheng",
+      "name": "codeforces-go",
+      "full_name": "EndlessCheng/codeforces-go",
+      "url": "https://github.com/EndlessCheng/codeforces-go",
+      "description": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+      "language": "Go",
+      "stars": "7205",
+      "forks": "726",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": "12443",
+      "forks": "2522",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "weekly",
+  "fetch_time": "2025-08-21 01:08:21",
+  "repositories": [
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "9957",
+      "forks": "435",
+      "today_stars": "2,449 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "poml",
+      "full_name": "microsoft/poml",
+      "url": "https://github.com/microsoft/poml",
+      "description": "Prompt Orchestration Markup Language",
+      "language": "TypeScript",
+      "stars": "3568",
+      "forks": "161",
+      "today_stars": "2,051 stars this week"
+    },
+    {
+      "author": "dtyq",
+      "name": "magic",
+      "full_name": "dtyq/magic",
+      "url": "https://github.com/dtyq/magic",
+      "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+      "language": "PHP",
+      "stars": "3058",
+      "forks": "300",
+      "today_stars": "1,478 stars this week"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5655",
+      "forks": "1050",
+      "today_stars": "365 stars this week"
+    },
+    {
+      "author": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+      "language": "TypeScript",
+      "stars": "17799",
+      "forks": "1642",
+      "today_stars": "1,861 stars this week"
+    },
+    {
+      "author": "PixiEditor",
+      "name": "PixiEditor",
+      "full_name": "PixiEditor/PixiEditor",
+      "url": "https://github.com/PixiEditor/PixiEditor",
+      "description": "PixiEditor is a Universal Editor for all your 2D needs",
+      "language": "C#",
+      "stars": "5186",
+      "forks": "206",
+      "today_stars": "2,006 stars this week"
+    },
+    {
+      "author": "tadata-org",
+      "name": "fastapi_mcp",
+      "full_name": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "language": "Python",
+      "stars": "9343",
+      "forks": "720",
+      "today_stars": "1,387 stars this week"
+    },
+    {
+      "author": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "60663",
+      "forks": "7290",
+      "today_stars": "3,373 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75329",
+      "forks": "4711",
+      "today_stars": "686 stars this week"
+    },
+    {
+      "author": "apple",
+      "name": "embedding-atlas",
+      "full_name": "apple/embedding-atlas",
+      "url": "https://github.com/apple/embedding-atlas",
+      "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+      "language": "TypeScript",
+      "stars": "2990",
+      "forks": "128",
+      "today_stars": "1,258 stars this week"
+    },
+    {
+      "author": "menloresearch",
+      "name": "jan",
+      "full_name": "menloresearch/jan",
+      "url": "https://github.com/menloresearch/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+      "language": "TypeScript",
+      "stars": "37297",
+      "forks": "2187",
+      "today_stars": "731 stars this week"
+    },
+    {
+      "author": "conductor-oss",
+      "name": "conductor",
+      "full_name": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+      "language": "Java",
+      "stars": "26315",
+      "forks": "679",
+      "today_stars": "1,198 stars this week"
+    },
+    {
+      "author": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "Vue",
+      "stars": "3867",
+      "forks": "266",
+      "today_stars": "1,080 stars this week"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "21878",
+      "forks": "1725",
+      "today_stars": "217 stars this week"
+    }
+  ]
+}

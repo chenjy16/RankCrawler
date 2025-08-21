@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-21 01:09:36",
+  "repositories": [
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5655",
+      "forks": "1050",
+      "today_stars": "365 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75329",
+      "forks": "4711",
+      "today_stars": "686 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "73054",
+      "forks": "2572",
+      "today_stars": "289 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "14184",
+      "forks": "675",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21411",
+      "forks": "2489",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23122",
+      "forks": "992",
+      "today_stars": "152 stars this week"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "50238",
+      "forks": "5991",
+      "today_stars": "185 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3856",
+      "forks": "2961",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5422",
+      "forks": "649",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "4986",
+      "forks": "146",
+      "today_stars": "338 stars this week"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10737",
+      "forks": "969",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "1978",
+      "forks": "213",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2345",
+      "forks": "195",
+      "today_stars": "102 stars this week"
+    },
+    {
+      "author": "go-chi",
+      "name": "chi",
+      "full_name": "go-chi/chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "stars": "20357",
+      "forks": "1039",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49574",
+      "forks": "21125",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "11529",
+      "forks": "791",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9403",
+      "forks": "803",
+      "today_stars": "789 stars this week"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28369",
+      "forks": "7316",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "27192",
+      "forks": "1025",
+      "today_stars": "252 stars this week"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22292",
+      "forks": "3374",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26001",
+      "forks": "3049",
+      "today_stars": "193 stars this week"
+    }
+  ]
+}

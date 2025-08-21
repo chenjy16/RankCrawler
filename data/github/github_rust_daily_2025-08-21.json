@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-21 01:09:49",
+  "repositories": [
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "16341",
+      "forks": "639",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "stars": "4205",
+      "forks": "451",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "tensorzero",
+      "name": "tensorzero",
+      "full_name": "tensorzero/tensorzero",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "language": "Rust",
+      "stars": "9769",
+      "forks": "652",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "shshemi",
+      "name": "tabiew",
+      "full_name": "shshemi/tabiew",
+      "url": "https://github.com/shshemi/tabiew",
+      "description": "A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",
+      "language": "Rust",
+      "stars": "2170",
+      "forks": "59",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1462",
+      "forks": "254",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1439",
+      "forks": "203",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16272",
+      "forks": "636",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "95754",
+      "forks": "3028",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "96043",
+      "forks": "14095",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "64107",
+      "forks": "4971",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "18898",
+      "forks": "650",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "zellij-org",
+      "name": "zellij",
+      "full_name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "stars": "25862",
+      "forks": "791",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "7671",
+      "forks": "271",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "35716",
+      "forks": "4094",
+      "today_stars": "134 stars today"
+    },
+    {
+      "author": "hyperium",
+      "name": "hyper",
+      "full_name": "hyperium/hyper",
+      "url": "https://github.com/hyperium/hyper",
+      "description": "An HTTP library for Rust",
+      "language": "Rust",
+      "stars": "15477",
+      "forks": "1672",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "full_name": "sharkdp/fd",
+      "url": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": "39216",
+      "forks": "916",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10456",
+      "forks": "851",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4772",
+      "forks": "542",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "10261",
+      "forks": "315",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "23225",
+      "forks": "2454",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "emmett-framework",
+      "name": "granian",
+      "full_name": "emmett-framework/granian",
+      "url": "https://github.com/emmett-framework/granian",
+      "description": "A Rust HTTP server for Python applications",
+      "language": "Rust",
+      "stars": "4026",
+      "forks": "112",
+      "today_stars": "10 stars today"
+    }
+  ]
+}
