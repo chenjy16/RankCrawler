@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-22 01:11:40",
+  "repositories": [
+    {
+      "author": "bellard",
+      "name": "quickjs",
+      "full_name": "bellard/quickjs",
+      "url": "https://github.com/bellard/quickjs",
+      "description": "Public repository of the QuickJS Javascript Engine.",
+      "language": "C",
+      "stars": "9509",
+      "forks": "1010",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "27818",
+      "forks": "2636",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "ComposersDesktop",
+      "name": "CDP8",
+      "full_name": "ComposersDesktop/CDP8",
+      "url": "https://github.com/ComposersDesktop/CDP8",
+      "description": "New version of CDP software",
+      "language": "C",
+      "stars": "399",
+      "forks": "25",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6073",
+      "forks": "2747",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3379",
+      "forks": "685",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "200400",
+      "forks": "57401",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "1681",
+      "forks": "294",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14514",
+      "forks": "4067",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "open62541",
+      "name": "open62541",
+      "full_name": "open62541/open62541",
+      "url": "https://github.com/open62541/open62541",
+      "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+      "language": "C",
+      "stars": "2872",
+      "forks": "1341",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12948",
+      "forks": "7805",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "10041",
+      "forks": "2519",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6324",
+      "forks": "2597",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "haproxy",
+      "name": "haproxy",
+      "full_name": "haproxy/haproxy",
+      "url": "https://github.com/haproxy/haproxy",
+      "description": "HAProxy Load Balancer's development branch (mirror of git.haproxy.org)",
+      "language": "C",
+      "stars": "5869",
+      "forks": "856",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "vedderb",
+      "name": "bldc",
+      "full_name": "vedderb/bldc",
+      "url": "https://github.com/vedderb/bldc",
+      "description": "The VESC motor control firmware",
+      "language": "C",
+      "stars": "2605",
+      "forks": "1519",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "eunomia-bpf",
+      "name": "bpf-developer-tutorial",
+      "full_name": "eunomia-bpf/bpf-developer-tutorial",
+      "url": "https://github.com/eunomia-bpf/bpf-developer-tutorial",
+      "description": "eBPF Developer Tutorial: Learning eBPF Step by Step with Examples",
+      "language": "C",
+      "stars": "3499",
+      "forks": "486",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "328",
+      "forks": "694",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "iovisor",
+      "name": "bcc",
+      "full_name": "iovisor/bcc",
+      "url": "https://github.com/iovisor/bcc",
+      "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+      "language": "C",
+      "stars": "21697",
+      "forks": "4001",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5328",
+      "forks": "2839",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7158",
+      "forks": "1745",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39388",
+      "forks": "7934",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "jemalloc",
+      "name": "jemalloc",
+      "full_name": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "description": "",
+      "language": "C",
+      "stars": "10324",
+      "forks": "1552",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

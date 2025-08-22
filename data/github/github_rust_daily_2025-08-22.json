@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-22 01:11:02",
+  "repositories": [
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1466",
+      "forks": "256",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "64198",
+      "forks": "4979",
+      "today_stars": "133 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "stars": "4230",
+      "forks": "455",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "21937",
+      "forks": "1728",
+      "today_stars": "79 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6342",
+      "forks": "3818",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "18968",
+      "forks": "656",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32625",
+      "forks": "1335",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "10282",
+      "forks": "315",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "vectordotdev",
+      "name": "vector",
+      "full_name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": "20159",
+      "forks": "1830",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9322",
+      "forks": "2098",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "16404",
+      "forks": "647",
+      "today_stars": "95 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16287",
+      "forks": "637",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "41824",
+      "forks": "1495",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "shshemi",
+      "name": "tabiew",
+      "full_name": "shshemi/tabiew",
+      "url": "https://github.com/shshemi/tabiew",
+      "description": "A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.",
+      "language": "Rust",
+      "stars": "2199",
+      "forks": "59",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "16119",
+      "forks": "634",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "lapce",
+      "name": "lapce",
+      "full_name": "lapce/lapce",
+      "url": "https://github.com/lapce/lapce",
+      "description": "Lightning-fast and Powerful Code Editor written in Rust",
+      "language": "Rust",
+      "stars": "37188",
+      "forks": "1176",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "gopher64",
+      "name": "gopher64",
+      "full_name": "gopher64/gopher64",
+      "url": "https://github.com/gopher64/gopher64",
+      "description": "Highly compatible N64 emulator",
+      "language": "Rust",
+      "stars": "400",
+      "forks": "7",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "96115",
+      "forks": "14096",
+      "today_stars": "81 stars today"
+    },
+    {
+      "author": "emmett-framework",
+      "name": "granian",
+      "full_name": "emmett-framework/granian",
+      "url": "https://github.com/emmett-framework/granian",
+      "description": "A Rust HTTP server for Python applications",
+      "language": "Rust",
+      "stars": "4063",
+      "forks": "112",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "30582",
+      "forks": "1834",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "matter-labs",
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "url": "https://github.com/matter-labs/zksync-era",
+      "description": "zkSync era",
+      "language": "Rust",
+      "stars": "3193",
+      "forks": "2139",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
