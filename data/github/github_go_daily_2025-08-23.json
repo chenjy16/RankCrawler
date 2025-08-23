@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-23 01:08:10",
+  "repositories": [
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2138",
+      "forks": "224",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28017",
+      "forks": "2681",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "edoardottt",
+      "name": "cariddi",
+      "full_name": "edoardottt/cariddi",
+      "url": "https://github.com/edoardottt/cariddi",
+      "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+      "language": "Go",
+      "stars": "2630",
+      "forks": "231",
+      "today_stars": "262 stars today"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2656",
+      "forks": "260",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "50126",
+      "forks": "10152",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "full_name": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": "37175",
+      "forks": "8049",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4662",
+      "forks": "759",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "20021",
+      "forks": "894",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18815",
+      "forks": "8647",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19488",
+      "forks": "2341",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "onsi",
+      "name": "ginkgo",
+      "full_name": "onsi/ginkgo",
+      "url": "https://github.com/onsi/ginkgo",
+      "description": "A Modern Testing Framework for Go",
+      "language": "Go",
+      "stars": "8779",
+      "forks": "677",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5702",
+      "forks": "1711",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "projectcalico",
+      "name": "calico",
+      "full_name": "projectcalico/calico",
+      "url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "language": "Go",
+      "stars": "6711",
+      "forks": "1468",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "full_name": "labstack/echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": "31435",
+      "forks": "2281",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "full_name": "kubernetes-sigs/kubebuilder",
+      "url": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": "8656",
+      "forks": "1584",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "OpenCSGs",
+      "name": "csghub-server",
+      "full_name": "OpenCSGs/csghub-server",
+      "url": "https://github.com/OpenCSGs/csghub-server",
+      "description": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+      "language": "Go",
+      "stars": "782",
+      "forks": "114",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "runc",
+      "full_name": "opencontainers/runc",
+      "url": "https://github.com/opencontainers/runc",
+      "description": "CLI tool for spawning and running containers according to the OCI specification",
+      "language": "Go",
+      "stars": "12592",
+      "forks": "2209",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10479",
+      "forks": "678",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34583",
+      "forks": "977",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70516",
+      "forks": "18798",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "korotovsky",
+      "name": "slack-mcp-server",
+      "full_name": "korotovsky/slack-mcp-server",
+      "url": "https://github.com/korotovsky/slack-mcp-server",
+      "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.",
+      "language": "Go",
+      "stars": "540",
+      "forks": "70",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "publicsuffix",
+      "name": "list",
+      "full_name": "publicsuffix/list",
+      "url": "https://github.com/publicsuffix/list",
+      "description": "The Public Suffix List",
+      "language": "Go",
+      "stars": "2460",
+      "forks": "1378",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "obot-platform",
+      "name": "obot",
+      "full_name": "obot-platform/obot",
+      "url": "https://github.com/obot-platform/obot",
+      "description": "Open-source MCP Gateway and AI Platform",
+      "language": "Go",
+      "stars": "266",
+      "forks": "49",
+      "today_stars": "26 stars today"
+    }
+  ]
+}

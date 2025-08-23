@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-23 01:09:07",
+  "repositories": [
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10656",
+      "forks": "5643",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sabrogden",
+      "name": "Ditto",
+      "full_name": "sabrogden/Ditto",
+      "url": "https://github.com/sabrogden/Ditto",
+      "description": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
+      "language": "C",
+      "stars": "4996",
+      "forks": "278",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5499",
+      "forks": "1566",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "intel",
+      "name": "xess",
+      "full_name": "intel/xess",
+      "url": "https://github.com/intel/xess",
+      "description": "Intel XeSS SDK",
+      "language": "C",
+      "stars": "842",
+      "forks": "53",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "kingToolbox",
+      "name": "WindTerm",
+      "full_name": "kingToolbox/WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+      "language": "C",
+      "stars": "27713",
+      "forks": "2151",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "civetweb",
+      "name": "civetweb",
+      "full_name": "civetweb/civetweb",
+      "url": "https://github.com/civetweb/civetweb",
+      "description": "Embedded C/C++ web server",
+      "language": "C",
+      "stars": "3180",
+      "forks": "1003",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "126960",
+      "forks": "11900",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "ComposersDesktop",
+      "name": "CDP8",
+      "full_name": "ComposersDesktop/CDP8",
+      "url": "https://github.com/ComposersDesktop/CDP8",
+      "description": "New version of CDP software",
+      "language": "C",
+      "stars": "415",
+      "forks": "26",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4840",
+      "forks": "936",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "eclipse-mosquitto",
+      "name": "mosquitto",
+      "full_name": "eclipse-mosquitto/mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "stars": "10045",
+      "forks": "2519",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13170",
+      "forks": "1944",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3878",
+      "forks": "1345",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "12949",
+      "forks": "7813",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "EpicGamesExt",
+      "name": "raddebugger",
+      "full_name": "EpicGamesExt/raddebugger",
+      "url": "https://github.com/EpicGamesExt/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": "5680",
+      "forks": "246",
+      "today_stars": "65 stars today"
+    },
+    {
+      "author": "ffmpegwasm",
+      "name": "ffmpeg.wasm",
+      "full_name": "ffmpegwasm/ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "language": "C",
+      "stars": "16293",
+      "forks": "985",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6780",
+      "forks": "1324",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8656",
+      "forks": "576",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1142",
+      "forks": "1369",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38635",
+      "forks": "2248",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "386",
+      "forks": "81",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25517",
+      "forks": "2302",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3388",
+      "forks": "692",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

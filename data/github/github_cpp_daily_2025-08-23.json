@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-23 01:09:27",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36782",
+      "forks": "10475",
+      "today_stars": "110 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "47",
+      "forks": "21",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22236",
+      "forks": "2684",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15864",
+      "forks": "3821",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "WerWolv",
+      "name": "ImHex",
+      "full_name": "WerWolv/ImHex",
+      "url": "https://github.com/WerWolv/ImHex",
+      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+      "language": "C++",
+      "stars": "50209",
+      "forks": "2207",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7152",
+      "forks": "831",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "mavlink",
+      "name": "qgroundcontrol",
+      "full_name": "mavlink/qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "stars": "3921",
+      "forks": "4212",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "full_name": "Tencent/ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C++",
+      "stars": "21949",
+      "forks": "4314",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "zeux",
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": "6623",
+      "forks": "561",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68866",
+      "forks": "15839",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Detanup01",
+      "name": "gbe_fork",
+      "full_name": "Detanup01/gbe_fork",
+      "url": "https://github.com/Detanup01/gbe_fork",
+      "description": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator",
+      "language": "C++",
+      "stars": "1191",
+      "forks": "152",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "11414",
+      "forks": "1697",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "30348",
+      "forks": "6587",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "solidity",
+      "full_name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": "25027",
+      "forks": "6176",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17625",
+      "forks": "3409",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "CoatiSoftware",
+      "name": "Sourcetrail",
+      "full_name": "CoatiSoftware/Sourcetrail",
+      "url": "https://github.com/CoatiSoftware/Sourcetrail",
+      "description": "Sourcetrail - free and open-source interactive source explorer",
+      "language": "C++",
+      "stars": "16199",
+      "forks": "1580",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "google",
+      "name": "longfellow-zk",
+      "full_name": "google/longfellow-zk",
+      "url": "https://github.com/google/longfellow-zk",
+      "description": "Implementation of the Google Zero-Knowledge library for Identity Protocols.",
+      "language": "C++",
+      "stars": "870",
+      "forks": "60",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dalathegreat",
+      "name": "Battery-Emulator",
+      "full_name": "dalathegreat/Battery-Emulator",
+      "url": "https://github.com/dalathegreat/Battery-Emulator",
+      "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+      "language": "C++",
+      "stars": "1660",
+      "forks": "239",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17166",
+      "forks": "2208",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3802",
+      "forks": "356",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "3972",
+      "forks": "990",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "glog",
+      "full_name": "google/glog",
+      "url": "https://github.com/google/glog",
+      "description": "C++ implementation of the Google logging module",
+      "language": "C++",
+      "stars": "7327",
+      "forks": "2099",
+      "today_stars": "1 star today"
+    }
+  ]
+}

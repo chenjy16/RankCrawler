@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "weekly",
+  "fetch_time": "2025-08-23 01:09:34",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36782",
+      "forks": "10475",
+      "today_stars": "171 stars this week"
+    },
+    {
+      "author": "colmap",
+      "name": "colmap",
+      "full_name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": "9622",
+      "forks": "1754",
+      "today_stars": "293 stars this week"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "42585",
+      "forks": "4583",
+      "today_stars": "260 stars this week"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7152",
+      "forks": "831",
+      "today_stars": "102 stars this week"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10503",
+      "forks": "1347",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "NickvisionApps",
+      "name": "Parabolic",
+      "full_name": "NickvisionApps/Parabolic",
+      "url": "https://github.com/NickvisionApps/Parabolic",
+      "description": "Download web video and audio",
+      "language": "C++",
+      "stars": "3429",
+      "forks": "160",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "32226",
+      "forks": "2528",
+      "today_stars": "356 stars this week"
+    },
+    {
+      "author": "cifertech",
+      "name": "nRFBox",
+      "full_name": "cifertech/nRFBox",
+      "url": "https://github.com/cifertech/nRFBox",
+      "description": "Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks.",
+      "language": "C++",
+      "stars": "1053",
+      "forks": "143",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "85339",
+      "forks": "12787",
+      "today_stars": "486 stars this week"
+    },
+    {
+      "author": "Librum-Reader",
+      "name": "Librum",
+      "full_name": "Librum-Reader/Librum",
+      "url": "https://github.com/Librum-Reader/Librum",
+      "description": "The Librum client application",
+      "language": "C++",
+      "stars": "5080",
+      "forks": "172",
+      "today_stars": "175 stars this week"
+    },
+    {
+      "author": "OHF-Voice",
+      "name": "piper1-gpl",
+      "full_name": "OHF-Voice/piper1-gpl",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "description": "Fast and local neural text-to-speech engine",
+      "language": "C++",
+      "stars": "652",
+      "forks": "53",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "amnezia-vpn",
+      "name": "amnezia-client",
+      "full_name": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars": "7929",
+      "forks": "522",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5631",
+      "forks": "500",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19715",
+      "forks": "3134",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "azerothcore",
+      "name": "azerothcore-wotlk",
+      "full_name": "azerothcore/azerothcore-wotlk",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "description": "Complete Open Source and Modular solution for MMO",
+      "language": "C++",
+      "stars": "7365",
+      "forks": "2942",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "WerWolv",
+      "name": "ImHex",
+      "full_name": "WerWolv/ImHex",
+      "url": "https://github.com/WerWolv/ImHex",
+      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+      "language": "C++",
+      "stars": "50209",
+      "forks": "2207",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "17898",
+      "forks": "3564",
+      "today_stars": "258 stars this week"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": "16938",
+      "forks": "19521",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "9983",
+      "forks": "14350",
+      "today_stars": "54 stars this week"
+    },
+    {
+      "author": "Zackriya-Solutions",
+      "name": "meeting-minutes",
+      "full_name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai",
+      "language": "C++",
+      "stars": "7117",
+      "forks": "539",
+      "today_stars": "114 stars this week"
+    },
+    {
+      "author": "justcallmekoko",
+      "name": "ESP32Marauder",
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "stars": "8268",
+      "forks": "913",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "aria2",
+      "name": "aria2",
+      "full_name": "aria2/aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "language": "C++",
+      "stars": "38526",
+      "forks": "3738",
+      "today_stars": "84 stars this week"
+    }
+  ]
+}

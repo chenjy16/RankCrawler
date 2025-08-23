@@ -1,0 +1,205 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-23 01:08:16",
+  "repositories": [
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2138",
+      "forks": "224",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75456",
+      "forks": "4717",
+      "today_stars": "568 stars this week"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5695",
+      "forks": "1055",
+      "today_stars": "191 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9470",
+      "forks": "813",
+      "today_stars": "850 stars this week"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "73112",
+      "forks": "2571",
+      "today_stars": "271 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21429",
+      "forks": "2493",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18815",
+      "forks": "8647",
+      "today_stars": "110 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "osv-scanner",
+      "full_name": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars": "7654",
+      "forks": "451",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "wire",
+      "full_name": "google/wire",
+      "url": "https://github.com/google/wire",
+      "description": "Compile-time Dependency Injection for Go",
+      "language": "Go",
+      "stars": "14195",
+      "forks": "677",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24486",
+      "forks": "2866",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46213",
+      "forks": "9981",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2656",
+      "forks": "260",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23167",
+      "forks": "992",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "full_name": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": "18901",
+      "forks": "442",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "29772",
+      "forks": "2105",
+      "today_stars": "123 stars this week"
+    },
+    {
+      "author": "gophish",
+      "name": "gophish",
+      "full_name": "gophish/gophish",
+      "url": "https://github.com/gophish/gophish",
+      "description": "Open-Source Phishing Toolkit",
+      "language": "Go",
+      "stars": "13002",
+      "forks": "2682",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "full_name": "labstack/echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": "31435",
+      "forks": "2281",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "isaacphi",
+      "name": "mcp-language-server",
+      "full_name": "isaacphi/mcp-language-server",
+      "url": "https://github.com/isaacphi/mcp-language-server",
+      "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+      "language": "Go",
+      "stars": "982",
+      "forks": "65",
+      "today_stars": "64 stars this week"
+    }
+  ]
+}
