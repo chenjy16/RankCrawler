@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-24 01:18:14",
+  "repositories": [
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2225",
+      "forks": "227",
+      "today_stars": "153 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11840",
+      "forks": "1779",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "edoardottt",
+      "name": "cariddi",
+      "full_name": "edoardottt/cariddi",
+      "url": "https://github.com/edoardottt/cariddi",
+      "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+      "language": "Go",
+      "stars": "2658",
+      "forks": "237",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "kubectl-ai",
+      "full_name": "GoogleCloudPlatform/kubectl-ai",
+      "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+      "description": "AI powered Kubernetes Assistant",
+      "language": "Go",
+      "stars": "6715",
+      "forks": "588",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "databus23",
+      "name": "helm-diff",
+      "full_name": "databus23/helm-diff",
+      "url": "https://github.com/databus23/helm-diff",
+      "description": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+      "language": "Go",
+      "stars": "3092",
+      "forks": "300",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ory",
+      "name": "kratos",
+      "full_name": "ory/kratos",
+      "url": "https://github.com/ory/kratos",
+      "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.",
+      "language": "Go",
+      "stars": "12242",
+      "forks": "1026",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "flexprice",
+      "name": "flexprice",
+      "full_name": "flexprice/flexprice",
+      "url": "https://github.com/flexprice/flexprice",
+      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
+      "language": "Go",
+      "stars": "1103",
+      "forks": "22",
+      "today_stars": "145 stars today"
+    },
+    {
+      "author": "grpc-ecosystem",
+      "name": "grpc-gateway",
+      "full_name": "grpc-ecosystem/grpc-gateway",
+      "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+      "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+      "language": "Go",
+      "stars": "19491",
+      "forks": "2341",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "14667",
+      "forks": "366",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "full_name": "vmware-tanzu/velero",
+      "url": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": "9412",
+      "forks": "1466",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "korotovsky",
+      "name": "slack-mcp-server",
+      "full_name": "korotovsky/slack-mcp-server",
+      "url": "https://github.com/korotovsky/slack-mcp-server",
+      "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.",
+      "language": "Go",
+      "stars": "547",
+      "forks": "69",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "gpu-operator",
+      "full_name": "NVIDIA/gpu-operator",
+      "url": "https://github.com/NVIDIA/gpu-operator",
+      "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+      "language": "Go",
+      "stars": "2258",
+      "forks": "376",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16125",
+      "forks": "5685",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34629",
+      "forks": "980",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "6034",
+      "forks": "1220",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10500",
+      "forks": "680",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "casdoor",
+      "name": "casdoor",
+      "full_name": "casdoor/casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "description": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+      "language": "Go",
+      "stars": "12094",
+      "forks": "1414",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17543",
+      "forks": "1493",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "tempo",
+      "full_name": "grafana/tempo",
+      "url": "https://github.com/grafana/tempo",
+      "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+      "language": "Go",
+      "stars": "4709",
+      "forks": "604",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dapr",
+      "name": "dapr",
+      "full_name": "dapr/dapr",
+      "url": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+      "language": "Go",
+      "stars": "25078",
+      "forks": "1995",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28026",
+      "forks": "2682",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22121",
+      "forks": "4551",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

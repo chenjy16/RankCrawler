@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-08-24 01:18:39",
+  "repositories": [
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "22000",
+      "forks": "1730",
+      "today_stars": "297 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "64290",
+      "forks": "5002",
+      "today_stars": "480 stars this week"
+    },
+    {
+      "author": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": "25622",
+      "forks": "796",
+      "today_stars": "348 stars this week"
+    },
+    {
+      "author": "EasyTier",
+      "name": "EasyTier",
+      "full_name": "EasyTier/EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
+      "language": "Rust",
+      "stars": "6605",
+      "forks": "583",
+      "today_stars": "225 stars this week"
+    },
+    {
+      "author": "sharkdp",
+      "name": "fd",
+      "full_name": "sharkdp/fd",
+      "url": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "stars": "39282",
+      "forks": "917",
+      "today_stars": "218 stars this week"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5543",
+      "forks": "724",
+      "today_stars": "107 stars this week"
+    },
+    {
+      "author": "antinomyhq",
+      "name": "forge",
+      "full_name": "antinomyhq/forge",
+      "url": "https://github.com/antinomyhq/forge",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "language": "Rust",
+      "stars": "4500",
+      "forks": "1210",
+      "today_stars": "555 stars this week"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "19176",
+      "forks": "665",
+      "today_stars": "403 stars this week"
+    },
+    {
+      "author": "AppFlowy-IO",
+      "name": "AppFlowy-Cloud",
+      "full_name": "AppFlowy-IO/AppFlowy-Cloud",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+      "language": "Rust",
+      "stars": "1618",
+      "forks": "427",
+      "today_stars": "15 stars this week"
+    },
+    {
+      "author": "PyO3",
+      "name": "pyo3",
+      "full_name": "PyO3/pyo3",
+      "url": "https://github.com/PyO3/pyo3",
+      "description": "Rust bindings for the Python interpreter",
+      "language": "Rust",
+      "stars": "14237",
+      "forks": "867",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "sigoden",
+      "name": "aichat",
+      "full_name": "sigoden/aichat",
+      "url": "https://github.com/sigoden/aichat",
+      "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+      "language": "Rust",
+      "stars": "7918",
+      "forks": "516",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "BurntSushi",
+      "name": "ripgrep",
+      "full_name": "BurntSushi/ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+      "language": "Rust",
+      "stars": "54721",
+      "forks": "2215",
+      "today_stars": "283 stars this week"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "52899",
+      "forks": "2138",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "rust-sdk",
+      "full_name": "modelcontextprotocol/rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "stars": "2073",
+      "forks": "310",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "stars": "4259",
+      "forks": "458",
+      "today_stars": "104 stars this week"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "30188",
+      "forks": "1262",
+      "today_stars": "163 stars this week"
+    },
+    {
+      "author": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": "4409",
+      "forks": "167",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "alvr-org",
+      "name": "ALVR",
+      "full_name": "alvr-org/ALVR",
+      "url": "https://github.com/alvr-org/ALVR",
+      "description": "Stream VR games from your PC to your headset via Wi-Fi",
+      "language": "Rust",
+      "stars": "6581",
+      "forks": "565",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "paradedb",
+      "name": "paradedb",
+      "full_name": "paradedb/paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "description": "ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.",
+      "language": "Rust",
+      "stars": "7681",
+      "forks": "272",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "6987",
+      "forks": "171",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "95869",
+      "forks": "3032",
+      "today_stars": "312 stars this week"
+    }
+  ]
+}

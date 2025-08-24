@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-24 01:19:30",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36851",
+      "forks": "10479",
+      "today_stars": "95 stars today"
+    },
+    {
+      "author": "google",
+      "name": "highway",
+      "full_name": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "stars": "4931",
+      "forks": "374",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "19697",
+      "forks": "4149",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17637",
+      "forks": "3414",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8281",
+      "forks": "1397",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27129",
+      "forks": "4893",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "zeux",
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars": "6632",
+      "forks": "561",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "49",
+      "forks": "21",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "46945",
+      "forks": "7107",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22240",
+      "forks": "2685",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mavlink",
+      "name": "qgroundcontrol",
+      "full_name": "mavlink/qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "stars": "3922",
+      "forks": "4213",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rapidsai",
+      "name": "cudf",
+      "full_name": "rapidsai/cudf",
+      "url": "https://github.com/rapidsai/cudf",
+      "description": "cuDF - GPU DataFrame Library",
+      "language": "C++",
+      "stars": "9128",
+      "forks": "965",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-swss",
+      "full_name": "sonic-net/sonic-swss",
+      "url": "https://github.com/sonic-net/sonic-swss",
+      "description": "SONiC Switch State Service (SwSS)",
+      "language": "C++",
+      "stars": "202",
+      "forks": "618",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "11421",
+      "forks": "1699",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "CoatiSoftware",
+      "name": "Sourcetrail",
+      "full_name": "CoatiSoftware/Sourcetrail",
+      "url": "https://github.com/CoatiSoftware/Sourcetrail",
+      "description": "Sourcetrail - free and open-source interactive source explorer",
+      "language": "C++",
+      "stars": "16206",
+      "forks": "1580",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "shader-slang",
+      "name": "slang",
+      "full_name": "shader-slang/slang",
+      "url": "https://github.com/shader-slang/slang",
+      "description": "Making it easier to work with shaders",
+      "language": "C++",
+      "stars": "4446",
+      "forks": "338",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19720",
+      "forks": "3134",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ml-explore",
+      "name": "mlx",
+      "full_name": "ml-explore/mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "stars": "22017",
+      "forks": "1319",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9681",
+      "forks": "1696",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "TrinityCore",
+      "name": "TrinityCore",
+      "full_name": "TrinityCore/TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+      "language": "C++",
+      "stars": "10151",
+      "forks": "6215",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16242",
+      "forks": "2830",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6332",
+      "forks": "1657",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tflite-micro",
+      "full_name": "tensorflow/tflite-micro",
+      "url": "https://github.com/tensorflow/tflite-micro",
+      "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+      "language": "C++",
+      "stars": "2447",
+      "forks": "930",
+      "today_stars": "1 star today"
+    }
+  ]
+}

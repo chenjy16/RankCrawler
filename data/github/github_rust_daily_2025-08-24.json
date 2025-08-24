@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-24 01:18:33",
+  "repositories": [
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "41896",
+      "forks": "1499",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7288",
+      "forks": "11597",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "4802",
+      "forks": "550",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "65645",
+      "forks": "1921",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "cube-js",
+      "name": "cube",
+      "full_name": "cube-js/cube",
+      "url": "https://github.com/cube-js/cube",
+      "description": "📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics",
+      "language": "Rust",
+      "stars": "18826",
+      "forks": "1879",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Priler",
+      "name": "jarvis",
+      "full_name": "Priler/jarvis",
+      "url": "https://github.com/Priler/jarvis",
+      "description": "Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.",
+      "language": "Rust",
+      "stars": "2465",
+      "forks": "526",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "19176",
+      "forks": "665",
+      "today_stars": "115 stars today"
+    },
+    {
+      "author": "matter-labs",
+      "name": "zksync-era",
+      "full_name": "matter-labs/zksync-era",
+      "url": "https://github.com/matter-labs/zksync-era",
+      "description": "zkSync era",
+      "language": "Rust",
+      "stars": "3197",
+      "forks": "2141",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28483",
+      "forks": "2074",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "105986",
+      "forks": "13675",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "intentee",
+      "name": "paddler",
+      "full_name": "intentee/paddler",
+      "url": "https://github.com/intentee/paddler",
+      "description": "Open-source LLMOps platform for hosting and scaling AI in your own infrastructure 🏓🦙",
+      "language": "Rust",
+      "stars": "1217",
+      "forks": "58",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "openobserve",
+      "name": "openobserve",
+      "full_name": "openobserve/openobserve",
+      "url": "https://github.com/openobserve/openobserve",
+      "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+      "language": "Rust",
+      "stars": "16312",
+      "forks": "637",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "0x192",
+      "name": "universal-android-debloater",
+      "full_name": "0x192/universal-android-debloater",
+      "url": "https://github.com/0x192/universal-android-debloater",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": "17680",
+      "forks": "909",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30524",
+      "forks": "3634",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "29137",
+      "forks": "2023",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29904",
+      "forks": "1039",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+      "language": "Rust",
+      "stars": "35023",
+      "forks": "2363",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "64290",
+      "forks": "5002",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "5266",
+      "forks": "443",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10464",
+      "forks": "853",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust-analyzer",
+      "full_name": "rust-lang/rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "stars": "15398",
+      "forks": "1821",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "25487",
+      "forks": "1770",
+      "today_stars": "21 stars today"
+    }
+  ]
+}
