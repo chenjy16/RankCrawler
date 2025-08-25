@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-08-25 01:13:53",
+  "repositories": [
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "6942",
+      "forks": "537",
+      "today_stars": "1,755 stars this month"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "150840",
+      "forks": "12901",
+      "today_stars": "3,816 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34666",
+      "forks": "981",
+      "today_stars": "1,215 stars this month"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2362",
+      "forks": "196",
+      "today_stars": "276 stars this month"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5708",
+      "forks": "1054",
+      "today_stars": "495 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "1756",
+      "forks": "140",
+      "today_stars": "664 stars this month"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "63977",
+      "forks": "2205",
+      "today_stars": "1,812 stars this month"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "mkcert",
+      "full_name": "FiloSottile/mkcert",
+      "url": "https://github.com/FiloSottile/mkcert",
+      "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+      "language": "Go",
+      "stars": "56230",
+      "forks": "2940",
+      "today_stars": "1,459 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75515",
+      "forks": "4722",
+      "today_stars": "1,848 stars this month"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "21636",
+      "forks": "2263",
+      "today_stars": "2,761 stars this month"
+    },
+    {
+      "author": "kubesphere",
+      "name": "kubesphere",
+      "full_name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+      "language": "Go",
+      "stars": "16537",
+      "forks": "2644",
+      "today_stars": "503 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17851",
+      "forks": "1621",
+      "today_stars": "314 stars this month"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "5064",
+      "forks": "147",
+      "today_stars": "1,653 stars this month"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "20810",
+      "forks": "1394",
+      "today_stars": "6,270 stars this month"
+    },
+    {
+      "author": "AlexxIT",
+      "name": "go2rtc",
+      "full_name": "AlexxIT/go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+      "language": "Go",
+      "stars": "9954",
+      "forks": "718",
+      "today_stars": "560 stars this month"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+      "language": "Go",
+      "stars": "1078",
+      "forks": "471",
+      "today_stars": "404 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21436",
+      "forks": "2493",
+      "today_stars": "334 stars this month"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14886",
+      "forks": "4300",
+      "today_stars": "280 stars this month"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4700",
+      "forks": "770",
+      "today_stars": "699 stars this month"
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "full_name": "gotify/server",
+      "url": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": "13602",
+      "forks": "750",
+      "today_stars": "547 stars this month"
+    },
+    {
+      "author": "crossplane",
+      "name": "crossplane",
+      "full_name": "crossplane/crossplane",
+      "url": "https://github.com/crossplane/crossplane",
+      "description": "The Cloud Native Control Plane",
+      "language": "Go",
+      "stars": "10775",
+      "forks": "1063",
+      "today_stars": "231 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-08-25 01:15:00",
+  "repositories": [
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191307",
+      "forks": "74790",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36874",
+      "forks": "10482",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "google",
+      "name": "highway",
+      "full_name": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "stars": "4955",
+      "forks": "374",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "esphome",
+      "name": "esphome",
+      "full_name": "esphome/esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "language": "C++",
+      "stars": "9776",
+      "forks": "4485",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "arvidn",
+      "name": "libtorrent",
+      "full_name": "arvidn/libtorrent",
+      "url": "https://github.com/arvidn/libtorrent",
+      "description": "an efficient feature complete C++ bittorrent implementation",
+      "language": "C++",
+      "stars": "5653",
+      "forks": "1047",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10529",
+      "forks": "1349",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "85180",
+      "forks": "37664",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "TrinityCore",
+      "name": "TrinityCore",
+      "full_name": "TrinityCore/TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+      "language": "C++",
+      "stars": "10154",
+      "forks": "6214",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tdlib",
+      "name": "td",
+      "full_name": "tdlib/td",
+      "url": "https://github.com/tdlib/td",
+      "description": "Cross-platform library for building Telegram clients",
+      "language": "C++",
+      "stars": "7981",
+      "forks": "1703",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "shadps4-emu",
+      "name": "shadPS4",
+      "full_name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": "25818",
+      "forks": "1686",
+      "today_stars": "287 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "85462",
+      "forks": "12815",
+      "today_stars": "78 stars today"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "28332",
+      "forks": "1330",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "diasurgical",
+      "name": "DevilutionX",
+      "full_name": "diasurgical/DevilutionX",
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "description": "Diablo build for modern operating systems",
+      "language": "C++",
+      "stars": "8879",
+      "forks": "890",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "2swap",
+      "name": "swaptube",
+      "full_name": "2swap/swaptube",
+      "url": "https://github.com/2swap/swaptube",
+      "description": "youtube video renderer",
+      "language": "C++",
+      "stars": "617",
+      "forks": "22",
+      "today_stars": "74 stars today"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": "16945",
+      "forks": "19521",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "zen-browser",
+      "name": "desktop",
+      "full_name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": "35455",
+      "forks": "1022",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "29717",
+      "forks": "1297",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16245",
+      "forks": "2831",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cp-algorithms",
+      "name": "cp-algorithms",
+      "full_name": "cp-algorithms/cp-algorithms",
+      "url": "https://github.com/cp-algorithms/cp-algorithms",
+      "description": "Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)",
+      "language": "C++",
+      "stars": "9275",
+      "forks": "1845",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "qbittorrent",
+      "name": "qBittorrent",
+      "full_name": "qbittorrent/qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "stars": "32664",
+      "forks": "4350",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": "28343",
+      "forks": "5786",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Ardour",
+      "name": "ardour",
+      "full_name": "Ardour/ardour",
+      "url": "https://github.com/Ardour/ardour",
+      "description": "Mirror of Ardour Source Code",
+      "language": "C++",
+      "stars": "4405",
+      "forks": "760",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "official-stockfish",
+      "name": "Stockfish",
+      "full_name": "official-stockfish/Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
+      "language": "C++",
+      "stars": "13629",
+      "forks": "2592",
+      "today_stars": "9 stars today"
+    }
+  ]
+}

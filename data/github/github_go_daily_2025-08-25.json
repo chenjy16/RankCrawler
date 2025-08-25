@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-25 01:13:40",
+  "repositories": [
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34666",
+      "forks": "981",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "1586",
+      "forks": "70",
+      "today_stars": "152 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50052",
+      "forks": "2574",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "nezhahq",
+      "name": "nezha",
+      "full_name": "nezhahq/nezha",
+      "url": "https://github.com/nezhahq/nezha",
+      "description": "Self-hosted, lightweight server and website monitoring and O&M tool",
+      "language": "Go",
+      "stars": "9120",
+      "forks": "1496",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "kedacore",
+      "name": "keda",
+      "full_name": "kedacore/keda",
+      "url": "https://github.com/kedacore/keda",
+      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "language": "Go",
+      "stars": "9373",
+      "forks": "1205",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "qichiyuhub",
+      "name": "rule",
+      "full_name": "qichiyuhub/rule",
+      "url": "https://github.com/qichiyuhub/rule",
+      "description": "Clash、Sing-box、等分流规则",
+      "language": "Go",
+      "stars": "743",
+      "forks": "709",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "31385",
+      "forks": "1718",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4700",
+      "forks": "770",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "66366",
+      "forks": "4463",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "OpenCSGs",
+      "name": "csghub-server",
+      "full_name": "OpenCSGs/csghub-server",
+      "url": "https://github.com/OpenCSGs/csghub-server",
+      "description": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+      "language": "Go",
+      "stars": "830",
+      "forks": "120",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5183",
+      "forks": "997",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26086",
+      "forks": "3062",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "databus23",
+      "name": "helm-diff",
+      "full_name": "databus23/helm-diff",
+      "url": "https://github.com/databus23/helm-diff",
+      "description": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+      "language": "Go",
+      "stars": "3096",
+      "forks": "300",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2255",
+      "forks": "227",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "full_name": "ffuf/ffuf",
+      "url": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": "14554",
+      "forks": "1450",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kubebuilder",
+      "full_name": "kubernetes-sigs/kubebuilder",
+      "url": "https://github.com/kubernetes-sigs/kubebuilder",
+      "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+      "language": "Go",
+      "stars": "8662",
+      "forks": "1585",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "jeessy2",
+      "name": "ddns-go",
+      "full_name": "jeessy2/ddns-go",
+      "url": "https://github.com/jeessy2/ddns-go",
+      "description": "Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",
+      "language": "Go",
+      "stars": "15107",
+      "forks": "1691",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "cloudflared",
+      "full_name": "cloudflare/cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+      "language": "Go",
+      "stars": "11358",
+      "forks": "1016",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40408",
+      "forks": "6972",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "go-vikunja",
+      "name": "vikunja",
+      "full_name": "go-vikunja/vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The to-do app to organize your life.",
+      "language": "Go",
+      "stars": "2227",
+      "forks": "197",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "flyteorg",
+      "name": "flyte",
+      "full_name": "flyteorg/flyte",
+      "url": "https://github.com/flyteorg/flyte",
+      "description": "Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",
+      "language": "Go",
+      "stars": "6436",
+      "forks": "745",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "juanfont",
+      "name": "headscale",
+      "full_name": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": "30712",
+      "forks": "1641",
+      "today_stars": "27 stars today"
+    }
+  ]
+}

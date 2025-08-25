@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-08-25 01:13:47",
+  "repositories": [
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2255",
+      "forks": "227",
+      "today_stars": "316 stars this week"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75515",
+      "forks": "4722",
+      "today_stars": "512 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9510",
+      "forks": "823",
+      "today_stars": "880 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18835",
+      "forks": "8659",
+      "today_stars": "116 stars this week"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23197",
+      "forks": "994",
+      "today_stars": "147 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "osv-scanner",
+      "full_name": "google/osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "stars": "7663",
+      "forks": "451",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+      "language": "Go",
+      "stars": "1078",
+      "forks": "471",
+      "today_stars": "120 stars this week"
+    },
+    {
+      "author": "terrastruct",
+      "name": "d2",
+      "full_name": "terrastruct/d2",
+      "url": "https://github.com/terrastruct/d2",
+      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+      "language": "Go",
+      "stars": "21556",
+      "forks": "567",
+      "today_stars": "408 stars this week"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "29803",
+      "forks": "2107",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17548",
+      "forks": "1493",
+      "today_stars": "52 stars this week"
+    },
+    {
+      "author": "casdoor",
+      "name": "casdoor",
+      "full_name": "casdoor/casdoor",
+      "url": "https://github.com/casdoor/casdoor",
+      "description": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+      "language": "Go",
+      "stars": "12109",
+      "forks": "1414",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "ffuf",
+      "name": "ffuf",
+      "full_name": "ffuf/ffuf",
+      "url": "https://github.com/ffuf/ffuf",
+      "description": "Fast web fuzzer written in Go",
+      "language": "Go",
+      "stars": "14554",
+      "forks": "1450",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10351",
+      "forks": "1504",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2665",
+      "forks": "260",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "full_name": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": "18925",
+      "forks": "444",
+      "today_stars": "173 stars this week"
+    },
+    {
+      "author": "isaacphi",
+      "name": "mcp-language-server",
+      "full_name": "isaacphi/mcp-language-server",
+      "url": "https://github.com/isaacphi/mcp-language-server",
+      "description": "mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.",
+      "language": "Go",
+      "stars": "999",
+      "forks": "65",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "gophish",
+      "name": "gophish",
+      "full_name": "gophish/gophish",
+      "url": "https://github.com/gophish/gophish",
+      "description": "Open-Source Phishing Toolkit",
+      "language": "Go",
+      "stars": "13006",
+      "forks": "2685",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24501",
+      "forks": "2868",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7518",
+      "forks": "694",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5708",
+      "forks": "1054",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "screego",
+      "name": "server",
+      "full_name": "screego/server",
+      "url": "https://github.com/screego/server",
+      "description": "screen sharing for developers https://screego.net/",
+      "language": "Go",
+      "stars": "9555",
+      "forks": "678",
+      "today_stars": "426 stars this week"
+    }
+  ]
+}
