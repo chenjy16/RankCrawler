@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-08-26 01:11:59",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "36411",
+      "forks": "4187",
+      "today_stars": "212 stars today"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+      "language": "Rust",
+      "stars": "20852",
+      "forks": "873",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "29923",
+      "forks": "1039",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "dandavison",
+      "name": "delta",
+      "full_name": "dandavison/delta",
+      "url": "https://github.com/dandavison/delta",
+      "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+      "language": "Rust",
+      "stars": "27318",
+      "forks": "434",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "Priler",
+      "name": "jarvis",
+      "full_name": "Priler/jarvis",
+      "url": "https://github.com/Priler/jarvis",
+      "description": "Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.",
+      "language": "Rust",
+      "stars": "2474",
+      "forks": "528",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Morganamilo",
+      "name": "paru",
+      "full_name": "Morganamilo/paru",
+      "url": "https://github.com/Morganamilo/paru",
+      "description": "Feature packed AUR helper",
+      "language": "Rust",
+      "stars": "7213",
+      "forks": "262",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27415",
+      "forks": "1352",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "unionlabs",
+      "name": "union",
+      "full_name": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "stars": "74876",
+      "forks": "3799",
+      "today_stars": "284 stars today"
+    },
+    {
+      "author": "nkaz001",
+      "name": "hftbacktest",
+      "full_name": "nkaz001/hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
+      "language": "Rust",
+      "stars": "2940",
+      "forks": "577",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "41209",
+      "forks": "4065",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "feldera",
+      "name": "feldera",
+      "full_name": "feldera/feldera",
+      "url": "https://github.com/feldera/feldera",
+      "description": "The Feldera Incremental Computation Engine",
+      "language": "Rust",
+      "stars": "1567",
+      "forks": "75",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7296",
+      "forks": "11601",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "7065",
+      "forks": "173",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "kixelated",
+      "name": "moq",
+      "full_name": "kixelated/moq",
+      "url": "https://github.com/kixelated/moq",
+      "description": "Rust library for Media over QUIC",
+      "language": "TypeScript",
+      "stars": "738",
+      "forks": "97",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "alacritty",
+      "name": "alacritty",
+      "full_name": "alacritty/alacritty",
+      "url": "https://github.com/alacritty/alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "stars": "60084",
+      "forks": "3170",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "a2x",
+      "name": "cs2-dumper",
+      "full_name": "a2x/cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
+      "language": "Rust",
+      "stars": "1449",
+      "forks": "207",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "bootandy",
+      "name": "dust",
+      "full_name": "bootandy/dust",
+      "url": "https://github.com/bootandy/dust",
+      "description": "A more intuitive version of du in rust",
+      "language": "Rust",
+      "stars": "10351",
+      "forks": "228",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "23462",
+      "forks": "1771",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "fish-shell",
+      "name": "fish-shell",
+      "full_name": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
+      "language": "Rust",
+      "stars": "30733",
+      "forks": "2109",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "facebookincubator",
+      "name": "below",
+      "full_name": "facebookincubator/below",
+      "url": "https://github.com/facebookincubator/below",
+      "description": "A time traveling resource monitor for modern Linux systems",
+      "language": "Rust",
+      "stars": "1656",
+      "forks": "83",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "book",
+      "full_name": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "description": "The Rust Programming Language",
+      "language": "Rust",
+      "stars": "16558",
+      "forks": "3750",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nushell",
+      "name": "nushell",
+      "full_name": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "stars": "36184",
+      "forks": "1914",
+      "today_stars": "14 stars today"
+    }
+  ]
+}
