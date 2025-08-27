@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-27 01:09:30",
+  "repositories": [
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "9359",
+      "forks": "676",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "kedacore",
+      "name": "keda",
+      "full_name": "kedacore/keda",
+      "url": "https://github.com/kedacore/keda",
+      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "language": "Go",
+      "stars": "9392",
+      "forks": "1213",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25072",
+      "forks": "1667",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5719",
+      "forks": "1712",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2842",
+      "forks": "280",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20461",
+      "forks": "6323",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "full_name": "google/pprof",
+      "url": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": "8694",
+      "forks": "634",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10601",
+      "forks": "1456",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "full_name": "vitessio/vitess",
+      "url": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": "20038",
+      "forks": "2239",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18909",
+      "forks": "1379",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-go",
+      "full_name": "testcontainers/testcontainers-go",
+      "url": "https://github.com/testcontainers/testcontainers-go",
+      "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+      "language": "Go",
+      "stars": "4294",
+      "forks": "567",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "kopia",
+      "name": "kopia",
+      "full_name": "kopia/kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "stars": "10970",
+      "forks": "532",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "gdy666",
+      "name": "lucky",
+      "full_name": "gdy666/lucky",
+      "url": "https://github.com/gdy666/lucky",
+      "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser",
+      "language": "Go",
+      "stars": "6297",
+      "forks": "588",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "openbao",
+      "name": "openbao",
+      "full_name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": "4389",
+      "forks": "247",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "mimir",
+      "full_name": "grafana/mimir",
+      "url": "https://github.com/grafana/mimir",
+      "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+      "language": "Go",
+      "stars": "4638",
+      "forks": "634",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "26269",
+      "forks": "4942",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "karmada-io",
+      "name": "karmada",
+      "full_name": "karmada-io/karmada",
+      "url": "https://github.com/karmada-io/karmada",
+      "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+      "language": "Go",
+      "stars": "5008",
+      "forks": "993",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "k3s-io",
+      "name": "k3s",
+      "full_name": "k3s-io/k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
+      "language": "Go",
+      "stars": "30604",
+      "forks": "2499",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "bytedance",
+      "name": "sonic",
+      "full_name": "bytedance/sonic",
+      "url": "https://github.com/bytedance/sonic",
+      "description": "A blazingly fast JSON serializing & deserializing library",
+      "language": "Go",
+      "stars": "8532",
+      "forks": "412",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12354",
+      "forks": "939",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22134",
+      "forks": "4551",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "juicedata",
+      "name": "juicefs",
+      "full_name": "juicedata/juicefs",
+      "url": "https://github.com/juicedata/juicefs",
+      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "language": "Go",
+      "stars": "12075",
+      "forks": "1070",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
