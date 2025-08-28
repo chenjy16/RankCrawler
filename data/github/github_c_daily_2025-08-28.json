@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-08-28 01:09:24",
+  "repositories": [
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21198",
+      "forks": "3799",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "86Box",
+      "name": "86Box",
+      "full_name": "86Box/86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "language": "C",
+      "stars": "3561",
+      "forks": "426",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16182",
+      "forks": "1931",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "timescale",
+      "name": "timescaledb",
+      "full_name": "timescale/timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "stars": "19989",
+      "forks": "968",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8444",
+      "forks": "3179",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6789",
+      "forks": "1327",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "12318",
+      "forks": "874",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6078",
+      "forks": "2746",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "14183",
+      "forks": "908",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3452",
+      "forks": "1338",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25721",
+      "forks": "3744",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "16113",
+      "forks": "7828",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29748",
+      "forks": "7880",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "documentdb",
+      "name": "documentdb",
+      "full_name": "documentdb/documentdb",
+      "url": "https://github.com/documentdb/documentdb",
+      "description": "MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.",
+      "language": "C",
+      "stars": "2210",
+      "forks": "124",
+      "today_stars": "114 stars today"
+    },
+    {
+      "author": "analogdevicesinc",
+      "name": "no-OS",
+      "full_name": "analogdevicesinc/no-OS",
+      "url": "https://github.com/analogdevicesinc/no-OS",
+      "description": "Software drivers in C for systems without an operating system",
+      "language": "C",
+      "stars": "1161",
+      "forks": "1739",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "stars": "13507",
+      "forks": "2329",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "spdk",
+      "name": "spdk",
+      "full_name": "spdk/spdk",
+      "url": "https://github.com/spdk/spdk",
+      "description": "Storage Performance Development Kit",
+      "language": "C",
+      "stars": "3329",
+      "forks": "1268",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "CodeWithHarry",
+      "name": "The-Ultimate-C-Programming-Course",
+      "full_name": "CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "url": "https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "description": "This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry",
+      "language": "C",
+      "stars": "840",
+      "forks": "270",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5519",
+      "forks": "1568",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AprilRobotics",
+      "name": "apriltag",
+      "full_name": "AprilRobotics/apriltag",
+      "url": "https://github.com/AprilRobotics/apriltag",
+      "description": "AprilTag is a visual fiducial system popular for robotics research.",
+      "language": "C",
+      "stars": "1892",
+      "forks": "594",
+      "today_stars": "1 star today"
+    }
+  ]
+}

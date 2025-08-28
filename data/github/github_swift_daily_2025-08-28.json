@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-08-28 01:11:04",
+  "repositories": [
+    {
+      "author": "onevcat",
+      "name": "Kingfisher",
+      "full_name": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "stars": "24010",
+      "forks": "2717",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7731",
+      "forks": "774",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Alamofire",
+      "name": "Alamofire",
+      "full_name": "Alamofire/Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "stars": "42064",
+      "forks": "7637",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25506",
+      "forks": "1495",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Swinject",
+      "name": "Swinject",
+      "full_name": "Swinject/Swinject",
+      "url": "https://github.com/Swinject/Swinject",
+      "description": "Dependency injection framework for Swift with iOS/macOS/Linux",
+      "language": "Swift",
+      "stars": "6610",
+      "forks": "542",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ReactiveX",
+      "name": "RxSwift",
+      "full_name": "ReactiveX/RxSwift",
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "description": "Reactive Programming in Swift",
+      "language": "Swift",
+      "stars": "24644",
+      "forks": "4186",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13848",
+      "forks": "1571",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6218",
+      "forks": "386",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "mrousavy",
+      "name": "react-native-vision-camera",
+      "full_name": "mrousavy/react-native-vision-camera",
+      "url": "https://github.com/mrousavy/react-native-vision-camera",
+      "description": "📸 A powerful, high-performance React Native Camera library.",
+      "language": "Swift",
+      "stars": "8756",
+      "forks": "1258",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "linearmouse",
+      "name": "linearmouse",
+      "full_name": "linearmouse/linearmouse",
+      "url": "https://github.com/linearmouse/linearmouse",
+      "description": "The mouse and trackpad utility for Mac.",
+      "language": "Swift",
+      "stars": "4840",
+      "forks": "90",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "signalapp",
+      "name": "Signal-iOS",
+      "full_name": "signalapp/Signal-iOS",
+      "url": "https://github.com/signalapp/Signal-iOS",
+      "description": "A private messenger for iOS.",
+      "language": "Swift",
+      "stars": "11504",
+      "forks": "3255",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7929",
+      "forks": "3644",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "4001",
+      "forks": "628",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "949",
+      "forks": "362",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-sdk-ios",
+      "full_name": "DataDog/dd-sdk-ios",
+      "url": "https://github.com/DataDog/dd-sdk-ios",
+      "description": "Datadog SDK for iOS - Swift and Objective-C.",
+      "language": "Swift",
+      "stars": "244",
+      "forks": "151",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27936",
+      "forks": "6043",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "SwifterSwift",
+      "name": "SwifterSwift",
+      "full_name": "SwifterSwift/SwifterSwift",
+      "url": "https://github.com/SwifterSwift/SwifterSwift",
+      "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+      "language": "Swift",
+      "stars": "14657",
+      "forks": "1663",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gonzalezreal",
+      "name": "swift-markdown-ui",
+      "full_name": "gonzalezreal/swift-markdown-ui",
+      "url": "https://github.com/gonzalezreal/swift-markdown-ui",
+      "description": "Display and customize Markdown text in SwiftUI",
+      "language": "Swift",
+      "stars": "3410",
+      "forks": "445",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "khcrysalis",
+      "name": "Feather",
+      "full_name": "khcrysalis/Feather",
+      "url": "https://github.com/khcrysalis/Feather",
+      "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
+      "language": "Swift",
+      "stars": "2697",
+      "forks": "214",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Moya",
+      "name": "Moya",
+      "full_name": "Moya/Moya",
+      "url": "https://github.com/Moya/Moya",
+      "description": "Network abstraction layer written in Swift.",
+      "language": "Swift",
+      "stars": "15325",
+      "forks": "2008",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3501",
+      "forks": "449",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19158",
+      "forks": "2262",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "lwouis",
+      "name": "alt-tab-macos",
+      "full_name": "lwouis/alt-tab-macos",
+      "url": "https://github.com/lwouis/alt-tab-macos",
+      "description": "Windows alt-tab on macOS",
+      "language": "Swift",
+      "stars": "13138",
+      "forks": "403",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
