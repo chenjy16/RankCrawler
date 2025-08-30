@@ -1,0 +1,282 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-08-30 01:05:25",
+  "repositories": [
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "17990",
+      "forks": "1625",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41700",
+      "forks": "2985",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25091",
+      "forks": "1671",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "10098",
+      "forks": "779",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13690",
+      "forks": "2388",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "60135",
+      "forks": "9745",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56318",
+      "forks": "5459",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46360",
+      "forks": "10005",
+      "today_stars": "95 stars today"
+    },
+    {
+      "author": "crossplane",
+      "name": "crossplane",
+      "full_name": "crossplane/crossplane",
+      "url": "https://github.com/crossplane/crossplane",
+      "description": "The Cloud Native Control Plane",
+      "language": "Go",
+      "stars": "10797",
+      "forks": "1066",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5739",
+      "forks": "1715",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14358",
+      "forks": "1341",
+      "today_stars": "363 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19198",
+      "forks": "3645",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "mostlygeek",
+      "name": "llama-swap",
+      "full_name": "mostlygeek/llama-swap",
+      "url": "https://github.com/mostlygeek/llama-swap",
+      "description": "Model swapping for llama.cpp (or any local OpenAI API compatible server)",
+      "language": "Go",
+      "stars": "1428",
+      "forks": "88",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "17708",
+      "forks": "1728",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "27525",
+      "forks": "1036",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "cloudnative-pg",
+      "name": "cloudnative-pg",
+      "full_name": "cloudnative-pg/cloudnative-pg",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+      "language": "Go",
+      "stars": "6714",
+      "forks": "503",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "client_golang",
+      "full_name": "prometheus/client_golang",
+      "url": "https://github.com/prometheus/client_golang",
+      "description": "Prometheus instrumentation library for Go applications",
+      "language": "Go",
+      "stars": "5769",
+      "forks": "1226",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "golang-jwt",
+      "name": "jwt",
+      "full_name": "golang-jwt/jwt",
+      "url": "https://github.com/golang-jwt/jwt",
+      "description": "Go implementation of JSON Web Tokens (JWT).",
+      "language": "Go",
+      "stars": "8439",
+      "forks": "405",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16665",
+      "forks": "3096",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "volcano-sh",
+      "name": "volcano",
+      "full_name": "volcano-sh/volcano",
+      "url": "https://github.com/volcano-sh/volcano",
+      "description": "A Cloud Native Batch System (Project under CNCF)",
+      "language": "Go",
+      "stars": "4904",
+      "forks": "1184",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "11195",
+      "forks": "545",
+      "today_stars": "162 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6169",
+      "forks": "3682",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": "12475",
+      "forks": "2527",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "testcontainers",
+      "name": "testcontainers-go",
+      "full_name": "testcontainers/testcontainers-go",
+      "url": "https://github.com/testcontainers/testcontainers-go",
+      "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+      "language": "Go",
+      "stars": "4311",
+      "forks": "569",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16138",
+      "forks": "5693",
+      "today_stars": "1 star today"
+    }
+  ]
+}
