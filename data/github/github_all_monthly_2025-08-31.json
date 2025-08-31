@@ -1,0 +1,161 @@
+{
+  "language": "all",
+  "period": "monthly",
+  "fetch_time": "2025-08-31 01:12:15",
+  "repositories": [
+    {
+      "author": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+      "language": "TypeScript",
+      "stars": "11228",
+      "forks": "1938",
+      "today_stars": "6,044 stars this month"
+    },
+    {
+      "author": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "Vue",
+      "stars": "11901",
+      "forks": "943",
+      "today_stars": "10,162 stars this month"
+    },
+    {
+      "author": "dyad-sh",
+      "name": "dyad",
+      "full_name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": "14179",
+      "forks": "1394",
+      "today_stars": "11,994 stars this month"
+    },
+    {
+      "author": "plait-board",
+      "name": "drawnix",
+      "full_name": "plait-board/drawnix",
+      "url": "https://github.com/plait-board/drawnix",
+      "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "language": "TypeScript",
+      "stars": "10024",
+      "forks": "730",
+      "today_stars": "6,886 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "11320",
+      "forks": "550",
+      "today_stars": "11,104 stars this month"
+    },
+    {
+      "author": "simstudioai",
+      "name": "sim",
+      "full_name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": "13163",
+      "forks": "1533",
+      "today_stars": "6,951 stars this month"
+    },
+    {
+      "author": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": "17376",
+      "forks": "2827",
+      "today_stars": "9,334 stars this month"
+    },
+    {
+      "author": "winapps-org",
+      "name": "winapps",
+      "full_name": "winapps-org/winapps",
+      "url": "https://github.com/winapps-org/winapps",
+      "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+      "language": "Shell",
+      "stars": "8189",
+      "forks": "246",
+      "today_stars": "4,947 stars this month"
+    },
+    {
+      "author": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "14798",
+      "forks": "1605",
+      "today_stars": "4,892 stars this month"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "37502",
+      "forks": "4317",
+      "today_stars": "6,070 stars this month"
+    },
+    {
+      "author": "oraios",
+      "name": "serena",
+      "full_name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)",
+      "language": "Python",
+      "stars": "10505",
+      "forks": "724",
+      "today_stars": "4,840 stars this month"
+    },
+    {
+      "author": "musistudio",
+      "name": "claude-code-router",
+      "full_name": "musistudio/claude-code-router",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+      "language": "TypeScript",
+      "stars": "15984",
+      "forks": "1197",
+      "today_stars": "7,211 stars this month"
+    },
+    {
+      "author": "9001",
+      "name": "copyparty",
+      "full_name": "9001/copyparty",
+      "url": "https://github.com/9001/copyparty",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+      "language": "Python",
+      "stars": "27910",
+      "forks": "1045",
+      "today_stars": "15,607 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "85805",
+      "forks": "12875",
+      "today_stars": "2,370 stars this month"
+    }
+  ]
+}

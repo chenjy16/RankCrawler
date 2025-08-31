@@ -1,0 +1,194 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-08-31 01:12:02",
+  "repositories": [
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "25684",
+      "forks": "3955",
+      "today_stars": "293 stars today"
+    },
+    {
+      "author": "inventree",
+      "name": "InvenTree",
+      "full_name": "inventree/InvenTree",
+      "url": "https://github.com/inventree/InvenTree",
+      "description": "Open Source Inventory Management System",
+      "language": "Python",
+      "stars": "5584",
+      "forks": "1048",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mcp",
+      "full_name": "microsoft/mcp",
+      "url": "https://github.com/microsoft/mcp",
+      "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+      "language": "C#",
+      "stars": "1500",
+      "forks": "127",
+      "today_stars": "755 stars today"
+    },
+    {
+      "author": "QuentinFuxa",
+      "name": "WhisperLiveKit",
+      "full_name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+      "language": "Python",
+      "stars": "3677",
+      "forks": "353",
+      "today_stars": "1,349 stars today"
+    },
+    {
+      "author": "activepieces",
+      "name": "activepieces",
+      "full_name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "language": "TypeScript",
+      "stars": "16652",
+      "forks": "2426",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "elixir-lang",
+      "name": "expert",
+      "full_name": "elixir-lang/expert",
+      "url": "https://github.com/elixir-lang/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
+      "language": "Elixir",
+      "stars": "1083",
+      "forks": "22",
+      "today_stars": "246 stars today"
+    },
+    {
+      "author": "laramies",
+      "name": "theHarvester",
+      "full_name": "laramies/theHarvester",
+      "url": "https://github.com/laramies/theHarvester",
+      "description": "E-mails, subdomains and names Harvester - OSINT",
+      "language": "Python",
+      "stars": "13536",
+      "forks": "2258",
+      "today_stars": "71 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46426",
+      "forks": "10010",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "dockur",
+      "name": "windows",
+      "full_name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": "38152",
+      "forks": "2858",
+      "today_stars": "624 stars today"
+    },
+    {
+      "author": "DevCaress",
+      "name": "guia-entrevistas-de-programacion",
+      "full_name": "DevCaress/guia-entrevistas-de-programacion",
+      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+      "description": "",
+      "language": null,
+      "stars": "5479",
+      "forks": "751",
+      "today_stars": "177 stars today"
+    },
+    {
+      "author": "bin456789",
+      "name": "reinstall",
+      "full_name": "bin456789/reinstall",
+      "url": "https://github.com/bin456789/reinstall",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+      "language": "Shell",
+      "stars": "6963",
+      "forks": "1166",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "29954",
+      "forks": "2056",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "Canner",
+      "name": "WrenAI",
+      "full_name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+      "language": "TypeScript",
+      "stars": "10995",
+      "forks": "1102",
+      "today_stars": "271 stars today"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "22752",
+      "forks": "1781",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "awesomedata",
+      "name": "awesome-public-datasets",
+      "full_name": "awesomedata/awesome-public-datasets",
+      "url": "https://github.com/awesomedata/awesome-public-datasets",
+      "description": "A topic-centric list of HQ open datasets.",
+      "language": null,
+      "stars": "64779",
+      "forks": "10265",
+      "today_stars": "125 stars today"
+    },
+    {
+      "author": "PathOfBuildingCommunity",
+      "name": "PathOfBuilding-PoE2",
+      "full_name": "PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "description": "",
+      "language": "Lua",
+      "stars": "1201",
+      "forks": "178",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "JetBrains",
+      "name": "koog",
+      "full_name": "JetBrains/koog",
+      "url": "https://github.com/JetBrains/koog",
+      "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+      "language": "Kotlin",
+      "stars": "1747",
+      "forks": "120",
+      "today_stars": "32 stars today"
+    }
+  ]
+}
