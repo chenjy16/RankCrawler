@@ -1,0 +1,238 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-09-02 01:12:05",
+  "repositories": [
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22881",
+      "forks": "5461",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "stars": "6557",
+      "forks": "195",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26861",
+      "forks": "4451",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "48938",
+      "forks": "7290",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13138",
+      "forks": "622",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "antiwork",
+      "name": "gumroad",
+      "full_name": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "Sell stuff and see what sticks",
+      "language": "Ruby",
+      "stars": "6918",
+      "forks": "1225",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "44957",
+      "forks": "8637",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50580",
+      "forks": "10177",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "kilimchoi",
+      "name": "engineering-blogs",
+      "full_name": "kilimchoi/engineering-blogs",
+      "url": "https://github.com/kilimchoi/engineering-blogs",
+      "description": "A curated list of engineering blogs",
+      "language": "Ruby",
+      "stars": "35578",
+      "forks": "1860",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44693",
+      "forks": "10468",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "36258",
+      "forks": "14475",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "antiwork",
+      "name": "flexile",
+      "full_name": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments",
+      "language": "Ruby",
+      "stars": "719",
+      "forks": "310",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "gitlabhq",
+      "name": "gitlabhq",
+      "full_name": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": "24072",
+      "forks": "5765",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1034",
+      "forks": "220",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21521",
+      "forks": "11089",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ruby",
+      "full_name": "stripe/stripe-ruby",
+      "url": "https://github.com/stripe/stripe-ruby",
+      "description": "Ruby library for the Stripe API.",
+      "language": "Ruby",
+      "stars": "2042",
+      "forks": "582",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "TheOdinProject",
+      "name": "theodinproject",
+      "full_name": "TheOdinProject/theodinproject",
+      "url": "https://github.com/TheOdinProject/theodinproject",
+      "description": "Main Website for The Odin Project",
+      "language": "Ruby",
+      "stars": "4132",
+      "forks": "2114",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "tailwindcss-rails",
+      "full_name": "rails/tailwindcss-rails",
+      "url": "https://github.com/rails/tailwindcss-rails",
+      "description": "",
+      "language": "Ruby",
+      "stars": "1532",
+      "forks": "187",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "redmine",
+      "name": "redmine",
+      "full_name": "redmine/redmine",
+      "url": "https://github.com/redmine/redmine",
+      "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
+      "language": "Ruby",
+      "stars": "5721",
+      "forks": "2389",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "net-pop",
+      "full_name": "ruby/net-pop",
+      "url": "https://github.com/ruby/net-pop",
+      "description": "This library provides functionality for retrieving email via POP3, the Post Office Protocol version 3. For details of POP3",
+      "language": "Ruby",
+      "stars": "21",
+      "forks": "14",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14864",
+      "forks": "5128",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-02 01:09:50",
+  "repositories": [
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "30977",
+      "forks": "4542",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6186",
+      "forks": "3693",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22827",
+      "forks": "4498",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "expr-lang",
+      "name": "expr",
+      "full_name": "expr-lang/expr",
+      "url": "https://github.com/expr-lang/expr",
+      "description": "Expression language and expression evaluation for Go",
+      "language": "Go",
+      "stars": "7172",
+      "forks": "454",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "4855",
+      "forks": "799",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "navidrome",
+      "name": "navidrome",
+      "full_name": "navidrome/navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧☁️ Your Personal Streaming Service",
+      "language": "Go",
+      "stars": "16249",
+      "forks": "1161",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "seaweedfs",
+      "name": "seaweedfs",
+      "full_name": "seaweedfs/seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+      "language": "Go",
+      "stars": "25671",
+      "forks": "2457",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "BishopFox",
+      "name": "sliver",
+      "full_name": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
+      "language": "Go",
+      "stars": "9913",
+      "forks": "1355",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46479",
+      "forks": "10011",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "qichiyuhub",
+      "name": "rule",
+      "full_name": "qichiyuhub/rule",
+      "url": "https://github.com/qichiyuhub/rule",
+      "description": "Clash、Sing-box、等分流规则",
+      "language": "Go",
+      "stars": "769",
+      "forks": "734",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83198",
+      "forks": "7991",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "151384",
+      "forks": "12986",
+      "today_stars": "98 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75786",
+      "forks": "4745",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "11586",
+      "forks": "565",
+      "today_stars": "139 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49689",
+      "forks": "21185",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16679",
+      "forks": "3098",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "full_name": "coredns/coredns",
+      "url": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": "13307",
+      "forks": "2296",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "31501",
+      "forks": "1724",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "full_name": "quii/learn-go-with-tests",
+      "url": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": "23109",
+      "forks": "2898",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "22110",
+      "forks": "2409",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "glanceapp",
+      "name": "glance",
+      "full_name": "glanceapp/glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "27649",
+      "forks": "1038",
+      "today_stars": "36 stars today"
+    }
+  ]
+}

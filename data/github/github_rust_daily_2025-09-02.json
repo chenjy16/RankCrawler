@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-02 01:10:10",
+  "repositories": [
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "26206",
+      "forks": "3985",
+      "today_stars": "188 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "41626",
+      "forks": "4086",
+      "today_stars": "235 stars today"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "31199",
+      "forks": "1856",
+      "today_stars": "314 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "10802",
+      "forks": "405",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1511",
+      "forks": "271",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "37846",
+      "forks": "4372",
+      "today_stars": "182 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "tfhe-rs",
+      "full_name": "zama-ai/tfhe-rs",
+      "url": "https://github.com/zama-ai/tfhe-rs",
+      "description": "TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.",
+      "language": "Rust",
+      "stars": "1378",
+      "forks": "245",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "qarmin",
+      "name": "czkawka",
+      "full_name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": "25845",
+      "forks": "808",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "16919",
+      "forks": "672",
+      "today_stars": "114 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "30227",
+      "forks": "1046",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "5595",
+      "forks": "254",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "gleam-lang",
+      "name": "gleam",
+      "full_name": "gleam-lang/gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "stars": "20175",
+      "forks": "859",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "librespot-org",
+      "name": "librespot",
+      "full_name": "librespot-org/librespot",
+      "url": "https://github.com/librespot-org/librespot",
+      "description": "Open Source Spotify client library",
+      "language": "Rust",
+      "stars": "5572",
+      "forks": "729",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "get-convex",
+      "name": "convex-backend",
+      "full_name": "get-convex/convex-backend",
+      "url": "https://github.com/get-convex/convex-backend",
+      "description": "The open-source reactive database for app developers",
+      "language": "Rust",
+      "stars": "6993",
+      "forks": "370",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars": "48595",
+      "forks": "2281",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "19726",
+      "forks": "698",
+      "today_stars": "119 stars today"
+    },
+    {
+      "author": "0xPlaygrounds",
+      "name": "rig",
+      "full_name": "0xPlaygrounds/rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "stars": "4334",
+      "forks": "470",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2524",
+      "forks": "202",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "full_name": "solana-labs/solana",
+      "url": "https://github.com/solana-labs/solana",
+      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "language": "Rust",
+      "stars": "14358",
+      "forks": "5136",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "29451",
+      "forks": "2740",
+      "today_stars": "12 stars today"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-02 01:10:48",
+  "repositories": [
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "66559",
+      "forks": "8657",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "CodeWithHarry",
+      "name": "The-Ultimate-C-Programming-Course",
+      "full_name": "CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "url": "https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "description": "This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry",
+      "language": "C",
+      "stars": "860",
+      "forks": "273",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23500",
+      "forks": "11504",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11933",
+      "forks": "3352",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30960",
+      "forks": "19562",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19546",
+      "forks": "42453",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23591",
+      "forks": "4960",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "espeak-ng",
+      "name": "espeak-ng",
+      "full_name": "espeak-ng/espeak-ng",
+      "url": "https://github.com/espeak-ng/espeak-ng",
+      "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+      "language": "C",
+      "stars": "5490",
+      "forks": "1093",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3469",
+      "forks": "739",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "veracrypt",
+      "name": "VeraCrypt",
+      "full_name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "8296",
+      "forks": "1069",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "stars": "13548",
+      "forks": "2335",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "olikraus",
+      "name": "u8g2",
+      "full_name": "olikraus/u8g2",
+      "url": "https://github.com/olikraus/u8g2",
+      "description": "U8glib library for monochrome displays, version 2",
+      "language": "C",
+      "stars": "5910",
+      "forks": "1143",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "11292",
+      "forks": "1222",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31896",
+      "forks": "3110",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "16147",
+      "forks": "7834",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "27110",
+      "forks": "2035",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "lizongying",
+      "name": "my-tv",
+      "full_name": "lizongying/my-tv",
+      "url": "https://github.com/lizongying/my-tv",
+      "description": "我的电视 电视直播软件，安装即可使用",
+      "language": "C",
+      "stars": "32154",
+      "forks": "3602",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "screetsec",
+      "name": "TheFatRat",
+      "full_name": "screetsec/TheFatRat",
+      "url": "https://github.com/screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+      "language": "C",
+      "stars": "10511",
+      "forks": "2415",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "full_name": "radareorg/radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": "22184",
+      "forks": "3108",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nuta",
+      "name": "operating-system-in-1000-lines",
+      "full_name": "nuta/operating-system-in-1000-lines",
+      "url": "https://github.com/nuta/operating-system-in-1000-lines",
+      "description": "Writing an OS in 1,000 lines.",
+      "language": "C",
+      "stars": "2762",
+      "forks": "213",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8723",
+      "forks": "578",
+      "today_stars": "6 stars today"
+    }
+  ]
+}
