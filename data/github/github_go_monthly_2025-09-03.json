@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-09-03 01:06:06",
+  "repositories": [
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "11699",
+      "forks": "575",
+      "today_stars": "6,342 stars this month"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5755",
+      "forks": "1062",
+      "today_stars": "508 stars this month"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "151461",
+      "forks": "13001",
+      "today_stars": "3,455 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75822",
+      "forks": "4747",
+      "today_stars": "1,911 stars this month"
+    },
+    {
+      "author": "openai",
+      "name": "openai-go",
+      "full_name": "openai/openai-go",
+      "url": "https://github.com/openai/openai-go",
+      "description": "The official Go library for the OpenAI API",
+      "language": "Go",
+      "stars": "2416",
+      "forks": "198",
+      "today_stars": "297 stars this month"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "98195",
+      "forks": "14407",
+      "today_stars": "1,504 stars this month"
+    },
+    {
+      "author": "steveiliop56",
+      "name": "tinyauth",
+      "full_name": "steveiliop56/tinyauth",
+      "url": "https://github.com/steveiliop56/tinyauth",
+      "description": "The simplest way to protect your apps with a login screen.",
+      "language": "Go",
+      "stars": "5274",
+      "forks": "151",
+      "today_stars": "1,775 stars this month"
+    },
+    {
+      "author": "dstotijn",
+      "name": "hetty",
+      "full_name": "dstotijn/hetty",
+      "url": "https://github.com/dstotijn/hetty",
+      "description": "An HTTP toolkit for security research.",
+      "language": "Go",
+      "stars": "8161",
+      "forks": "444",
+      "today_stars": "892 stars this month"
+    },
+    {
+      "author": "RezaSi",
+      "name": "go-interview-practice",
+      "full_name": "RezaSi/go-interview-practice",
+      "url": "https://github.com/RezaSi/go-interview-practice",
+      "description": "Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-world scenarios.",
+      "language": "Go",
+      "stars": "1152",
+      "forks": "530",
+      "today_stars": "444 stars this month"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "64301",
+      "forks": "2217",
+      "today_stars": "1,871 stars this month"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2925",
+      "forks": "279",
+      "today_stars": "515 stars this month"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "34882",
+      "forks": "983",
+      "today_stars": "1,108 stars this month"
+    },
+    {
+      "author": "gotify",
+      "name": "server",
+      "full_name": "gotify/server",
+      "url": "https://github.com/gotify/server",
+      "description": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+      "language": "Go",
+      "stars": "13653",
+      "forks": "752",
+      "today_stars": "543 stars this month"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21474",
+      "forks": "2495",
+      "today_stars": "348 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18088",
+      "forks": "1634",
+      "today_stars": "491 stars this month"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18910",
+      "forks": "8713",
+      "today_stars": "289 stars this month"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23334",
+      "forks": "1006",
+      "today_stars": "541 stars this month"
+    },
+    {
+      "author": "sundowndev",
+      "name": "phoneinfoga",
+      "full_name": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": "14974",
+      "forks": "4325",
+      "today_stars": "276 stars this month"
+    },
+    {
+      "author": "rclone",
+      "name": "rclone",
+      "full_name": "rclone/rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": "52373",
+      "forks": "4665",
+      "today_stars": "650 stars this month"
+    },
+    {
+      "author": "gdy666",
+      "name": "lucky",
+      "full_name": "gdy666/lucky",
+      "url": "https://github.com/gdy666/lucky",
+      "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser",
+      "language": "Go",
+      "stars": "6368",
+      "forks": "592",
+      "today_stars": "269 stars this month"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14426",
+      "forks": "1353",
+      "today_stars": "832 stars this month"
+    },
+    {
+      "author": "ArvinLovegood",
+      "name": "go-stock",
+      "full_name": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "stars": "2412",
+      "forks": "401",
+      "today_stars": "284 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-03 01:06:00",
+  "repositories": [
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1356",
+      "forks": "53",
+      "today_stars": "298 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "10167",
+      "forks": "784",
+      "today_stars": "492 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56416",
+      "forks": "5467",
+      "today_stars": "208 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41767",
+      "forks": "2988",
+      "today_stars": "220 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2055",
+      "forks": "101",
+      "today_stars": "297 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18088",
+      "forks": "1634",
+      "today_stars": "228 stars this week"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25110",
+      "forks": "1673",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "3663",
+      "forks": "211",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83225",
+      "forks": "7996",
+      "today_stars": "172 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13717",
+      "forks": "2388",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46486",
+      "forks": "10011",
+      "today_stars": "283 stars this week"
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "full_name": "99designs/gqlgen",
+      "url": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": "10463",
+      "forks": "1222",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14426",
+      "forks": "1353",
+      "today_stars": "487 stars this week"
+    },
+    {
+      "author": "nektos",
+      "name": "act",
+      "full_name": "nektos/act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "stars": "65507",
+      "forks": "1725",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26318",
+      "forks": "3090",
+      "today_stars": "215 stars this week"
+    },
+    {
+      "author": "thanos-io",
+      "name": "thanos",
+      "full_name": "thanos-io/thanos",
+      "url": "https://github.com/thanos-io/thanos",
+      "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+      "language": "Go",
+      "stars": "13686",
+      "forks": "2199",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "9453",
+      "forks": "682",
+      "today_stars": "106 stars this week"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "26350",
+      "forks": "4948",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19213",
+      "forks": "3650",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "8639",
+      "forks": "705",
+      "today_stars": "53 stars this week"
+    },
+    {
+      "author": "ArvinLovegood",
+      "name": "go-stock",
+      "full_name": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "stars": "2412",
+      "forks": "401",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17301",
+      "forks": "1505",
+      "today_stars": "55 stars this week"
+    }
+  ]
+}
