@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-04 01:05:47",
+  "repositories": [
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1377",
+      "forks": "54",
+      "today_stars": "308 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2155",
+      "forks": "103",
+      "today_stars": "428 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18101",
+      "forks": "1634",
+      "today_stars": "228 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41776",
+      "forks": "2989",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83250",
+      "forks": "7999",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56447",
+      "forks": "5469",
+      "today_stars": "221 stars this week"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25114",
+      "forks": "1672",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "10191",
+      "forks": "791",
+      "today_stars": "377 stars this week"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "3672",
+      "forks": "212",
+      "today_stars": "82 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14437",
+      "forks": "1356",
+      "today_stars": "485 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13722",
+      "forks": "2388",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "fatedier",
+      "name": "frp",
+      "full_name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "stars": "98224",
+      "forks": "14414",
+      "today_stars": "337 stars this week"
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cli",
+      "full_name": "cloudfoundry/cli",
+      "url": "https://github.com/cloudfoundry/cli",
+      "description": "The official command line client for Cloud Foundry",
+      "language": "Go",
+      "stars": "1827",
+      "forks": "971",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19214",
+      "forks": "3652",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "0xJacky",
+      "name": "nginx-ui",
+      "full_name": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "stars": "9464",
+      "forks": "683",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1542",
+      "forks": "159",
+      "today_stars": "461 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "31001",
+      "forks": "4547",
+      "today_stars": "162 stars this week"
+    },
+    {
+      "author": "ltaoo",
+      "name": "wx_channels_download",
+      "full_name": "ltaoo/wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "language": "Go",
+      "stars": "2891",
+      "forks": "412",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46495",
+      "forks": "10012",
+      "today_stars": "285 stars this week"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4180",
+      "forks": "449",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37568",
+      "forks": "1855",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "BishopFox",
+      "name": "sliver",
+      "full_name": "BishopFox/sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
+      "language": "Go",
+      "stars": "9934",
+      "forks": "1354",
+      "today_stars": "56 stars this week"
+    }
+  ]
+}

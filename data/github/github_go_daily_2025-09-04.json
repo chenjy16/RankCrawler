@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-04 01:05:41",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28214",
+      "forks": "2703",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2155",
+      "forks": "103",
+      "today_stars": "177 stars today"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1542",
+      "forks": "159",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29911",
+      "forks": "1462",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14907",
+      "forks": "1451",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24630",
+      "forks": "2873",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4180",
+      "forks": "449",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "75854",
+      "forks": "4748",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "amitshekhariitbhu",
+      "name": "go-backend-clean-architecture",
+      "full_name": "amitshekhariitbhu/go-backend-clean-architecture",
+      "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+      "description": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+      "language": "Go",
+      "stars": "5504",
+      "forks": "585",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "tmc",
+      "name": "langchaingo",
+      "full_name": "tmc/langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+      "language": "Go",
+      "stars": "7538",
+      "forks": "936",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "14917",
+      "forks": "376",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "drakkan",
+      "name": "sftpgo",
+      "full_name": "drakkan/sftpgo",
+      "url": "https://github.com/drakkan/sftpgo",
+      "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+      "language": "Go",
+      "stars": "10964",
+      "forks": "853",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "full_name": "coredns/coredns",
+      "url": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": "13319",
+      "forks": "2298",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "google",
+      "name": "pprof",
+      "full_name": "google/pprof",
+      "url": "https://github.com/google/pprof",
+      "description": "pprof is a tool for visualization and analysis of profiling data",
+      "language": "Go",
+      "stars": "8721",
+      "forks": "635",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "quii",
+      "name": "learn-go-with-tests",
+      "full_name": "quii/learn-go-with-tests",
+      "url": "https://github.com/quii/learn-go-with-tests",
+      "description": "Learn Go with test-driven development",
+      "language": "Go",
+      "stars": "23127",
+      "forks": "2902",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "full_name": "gravitational/teleport",
+      "url": "https://github.com/gravitational/teleport",
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "language": "Go",
+      "stars": "19097",
+      "forks": "1915",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11933",
+      "forks": "1783",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70600",
+      "forks": "18800",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "16251",
+      "forks": "1938",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11367",
+      "forks": "1568",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10563",
+      "forks": "682",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3889",
+      "forks": "2985",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7551",
+      "forks": "970",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

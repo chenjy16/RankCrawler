@@ -1,0 +1,172 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-09-04 01:04:43",
+  "repositories": [
+    {
+      "author": "oraios",
+      "name": "serena",
+      "full_name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
+      "language": "Python",
+      "stars": "11198",
+      "forks": "787",
+      "today_stars": "229 stars today"
+    },
+    {
+      "author": "HKUDS",
+      "name": "DeepCode",
+      "full_name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": "5369",
+      "forks": "660",
+      "today_stars": "160 stars today"
+    },
+    {
+      "author": "crewAIInc",
+      "name": "crewAI",
+      "full_name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "language": "Python",
+      "stars": "37416",
+      "forks": "4943",
+      "today_stars": "804 stars today"
+    },
+    {
+      "author": "murtaza-nasir",
+      "name": "maestro",
+      "full_name": "murtaza-nasir/maestro",
+      "url": "https://github.com/murtaza-nasir/maestro",
+      "description": "MAESTRO is an AI-powered research application designed to streamline complex research tasks.",
+      "language": "Python",
+      "stars": "1137",
+      "forks": "98",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "QwenLM",
+      "name": "Qwen3",
+      "full_name": "QwenLM/Qwen3",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+      "language": "Python",
+      "stars": "24358",
+      "forks": "1686",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "Megatron-LM",
+      "full_name": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "language": "Python",
+      "stars": "13445",
+      "forks": "3054",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "stars": "7395",
+      "forks": "1233",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "lllyasviel",
+      "name": "Fooocus",
+      "full_name": "lllyasviel/Fooocus",
+      "url": "https://github.com/lllyasviel/Fooocus",
+      "description": "Focus on prompting and generating",
+      "language": "Python",
+      "stars": "46343",
+      "forks": "7429",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "rStar",
+      "full_name": "microsoft/rStar",
+      "url": "https://github.com/microsoft/rStar",
+      "description": "",
+      "language": "Python",
+      "stars": "953",
+      "forks": "87",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "resemble-ai",
+      "name": "chatterbox",
+      "full_name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars": "11662",
+      "forks": "1448",
+      "today_stars": "283 stars today"
+    },
+    {
+      "author": "denizsafak",
+      "name": "abogen",
+      "full_name": "denizsafak/abogen",
+      "url": "https://github.com/denizsafak/abogen",
+      "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+      "language": "Python",
+      "stars": "3441",
+      "forks": "175",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "huggingface",
+      "name": "diffusers",
+      "full_name": "huggingface/diffusers",
+      "url": "https://github.com/huggingface/diffusers",
+      "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+      "language": "Python",
+      "stars": "30590",
+      "forks": "6284",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "JefferyHcool",
+      "name": "BiliNote",
+      "full_name": "JefferyHcool/BiliNote",
+      "url": "https://github.com/JefferyHcool/BiliNote",
+      "description": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
+      "language": "Python",
+      "stars": "3477",
+      "forks": "392",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+      "language": "Python",
+      "stars": "53311",
+      "forks": "8574",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "Python",
+      "stars": "4039",
+      "forks": "415",
+      "today_stars": "32 stars today"
+    }
+  ]
+}

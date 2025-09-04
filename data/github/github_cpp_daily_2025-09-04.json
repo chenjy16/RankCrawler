@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-04 01:07:00",
+  "repositories": [
+    {
+      "author": "justcallmekoko",
+      "name": "ESP32Marauder",
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "stars": "8380",
+      "forks": "924",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47071",
+      "forks": "7118",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "12970",
+      "forks": "2051",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19753",
+      "forks": "3138",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "full_name": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "stars": "16859",
+      "forks": "1328",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "zeromq",
+      "name": "libzmq",
+      "full_name": "zeromq/libzmq",
+      "url": "https://github.com/zeromq/libzmq",
+      "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+      "language": "C++",
+      "stars": "10483",
+      "forks": "2437",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "18211",
+      "forks": "3668",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "36995",
+      "forks": "10502",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "paullouisageneau",
+      "name": "libdatachannel",
+      "full_name": "paullouisageneau/libdatachannel",
+      "url": "https://github.com/paullouisageneau/libdatachannel",
+      "description": "C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets",
+      "language": "C++",
+      "stars": "2185",
+      "forks": "444",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "wxWidgets",
+      "name": "wxWidgets",
+      "full_name": "wxWidgets/wxWidgets",
+      "url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "language": "C++",
+      "stars": "6778",
+      "forks": "1836",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "15444",
+      "forks": "6145",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "dusty-nv",
+      "name": "jetson-inference",
+      "full_name": "dusty-nv/jetson-inference",
+      "url": "https://github.com/dusty-nv/jetson-inference",
+      "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+      "language": "C++",
+      "stars": "8489",
+      "forks": "3072",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9699",
+      "forks": "1699",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5660",
+      "forks": "506",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "dmlc",
+      "name": "xgboost",
+      "full_name": "dmlc/xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": "27312",
+      "forks": "8798",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "cyberbotics",
+      "name": "webots",
+      "full_name": "cyberbotics/webots",
+      "url": "https://github.com/cyberbotics/webots",
+      "description": "Webots Robot Simulator",
+      "language": "C++",
+      "stars": "3758",
+      "forks": "1881",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "42669",
+      "forks": "7614",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "CloudCompare",
+      "name": "CloudCompare",
+      "full_name": "CloudCompare/CloudCompare",
+      "url": "https://github.com/CloudCompare/CloudCompare",
+      "description": "CloudCompare main repository",
+      "language": "C++",
+      "stars": "4096",
+      "forks": "1108",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17213",
+      "forks": "2213",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4543",
+      "forks": "571",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "32506",
+      "forks": "2552",
+      "today_stars": "33 stars today"
+    }
+  ]
+}

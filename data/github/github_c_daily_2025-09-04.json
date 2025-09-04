@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-04 01:06:40",
+  "repositories": [
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2463",
+      "forks": "620",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "full_name": "cfenollosa/os-tutorial",
+      "url": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": "28746",
+      "forks": "3435",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38709",
+      "forks": "6842",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "12011",
+      "forks": "5243",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13029",
+      "forks": "7860",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "6086",
+      "forks": "898",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21260",
+      "forks": "3806",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "libarchive",
+      "name": "libarchive",
+      "full_name": "libarchive/libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "stars": "3301",
+      "forks": "826",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openwall",
+      "name": "john",
+      "full_name": "openwall/john",
+      "url": "https://github.com/openwall/john",
+      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+      "language": "C",
+      "stars": "11868",
+      "forks": "2319",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "confluentinc",
+      "name": "librdkafka",
+      "full_name": "confluentinc/librdkafka",
+      "url": "https://github.com/confluentinc/librdkafka",
+      "description": "The Apache Kafka C/C++ library",
+      "language": "C",
+      "stars": "762",
+      "forks": "3219",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4863",
+      "forks": "943",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8480",
+      "forks": "3248",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6352",
+      "forks": "2608",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "vedderb",
+      "name": "bldc",
+      "full_name": "vedderb/bldc",
+      "url": "https://github.com/vedderb/bldc",
+      "description": "The VESC motor control firmware",
+      "language": "C",
+      "stars": "2617",
+      "forks": "1529",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "tianocore",
+      "name": "edk2",
+      "full_name": "tianocore/edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "stars": "5371",
+      "forks": "2854",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39419",
+      "forks": "7931",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tvheadend",
+      "name": "tvheadend",
+      "full_name": "tvheadend/tvheadend",
+      "url": "https://github.com/tvheadend/tvheadend",
+      "description": "Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources",
+      "language": "C",
+      "stars": "3167",
+      "forks": "939",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "sqlcipher",
+      "name": "sqlcipher",
+      "full_name": "sqlcipher/sqlcipher",
+      "url": "https://github.com/sqlcipher/sqlcipher",
+      "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
+      "language": "C",
+      "stars": "6800",
+      "forks": "1327",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "332",
+      "forks": "697",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-projects",
+      "full_name": "remzi-arpacidusseau/ostep-projects",
+      "url": "https://github.com/remzi-arpacidusseau/ostep-projects",
+      "description": "Projects for an undergraduate OS course",
+      "language": "C",
+      "stars": "5083",
+      "forks": "1400",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "HandBrake",
+      "name": "HandBrake",
+      "full_name": "HandBrake/HandBrake",
+      "url": "https://github.com/HandBrake/HandBrake",
+      "description": "HandBrake's main development repository",
+      "language": "C",
+      "stars": "20607",
+      "forks": "1496",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25576",
+      "forks": "2306",
+      "today_stars": "9 stars today"
+    }
+  ]
+}
