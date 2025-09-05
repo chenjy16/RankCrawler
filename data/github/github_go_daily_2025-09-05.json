@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-05 01:07:17",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28367",
+      "forks": "2712",
+      "today_stars": "175 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20565",
+      "forks": "1975",
+      "today_stars": "53 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50429",
+      "forks": "2612",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": "22372",
+      "forks": "3387",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16165",
+      "forks": "5697",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "sigstore",
+      "name": "cosign",
+      "full_name": "sigstore/cosign",
+      "url": "https://github.com/sigstore/cosign",
+      "description": "Code signing and transparency for containers and binaries",
+      "language": "Go",
+      "stars": "5192",
+      "forks": "620",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2186",
+      "forks": "102",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10376",
+      "forks": "1531",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4189",
+      "forks": "452",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "grype",
+      "full_name": "anchore/grype",
+      "url": "https://github.com/anchore/grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "stars": "10578",
+      "forks": "682",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3898",
+      "forks": "2991",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29930",
+      "forks": "1464",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38819",
+      "forks": "4095",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "full_name": "dexidp/dex",
+      "url": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+      "language": "Go",
+      "stars": "10112",
+      "forks": "1831",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "wavetermdev",
+      "name": "waveterm",
+      "full_name": "wavetermdev/waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "stars": "11157",
+      "forks": "442",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-go-v2",
+      "full_name": "aws/aws-sdk-go-v2",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "description": "AWS SDK for the Go programming language.",
+      "language": "Go",
+      "stars": "3243",
+      "forks": "711",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+      "language": "Go",
+      "stars": "35038",
+      "forks": "2734",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29276",
+      "forks": "4512",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117272",
+      "forks": "41291",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3225",
+      "forks": "1324",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "2073",
+      "forks": "364",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "33060",
+      "forks": "4428",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "coreybutler",
+      "name": "nvm-windows",
+      "full_name": "coreybutler/nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "stars": "42688",
+      "forks": "3598",
+      "today_stars": "21 stars today"
+    }
+  ]
+}

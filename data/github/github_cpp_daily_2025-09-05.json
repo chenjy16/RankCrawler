@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-05 01:08:35",
+  "repositories": [
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15904",
+      "forks": "3845",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "or-tools",
+      "full_name": "google/or-tools",
+      "url": "https://github.com/google/or-tools",
+      "description": "Google's Operations Research tools:",
+      "language": "C++",
+      "stars": "12437",
+      "forks": "2269",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68953",
+      "forks": "15851",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123670",
+      "forks": "24837",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "12110",
+      "forks": "2245",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191486",
+      "forks": "74815",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8369",
+      "forks": "1421",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47084",
+      "forks": "7119",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "nixl",
+      "full_name": "ai-dynamo/nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "language": "C++",
+      "stars": "589",
+      "forks": "134",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43593",
+      "forks": "10880",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "MAZHARMIK",
+      "name": "Interview_DS_Algo",
+      "full_name": "MAZHARMIK/Interview_DS_Algo",
+      "url": "https://github.com/MAZHARMIK/Interview_DS_Algo",
+      "description": "Super Repository for Coding Interview Preperation",
+      "language": "C++",
+      "stars": "3216",
+      "forks": "1549",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19757",
+      "forks": "3138",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17222",
+      "forks": "2214",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "4006",
+      "forks": "1004",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "11510",
+      "forks": "1717",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "42696",
+      "forks": "7618",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "83818",
+      "forks": "56270",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3094",
+      "forks": "199",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17752",
+      "forks": "3427",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "11746",
+      "forks": "3200",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.",
+      "language": "C++",
+      "stars": "749",
+      "forks": "109",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dusty-nv",
+      "name": "jetson-inference",
+      "full_name": "dusty-nv/jetson-inference",
+      "url": "https://github.com/dusty-nv/jetson-inference",
+      "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+      "language": "C++",
+      "stars": "8496",
+      "forks": "3072",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "36928",
+      "forks": "4018",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "70",
+      "forks": "28",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

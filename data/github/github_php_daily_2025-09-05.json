@@ -1,0 +1,260 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-09-05 01:09:14",
+  "repositories": [
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21702",
+      "forks": "9845",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30524",
+      "forks": "9687",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "composer",
+      "name": "composer",
+      "full_name": "composer/composer",
+      "url": "https://github.com/composer/composer",
+      "description": "Dependency Manager for PHP",
+      "language": "PHP",
+      "stars": "29104",
+      "forks": "4681",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "invoiceninja",
+      "name": "invoiceninja",
+      "full_name": "invoiceninja/invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "stars": "9107",
+      "forks": "2448",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "34040",
+      "forks": "11529",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+      "language": "PHP",
+      "stars": "26264",
+      "forks": "3755",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "FOSSBilling",
+      "name": "FOSSBilling",
+      "full_name": "FOSSBilling/FOSSBilling",
+      "url": "https://github.com/FOSSBilling/FOSSBilling",
+      "description": "Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.",
+      "language": "PHP",
+      "stars": "1141",
+      "forks": "246",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mautic",
+      "name": "mautic",
+      "full_name": "mautic/mautic",
+      "url": "https://github.com/mautic/mautic",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "language": "PHP",
+      "stars": "8610",
+      "forks": "2982",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "krayin",
+      "name": "laravel-crm",
+      "full_name": "krayin/laravel-crm",
+      "url": "https://github.com/krayin/laravel-crm",
+      "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+      "language": "PHP",
+      "stars": "17203",
+      "forks": "1166",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "MISP",
+      "name": "MISP",
+      "full_name": "MISP/MISP",
+      "url": "https://github.com/MISP/MISP",
+      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+      "language": "PHP",
+      "stars": "5896",
+      "forks": "1496",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9906",
+      "forks": "728",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "openemr",
+      "name": "openemr",
+      "full_name": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "stars": "3658",
+      "forks": "2471",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pixelfed",
+      "name": "pixelfed",
+      "full_name": "pixelfed/pixelfed",
+      "url": "https://github.com/pixelfed/pixelfed",
+      "description": "Photo Sharing. For Everyone.",
+      "language": "PHP",
+      "stars": "6711",
+      "forks": "777",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "elementor",
+      "name": "elementor",
+      "full_name": "elementor/elementor",
+      "url": "https://github.com/elementor/elementor",
+      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "language": "PHP",
+      "stars": "6735",
+      "forks": "1477",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "3074",
+      "forks": "3056",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "roundcube",
+      "name": "roundcubemail",
+      "full_name": "roundcube/roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "stars": "6489",
+      "forks": "1696",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "30689",
+      "forks": "4418",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "HiEventsDev",
+      "name": "Hi.Events",
+      "full_name": "HiEventsDev/Hi.Events",
+      "url": "https://github.com/HiEventsDev/Hi.Events",
+      "description": "Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️",
+      "language": "PHP",
+      "stars": "3131",
+      "forks": "439",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "PHPCSStandards",
+      "name": "PHP_CodeSniffer",
+      "full_name": "PHPCSStandards/PHP_CodeSniffer",
+      "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer",
+      "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+      "language": "PHP",
+      "stars": "1331",
+      "forks": "82",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "magento",
+      "name": "magento2",
+      "full_name": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+      "language": "PHP",
+      "stars": "11912",
+      "forks": "9396",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Seldaek",
+      "name": "monolog",
+      "full_name": "Seldaek/monolog",
+      "url": "https://github.com/Seldaek/monolog",
+      "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+      "language": "PHP",
+      "stars": "21321",
+      "forks": "1906",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "zabbix",
+      "name": "zabbix",
+      "full_name": "zabbix/zabbix",
+      "url": "https://github.com/zabbix/zabbix",
+      "description": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+      "language": "PHP",
+      "stars": "5203",
+      "forks": "1096",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "firefly-iii",
+      "name": "firefly-iii",
+      "full_name": "firefly-iii/firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "stars": "20284",
+      "forks": "1858",
+      "today_stars": "24 stars today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-05 01:07:23",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2186",
+      "forks": "102",
+      "today_stars": "436 stars this week"
+    },
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1394",
+      "forks": "54",
+      "today_stars": "281 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18114",
+      "forks": "1635",
+      "today_stars": "218 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41788",
+      "forks": "2992",
+      "today_stars": "130 stars this week"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25118",
+      "forks": "1672",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "3680",
+      "forks": "212",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56475",
+      "forks": "5470",
+      "today_stars": "220 stars this week"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4189",
+      "forks": "452",
+      "today_stars": "88 stars this week"
+    },
+    {
+      "author": "cloudfoundry",
+      "name": "cli",
+      "full_name": "cloudfoundry/cli",
+      "url": "https://github.com/cloudfoundry/cli",
+      "description": "The official command line client for Cloud Foundry",
+      "language": "Go",
+      "stars": "1830",
+      "forks": "972",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83273",
+      "forks": "8000",
+      "today_stars": "175 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14448",
+      "forks": "1356",
+      "today_stars": "469 stars this week"
+    },
+    {
+      "author": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "stars": "26367",
+      "forks": "4950",
+      "today_stars": "87 stars this week"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1570",
+      "forks": "163",
+      "today_stars": "373 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28367",
+      "forks": "2712",
+      "today_stars": "259 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46508",
+      "forks": "10015",
+      "today_stars": "257 stars this week"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16689",
+      "forks": "3101",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "cel-go",
+      "full_name": "google/cel-go",
+      "url": "https://github.com/google/cel-go",
+      "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",
+      "language": "Go",
+      "stars": "2685",
+      "forks": "250",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "kgretzky",
+      "name": "evilginx2",
+      "full_name": "kgretzky/evilginx2",
+      "url": "https://github.com/kgretzky/evilginx2",
+      "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+      "language": "Go",
+      "stars": "13725",
+      "forks": "2388",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19221",
+      "forks": "3652",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "donknap",
+      "name": "dpanel",
+      "full_name": "donknap/dpanel",
+      "url": "https://github.com/donknap/dpanel",
+      "description": "轻量化 docker 可视化管理面板。lightweight panel for docker",
+      "language": "Go",
+      "stars": "3247",
+      "forks": "216",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "Velocidex",
+      "name": "velociraptor",
+      "full_name": "Velocidex/velociraptor",
+      "url": "https://github.com/Velocidex/velociraptor",
+      "description": "Digging Deeper....",
+      "language": "Go",
+      "stars": "3443",
+      "forks": "552",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "gogf",
+      "name": "gf",
+      "full_name": "gogf/gf",
+      "url": "https://github.com/gogf/gf",
+      "description": "A powerful framework for faster, easier, and more efficient project development.",
+      "language": "Go",
+      "stars": "12684",
+      "forks": "1708",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11372",
+      "forks": "1569",
+      "today_stars": "46 stars this week"
+    }
+  ]
+}
