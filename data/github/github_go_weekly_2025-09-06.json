@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-06 01:05:29",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28503",
+      "forks": "2724",
+      "today_stars": "383 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41799",
+      "forks": "2996",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2297",
+      "forks": "107",
+      "today_stars": "475 stars this week"
+    },
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1405",
+      "forks": "54",
+      "today_stars": "232 stars this week"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1598",
+      "forks": "165",
+      "today_stars": "360 stars this week"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4198",
+      "forks": "452",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29280",
+      "forks": "4512",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18129",
+      "forks": "1635",
+      "today_stars": "192 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50567",
+      "forks": "2619",
+      "today_stars": "410 stars this week"
+    },
+    {
+      "author": "sysadminsmedia",
+      "name": "homebox",
+      "full_name": "sysadminsmedia/homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "stars": "3688",
+      "forks": "212",
+      "today_stars": "67 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20782",
+      "forks": "1983",
+      "today_stars": "379 stars this week"
+    },
+    {
+      "author": "gogf",
+      "name": "gf",
+      "full_name": "gogf/gf",
+      "url": "https://github.com/gogf/gf",
+      "description": "A powerful framework for faster, easier, and more efficient project development.",
+      "language": "Go",
+      "stars": "12690",
+      "forks": "1708",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "8671",
+      "forks": "705",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14459",
+      "forks": "1356",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29949",
+      "forks": "1465",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14930",
+      "forks": "1454",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56502",
+      "forks": "5467",
+      "today_stars": "205 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "cel-go",
+      "full_name": "google/cel-go",
+      "url": "https://github.com/google/cel-go",
+      "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",
+      "language": "Go",
+      "stars": "2690",
+      "forks": "250",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22870",
+      "forks": "4512",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19226",
+      "forks": "3654",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83307",
+      "forks": "8001",
+      "today_stars": "181 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46508",
+      "forks": "10015",
+      "today_stars": "170 stars this week"
+    }
+  ]
+}

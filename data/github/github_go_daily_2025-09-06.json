@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-06 01:05:22",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28503",
+      "forks": "2724",
+      "today_stars": "148 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20782",
+      "forks": "1983",
+      "today_stars": "216 stars today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14930",
+      "forks": "1454",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50567",
+      "forks": "2619",
+      "today_stars": "228 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3908",
+      "forks": "2996",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "23147",
+      "forks": "1770",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "18398",
+      "forks": "861",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3871",
+      "forks": "741",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70614",
+      "forks": "18802",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "asdf-vm",
+      "name": "asdf",
+      "full_name": "asdf-vm/asdf",
+      "url": "https://github.com/asdf-vm/asdf",
+      "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+      "language": "Go",
+      "stars": "24210",
+      "forks": "890",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28429",
+      "forks": "7319",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10491",
+      "forks": "9696",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "9975",
+      "forks": "1185",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "prometheus",
+      "full_name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": "60238",
+      "forks": "9756",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24668",
+      "forks": "2876",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "50231",
+      "forks": "10169",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "semaphoreui",
+      "name": "semaphore",
+      "full_name": "semaphoreui/semaphore",
+      "url": "https://github.com/semaphoreui/semaphore",
+      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+      "language": "Go",
+      "stars": "12453",
+      "forks": "1165",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "4230",
+      "forks": "671",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "full_name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "language": "Go",
+      "stars": "23471",
+      "forks": "6819",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "full_name": "fsnotify/fsnotify",
+      "url": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform filesystem notifications for Go.",
+      "language": "Go",
+      "stars": "10301",
+      "forks": "953",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "33071",
+      "forks": "4430",
+      "today_stars": "12 stars today"
+    }
+  ]
+}

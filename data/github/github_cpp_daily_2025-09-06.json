@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-06 01:06:40",
+  "repositories": [
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "47306",
+      "forks": "2052",
+      "today_stars": "50 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15911",
+      "forks": "3847",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8380",
+      "forks": "1421",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191500",
+      "forks": "74815",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5623",
+      "forks": "2011",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "mediapipe",
+      "full_name": "google-ai-edge/mediapipe",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "language": "C++",
+      "stars": "31234",
+      "forks": "5524",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "4010",
+      "forks": "1006",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "haoel",
+      "name": "leetcode",
+      "full_name": "haoel/leetcode",
+      "url": "https://github.com/haoel/leetcode",
+      "description": "LeetCode Problems' Solutions",
+      "language": "C++",
+      "stars": "17959",
+      "forks": "4942",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123684",
+      "forks": "24838",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo",
+      "full_name": "mongodb/mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "stars": "27511",
+      "forks": "5676",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "42717",
+      "forks": "7620",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17230",
+      "forks": "2215",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Tencent",
+      "name": "ncnn",
+      "full_name": "Tencent/ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C++",
+      "stars": "22008",
+      "forks": "4317",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "32570",
+      "forks": "2563",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "12972",
+      "forks": "4195",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1112",
+      "forks": "256",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "harfbuzz",
+      "name": "harfbuzz",
+      "full_name": "harfbuzz/harfbuzz",
+      "url": "https://github.com/harfbuzz/harfbuzz",
+      "description": "HarfBuzz text shaping engine",
+      "language": "C++",
+      "stars": "4956",
+      "forks": "683",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "69002",
+      "forks": "10523",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "trustwallet",
+      "name": "wallet-core",
+      "full_name": "trustwallet/wallet-core",
+      "url": "https://github.com/trustwallet/wallet-core",
+      "description": "Cross-platform, cross-blockchain wallet library.",
+      "language": "C++",
+      "stars": "3217",
+      "forks": "1797",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22301",
+      "forks": "2697",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4549",
+      "forks": "574",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gem5",
+      "name": "gem5",
+      "full_name": "gem5/gem5",
+      "url": "https://github.com/gem5/gem5",
+      "description": "The official repository for the gem5 computer-system architecture simulator.",
+      "language": "C++",
+      "stars": "2183",
+      "forks": "1519",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "full_name": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "stars": "16880",
+      "forks": "1329",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "TixiaoShan",
+      "name": "LIO-SAM",
+      "full_name": "TixiaoShan/LIO-SAM",
+      "url": "https://github.com/TixiaoShan/LIO-SAM",
+      "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+      "language": "C++",
+      "stars": "4124",
+      "forks": "1397",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

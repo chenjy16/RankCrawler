@@ -1,0 +1,172 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-09-06 01:04:26",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": "21468",
+      "forks": "1630",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "emcie-co",
+      "name": "parlant",
+      "full_name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": "8955",
+      "forks": "749",
+      "today_stars": "297 stars today"
+    },
+    {
+      "author": "coleam00",
+      "name": "ottomator-agents",
+      "full_name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": "3838",
+      "forks": "1416",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "airflow",
+      "full_name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "stars": "42003",
+      "forks": "15529",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "TobikoData",
+      "name": "sqlmesh",
+      "full_name": "TobikoData/sqlmesh",
+      "url": "https://github.com/TobikoData/sqlmesh",
+      "description": "Scalable and efficient data transformation framework - backwards compatible with dbt.",
+      "language": "Python",
+      "stars": "2597",
+      "forks": "254",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "frappe",
+      "name": "erpnext",
+      "full_name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": "28119",
+      "forks": "9240",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "qwersyk",
+      "name": "Newelle",
+      "full_name": "qwersyk/Newelle",
+      "url": "https://github.com/qwersyk/Newelle",
+      "description": "Newelle - Your Ultimate Virtual Assistant",
+      "language": "Python",
+      "stars": "777",
+      "forks": "58",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "eriklindernoren",
+      "name": "ML-From-Scratch",
+      "full_name": "eriklindernoren/ML-From-Scratch",
+      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+      "language": "Python",
+      "stars": "28178",
+      "forks": "4873",
+      "today_stars": "321 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "autogen",
+      "full_name": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour",
+      "language": "Python",
+      "stars": "49446",
+      "forks": "7551",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "OpenPipe",
+      "name": "ART",
+      "full_name": "OpenPipe/ART",
+      "url": "https://github.com/OpenPipe/ART",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!",
+      "language": "Python",
+      "stars": "6666",
+      "forks": "449",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "Megatron-LM",
+      "full_name": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "language": "Python",
+      "stars": "13487",
+      "forks": "3065",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "HKUDS",
+      "name": "DeepCode",
+      "full_name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": "5610",
+      "forks": "727",
+      "today_stars": "84 stars today"
+    },
+    {
+      "author": "pytorch",
+      "name": "ao",
+      "full_name": "pytorch/ao",
+      "url": "https://github.com/pytorch/ao",
+      "description": "PyTorch native quantization and sparsity for training and inference",
+      "language": "Python",
+      "stars": "2312",
+      "forks": "331",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "oraios",
+      "name": "serena",
+      "full_name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
+      "language": "Python",
+      "stars": "11562",
+      "forks": "804",
+      "today_stars": "154 stars today"
+    },
+    {
+      "author": "philz1337x",
+      "name": "clarity-upscaler",
+      "full_name": "philz1337x/clarity-upscaler",
+      "url": "https://github.com/philz1337x/clarity-upscaler",
+      "description": "Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative",
+      "language": "Python",
+      "stars": "4716",
+      "forks": "491",
+      "today_stars": "45 stars today"
+    }
+  ]
+}

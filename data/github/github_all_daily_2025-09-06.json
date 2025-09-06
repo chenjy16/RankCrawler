@@ -1,0 +1,172 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-09-06 01:04:07",
+  "repositories": [
+    {
+      "author": "bytebot-ai",
+      "name": "bytebot",
+      "full_name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": "5296",
+      "forks": "548",
+      "today_stars": "719 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": "21468",
+      "forks": "1630",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28503",
+      "forks": "2724",
+      "today_stars": "148 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "20782",
+      "forks": "1983",
+      "today_stars": "216 stars today"
+    },
+    {
+      "author": "mack-a",
+      "name": "v2ray-agent",
+      "full_name": "mack-a/v2ray-agent",
+      "url": "https://github.com/mack-a/v2ray-agent",
+      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+      "language": "Shell",
+      "stars": "16972",
+      "forks": "5086",
+      "today_stars": "281 stars today"
+    },
+    {
+      "author": "nukeop",
+      "name": "nuclear",
+      "full_name": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "description": "Streaming music player that finds free music for you",
+      "language": "TypeScript",
+      "stars": "14339",
+      "forks": "1149",
+      "today_stars": "121 stars today"
+    },
+    {
+      "author": "EvolutionAPI",
+      "name": "evolution-api",
+      "full_name": "EvolutionAPI/evolution-api",
+      "url": "https://github.com/EvolutionAPI/evolution-api",
+      "description": "Evolution API is an open-source WhatsApp integration API",
+      "language": "TypeScript",
+      "stars": "5180",
+      "forks": "4104",
+      "today_stars": "47 stars today"
+    },
+    {
+      "author": "appcypher",
+      "name": "awesome-mcp-servers",
+      "full_name": "appcypher/awesome-mcp-servers",
+      "url": "https://github.com/appcypher/awesome-mcp-servers",
+      "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+      "language": null,
+      "stars": "4358",
+      "forks": "380",
+      "today_stars": "113 stars today"
+    },
+    {
+      "author": "emcie-co",
+      "name": "parlant",
+      "full_name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": "8955",
+      "forks": "749",
+      "today_stars": "297 stars today"
+    },
+    {
+      "author": "coleam00",
+      "name": "ottomator-agents",
+      "full_name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": "3838",
+      "forks": "1416",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "kestra-io",
+      "name": "kestra",
+      "full_name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.",
+      "language": "Java",
+      "stars": "20850",
+      "forks": "1771",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "AI4Finance-Foundation",
+      "name": "FinGPT",
+      "full_name": "AI4Finance-Foundation/FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+      "language": "Jupyter Notebook",
+      "stars": "17345",
+      "forks": "2471",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "48468",
+      "forks": "10869",
+      "today_stars": "66 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "airflow",
+      "full_name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "stars": "42003",
+      "forks": "15529",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13354",
+      "forks": "1961",
+      "today_stars": "23 stars today"
+    }
+  ]
+}
