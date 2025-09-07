@@ -1,0 +1,183 @@
+{
+  "language": "all",
+  "period": "weekly",
+  "fetch_time": "2025-09-07 01:11:06",
+  "repositories": [
+    {
+      "author": "dockur",
+      "name": "windows",
+      "full_name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": "44574",
+      "forks": "3241",
+      "today_stars": "6,784 stars this week"
+    },
+    {
+      "author": "bytebot-ai",
+      "name": "bytebot",
+      "full_name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": "5660",
+      "forks": "600",
+      "today_stars": "2,671 stars this week"
+    },
+    {
+      "author": "QuentinFuxa",
+      "name": "WhisperLiveKit",
+      "full_name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+      "language": "Python",
+      "stars": "6443",
+      "forks": "545",
+      "today_stars": "2,964 stars this week"
+    },
+    {
+      "author": "humanlayer",
+      "name": "humanlayer",
+      "full_name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+      "language": "TypeScript",
+      "stars": "2206",
+      "forks": "206",
+      "today_stars": "599 stars this week"
+    },
+    {
+      "author": "pedroslopez",
+      "name": "whatsapp-web.js",
+      "full_name": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "stars": "19243",
+      "forks": "4468",
+      "today_stars": "1,471 stars this week"
+    },
+    {
+      "author": "elixir-lang",
+      "name": "expert",
+      "full_name": "elixir-lang/expert",
+      "url": "https://github.com/elixir-lang/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
+      "language": "Elixir",
+      "stars": "1372",
+      "forks": "30",
+      "today_stars": "351 stars this week"
+    },
+    {
+      "author": "chiphuyen",
+      "name": "aie-book",
+      "full_name": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "stars": "7986",
+      "forks": "1054",
+      "today_stars": "1,874 stars this week"
+    },
+    {
+      "author": "OpenBMB",
+      "name": "MiniCPM-V",
+      "full_name": "OpenBMB/MiniCPM-V",
+      "url": "https://github.com/OpenBMB/MiniCPM-V",
+      "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+      "language": "Python",
+      "stars": "21392",
+      "forks": "1591",
+      "today_stars": "816 stars this week"
+    },
+    {
+      "author": "laramies",
+      "name": "theHarvester",
+      "full_name": "laramies/theHarvester",
+      "url": "https://github.com/laramies/theHarvester",
+      "description": "E-mails, subdomains and names Harvester - OSINT",
+      "language": "Python",
+      "stars": "14284",
+      "forks": "2290",
+      "today_stars": "859 stars this week"
+    },
+    {
+      "author": "gristlabs",
+      "name": "grist-core",
+      "full_name": "gristlabs/grist-core",
+      "url": "https://github.com/gristlabs/grist-core",
+      "description": "Grist is the evolution of spreadsheets.",
+      "language": "TypeScript",
+      "stars": "9423",
+      "forks": "459",
+      "today_stars": "467 stars this week"
+    },
+    {
+      "author": "JetBrains",
+      "name": "koog",
+      "full_name": "JetBrains/koog",
+      "url": "https://github.com/JetBrains/koog",
+      "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+      "language": "Kotlin",
+      "stars": "2934",
+      "forks": "197",
+      "today_stars": "1,243 stars this week"
+    },
+    {
+      "author": "HKUDS",
+      "name": "DeepCode",
+      "full_name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": "5687",
+      "forks": "748",
+      "today_stars": "1,134 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "RD-Agent",
+      "full_name": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+      "language": "Python",
+      "stars": "7477",
+      "forks": "777",
+      "today_stars": "213 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "31698",
+      "forks": "1875",
+      "today_stars": "904 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28609",
+      "forks": "2731",
+      "today_stars": "491 stars this week"
+    },
+    {
+      "author": "gunnarmorling",
+      "name": "1brc",
+      "full_name": "gunnarmorling/1brc",
+      "url": "https://github.com/gunnarmorling/1brc",
+      "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+      "language": "Java",
+      "stars": "7354",
+      "forks": "2080",
+      "today_stars": "196 stars this week"
+    }
+  ]
+}

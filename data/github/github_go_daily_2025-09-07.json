@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-07 01:12:14",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28609",
+      "forks": "2731",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21003",
+      "forks": "1998",
+      "today_stars": "212 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3913",
+      "forks": "2999",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50590",
+      "forks": "2623",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "14500",
+      "forks": "448",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "33074",
+      "forks": "4431",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "gum",
+      "full_name": "charmbracelet/gum",
+      "url": "https://github.com/charmbracelet/gum",
+      "description": "A tool for glamorous shell scripts 🎀",
+      "language": "Go",
+      "stars": "21044",
+      "forks": "419",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "k1LoW",
+      "name": "deck",
+      "full_name": "k1LoW/deck",
+      "url": "https://github.com/k1LoW/deck",
+      "description": "deck is a tool for creating deck using Markdown and Google Slides.",
+      "language": "Go",
+      "stars": "780",
+      "forks": "27",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "31048",
+      "forks": "4555",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "pulumi",
+      "name": "pulumi",
+      "full_name": "pulumi/pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "stars": "23714",
+      "forks": "1234",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "external-dns",
+      "full_name": "kubernetes-sigs/external-dns",
+      "url": "https://github.com/kubernetes-sigs/external-dns",
+      "description": "Configure external DNS servers dynamically from Kubernetes resources",
+      "language": "Go",
+      "stars": "8455",
+      "forks": "2747",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "26374",
+      "forks": "3777",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22162",
+      "forks": "4557",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Project-HAMi",
+      "name": "HAMi",
+      "full_name": "Project-HAMi/HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)",
+      "language": "Go",
+      "stars": "2084",
+      "forks": "367",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10853",
+      "forks": "989",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "11656",
+      "forks": "806",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "smallstep",
+      "name": "certificates",
+      "full_name": "smallstep/certificates",
+      "url": "https://github.com/smallstep/certificates",
+      "description": "🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",
+      "language": "Go",
+      "stars": "7614",
+      "forks": "492",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "fsnotify",
+      "name": "fsnotify",
+      "full_name": "fsnotify/fsnotify",
+      "url": "https://github.com/fsnotify/fsnotify",
+      "description": "Cross-platform filesystem notifications for Go.",
+      "language": "Go",
+      "stars": "10305",
+      "forks": "953",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "28683",
+      "forks": "2770",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "full_name": "kubernetes-sigs/kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": "11677",
+      "forks": "2333",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "18415",
+      "forks": "862",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-mcp-server",
+      "full_name": "hashicorp/terraform-mcp-server",
+      "url": "https://github.com/hashicorp/terraform-mcp-server",
+      "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+      "language": "Go",
+      "stars": "914",
+      "forks": "78",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24671",
+      "forks": "2876",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

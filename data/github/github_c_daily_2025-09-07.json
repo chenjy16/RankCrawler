@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-07 01:13:11",
+  "repositories": [
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13409",
+      "forks": "1969",
+      "today_stars": "101 stars today"
+    },
+    {
+      "author": "cilium",
+      "name": "tetragon",
+      "full_name": "cilium/tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "stars": "4146",
+      "forks": "454",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6218",
+      "forks": "933",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13045",
+      "forks": "7877",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "27145",
+      "forks": "2044",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3516",
+      "forks": "774",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16243",
+      "forks": "1940",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38742",
+      "forks": "6845",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29889",
+      "forks": "7885",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "201502",
+      "forks": "57609",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "mcu-tools",
+      "name": "mcuboot",
+      "full_name": "mcu-tools/mcuboot",
+      "url": "https://github.com/mcu-tools/mcuboot",
+      "description": "Secure boot for 32-bit Microcontrollers!",
+      "language": "C",
+      "stars": "1641",
+      "forks": "809",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "75753",
+      "forks": "6139",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25587",
+      "forks": "2309",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "14329",
+      "forks": "923",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "CodeWithHarry",
+      "name": "The-Ultimate-C-Programming-Course",
+      "full_name": "CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "url": "https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course",
+      "description": "This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry",
+      "language": "C",
+      "stars": "876",
+      "forks": "275",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "12412",
+      "forks": "873",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "utkarshdalal",
+      "name": "GameNative",
+      "full_name": "utkarshdalal/GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "679",
+      "forks": "20",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "nicbarker",
+      "name": "clay",
+      "full_name": "nicbarker/clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "stars": "15330",
+      "forks": "587",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "0015",
+      "name": "ThatProject",
+      "full_name": "0015/ThatProject",
+      "url": "https://github.com/0015/ThatProject",
+      "description": "*That Project's project repository",
+      "language": "C",
+      "stars": "2155",
+      "forks": "987",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "freebsd",
+      "name": "freebsd-src",
+      "full_name": "freebsd/freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "stars": "8461",
+      "forks": "3073",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7834",
+      "forks": "1368",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "12022",
+      "forks": "5251",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21295",
+      "forks": "3813",
+      "today_stars": "17 stars today"
+    }
+  ]
+}

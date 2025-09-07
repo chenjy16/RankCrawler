@@ -1,0 +1,227 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-09-07 01:14:46",
+  "repositories": [
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3520",
+      "forks": "450",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25521",
+      "forks": "1501",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": "19376",
+      "forks": "419",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7935",
+      "forks": "3644",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ios",
+      "full_name": "stripe/stripe-ios",
+      "url": "https://github.com/stripe/stripe-ios",
+      "description": "Stripe iOS SDK",
+      "language": "Swift",
+      "stars": "2434",
+      "forks": "1016",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6240",
+      "forks": "389",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "daltoniam",
+      "name": "Starscream",
+      "full_name": "daltoniam/Starscream",
+      "url": "https://github.com/daltoniam/Starscream",
+      "description": "Websockets in swift for iOS and OSX",
+      "language": "Swift",
+      "stars": "8562",
+      "forks": "1250",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26419",
+      "forks": "3823",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "AzureAD",
+      "name": "microsoft-authentication-library-for-objc",
+      "full_name": "AzureAD/microsoft-authentication-library-for-objc",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-for-objc",
+      "description": "Microsoft Authentication Library (MSAL) for iOS and macOS",
+      "language": "Swift",
+      "stars": "303",
+      "forks": "147",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "auth0",
+      "name": "SimpleKeychain",
+      "full_name": "auth0/SimpleKeychain",
+      "url": "https://github.com/auth0/SimpleKeychain",
+      "description": "A simple Keychain wrapper for iOS, macOS, tvOS, and watchOS",
+      "language": "Swift",
+      "stars": "673",
+      "forks": "83",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-sdk-ios",
+      "full_name": "DataDog/dd-sdk-ios",
+      "url": "https://github.com/DataDog/dd-sdk-ios",
+      "description": "Datadog SDK for iOS - Swift and Objective-C.",
+      "language": "Swift",
+      "stars": "245",
+      "forks": "153",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-algorithms",
+      "full_name": "apple/swift-algorithms",
+      "url": "https://github.com/apple/swift-algorithms",
+      "description": "Commonly used sequence and collection algorithms for Swift",
+      "language": "Swift",
+      "stars": "6214",
+      "forks": "456",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "EmergeTools",
+      "name": "Pow",
+      "full_name": "EmergeTools/Pow",
+      "url": "https://github.com/EmergeTools/Pow",
+      "description": "Delightful SwiftUI effects for your app",
+      "language": "Swift",
+      "stars": "4091",
+      "forks": "168",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-protobuf",
+      "full_name": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "stars": "4739",
+      "forks": "482",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "952",
+      "forks": "363",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13879",
+      "forks": "1573",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-package-manager",
+      "full_name": "swiftlang/swift-package-manager",
+      "url": "https://github.com/swiftlang/swift-package-manager",
+      "description": "The Package Manager for the Swift Programming Language",
+      "language": "Swift",
+      "stars": "9995",
+      "forks": "1412",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "4013",
+      "forks": "631",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19170",
+      "forks": "2264",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "vsouza",
+      "name": "awesome-ios",
+      "full_name": "vsouza/awesome-ios",
+      "url": "https://github.com/vsouza/awesome-ios",
+      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+      "language": "Swift",
+      "stars": "49821",
+      "forks": "6925",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

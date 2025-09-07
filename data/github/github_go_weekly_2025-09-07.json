@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-07 01:12:20",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28609",
+      "forks": "2731",
+      "today_stars": "491 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21003",
+      "forks": "1998",
+      "today_stars": "564 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2378",
+      "forks": "110",
+      "today_stars": "558 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50590",
+      "forks": "2623",
+      "today_stars": "417 stars this week"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1612",
+      "forks": "168",
+      "today_stars": "356 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41803",
+      "forks": "2996",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1422",
+      "forks": "56",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11380",
+      "forks": "1570",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29281",
+      "forks": "4512",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4201",
+      "forks": "451",
+      "today_stars": "92 stars this week"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29964",
+      "forks": "1465",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14936",
+      "forks": "1453",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "full_name": "jesseduffield/lazydocker",
+      "url": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": "45993",
+      "forks": "1446",
+      "today_stars": "149 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10385",
+      "forks": "1534",
+      "today_stars": "55 stars this week"
+    },
+    {
+      "author": "lightningnetwork",
+      "name": "lnd",
+      "full_name": "lightningnetwork/lnd",
+      "url": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon ⚡️",
+      "language": "Go",
+      "stars": "8020",
+      "forks": "2192",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7565",
+      "forks": "973",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "gogf",
+      "name": "gf",
+      "full_name": "gogf/gf",
+      "url": "https://github.com/gogf/gf",
+      "description": "A powerful framework for faster, easier, and more efficient project development.",
+      "language": "Go",
+      "stars": "12691",
+      "forks": "1708",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18135",
+      "forks": "1636",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "4241",
+      "forks": "672",
+      "today_stars": "71 stars this week"
+    },
+    {
+      "author": "coreybutler",
+      "name": "nvm-windows",
+      "full_name": "coreybutler/nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "stars": "42714",
+      "forks": "3599",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "asternic",
+      "name": "wuzapi",
+      "full_name": "asternic/wuzapi",
+      "url": "https://github.com/asternic/wuzapi",
+      "description": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)",
+      "language": "Go",
+      "stars": "475",
+      "forks": "252",
+      "today_stars": "24 stars this week"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22880",
+      "forks": "4514",
+      "today_stars": "99 stars this week"
+    }
+  ]
+}
