@@ -27,48 +27,48 @@ Access the latest technology trending data automatically crawled via GitHub Acti
 
 ### Github Data
 
-* [All - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_daily_2025-09-07.json) - Updated: 2025-09-07
-* [All - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [All - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [C - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_daily_2025-09-07.json) - Updated: 2025-09-07
-* [C - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [C - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Cpp - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Cpp - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Cpp - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Csharp - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Csharp - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Csharp - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Go - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Go - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Go - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Java - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Java - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Java - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Javascript - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Javascript - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Javascript - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Php - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Php - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Php - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Python - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Python - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Python - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Ruby - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Ruby - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Ruby - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Rust - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Rust - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Rust - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Swift - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Swift - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Swift - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_weekly_2025-09-07.json) - Updated: 2025-09-07
-* [Typescript - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_daily_2025-09-07.json) - Updated: 2025-09-07
-* [Typescript - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_monthly_2025-09-07.json) - Updated: 2025-09-07
-* [Typescript - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_weekly_2025-09-07.json) - Updated: 2025-09-07
+* [All - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_daily_2025-09-08.json) - Updated: 2025-09-08
+* [All - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [All - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_all_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [C - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_daily_2025-09-08.json) - Updated: 2025-09-08
+* [C - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [C - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_c_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Cpp - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Cpp - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Cpp - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_cpp_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Csharp - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Csharp - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Csharp - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_csharp_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Go - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Go - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Go - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_go_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Java - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Java - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Java - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_java_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Javascript - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Javascript - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Javascript - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_javascript_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Php - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Php - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Php - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_php_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Python - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Python - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Python - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_python_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Ruby - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Ruby - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Ruby - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_ruby_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Rust - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Rust - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Rust - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_rust_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Swift - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Swift - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Swift - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_swift_weekly_2025-09-08.json) - Updated: 2025-09-08
+* [Typescript - Daily](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_daily_2025-09-08.json) - Updated: 2025-09-08
+* [Typescript - Monthly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_monthly_2025-09-08.json) - Updated: 2025-09-08
+* [Typescript - Weekly](https://github.com/chenjy16/RankCrawler/blob/main/data/github/github_typescript_weekly_2025-09-08.json) - Updated: 2025-09-08
 
 ### Hackernews Data
 
-* [Top Stories](https://github.com/chenjy16/RankCrawler/blob/main/data/hackernews/hackernews_top_2025-09-07.json) - Updated: 2025-09-07
+* [Top Stories](https://github.com/chenjy16/RankCrawler/blob/main/data/hackernews/hackernews_top_2025-09-08.json) - Updated: 2025-09-08
 
 
