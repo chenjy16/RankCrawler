@@ -1,0 +1,271 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-09 01:09:13",
+  "repositories": [
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23761",
+      "forks": "11524",
+      "today_stars": "135 stars today"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "127744",
+      "forks": "11971",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4317",
+      "forks": "1605",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pymumu",
+      "name": "smartdns",
+      "full_name": "pymumu/smartdns",
+      "url": "https://github.com/pymumu/smartdns",
+      "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+      "language": "C",
+      "stars": "9738",
+      "forks": "1170",
+      "today_stars": "67 stars today"
+    },
+    {
+      "author": "glfw",
+      "name": "glfw",
+      "full_name": "glfw/glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "stars": "14192",
+      "forks": "5633",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "31980",
+      "forks": "3116",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "tmux",
+      "name": "tmux",
+      "full_name": "tmux/tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "stars": "38857",
+      "forks": "2262",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "floooh",
+      "name": "sokol",
+      "full_name": "floooh/sokol",
+      "url": "https://github.com/floooh/sokol",
+      "description": "minimal cross-platform standalone C headers",
+      "language": "C",
+      "stars": "8768",
+      "forks": "576",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "14180",
+      "forks": "2183",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11834",
+      "forks": "1948",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "16474",
+      "forks": "562",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-examples",
+      "full_name": "raspberrypi/pico-examples",
+      "url": "https://github.com/raspberrypi/pico-examples",
+      "description": "",
+      "language": "C",
+      "stars": "3465",
+      "forks": "953",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8818",
+      "forks": "2684",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "stars": "13597",
+      "forks": "2339",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "mgba-emu",
+      "name": "mgba",
+      "full_name": "mgba-emu/mgba",
+      "url": "https://github.com/mgba-emu/mgba",
+      "description": "mGBA Game Boy Advance Emulator",
+      "language": "C",
+      "stars": "6418",
+      "forks": "874",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sandboxie-plus",
+      "name": "Sandboxie",
+      "full_name": "sandboxie-plus/Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "stars": "15886",
+      "forks": "1781",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "28075",
+      "forks": "2657",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "moonlight-stream",
+      "name": "moonlight-android",
+      "full_name": "moonlight-stream/moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "stars": "5579",
+      "forks": "889",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32541",
+      "forks": "2806",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "Bodmer",
+      "name": "TFT_eSPI",
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "language": "C",
+      "stars": "4352",
+      "forks": "1242",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "flipperdevices",
+      "name": "flipperzero-firmware",
+      "full_name": "flipperdevices/flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
+      "language": "C",
+      "stars": "14751",
+      "forks": "3078",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "14366",
+      "forks": "927",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "erincatto",
+      "name": "box2d",
+      "full_name": "erincatto/box2d",
+      "url": "https://github.com/erincatto/box2d",
+      "description": "Box2D is a 2D physics engine for games",
+      "language": "C",
+      "stars": "9147",
+      "forks": "1677",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bol-van",
+      "name": "zapret",
+      "full_name": "bol-van/zapret",
+      "url": "https://github.com/bol-van/zapret",
+      "description": "DPI bypass multi platform",
+      "language": "C",
+      "stars": "12431",
+      "forks": "875",
+      "today_stars": "14 stars today"
+    }
+  ]
+}

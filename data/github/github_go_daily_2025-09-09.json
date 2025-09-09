@@ -1,0 +1,183 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-09 01:08:15",
+  "repositories": [
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "14908",
+      "forks": "455",
+      "today_stars": "311 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21268",
+      "forks": "2009",
+      "today_stars": "114 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28753",
+      "forks": "2744",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "glow",
+      "full_name": "charmbracelet/glow",
+      "url": "https://github.com/charmbracelet/glow",
+      "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+      "language": "Go",
+      "stars": "19135",
+      "forks": "449",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26464",
+      "forks": "3107",
+      "today_stars": "58 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10883",
+      "forks": "996",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "aldinokemal",
+      "name": "go-whatsapp-web-multidevice",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "stars": "2367",
+      "forks": "591",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "huh",
+      "full_name": "charmbracelet/huh",
+      "url": "https://github.com/charmbracelet/huh",
+      "description": "Build terminal forms and prompts 🤷🏻‍♀️",
+      "language": "Go",
+      "stars": "6008",
+      "forks": "196",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "31117",
+      "forks": "4561",
+      "today_stars": "51 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24644",
+      "forks": "1977",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "k1LoW",
+      "name": "deck",
+      "full_name": "k1LoW/deck",
+      "url": "https://github.com/k1LoW/deck",
+      "description": "deck is a tool for creating deck using Markdown and Google Slides.",
+      "language": "Go",
+      "stars": "814",
+      "forks": "27",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "gokcehan",
+      "name": "lf",
+      "full_name": "gokcehan/lf",
+      "url": "https://github.com/gokcehan/lf",
+      "description": "Terminal file manager",
+      "language": "Go",
+      "stars": "8560",
+      "forks": "347",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16705",
+      "forks": "3104",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "31971",
+      "forks": "4877",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5603",
+      "forks": "1292",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "AdguardTeam",
+      "name": "AdGuardHome",
+      "full_name": "AdguardTeam/AdGuardHome",
+      "url": "https://github.com/AdguardTeam/AdGuardHome",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "language": "Go",
+      "stars": "30019",
+      "forks": "2116",
+      "today_stars": "15 stars today"
+    }
+  ]
+}

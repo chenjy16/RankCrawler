@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-09 01:08:21",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2514",
+      "forks": "121",
+      "today_stars": "672 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28753",
+      "forks": "2744",
+      "today_stars": "662 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21268",
+      "forks": "2009",
+      "today_stars": "866 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50638",
+      "forks": "2625",
+      "today_stars": "441 stars this week"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11387",
+      "forks": "1570",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14948",
+      "forks": "1453",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "14908",
+      "forks": "455",
+      "today_stars": "697 stars this week"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "1645",
+      "forks": "171",
+      "today_stars": "275 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10402",
+      "forks": "1541",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29284",
+      "forks": "4514",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "vllm-project",
+      "name": "aibrix",
+      "full_name": "vllm-project/aibrix",
+      "url": "https://github.com/vllm-project/aibrix",
+      "description": "Cost-efficient and pluggable Infrastructure components for GenAI inference",
+      "language": "Go",
+      "stars": "4210",
+      "forks": "452",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41825",
+      "forks": "2997",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16705",
+      "forks": "3104",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "oapi-codegen",
+      "name": "oapi-codegen",
+      "full_name": "oapi-codegen/oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "stars": "7576",
+      "forks": "973",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "asternic",
+      "name": "wuzapi",
+      "full_name": "asternic/wuzapi",
+      "url": "https://github.com/asternic/wuzapi",
+      "description": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)",
+      "language": "Go",
+      "stars": "481",
+      "forks": "256",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "wailsapp",
+      "name": "wails",
+      "full_name": "wailsapp/wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
+      "language": "Go",
+      "stars": "29996",
+      "forks": "1466",
+      "today_stars": "146 stars this week"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "nuclei",
+      "full_name": "projectdiscovery/nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "stars": "24694",
+      "forks": "2877",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "photoprism",
+      "name": "photoprism",
+      "full_name": "photoprism/photoprism",
+      "url": "https://github.com/photoprism/photoprism",
+      "description": "AI-Powered Photos App for the Decentralized Web 🌈💎✨",
+      "language": "Go",
+      "stars": "38307",
+      "forks": "2141",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37610",
+      "forks": "1855",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38841",
+      "forks": "4096",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "full_name": "gogs/gogs",
+      "url": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service",
+      "language": "Go",
+      "stars": "46874",
+      "forks": "5046",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "4262",
+      "forks": "674",
+      "today_stars": "82 stars this week"
+    }
+  ]
+}
