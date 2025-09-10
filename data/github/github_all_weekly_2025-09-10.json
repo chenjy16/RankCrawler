@@ -1,0 +1,194 @@
+{
+  "language": "all",
+  "period": "weekly",
+  "fetch_time": "2025-09-10 01:05:13",
+  "repositories": [
+    {
+      "author": "bytebot-ai",
+      "name": "bytebot",
+      "full_name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": "6283",
+      "forks": "683",
+      "today_stars": "2,878 stars this week"
+    },
+    {
+      "author": "dockur",
+      "name": "windows",
+      "full_name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": "44973",
+      "forks": "3268",
+      "today_stars": "2,625 stars this week"
+    },
+    {
+      "author": "LukeGus",
+      "name": "Termix",
+      "full_name": "LukeGus/Termix",
+      "url": "https://github.com/LukeGus/Termix",
+      "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+      "language": "TypeScript",
+      "stars": "3361",
+      "forks": "130",
+      "today_stars": "1,382 stars this week"
+    },
+    {
+      "author": "pedroslopez",
+      "name": "whatsapp-web.js",
+      "full_name": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "stars": "19340",
+      "forks": "4483",
+      "today_stars": "1,194 stars this week"
+    },
+    {
+      "author": "resemble-ai",
+      "name": "chatterbox",
+      "full_name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars": "12506",
+      "forks": "1572",
+      "today_stars": "1,130 stars this week"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "4182",
+      "forks": "289",
+      "today_stars": "786 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28808",
+      "forks": "2745",
+      "today_stars": "706 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21335",
+      "forks": "2012",
+      "today_stars": "943 stars this week"
+    },
+    {
+      "author": "emcie-co",
+      "name": "parlant",
+      "full_name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": "11228",
+      "forks": "891",
+      "today_stars": "2,815 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2578",
+      "forks": "124",
+      "today_stars": "596 stars this week"
+    },
+    {
+      "author": "Stirling-Tools",
+      "name": "Stirling-PDF",
+      "full_name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+      "language": "Java",
+      "stars": "66352",
+      "forks": "5634",
+      "today_stars": "1,394 stars this week"
+    },
+    {
+      "author": "humanlayer",
+      "name": "humanlayer",
+      "full_name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+      "language": "TypeScript",
+      "stars": "2386",
+      "forks": "220",
+      "today_stars": "328 stars this week"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21365",
+      "forks": "1542",
+      "today_stars": "315 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "97977",
+      "forks": "14361",
+      "today_stars": "976 stars this week"
+    },
+    {
+      "author": "kestra-io",
+      "name": "kestra",
+      "full_name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.",
+      "language": "Java",
+      "stars": "21038",
+      "forks": "1795",
+      "today_stars": "556 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "31858",
+      "forks": "1891",
+      "today_stars": "617 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50688",
+      "forks": "2626",
+      "today_stars": "473 stars this week"
+    }
+  ]
+}
