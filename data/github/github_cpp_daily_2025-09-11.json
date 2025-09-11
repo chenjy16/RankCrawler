@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-11 01:09:19",
+  "repositories": [
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "69454",
+      "forks": "10185",
+      "today_stars": "57 stars today"
+    },
+    {
+      "author": "ClemensElflein",
+      "name": "OpenMower",
+      "full_name": "ClemensElflein/OpenMower",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+      "language": "C++",
+      "stars": "6126",
+      "forks": "353",
+      "today_stars": "130 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "100152",
+      "forks": "8747",
+      "today_stars": "79 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "83900",
+      "forks": "56288",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "oceanbase",
+      "name": "oceanbase",
+      "full_name": "oceanbase/oceanbase",
+      "url": "https://github.com/oceanbase/oceanbase",
+      "description": "The Fastest Distributed Database for Transactional, Analytical, and AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs",
+      "language": "C++",
+      "stars": "9510",
+      "forks": "1781",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "drogonframework",
+      "name": "drogon",
+      "full_name": "drogonframework/drogon",
+      "url": "https://github.com/drogonframework/drogon",
+      "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+      "language": "C++",
+      "stars": "12936",
+      "forks": "1237",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29755",
+      "forks": "5770",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "68994",
+      "forks": "15857",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "32684",
+      "forks": "2574",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47142",
+      "forks": "7124",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "yhirose",
+      "name": "cpp-httplib",
+      "full_name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": "14931",
+      "forks": "2493",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cameron314",
+      "name": "concurrentqueue",
+      "full_name": "cameron314/concurrentqueue",
+      "url": "https://github.com/cameron314/concurrentqueue",
+      "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+      "language": "C++",
+      "stars": "11487",
+      "forks": "1821",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "UZ-SLAMLab",
+      "name": "ORB_SLAM3",
+      "full_name": "UZ-SLAMLab/ORB_SLAM3",
+      "url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+      "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+      "language": "C++",
+      "stars": "7697",
+      "forks": "2826",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ApolloAuto",
+      "name": "apollo",
+      "full_name": "ApolloAuto/apollo",
+      "url": "https://github.com/ApolloAuto/apollo",
+      "description": "An open autonomous driving platform",
+      "language": "C++",
+      "stars": "25971",
+      "forks": "9817",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "69008",
+      "forks": "10529",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17821",
+      "forks": "3443",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1118",
+      "forks": "258",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "74",
+      "forks": "33",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9704",
+      "forks": "1700",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "juce-framework",
+      "name": "JUCE",
+      "full_name": "juce-framework/JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "stars": "7546",
+      "forks": "1891",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "facebookresearch",
+      "name": "faiss",
+      "full_name": "facebookresearch/faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "stars": "37034",
+      "forks": "4031",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "zaphoyd",
+      "name": "websocketpp",
+      "full_name": "zaphoyd/websocketpp",
+      "url": "https://github.com/zaphoyd/websocketpp",
+      "description": "C++ websocket client/server library",
+      "language": "C++",
+      "stars": "7472",
+      "forks": "2060",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13469",
+      "forks": "19344",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

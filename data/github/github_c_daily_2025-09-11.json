@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-11 01:08:59",
+  "repositories": [
+    {
+      "author": "FreeRDP",
+      "name": "FreeRDP",
+      "full_name": "FreeRDP/FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "stars": "12222",
+      "forks": "15124",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1146",
+      "forks": "1377",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Immediate-Mode-UI",
+      "name": "Nuklear",
+      "full_name": "Immediate-Mode-UI/Nuklear",
+      "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+      "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+      "language": "C",
+      "stars": "10385",
+      "forks": "635",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3471",
+      "forks": "1342",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-buildimage",
+      "full_name": "sonic-net/sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "stars": "872",
+      "forks": "1626",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "pymumu",
+      "name": "smartdns",
+      "full_name": "pymumu/smartdns",
+      "url": "https://github.com/pymumu/smartdns",
+      "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+      "language": "C",
+      "stars": "9811",
+      "forks": "1176",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "RfidResearchGroup",
+      "name": "proxmark3",
+      "full_name": "RfidResearchGroup/proxmark3",
+      "url": "https://github.com/RfidResearchGroup/proxmark3",
+      "description": "Iceman Fork - Proxmark3",
+      "language": "C",
+      "stars": "4822",
+      "forks": "1201",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "libarchive",
+      "name": "libarchive",
+      "full_name": "libarchive/libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "stars": "3305",
+      "forks": "827",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "TsudaKageyu",
+      "name": "minhook",
+      "full_name": "TsudaKageyu/minhook",
+      "url": "https://github.com/TsudaKageyu/minhook",
+      "description": "The Minimalistic x86/x64 API Hooking Library for Windows",
+      "language": "C",
+      "stars": "5128",
+      "forks": "985",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "OISF",
+      "name": "suricata",
+      "full_name": "OISF/suricata",
+      "url": "https://github.com/OISF/suricata",
+      "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
+      "language": "C",
+      "stars": "5579",
+      "forks": "1575",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5078",
+      "forks": "450",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13455",
+      "forks": "1977",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4882",
+      "forks": "946",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7847",
+      "forks": "1368",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6099",
+      "forks": "2752",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "337",
+      "forks": "701",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-adf",
+      "full_name": "espressif/esp-adf",
+      "url": "https://github.com/espressif/esp-adf",
+      "description": "Espressif Advanced Development Framework for Multimedia Applications",
+      "language": "C",
+      "stars": "2035",
+      "forks": "797",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30964",
+      "forks": "19546",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "osqzss",
+      "name": "gps-sdr-sim",
+      "full_name": "osqzss/gps-sdr-sim",
+      "url": "https://github.com/osqzss/gps-sdr-sim",
+      "description": "Software-Defined GPS Signal Simulator",
+      "language": "C",
+      "stars": "3135",
+      "forks": "876",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "8078",
+      "forks": "2132",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

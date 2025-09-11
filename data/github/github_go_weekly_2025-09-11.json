@@ -1,0 +1,238 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-11 01:08:08",
+  "repositories": [
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21388",
+      "forks": "2015",
+      "today_stars": "982 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "3143",
+      "forks": "257",
+      "today_stars": "645 stars this week"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28840",
+      "forks": "2745",
+      "today_stars": "706 stars this week"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50729",
+      "forks": "2628",
+      "today_stars": "481 stars this week"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16205",
+      "forks": "5701",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2610",
+      "forks": "123",
+      "today_stars": "466 stars this week"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "14983",
+      "forks": "458",
+      "today_stars": "737 stars this week"
+    },
+    {
+      "author": "aldinokemal",
+      "name": "go-whatsapp-web-multidevice",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "stars": "2398",
+      "forks": "602",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "full_name": "rivo/tview",
+      "url": "https://github.com/rivo/tview",
+      "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+      "language": "Go",
+      "stars": "12698",
+      "forks": "637",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "31152",
+      "forks": "4562",
+      "today_stars": "176 stars this week"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12427",
+      "forks": "941",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29286",
+      "forks": "4517",
+      "today_stars": "22 stars this week"
+    },
+    {
+      "author": "gogs",
+      "name": "gogs",
+      "full_name": "gogs/gogs",
+      "url": "https://github.com/gogs/gogs",
+      "description": "Gogs is a painless self-hosted Git service",
+      "language": "Go",
+      "stars": "46884",
+      "forks": "5046",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "sigstore",
+      "name": "cosign",
+      "full_name": "sigstore/cosign",
+      "url": "https://github.com/sigstore/cosign",
+      "description": "Code signing and transparency for containers and binaries",
+      "language": "Go",
+      "stars": "5228",
+      "forks": "623",
+      "today_stars": "51 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10413",
+      "forks": "1553",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "33099",
+      "forks": "4434",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazydocker",
+      "full_name": "jesseduffield/lazydocker",
+      "url": "https://github.com/jesseduffield/lazydocker",
+      "description": "The lazier way to manage everything docker",
+      "language": "Go",
+      "stars": "46074",
+      "forks": "1450",
+      "today_stars": "157 stars this week"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20594",
+      "forks": "6356",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "23196",
+      "forks": "1772",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3936",
+      "forks": "3003",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8906",
+      "forks": "1084",
+      "today_stars": "27 stars this week"
+    }
+  ]
+}

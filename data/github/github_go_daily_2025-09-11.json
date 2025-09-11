@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-11 01:08:01",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "3143",
+      "forks": "257",
+      "today_stars": "361 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "9951",
+      "forks": "886",
+      "today_stars": "209 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "22049",
+      "forks": "697",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "aldinokemal",
+      "name": "go-whatsapp-web-multidevice",
+      "full_name": "aldinokemal/go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "stars": "2398",
+      "forks": "602",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5518",
+      "forks": "660",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "temporalio",
+      "name": "temporal",
+      "full_name": "temporalio/temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "stars": "15650",
+      "forks": "1090",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5770",
+      "forks": "1728",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "64674",
+      "forks": "2233",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "databus23",
+      "name": "helm-diff",
+      "full_name": "databus23/helm-diff",
+      "url": "https://github.com/databus23/helm-diff",
+      "description": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+      "language": "Go",
+      "stars": "3141",
+      "forks": "305",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "ingress-nginx",
+      "full_name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": "18915",
+      "forks": "8439",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "29227",
+      "forks": "2067",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16205",
+      "forks": "5701",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": "10935",
+      "forks": "1000",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "22661",
+      "forks": "1567",
+      "today_stars": "129 stars today"
+    },
+    {
+      "author": "dexidp",
+      "name": "dex",
+      "full_name": "dexidp/dex",
+      "url": "https://github.com/dexidp/dex",
+      "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+      "language": "Go",
+      "stars": "10171",
+      "forks": "1837",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "JanDeDobbeleer",
+      "name": "oh-my-posh",
+      "full_name": "JanDeDobbeleer/oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "language": "Go",
+      "stars": "20014",
+      "forks": "2581",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17354",
+      "forks": "1508",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20594",
+      "forks": "6356",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "full_name": "kubernetes/autoscaler",
+      "url": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": "8566",
+      "forks": "4208",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "99designs",
+      "name": "gqlgen",
+      "full_name": "99designs/gqlgen",
+      "url": "https://github.com/99designs/gqlgen",
+      "description": "go generate based graphql server library",
+      "language": "Go",
+      "stars": "10472",
+      "forks": "1225",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sjzar",
+      "name": "chatlog",
+      "full_name": "sjzar/chatlog",
+      "url": "https://github.com/sjzar/chatlog",
+      "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
+      "language": "Go",
+      "stars": "8183",
+      "forks": "1194",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "muesli",
+      "name": "duf",
+      "full_name": "muesli/duf",
+      "url": "https://github.com/muesli/duf",
+      "description": "Disk Usage/Free Utility - a better 'df' alternative",
+      "language": "Go",
+      "stars": "13901",
+      "forks": "422",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "sigstore",
+      "name": "cosign",
+      "full_name": "sigstore/cosign",
+      "url": "https://github.com/sigstore/cosign",
+      "description": "Code signing and transparency for containers and binaries",
+      "language": "Go",
+      "stars": "5228",
+      "forks": "623",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

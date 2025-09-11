@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-09-11 01:08:26",
+  "repositories": [
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21393",
+      "forks": "1547",
+      "today_stars": "337 stars this week"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "4305",
+      "forks": "294",
+      "today_stars": "954 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "31892",
+      "forks": "1894",
+      "today_stars": "375 stars this week"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "18163",
+      "forks": "760",
+      "today_stars": "1,702 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "33159",
+      "forks": "4172",
+      "today_stars": "6,399 stars this week"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "98050",
+      "forks": "14377",
+      "today_stars": "763 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "40017",
+      "forks": "4648",
+      "today_stars": "1,747 stars this week"
+    },
+    {
+      "author": "carthage-software",
+      "name": "mago",
+      "full_name": "carthage-software/mago",
+      "url": "https://github.com/carthage-software/mago",
+      "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+      "language": "Rust",
+      "stars": "1240",
+      "forks": "54",
+      "today_stars": "419 stars this week"
+    },
+    {
+      "author": "Automattic",
+      "name": "harper",
+      "full_name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "8089",
+      "forks": "202",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "20319",
+      "forks": "737",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "17614",
+      "forks": "688",
+      "today_stars": "380 stars this week"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4970",
+      "forks": "1857",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "19154",
+      "forks": "628",
+      "today_stars": "334 stars this week"
+    },
+    {
+      "author": "j178",
+      "name": "prek",
+      "full_name": "j178/prek",
+      "url": "https://github.com/j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "language": "Rust",
+      "stars": "1190",
+      "forks": "45",
+      "today_stars": "550 stars this week"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "10234",
+      "forks": "265",
+      "today_stars": "361 stars this week"
+    },
+    {
+      "author": "hatoo",
+      "name": "oha",
+      "full_name": "hatoo/oha",
+      "url": "https://github.com/hatoo/oha",
+      "description": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+      "language": "Rust",
+      "stars": "9107",
+      "forks": "258",
+      "today_stars": "283 stars this week"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "25734",
+      "forks": "699",
+      "today_stars": "153 stars this week"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16294",
+      "forks": "672",
+      "today_stars": "113 stars this week"
+    },
+    {
+      "author": "pola-rs",
+      "name": "polars",
+      "full_name": "pola-rs/polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "language": "Rust",
+      "stars": "35295",
+      "forks": "2392",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "idootop",
+      "name": "open-xiaoai",
+      "full_name": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "description": "让小爱音箱「听见你的声音」，解锁无限可能。",
+      "language": "Rust",
+      "stars": "1204",
+      "forks": "116",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "65395",
+      "forks": "5212",
+      "today_stars": "518 stars this week"
+    }
+  ]
+}
