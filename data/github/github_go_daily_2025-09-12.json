@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-12 01:05:21",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "3665",
+      "forks": "283",
+      "today_stars": "869 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11775",
+      "forks": "1582",
+      "today_stars": "220 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "10218",
+      "forks": "908",
+      "today_stars": "241 stars today"
+    },
+    {
+      "author": "projectcalico",
+      "name": "calico",
+      "full_name": "projectcalico/calico",
+      "url": "https://github.com/projectcalico/calico",
+      "description": "Cloud native networking and network security",
+      "language": "Go",
+      "stars": "6763",
+      "forks": "1480",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "3944",
+      "forks": "3003",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "22823",
+      "forks": "1578",
+      "today_stars": "190 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-workflows",
+      "full_name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "stars": "16010",
+      "forks": "3373",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "22072",
+      "forks": "698",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vault",
+      "full_name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "33107",
+      "forks": "4436",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14555",
+      "forks": "1368",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "yaml",
+      "name": "go-yaml",
+      "full_name": "yaml/go-yaml",
+      "url": "https://github.com/yaml/go-yaml",
+      "description": "The YAML org maintained fork of https://github.com/go-yaml/yaml",
+      "language": "Go",
+      "stars": "252",
+      "forks": "19",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24839",
+      "forks": "4108",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22179",
+      "forks": "4559",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "databus23",
+      "name": "helm-diff",
+      "full_name": "databus23/helm-diff",
+      "url": "https://github.com/databus23/helm-diff",
+      "description": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+      "language": "Go",
+      "stars": "3146",
+      "forks": "305",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "JanDeDobbeleer",
+      "name": "oh-my-posh",
+      "full_name": "JanDeDobbeleer/oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "language": "Go",
+      "stars": "20020",
+      "forks": "2582",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "openfga",
+      "name": "openfga",
+      "full_name": "openfga/openfga",
+      "url": "https://github.com/openfga/openfga",
+      "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+      "language": "Go",
+      "stars": "4091",
+      "forks": "306",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "klauspost",
+      "name": "compress",
+      "full_name": "klauspost/compress",
+      "url": "https://github.com/klauspost/compress",
+      "description": "Optimized Go Compression Packages",
+      "language": "Go",
+      "stars": "5233",
+      "forks": "341",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "24027",
+      "forks": "3566",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18987",
+      "forks": "1381",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8913",
+      "forks": "1085",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "36123",
+      "forks": "5510",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117396",
+      "forks": "41335",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "10063",
+      "forks": "1191",
+      "today_stars": "20 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-12 01:06:18",
+  "repositories": [
+    {
+      "author": "nanomsg",
+      "name": "nng",
+      "full_name": "nanomsg/nng",
+      "url": "https://github.com/nanomsg/nng",
+      "description": "nanomsg-next-generation -- light-weight brokerless messaging",
+      "language": "C",
+      "stars": "4257",
+      "forks": "513",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5085",
+      "forks": "450",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38771",
+      "forks": "6852",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6101",
+      "forks": "2756",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "11931",
+      "forks": "985",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13076",
+      "forks": "7898",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2158",
+      "forks": "452",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10800",
+      "forks": "5657",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "DaveGamble",
+      "name": "cJSON",
+      "full_name": "DaveGamble/cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "stars": "11956",
+      "forks": "3353",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "karpathy",
+      "name": "llama2.c",
+      "full_name": "karpathy/llama2.c",
+      "url": "https://github.com/karpathy/llama2.c",
+      "description": "Inference Llama 2 in one file of pure C",
+      "language": "C",
+      "stars": "18733",
+      "forks": "2356",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4885",
+      "forks": "946",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mpaland",
+      "name": "printf",
+      "full_name": "mpaland/printf",
+      "url": "https://github.com/mpaland/printf",
+      "description": "Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.",
+      "language": "C",
+      "stars": "2837",
+      "forks": "534",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6413",
+      "forks": "1841",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-code",
+      "full_name": "remzi-arpacidusseau/ostep-code",
+      "url": "https://github.com/remzi-arpacidusseau/ostep-code",
+      "description": "Code from various chapters in OSTEP (http://www.ostep.org)",
+      "language": "C",
+      "stars": "3874",
+      "forks": "1451",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21334",
+      "forks": "3818",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "1836",
+      "forks": "344",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "337",
+      "forks": "701",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "hiredis",
+      "full_name": "redis/hiredis",
+      "url": "https://github.com/redis/hiredis",
+      "description": "Minimalistic C client for Redis >= 1.2",
+      "language": "C",
+      "stars": "6498",
+      "forks": "1845",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4748",
+      "forks": "1058",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1147",
+      "forks": "1377",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28523",
+      "forks": "10817",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hpjansson",
+      "name": "chafa",
+      "full_name": "hpjansson/chafa",
+      "url": "https://github.com/hpjansson/chafa",
+      "description": "📺🗿 Terminal graphics for the 21st century.",
+      "language": "C",
+      "stars": "3708",
+      "forks": "77",
+      "today_stars": "34 stars today"
+    }
+  ]
+}
