@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-13 01:02:54",
+  "repositories": [
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37224",
+      "forks": "3394",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14667",
+      "forks": "1376",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22213",
+      "forks": "4564",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6813",
+      "forks": "1106",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "3921",
+      "forks": "300",
+      "today_stars": "305 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "11911",
+      "forks": "1592",
+      "today_stars": "216 stars today"
+    },
+    {
+      "author": "anchore",
+      "name": "syft",
+      "full_name": "anchore/syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "stars": "7610",
+      "forks": "702",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24846",
+      "forks": "4108",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "22093",
+      "forks": "698",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "openfga",
+      "name": "openfga",
+      "full_name": "openfga/openfga",
+      "url": "https://github.com/openfga/openfga",
+      "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+      "language": "Go",
+      "stars": "4102",
+      "forks": "306",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "10425",
+      "forks": "918",
+      "today_stars": "290 stars today"
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "full_name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "language": "Go",
+      "stars": "23557",
+      "forks": "6843",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "go-gitea",
+      "name": "gitea",
+      "full_name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "stars": "50650",
+      "forks": "6041",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "yaml",
+      "name": "go-yaml",
+      "full_name": "yaml/go-yaml",
+      "url": "https://github.com/yaml/go-yaml",
+      "description": "The YAML org maintained fork of https://github.com/go-yaml/yaml",
+      "language": "Go",
+      "stars": "260",
+      "forks": "19",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "17790",
+      "forks": "1740",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "websocket",
+      "full_name": "gorilla/websocket",
+      "url": "https://github.com/gorilla/websocket",
+      "description": "Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",
+      "language": "Go",
+      "stars": "24032",
+      "forks": "3566",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18993",
+      "forks": "1380",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17633",
+      "forks": "1493",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": "22919",
+      "forks": "1589",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "samber",
+      "name": "lo",
+      "full_name": "samber/lo",
+      "url": "https://github.com/samber/lo",
+      "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+      "language": "Go",
+      "stars": "20154",
+      "forks": "898",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6198",
+      "forks": "3705",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8915",
+      "forks": "1085",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "11994",
+      "forks": "1792",
+      "today_stars": "10 stars today"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-13 01:03:14",
+  "repositories": [
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "30021",
+      "forks": "1046",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "16314",
+      "forks": "648",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "moghtech",
+      "name": "komodo",
+      "full_name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "stars": "7459",
+      "forks": "188",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9424",
+      "forks": "2130",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "51098",
+      "forks": "2225",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "lancedb",
+      "name": "lance",
+      "full_name": "lancedb/lance",
+      "url": "https://github.com/lancedb/lance",
+      "description": "Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": "5361",
+      "forks": "460",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16864",
+      "forks": "1503",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "25896",
+      "forks": "1810",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "21816",
+      "forks": "996",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": "8339",
+      "forks": "418",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1576",
+      "forks": "288",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。",
+      "language": "Rust",
+      "stars": "42139",
+      "forks": "7873",
+      "today_stars": "63 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6358",
+      "forks": "3830",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "10534",
+      "forks": "859",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "pythops",
+      "name": "impala",
+      "full_name": "pythops/impala",
+      "url": "https://github.com/pythops/impala",
+      "description": "🛜 TUI for managing wifi on Linux",
+      "language": "Rust",
+      "stars": "1327",
+      "forks": "25",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "39893",
+      "forks": "3049",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "SuperCuber",
+      "name": "dotter",
+      "full_name": "SuperCuber/dotter",
+      "url": "https://github.com/SuperCuber/dotter",
+      "description": "A dotfile manager and templater written in rust 🦀",
+      "language": "Rust",
+      "stars": "1505",
+      "forks": "59",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16336",
+      "forks": "675",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "vortex-data",
+      "name": "vortex",
+      "full_name": "vortex-data/vortex",
+      "url": "https://github.com/vortex-data/vortex",
+      "description": "An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.",
+      "language": "Rust",
+      "stars": "1676",
+      "forks": "62",
+      "today_stars": "119 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "11157",
+      "forks": "415",
+      "today_stars": "36 stars today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-13 01:03:53",
+  "repositories": [
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25792",
+      "forks": "3749",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "16216",
+      "forks": "7854",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6103",
+      "forks": "2757",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "cellos51",
+      "name": "balatro-gba",
+      "full_name": "cellos51/balatro-gba",
+      "url": "https://github.com/cellos51/balatro-gba",
+      "description": "",
+      "language": "C",
+      "stars": "489",
+      "forks": "14",
+      "today_stars": "127 stars today"
+    },
+    {
+      "author": "ffmpegwasm",
+      "name": "ffmpeg.wasm",
+      "full_name": "ffmpegwasm/ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "language": "C",
+      "stars": "16451",
+      "forks": "1002",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21342",
+      "forks": "3821",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "1853",
+      "forks": "346",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "VirtualBox",
+      "name": "virtualbox",
+      "full_name": "VirtualBox/virtualbox",
+      "url": "https://github.com/VirtualBox/virtualbox",
+      "description": "Source code for Oracle VirtualBox",
+      "language": "C",
+      "stars": "649",
+      "forks": "60",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2753",
+      "forks": "696",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3467",
+      "forks": "1478",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "27985",
+      "forks": "7513",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "201906",
+      "forks": "57694",
+      "today_stars": "99 stars today"
+    },
+    {
+      "author": "tinyproxy",
+      "name": "tinyproxy",
+      "full_name": "tinyproxy/tinyproxy",
+      "url": "https://github.com/tinyproxy/tinyproxy",
+      "description": "tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems",
+      "language": "C",
+      "stars": "5398",
+      "forks": "726",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go-instrumentation",
+      "full_name": "open-telemetry/opentelemetry-go-instrumentation",
+      "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation",
+      "description": "OpenTelemetry Auto Instrumentation using eBPF",
+      "language": "C",
+      "stars": "897",
+      "forks": "120",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8541",
+      "forks": "3278",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "orioledb",
+      "name": "orioledb",
+      "full_name": "orioledb/orioledb",
+      "url": "https://github.com/orioledb/orioledb",
+      "description": "OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)",
+      "language": "C",
+      "stars": "3699",
+      "forks": "143",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "openzfs",
+      "name": "zfs",
+      "full_name": "openzfs/zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "stars": "11516",
+      "forks": "1875",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "SanderMertens",
+      "name": "flecs",
+      "full_name": "SanderMertens/flecs",
+      "url": "https://github.com/SanderMertens/flecs",
+      "description": "A fast entity component system (ECS) for C & C++",
+      "language": "C",
+      "stars": "7482",
+      "forks": "546",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32544",
+      "forks": "1664",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3473",
+      "forks": "1344",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28528",
+      "forks": "10816",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "hpjansson",
+      "name": "chafa",
+      "full_name": "hpjansson/chafa",
+      "url": "https://github.com/hpjansson/chafa",
+      "description": "📺🗿 Terminal graphics for the 21st century.",
+      "language": "C",
+      "stars": "3724",
+      "forks": "78",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32611",
+      "forks": "2808",
+      "today_stars": "29 stars today"
+    }
+  ]
+}

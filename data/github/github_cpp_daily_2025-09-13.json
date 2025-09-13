@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-13 01:04:13",
+  "repositories": [
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "69565",
+      "forks": "10193",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "ros-navigation",
+      "name": "navigation2",
+      "full_name": "ros-navigation/navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
+      "language": "C++",
+      "stars": "3422",
+      "forks": "1560",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "100228",
+      "forks": "8756",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "10108",
+      "forks": "14429",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "30191",
+      "forks": "1329",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17849",
+      "forks": "3447",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "google-deepmind",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": "10615",
+      "forks": "1119",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69011",
+      "forks": "15859",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ClemensElflein",
+      "name": "OpenMower",
+      "full_name": "ClemensElflein/OpenMower",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+      "language": "C++",
+      "stars": "6220",
+      "forks": "358",
+      "today_stars": "64 stars today"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3210",
+      "forks": "203",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3926",
+      "forks": "371",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "CleverRaven",
+      "name": "Cataclysm-DDA",
+      "full_name": "CleverRaven/Cataclysm-DDA",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+      "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+      "language": "C++",
+      "stars": "11609",
+      "forks": "4345",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47161",
+      "forks": "7125",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "gnuradio",
+      "name": "gnuradio",
+      "full_name": "gnuradio/gnuradio",
+      "url": "https://github.com/gnuradio/gnuradio",
+      "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
+      "language": "C++",
+      "stars": "5664",
+      "forks": "2009",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29764",
+      "forks": "5772",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "37082",
+      "forks": "10519",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7397",
+      "forks": "863",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "JoeyDeVries",
+      "name": "LearnOpenGL",
+      "full_name": "JoeyDeVries/LearnOpenGL",
+      "url": "https://github.com/JoeyDeVries/LearnOpenGL",
+      "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
+      "language": "C++",
+      "stars": "11915",
+      "forks": "2897",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5676",
+      "forks": "507",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "sonic-net",
+      "name": "sonic-swss",
+      "full_name": "sonic-net/sonic-swss",
+      "url": "https://github.com/sonic-net/sonic-swss",
+      "description": "SONiC Switch State Service (SwSS)",
+      "language": "C++",
+      "stars": "201",
+      "forks": "628",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191609",
+      "forks": "74826",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "argotorg",
+      "name": "solidity",
+      "full_name": "argotorg/solidity",
+      "url": "https://github.com/argotorg/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": "25128",
+      "forks": "6190",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6351",
+      "forks": "1663",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "15474",
+      "forks": "6157",
+      "today_stars": "7 stars today"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "language": "python",
+  "period": "daily",
+  "fetch_time": "2025-09-13 01:01:56",
+  "repositories": [
+    {
+      "author": "Physical-Intelligence",
+      "name": "openpi",
+      "full_name": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "description": "",
+      "language": "Python",
+      "stars": "7095",
+      "forks": "792",
+      "today_stars": "768 stars today"
+    },
+    {
+      "author": "sentient-agi",
+      "name": "ROMA",
+      "full_name": "sentient-agi/ROMA",
+      "url": "https://github.com/sentient-agi/ROMA",
+      "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+      "language": "Python",
+      "stars": "1648",
+      "forks": "159",
+      "today_stars": "213 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "garak",
+      "full_name": "NVIDIA/garak",
+      "url": "https://github.com/NVIDIA/garak",
+      "description": "the LLM vulnerability scanner",
+      "language": "Python",
+      "stars": "5456",
+      "forks": "585",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "Azure",
+      "name": "azure-sdk-for-python",
+      "full_name": "Azure/azure-sdk-for-python",
+      "url": "https://github.com/Azure/azure-sdk-for-python",
+      "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+      "language": "Python",
+      "stars": "5233",
+      "forks": "3115",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "MaxKB",
+      "full_name": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+      "language": "Python",
+      "stars": "18336",
+      "forks": "2382",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "pyca",
+      "name": "cryptography",
+      "full_name": "pyca/cryptography",
+      "url": "https://github.com/pyca/cryptography",
+      "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.",
+      "language": "Python",
+      "stars": "7214",
+      "forks": "1642",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "HKUDS",
+      "name": "AutoAgent",
+      "full_name": "HKUDS/AutoAgent",
+      "url": "https://github.com/HKUDS/AutoAgent",
+      "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+      "language": "Python",
+      "stars": "6807",
+      "forks": "898",
+      "today_stars": "106 stars today"
+    },
+    {
+      "author": "DepthAnything",
+      "name": "Depth-Anything-V2",
+      "full_name": "DepthAnything/Depth-Anything-V2",
+      "url": "https://github.com/DepthAnything/Depth-Anything-V2",
+      "description": "[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
+      "language": "Python",
+      "stars": "6454",
+      "forks": "634",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "apecloud",
+      "name": "ApeRAG",
+      "full_name": "apecloud/ApeRAG",
+      "url": "https://github.com/apecloud/ApeRAG",
+      "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment",
+      "language": "Python",
+      "stars": "473",
+      "forks": "35",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "mxrch",
+      "name": "GHunt",
+      "full_name": "mxrch/GHunt",
+      "url": "https://github.com/mxrch/GHunt",
+      "description": "🕵️‍♂️ Offensive Google framework.",
+      "language": "Python",
+      "stars": "17759",
+      "forks": "1498",
+      "today_stars": "328 stars today"
+    },
+    {
+      "author": "LMCache",
+      "name": "LMCache",
+      "full_name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": "5155",
+      "forks": "572",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "wagtail",
+      "name": "wagtail",
+      "full_name": "wagtail/wagtail",
+      "url": "https://github.com/wagtail/wagtail",
+      "description": "A Django content management system focused on flexibility and user experience",
+      "language": "Python",
+      "stars": "19611",
+      "forks": "4159",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "sinaptik-ai",
+      "name": "pandas-ai",
+      "full_name": "sinaptik-ai/pandas-ai",
+      "url": "https://github.com/sinaptik-ai/pandas-ai",
+      "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+      "language": "Python",
+      "stars": "22044",
+      "forks": "2145",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "rwv",
+      "name": "chinese-dos-games",
+      "full_name": "rwv/chinese-dos-games",
+      "url": "https://github.com/rwv/chinese-dos-games",
+      "description": "🎮 Chinese DOS games collections.",
+      "language": "Python",
+      "stars": "9468",
+      "forks": "1159",
+      "today_stars": "68 stars today"
+    }
+  ]
+}
