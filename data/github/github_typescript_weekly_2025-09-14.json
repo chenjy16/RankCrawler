@@ -1,0 +1,238 @@
+{
+  "language": "typescript",
+  "period": "weekly",
+  "fetch_time": "2025-09-14 01:11:37",
+  "repositories": [
+    {
+      "author": "vercel",
+      "name": "examples",
+      "full_name": "vercel/examples",
+      "url": "https://github.com/vercel/examples",
+      "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+      "language": "TypeScript",
+      "stars": "4604",
+      "forks": "1435",
+      "today_stars": "585 stars this week"
+    },
+    {
+      "author": "firebase",
+      "name": "genkit",
+      "full_name": "firebase/genkit",
+      "url": "https://github.com/firebase/genkit",
+      "description": "Google's multi-model AI framework in Javascript, Go and Python",
+      "language": "TypeScript",
+      "stars": "3273",
+      "forks": "395",
+      "today_stars": "446 stars this week"
+    },
+    {
+      "author": "11cafe",
+      "name": "jaaz",
+      "full_name": "11cafe/jaaz",
+      "url": "https://github.com/11cafe/jaaz",
+      "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+      "language": "TypeScript",
+      "stars": "4424",
+      "forks": "359",
+      "today_stars": "1,914 stars this week"
+    },
+    {
+      "author": "bytebot-ai",
+      "name": "bytebot",
+      "full_name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": "6889",
+      "forks": "756",
+      "today_stars": "1,296 stars this week"
+    },
+    {
+      "author": "heroui-inc",
+      "name": "heroui",
+      "full_name": "heroui-inc/heroui",
+      "url": "https://github.com/heroui-inc/heroui",
+      "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+      "language": "TypeScript",
+      "stars": "26247",
+      "forks": "1932",
+      "today_stars": "828 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "agents",
+      "full_name": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "description": "Build and deploy AI Agents on Cloudflare",
+      "language": "TypeScript",
+      "stars": "2404",
+      "forks": "220",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "humanlayer",
+      "name": "12-factor-agents",
+      "full_name": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": "14331",
+      "forks": "1050",
+      "today_stars": "550 stars this week"
+    },
+    {
+      "author": "crbnos",
+      "name": "carbon",
+      "full_name": "crbnos/carbon",
+      "url": "https://github.com/crbnos/carbon",
+      "description": "The open-source manufacturing ERP/MES/QMS. Perfect for complex assembly, HMLV, and configure to order manufacturing.",
+      "language": "TypeScript",
+      "stars": "1512",
+      "forks": "122",
+      "today_stars": "221 stars this week"
+    },
+    {
+      "author": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "full_name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": "27973",
+      "forks": "4078",
+      "today_stars": "1,249 stars this week"
+    },
+    {
+      "author": "nukeop",
+      "name": "nuclear",
+      "full_name": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "description": "Streaming music player that finds free music for you",
+      "language": "TypeScript",
+      "stars": "15371",
+      "forks": "1177",
+      "today_stars": "911 stars this week"
+    },
+    {
+      "author": "TibixDev",
+      "name": "winboat",
+      "full_name": "TibixDev/winboat",
+      "url": "https://github.com/TibixDev/winboat",
+      "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+      "language": "Vue",
+      "stars": "3484",
+      "forks": "81",
+      "today_stars": "1,498 stars this week"
+    },
+    {
+      "author": "Kilo-Org",
+      "name": "kilocode",
+      "full_name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
+      "language": "TypeScript",
+      "stars": "9766",
+      "forks": "935",
+      "today_stars": "1,529 stars this week"
+    },
+    {
+      "author": "Vanilagy",
+      "name": "mediabunny",
+      "full_name": "Vanilagy/mediabunny",
+      "url": "https://github.com/Vanilagy/mediabunny",
+      "description": "Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.",
+      "language": "TypeScript",
+      "stars": "2967",
+      "forks": "94",
+      "today_stars": "1,092 stars this week"
+    },
+    {
+      "author": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "76701",
+      "forks": "4053",
+      "today_stars": "1,414 stars this week"
+    },
+    {
+      "author": "humanlayer",
+      "name": "humanlayer",
+      "full_name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+      "language": "TypeScript",
+      "stars": "2455",
+      "forks": "228",
+      "today_stars": "255 stars this week"
+    },
+    {
+      "author": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "137497",
+      "forks": "43360",
+      "today_stars": "1,986 stars this week"
+    },
+    {
+      "author": "AIDC-AI",
+      "name": "ComfyUI-Copilot",
+      "full_name": "AIDC-AI/ComfyUI-Copilot",
+      "url": "https://github.com/AIDC-AI/ComfyUI-Copilot",
+      "description": "An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance",
+      "language": "TypeScript",
+      "stars": "2881",
+      "forks": "206",
+      "today_stars": "240 stars this week"
+    },
+    {
+      "author": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": "88577",
+      "forks": "9807",
+      "today_stars": "555 stars this week"
+    },
+    {
+      "author": "gristlabs",
+      "name": "grist-core",
+      "full_name": "gristlabs/grist-core",
+      "url": "https://github.com/gristlabs/grist-core",
+      "description": "Grist is the evolution of spreadsheets.",
+      "language": "TypeScript",
+      "stars": "9596",
+      "forks": "464",
+      "today_stars": "210 stars this week"
+    },
+    {
+      "author": "expo",
+      "name": "expo",
+      "full_name": "expo/expo",
+      "url": "https://github.com/expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": "43281",
+      "forks": "8533",
+      "today_stars": "340 stars this week"
+    },
+    {
+      "author": "MrLesk",
+      "name": "Backlog.md",
+      "full_name": "MrLesk/Backlog.md",
+      "url": "https://github.com/MrLesk/Backlog.md",
+      "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+      "language": "TypeScript",
+      "stars": "3285",
+      "forks": "151",
+      "today_stars": "134 stars this week"
+    }
+  ]
+}

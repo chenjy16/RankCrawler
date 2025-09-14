@@ -1,0 +1,260 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-09-14 01:12:53",
+  "repositories": [
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "23874",
+      "forks": "11533",
+      "today_stars": "336 stars this week"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13468",
+      "forks": "1978",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "liamelui",
+      "name": "zomdroid",
+      "full_name": "liamelui/zomdroid",
+      "url": "https://github.com/liamelui/zomdroid",
+      "description": "Unofficial Project Zomboid launcher for Android",
+      "language": "C",
+      "stars": "157",
+      "forks": "16",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "1878",
+      "forks": "349",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8548",
+      "forks": "3281",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "28781",
+      "forks": "1177",
+      "today_stars": "122 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32632",
+      "forks": "2807",
+      "today_stars": "128 stars this week"
+    },
+    {
+      "author": "VirtualBox",
+      "name": "virtualbox",
+      "full_name": "VirtualBox/virtualbox",
+      "url": "https://github.com/VirtualBox/virtualbox",
+      "description": "Source code for Oracle VirtualBox",
+      "language": "C",
+      "stars": "657",
+      "forks": "60",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "pymumu",
+      "name": "smartdns",
+      "full_name": "pymumu/smartdns",
+      "url": "https://github.com/pymumu/smartdns",
+      "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+      "language": "C",
+      "stars": "9874",
+      "forks": "1178",
+      "today_stars": "316 stars this week"
+    },
+    {
+      "author": "brunodev85",
+      "name": "winlator",
+      "full_name": "brunodev85/winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "stars": "14449",
+      "forks": "941",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "128038",
+      "forks": "12000",
+      "today_stars": "467 stars this week"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "201969",
+      "forks": "57699",
+      "today_stars": "560 stars this week"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21350",
+      "forks": "3821",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28536",
+      "forks": "10818",
+      "today_stars": "64 stars this week"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4889",
+      "forks": "947",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5095",
+      "forks": "453",
+      "today_stars": "111 stars this week"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2162",
+      "forks": "453",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3573",
+      "forks": "816",
+      "today_stars": "61 stars this week"
+    },
+    {
+      "author": "riscv-software-src",
+      "name": "riscv-isa-sim",
+      "full_name": "riscv-software-src/riscv-isa-sim",
+      "url": "https://github.com/riscv-software-src/riscv-isa-sim",
+      "description": "Spike, a RISC-V ISA Simulator",
+      "language": "C",
+      "stars": "2826",
+      "forks": "975",
+      "today_stars": "9 stars this week"
+    },
+    {
+      "author": "acidanthera",
+      "name": "OpenCorePkg",
+      "full_name": "acidanthera/OpenCorePkg",
+      "url": "https://github.com/acidanthera/OpenCorePkg",
+      "description": "OpenCore bootloader",
+      "language": "C",
+      "stars": "14206",
+      "forks": "2185",
+      "today_stars": "44 stars this week"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "pico-examples",
+      "full_name": "raspberrypi/pico-examples",
+      "url": "https://github.com/raspberrypi/pico-examples",
+      "description": "",
+      "language": "C",
+      "stars": "3476",
+      "forks": "951",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "AFLplusplus",
+      "name": "AFLplusplus",
+      "full_name": "AFLplusplus/AFLplusplus",
+      "url": "https://github.com/AFLplusplus/AFLplusplus",
+      "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+      "language": "C",
+      "stars": "5970",
+      "forks": "1166",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "full_name": "mit-pdos/xv6-public",
+      "url": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": "8792",
+      "forks": "4282",
+      "today_stars": "22 stars this week"
+    }
+  ]
+}

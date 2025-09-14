@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-14 01:11:49",
+  "repositories": [
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22272",
+      "forks": "4568",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6873",
+      "forks": "1107",
+      "today_stars": "112 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37288",
+      "forks": "3401",
+      "today_stars": "138 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "12010",
+      "forks": "1599",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24854",
+      "forks": "4109",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "pocketbase",
+      "name": "pocketbase",
+      "full_name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": "50917",
+      "forks": "2637",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41877",
+      "forks": "3001",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "stretchr",
+      "name": "testify",
+      "full_name": "stretchr/testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "stars": "25155",
+      "forks": "1675",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14735",
+      "forks": "1380",
+      "today_stars": "125 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "152244",
+      "forks": "13135",
+      "today_stars": "63 stars today"
+    },
+    {
+      "author": "VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "full_name": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+      "language": "Go",
+      "stars": "14997",
+      "forks": "1459",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "22107",
+      "forks": "698",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "viper",
+      "full_name": "spf13/viper",
+      "url": "https://github.com/spf13/viper",
+      "description": "Go configuration with fangs",
+      "language": "Go",
+      "stars": "29253",
+      "forks": "2069",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "4019",
+      "forks": "303",
+      "today_stars": "141 stars today"
+    },
+    {
+      "author": "googleapis",
+      "name": "genai-toolbox",
+      "full_name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": "10357",
+      "forks": "817",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "flipped-aurora",
+      "name": "gin-vue-admin",
+      "full_name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "language": "Go",
+      "stars": "23560",
+      "forks": "6842",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3237",
+      "forks": "1328",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "10470",
+      "forks": "923",
+      "today_stars": "66 stars today"
+    },
+    {
+      "author": "pion",
+      "name": "webrtc",
+      "full_name": "pion/webrtc",
+      "url": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": "15317",
+      "forks": "1768",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "go-playground",
+      "name": "validator",
+      "full_name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": "18998",
+      "forks": "1379",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "10091",
+      "forks": "1196",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17368",
+      "forks": "1510",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

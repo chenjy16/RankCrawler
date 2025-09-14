@@ -1,0 +1,271 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-14 01:13:07",
+  "repositories": [
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69053",
+      "forks": "15863",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29805",
+      "forks": "5774",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "21402",
+      "forks": "1119",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "15479",
+      "forks": "6156",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": "7034",
+      "forks": "434",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "12202",
+      "forks": "3225",
+      "today_stars": "386 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "26555",
+      "forks": "5074",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27257",
+      "forks": "4905",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3234",
+      "forks": "205",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9716",
+      "forks": "1701",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "69020",
+      "forks": "10530",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "zerotier",
+      "name": "ZeroTierOne",
+      "full_name": "zerotier/ZeroTierOne",
+      "url": "https://github.com/zerotier/ZeroTierOne",
+      "description": "A Smart Ethernet Switch for Earth",
+      "language": "C++",
+      "stars": "15877",
+      "forks": "1832",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "86456",
+      "forks": "13019",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars": "5640",
+      "forks": "2014",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "30227",
+      "forks": "1328",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "83942",
+      "forks": "56281",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16328",
+      "forks": "2851",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43640",
+      "forks": "10897",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3935",
+      "forks": "371",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1119",
+      "forks": "260",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47171",
+      "forks": "7124",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17858",
+      "forks": "3449",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68186",
+      "forks": "11194",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13494",
+      "forks": "19354",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

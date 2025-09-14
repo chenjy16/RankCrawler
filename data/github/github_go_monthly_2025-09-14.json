@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-09-14 01:12:01",
+  "repositories": [
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "21582",
+      "forks": "2026",
+      "today_stars": "1,396 stars this month"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41877",
+      "forks": "3001",
+      "today_stars": "504 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "4019",
+      "forks": "303",
+      "today_stars": "1,964 stars this month"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "76149",
+      "forks": "4764",
+      "today_stars": "1,608 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28892",
+      "forks": "2744",
+      "today_stars": "1,031 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18200",
+      "forks": "1642",
+      "today_stars": "528 stars this month"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5830",
+      "forks": "1074",
+      "today_stars": "532 stars this month"
+    },
+    {
+      "author": "SpecterOps",
+      "name": "BloodHound",
+      "full_name": "SpecterOps/BloodHound",
+      "url": "https://github.com/SpecterOps/BloodHound",
+      "description": "Six Degrees of Domain Admin",
+      "language": "Go",
+      "stars": "2365",
+      "forks": "227",
+      "today_stars": "459 stars this month"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20624",
+      "forks": "6364",
+      "today_stars": "301 stars this month"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "10470",
+      "forks": "923",
+      "today_stars": "1,910 stars this month"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "15077",
+      "forks": "463",
+      "today_stars": "1,428 stars this month"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "15093",
+      "forks": "377",
+      "today_stars": "568 stars this month"
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "full_name": "rivo/tview",
+      "url": "https://github.com/rivo/tview",
+      "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+      "language": "Go",
+      "stars": "12780",
+      "forks": "637",
+      "today_stars": "305 stars this month"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "microservices-demo",
+      "full_name": "GoogleCloudPlatform/microservices-demo",
+      "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+      "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+      "language": "Go",
+      "stars": "18989",
+      "forks": "8800",
+      "today_stars": "316 stars this month"
+    },
+    {
+      "author": "ibnaleem",
+      "name": "gosearch",
+      "full_name": "ibnaleem/gosearch",
+      "url": "https://github.com/ibnaleem/gosearch",
+      "description": "🔍 Search anyone's digital footprint across 300+ websites",
+      "language": "Go",
+      "stars": "2985",
+      "forks": "286",
+      "today_stars": "489 stars this month"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14735",
+      "forks": "1380",
+      "today_stars": "996 stars this month"
+    },
+    {
+      "author": "gdy666",
+      "name": "lucky",
+      "full_name": "gdy666/lucky",
+      "url": "https://github.com/gdy666/lucky",
+      "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+      "language": "Go",
+      "stars": "6430",
+      "forks": "597",
+      "today_stars": "256 stars this month"
+    },
+    {
+      "author": "siderolabs",
+      "name": "talos",
+      "full_name": "siderolabs/talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "stars": "8731",
+      "forks": "711",
+      "today_stars": "232 stars this month"
+    },
+    {
+      "author": "junegunn",
+      "name": "fzf",
+      "full_name": "junegunn/fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "stars": "73714",
+      "forks": "2588",
+      "today_stars": "1,011 stars this month"
+    },
+    {
+      "author": "containrrr",
+      "name": "watchtower",
+      "full_name": "containrrr/watchtower",
+      "url": "https://github.com/containrrr/watchtower",
+      "description": "A process for automating Docker container base image updates.",
+      "language": "Go",
+      "stars": "23457",
+      "forks": "1008",
+      "today_stars": "514 stars this month"
+    },
+    {
+      "author": "ArvinLovegood",
+      "name": "go-stock",
+      "full_name": "ArvinLovegood/go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "stars": "2524",
+      "forks": "414",
+      "today_stars": "334 stars this month"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "5066",
+      "forks": "839",
+      "today_stars": "552 stars this month"
+    }
+  ]
+}
