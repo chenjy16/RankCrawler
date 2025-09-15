@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-09-15 01:12:23",
+  "repositories": [
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "4395",
+      "forks": "298",
+      "today_stars": "598 stars this week"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "18867",
+      "forks": "795",
+      "today_stars": "1,450 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "40729",
+      "forks": "4746",
+      "today_stars": "1,527 stars this week"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "10374",
+      "forks": "267",
+      "today_stars": "283 stars this week"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "33960",
+      "forks": "4184",
+      "today_stars": "4,275 stars this week"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21473",
+      "forks": "1554",
+      "today_stars": "342 stars this week"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2847",
+      "forks": "208",
+      "today_stars": "301 stars this week"
+    },
+    {
+      "author": "tokio-rs",
+      "name": "tokio",
+      "full_name": "tokio-rs/tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "stars": "29583",
+      "forks": "2759",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "16343",
+      "forks": "650",
+      "today_stars": "97 stars this week"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "19257",
+      "forks": "630",
+      "today_stars": "287 stars this week"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "21853",
+      "forks": "995",
+      "today_stars": "171 stars this week"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "985",
+      "forks": "535",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "j178",
+      "name": "prek",
+      "full_name": "j178/prek",
+      "url": "https://github.com/j178/prek",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+      "language": "Rust",
+      "stars": "1367",
+      "forks": "48",
+      "today_stars": "604 stars this week"
+    },
+    {
+      "author": "ruffle-rs",
+      "name": "ruffle",
+      "full_name": "ruffle-rs/ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "stars": "17190",
+      "forks": "916",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "carthage-software",
+      "name": "mago",
+      "full_name": "carthage-software/mago",
+      "url": "https://github.com/carthage-software/mago",
+      "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+      "language": "Rust",
+      "stars": "1536",
+      "forks": "59",
+      "today_stars": "429 stars this week"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "17663",
+      "forks": "688",
+      "today_stars": "281 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "25959",
+      "forks": "1812",
+      "today_stars": "207 stars this week"
+    },
+    {
+      "author": "slint-ui",
+      "name": "slint",
+      "full_name": "slint-ui/slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "stars": "20360",
+      "forks": "741",
+      "today_stars": "94 stars this week"
+    },
+    {
+      "author": "atuinsh",
+      "name": "atuin",
+      "full_name": "atuinsh/atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": "25792",
+      "forks": "699",
+      "today_stars": "136 stars this week"
+    },
+    {
+      "author": "hatoo",
+      "name": "oha",
+      "full_name": "hatoo/oha",
+      "url": "https://github.com/hatoo/oha",
+      "description": "Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.",
+      "language": "Rust",
+      "stars": "9161",
+      "forks": "258",
+      "today_stars": "150 stars this week"
+    },
+    {
+      "author": "biomejs",
+      "name": "biome",
+      "full_name": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "stars": "21029",
+      "forks": "692",
+      "today_stars": "123 stars this week"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16402",
+      "forks": "678",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27581",
+      "forks": "1359",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "rolldown",
+      "name": "rolldown",
+      "full_name": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": "11933",
+      "forks": "642",
+      "today_stars": "45 stars this week"
+    }
+  ]
+}

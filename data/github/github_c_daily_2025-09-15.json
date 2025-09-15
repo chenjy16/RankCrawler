@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-15 01:12:55",
+  "repositories": [
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "202022",
+      "forks": "57705",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39453",
+      "forks": "7933",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "PerformanC",
+      "name": "ReZygisk",
+      "full_name": "PerformanC/ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "stars": "2314",
+      "forks": "219",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "86Box",
+      "name": "86Box",
+      "full_name": "86Box/86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
+      "language": "C",
+      "stars": "3663",
+      "forks": "438",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "ProtonVPN",
+      "name": "android-app",
+      "full_name": "ProtonVPN/android-app",
+      "url": "https://github.com/ProtonVPN/android-app",
+      "description": "Official ProtonVPN Android app",
+      "language": "C",
+      "stars": "2968",
+      "forks": "391",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32557",
+      "forks": "1665",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "xiph",
+      "name": "opus",
+      "full_name": "xiph/opus",
+      "url": "https://github.com/xiph/opus",
+      "description": "Modern audio compression for the internet.",
+      "language": "C",
+      "stars": "2758",
+      "forks": "697",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "29954",
+      "forks": "7888",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "Klipper3d",
+      "name": "klipper",
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "description": "Klipper is a 3d-printer firmware",
+      "language": "C",
+      "stars": "10804",
+      "forks": "5661",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6109",
+      "forks": "2759",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "1892",
+      "forks": "351",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "libsdl-org",
+      "name": "SDL",
+      "full_name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "stars": "13629",
+      "forks": "2357",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "cellos51",
+      "name": "balatro-gba",
+      "full_name": "cellos51/balatro-gba",
+      "url": "https://github.com/cellos51/balatro-gba",
+      "description": "",
+      "language": "C",
+      "stars": "672",
+      "forks": "17",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "winsiderss",
+      "name": "systeminformer",
+      "full_name": "winsiderss/systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+      "language": "C",
+      "stars": "12637",
+      "forks": "1533",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "skyfloogle",
+      "name": "red-viper",
+      "full_name": "skyfloogle/red-viper",
+      "url": "https://github.com/skyfloogle/red-viper",
+      "description": "A Virtual Boy emulator for the 3DS",
+      "language": "C",
+      "stars": "916",
+      "forks": "22",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "immortalwrt",
+      "name": "immortalwrt",
+      "full_name": "immortalwrt/immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "stars": "8863",
+      "forks": "2697",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "jart",
+      "name": "cosmopolitan",
+      "full_name": "jart/cosmopolitan",
+      "url": "https://github.com/jart/cosmopolitan",
+      "description": "build-once run-anywhere c library",
+      "language": "C",
+      "stars": "19831",
+      "forks": "704",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "75885",
+      "forks": "6151",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raygui",
+      "full_name": "raysan5/raygui",
+      "url": "https://github.com/raysan5/raygui",
+      "description": "A simple and easy-to-use immediate-mode gui library",
+      "language": "C",
+      "stars": "4293",
+      "forks": "346",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "66792",
+      "forks": "8684",
+      "today_stars": "21 stars today"
+    }
+  ]
+}

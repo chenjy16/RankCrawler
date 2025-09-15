@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-15 01:11:58",
+  "repositories": [
+    {
+      "author": "docker",
+      "name": "mcp-gateway",
+      "full_name": "docker/mcp-gateway",
+      "url": "https://github.com/docker/mcp-gateway",
+      "description": "docker mcp CLI plugin / MCP Gateway",
+      "language": "Go",
+      "stars": "455",
+      "forks": "62",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": "31207",
+      "forks": "4567",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "v2fly",
+      "name": "v2ray-core",
+      "full_name": "v2fly/v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "stars": "32014",
+      "forks": "4875",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hteen",
+      "name": "apple-store-helper",
+      "full_name": "hteen/apple-store-helper",
+      "url": "https://github.com/hteen/apple-store-helper",
+      "description": "Apple Store iPhone预约助手",
+      "language": "Go",
+      "stars": "1221",
+      "forks": "219",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "JanDeDobbeleer",
+      "name": "oh-my-posh",
+      "full_name": "JanDeDobbeleer/oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "language": "Go",
+      "stars": "20059",
+      "forks": "2585",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40688",
+      "forks": "7068",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26609",
+      "forks": "3115",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-registry",
+      "full_name": "docker/mcp-registry",
+      "url": "https://github.com/docker/mcp-registry",
+      "description": "Official Docker MCP registry",
+      "language": "Go",
+      "stars": "200",
+      "forks": "274",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "encoredev",
+      "name": "encore",
+      "full_name": "encoredev/encore",
+      "url": "https://github.com/encoredev/encore",
+      "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+      "language": "Go",
+      "stars": "10641",
+      "forks": "489",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22299",
+      "forks": "4571",
+      "today_stars": "59 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14775",
+      "forks": "1388",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37331",
+      "forks": "3410",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "caddyserver",
+      "name": "caddy",
+      "full_name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": "66782",
+      "forks": "4485",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56664",
+      "forks": "5480",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "openbao",
+      "name": "openbao",
+      "full_name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": "4500",
+      "forks": "255",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "syncthing",
+      "name": "syncthing",
+      "full_name": "syncthing/syncthing",
+      "url": "https://github.com/syncthing/syncthing",
+      "description": "Open Source Continuous File Synchronization",
+      "language": "Go",
+      "stars": "76168",
+      "forks": "4765",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "OJ",
+      "name": "gobuster",
+      "full_name": "OJ/gobuster",
+      "url": "https://github.com/OJ/gobuster",
+      "description": "Directory/File, DNS and VHost busting tool written in Go",
+      "language": "Go",
+      "stars": "12521",
+      "forks": "1459",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24738",
+      "forks": "1984",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "152304",
+      "forks": "13141",
+      "today_stars": "72 stars today"
+    }
+  ]
+}
