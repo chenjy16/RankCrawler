@@ -1,0 +1,205 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-16 01:06:19",
+  "repositories": [
+    {
+      "author": "sst",
+      "name": "opencode",
+      "full_name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "TypeScript",
+      "stars": "23447",
+      "forks": "1626",
+      "today_stars": "189 stars today"
+    },
+    {
+      "author": "lharries",
+      "name": "whatsapp-mcp",
+      "full_name": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "language": "Go",
+      "stars": "4847",
+      "forks": "723",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "tbphp",
+      "name": "gpt-load",
+      "full_name": "tbphp/gpt-load",
+      "url": "https://github.com/tbphp/gpt-load",
+      "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
+      "language": "Go",
+      "stars": "4897",
+      "forks": "420",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37373",
+      "forks": "3416",
+      "today_stars": "61 stars today"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "10138",
+      "forks": "1204",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",
+      "language": "Go",
+      "stars": "10730",
+      "forks": "1582",
+      "today_stars": "188 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-gateway",
+      "full_name": "docker/mcp-gateway",
+      "url": "https://github.com/docker/mcp-gateway",
+      "description": "docker mcp CLI plugin / MCP Gateway",
+      "language": "Go",
+      "stars": "555",
+      "forks": "66",
+      "today_stars": "151 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-registry",
+      "full_name": "docker/mcp-registry",
+      "url": "https://github.com/docker/mcp-registry",
+      "description": "Official Docker MCP registry",
+      "language": "Go",
+      "stars": "210",
+      "forks": "278",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22317",
+      "forks": "4573",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24766",
+      "forks": "1987",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "opentofu",
+      "name": "opentofu",
+      "full_name": "opentofu/opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+      "language": "Go",
+      "stars": "26518",
+      "forks": "1083",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "12165",
+      "forks": "1606",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "FiloSottile",
+      "name": "age",
+      "full_name": "FiloSottile/age",
+      "url": "https://github.com/FiloSottile/age",
+      "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+      "language": "Go",
+      "stars": "19695",
+      "forks": "574",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14794",
+      "forks": "1394",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "external-secrets",
+      "name": "external-secrets",
+      "full_name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": "5844",
+      "forks": "1074",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "5096",
+      "forks": "845",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "22961",
+      "forks": "4528",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "iam-veeramalla",
+      "name": "observability-zero-to-hero",
+      "full_name": "iam-veeramalla/observability-zero-to-hero",
+      "url": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+      "description": "Repo for learning observability",
+      "language": "Go",
+      "stars": "2365",
+      "forks": "3701",
+      "today_stars": "6 stars today"
+    }
+  ]
+}

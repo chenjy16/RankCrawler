@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-16 01:06:38",
+  "repositories": [
+    {
+      "author": "carthage-software",
+      "name": "mago",
+      "full_name": "carthage-software/mago",
+      "url": "https://github.com/carthage-software/mago",
+      "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+      "language": "Rust",
+      "stars": "1612",
+      "forks": "60",
+      "today_stars": "80 stars today"
+    },
+    {
+      "author": "tree-sitter",
+      "name": "tree-sitter",
+      "full_name": "tree-sitter/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter",
+      "description": "An incremental parsing system for programming tools",
+      "language": "Rust",
+      "stars": "22036",
+      "forks": "2059",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16461",
+      "forks": "683",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "28262",
+      "forks": "607",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "InfinitiBit",
+      "name": "graphbit",
+      "full_name": "InfinitiBit/graphbit",
+      "url": "https://github.com/InfinitiBit/graphbit",
+      "description": "GraphBit is the world’s first enterprise-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability. It enables reliable multi-agent workflows with minimal CPU and memory usage, making it production-ready for real-world enterprise environments.",
+      "language": "Rust",
+      "stars": "230",
+      "forks": "62",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "H-M-H",
+      "name": "Weylus",
+      "full_name": "H-M-H/Weylus",
+      "url": "https://github.com/H-M-H/Weylus",
+      "description": "Use your tablet as graphic tablet/touch screen on your computer.",
+      "language": "Rust",
+      "stars": "8328",
+      "forks": "324",
+      "today_stars": "73 stars today"
+    },
+    {
+      "author": "mainmatter",
+      "name": "100-exercises-to-learn-rust",
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+      "description": "A self-paced course to learn Rust, one exercise at a time.",
+      "language": "Rust",
+      "stars": "8318",
+      "forks": "1707",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "23705",
+      "forks": "2494",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "106491",
+      "forks": "13737",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "erebe",
+      "name": "wstunnel",
+      "full_name": "erebe/wstunnel",
+      "url": "https://github.com/erebe/wstunnel",
+      "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+      "language": "Rust",
+      "stars": "5430",
+      "forks": "446",
+      "today_stars": "125 stars today"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7842",
+      "forks": "620",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Myriad-Dreamin",
+      "name": "tinymist",
+      "full_name": "Myriad-Dreamin/tinymist",
+      "url": "https://github.com/Myriad-Dreamin/tinymist",
+      "description": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].",
+      "language": "Rust",
+      "stars": "2071",
+      "forks": "89",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "0x192",
+      "name": "universal-android-debloater",
+      "full_name": "0x192/universal-android-debloater",
+      "url": "https://github.com/0x192/universal-android-debloater",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": "17830",
+      "forks": "923",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "aptos-labs",
+      "name": "aptos-core",
+      "full_name": "aptos-labs/aptos-core",
+      "url": "https://github.com/aptos-labs/aptos-core",
+      "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+      "language": "Rust",
+      "stars": "6361",
+      "forks": "3833",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "btjawa",
+      "name": "BiliTools",
+      "full_name": "btjawa/BiliTools",
+      "url": "https://github.com/btjawa/BiliTools",
+      "description": "A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源",
+      "language": "Rust",
+      "stars": "3600",
+      "forks": "242",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "cloud-hypervisor",
+      "name": "cloud-hypervisor",
+      "full_name": "cloud-hypervisor/cloud-hypervisor",
+      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "language": "Rust",
+      "stars": "4785",
+      "forks": "517",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "30478",
+      "forks": "1060",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30623",
+      "forks": "3642",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "30051",
+      "forks": "1048",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "feschber",
+      "name": "lan-mouse",
+      "full_name": "feschber/lan-mouse",
+      "url": "https://github.com/feschber/lan-mouse",
+      "description": "mouse & keyboard sharing via LAN",
+      "language": "Rust",
+      "stars": "3748",
+      "forks": "135",
+      "today_stars": "111 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "2243",
+      "forks": "106",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "19001",
+      "forks": "800",
+      "today_stars": "171 stars today"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "16367",
+      "forks": "653",
+      "today_stars": "24 stars today"
+    }
+  ]
+}
