@@ -1,0 +1,172 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-09-17 01:04:38",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "75853",
+      "forks": "4195",
+      "today_stars": "833 stars today"
+    },
+    {
+      "author": "ml-explore",
+      "name": "mlx-lm",
+      "full_name": "ml-explore/mlx-lm",
+      "url": "https://github.com/ml-explore/mlx-lm",
+      "description": "Run LLMs with MLX",
+      "language": "Python",
+      "stars": "2255",
+      "forks": "243",
+      "today_stars": "119 stars today"
+    },
+    {
+      "author": "dataease",
+      "name": "SQLBot",
+      "full_name": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+      "language": "Python",
+      "stars": "1862",
+      "forks": "215",
+      "today_stars": "121 stars today"
+    },
+    {
+      "author": "SkyworkAI",
+      "name": "DeepResearchAgent",
+      "full_name": "SkyworkAI/DeepResearchAgent",
+      "url": "https://github.com/SkyworkAI/DeepResearchAgent",
+      "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.",
+      "language": "JavaScript",
+      "stars": "2340",
+      "forks": "323",
+      "today_stars": "63 stars today"
+    },
+    {
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "40562",
+      "forks": "7148",
+      "today_stars": "309 stars today"
+    },
+    {
+      "author": "ccxt",
+      "name": "ccxt",
+      "full_name": "ccxt/ccxt",
+      "url": "https://github.com/ccxt/ccxt",
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+      "language": "Python",
+      "stars": "38677",
+      "forks": "8199",
+      "today_stars": "267 stars today"
+    },
+    {
+      "author": "HKUDS",
+      "name": "DeepCode",
+      "full_name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": "6579",
+      "forks": "885",
+      "today_stars": "304 stars today"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+      "language": "Python",
+      "stars": "54170",
+      "forks": "8629",
+      "today_stars": "92 stars today"
+    },
+    {
+      "author": "Plachtaa",
+      "name": "seed-vc",
+      "full_name": "Plachtaa/seed-vc",
+      "url": "https://github.com/Plachtaa/seed-vc",
+      "description": "zero-shot voice conversion & singing voice conversion, with real-time support",
+      "language": "Python",
+      "stars": "3136",
+      "forks": "370",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6546",
+      "forks": "965",
+      "today_stars": "90 stars today"
+    },
+    {
+      "author": "mnh-jansson",
+      "name": "open-battery-information",
+      "full_name": "mnh-jansson/open-battery-information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "description": "",
+      "language": "C++",
+      "stars": "534",
+      "forks": "108",
+      "today_stars": "90 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "2433",
+      "forks": "107",
+      "today_stars": "62 stars today"
+    },
+    {
+      "author": "PowerShell",
+      "name": "PowerShell",
+      "full_name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": "49925",
+      "forks": "7927",
+      "today_stars": "153 stars today"
+    },
+    {
+      "author": "ItzCrazyKns",
+      "name": "Perplexica",
+      "full_name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": "24969",
+      "forks": "2587",
+      "today_stars": "361 stars today"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Python",
+      "full_name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": "207272",
+      "forks": "47805",
+      "today_stars": "69 stars today"
+    }
+  ]
+}
