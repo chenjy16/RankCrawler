@@ -1,0 +1,238 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-18 01:06:17",
+  "repositories": [
+    {
+      "author": "category-labs",
+      "name": "monad-bft",
+      "full_name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": "358",
+      "forks": "104",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "42091",
+      "forks": "4898",
+      "today_stars": "487 stars today"
+    },
+    {
+      "author": "erebe",
+      "name": "wstunnel",
+      "full_name": "erebe/wstunnel",
+      "url": "https://github.com/erebe/wstunnel",
+      "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+      "language": "Rust",
+      "stars": "5503",
+      "forks": "453",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "65871",
+      "forks": "5304",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "2561",
+      "forks": "113",
+      "today_stars": "224 stars today"
+    },
+    {
+      "author": "swc-project",
+      "name": "swc",
+      "full_name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "stars": "32719",
+      "forks": "1346",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "53233",
+      "forks": "2168",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "67770",
+      "forks": "2019",
+      "today_stars": "89 stars today"
+    },
+    {
+      "author": "cloud-hypervisor",
+      "name": "cloud-hypervisor",
+      "full_name": "cloud-hypervisor/cloud-hypervisor",
+      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "language": "Rust",
+      "stars": "4801",
+      "forks": "520",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "30463",
+      "forks": "2078",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "5851",
+      "forks": "273",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "28543",
+      "forks": "1918",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "kata-containers",
+      "name": "kata-containers",
+      "full_name": "kata-containers/kata-containers",
+      "url": "https://github.com/kata-containers/kata-containers",
+      "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+      "language": "Rust",
+      "stars": "6727",
+      "forks": "1169",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "influxdb",
+      "full_name": "influxdata/influxdb",
+      "url": "https://github.com/influxdata/influxdb",
+      "description": "Scalable datastore for metrics, events, and real-time analytics",
+      "language": "Rust",
+      "stars": "30636",
+      "forks": "3642",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "restatedev",
+      "name": "restate",
+      "full_name": "restatedev/restate",
+      "url": "https://github.com/restatedev/restate",
+      "description": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+      "language": "Rust",
+      "stars": "2919",
+      "forks": "103",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "vercel",
+      "name": "turborepo",
+      "full_name": "vercel/turborepo",
+      "url": "https://github.com/vercel/turborepo",
+      "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+      "language": "Rust",
+      "stars": "28682",
+      "forks": "2093",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "5001",
+      "forks": "599",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "104235",
+      "forks": "5710",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "mtkennerly",
+      "name": "ludusavi",
+      "full_name": "mtkennerly/ludusavi",
+      "url": "https://github.com/mtkennerly/ludusavi",
+      "description": "Backup tool for PC game saves",
+      "language": "Rust",
+      "stars": "4239",
+      "forks": "93",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "asciinema",
+      "name": "asciinema",
+      "full_name": "asciinema/asciinema",
+      "url": "https://github.com/asciinema/asciinema",
+      "description": "Terminal session recorder, streamer and player 📹",
+      "language": "Rust",
+      "stars": "15915",
+      "forks": "970",
+      "today_stars": "30 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "ruff",
+      "full_name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": "42496",
+      "forks": "1535",
+      "today_stars": "15 stars today"
+    }
+  ]
+}

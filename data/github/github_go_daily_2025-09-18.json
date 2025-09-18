@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-18 01:05:57",
+  "repositories": [
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24838",
+      "forks": "1992",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "grafana",
+      "name": "alloy",
+      "full_name": "grafana/alloy",
+      "url": "https://github.com/grafana/alloy",
+      "description": "OpenTelemetry Collector distribution with programmable pipelines",
+      "language": "Go",
+      "stars": "2454",
+      "forks": "414",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "minio",
+      "name": "minio",
+      "full_name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "55245",
+      "forks": "6170",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70718",
+      "forks": "18810",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8931",
+      "forks": "1088",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "TwiN",
+      "name": "gatus",
+      "full_name": "TwiN/gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "⛑ Automated developer-oriented status page",
+      "language": "Go",
+      "stars": "8396",
+      "forks": "565",
+      "today_stars": "49 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46573",
+      "forks": "10023",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "23260",
+      "forks": "1778",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "cloudwego",
+      "name": "eino",
+      "full_name": "cloudwego/eino",
+      "url": "https://github.com/cloudwego/eino",
+      "description": "The ultimate LLM/AI application development framework in Golang.",
+      "language": "Go",
+      "stars": "7312",
+      "forks": "575",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+      "language": "Go",
+      "stars": "10891",
+      "forks": "1596",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "13614",
+      "forks": "729",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "donetick",
+      "name": "donetick",
+      "full_name": "donetick/donetick",
+      "url": "https://github.com/donetick/donetick",
+      "description": "Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized",
+      "language": "Go",
+      "stars": "1192",
+      "forks": "58",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "22014",
+      "forks": "2053",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "expr-lang",
+      "name": "expr",
+      "full_name": "expr-lang/expr",
+      "url": "https://github.com/expr-lang/expr",
+      "description": "Expression language and expression evaluation for Go",
+      "language": "Go",
+      "stars": "7259",
+      "forks": "459",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux2",
+      "full_name": "fluxcd/flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "stars": "7421",
+      "forks": "677",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kustomize",
+      "full_name": "kubernetes-sigs/kustomize",
+      "url": "https://github.com/kubernetes-sigs/kustomize",
+      "description": "Customization of kubernetes YAML configurations",
+      "language": "Go",
+      "stars": "11702",
+      "forks": "2335",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "vmware-tanzu",
+      "name": "velero",
+      "full_name": "vmware-tanzu/velero",
+      "url": "https://github.com/vmware-tanzu/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "stars": "9467",
+      "forks": "1472",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12477",
+      "forks": "944",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38866",
+      "forks": "4102",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28471",
+      "forks": "7327",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6206",
+      "forks": "3709",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "prometheus",
+      "name": "blackbox_exporter",
+      "full_name": "prometheus/blackbox_exporter",
+      "url": "https://github.com/prometheus/blackbox_exporter",
+      "description": "Blackbox prober exporter",
+      "language": "Go",
+      "stars": "5262",
+      "forks": "1142",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28942",
+      "forks": "2751",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

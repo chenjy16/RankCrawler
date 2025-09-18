@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-18 01:07:01",
+  "repositories": [
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "38979",
+      "forks": "6872",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7236",
+      "forks": "1766",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6669",
+      "forks": "978",
+      "today_stars": "191 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3490",
+      "forks": "1348",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4338",
+      "forks": "1613",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "open-quantum-safe",
+      "name": "liboqs",
+      "full_name": "open-quantum-safe/liboqs",
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
+      "language": "C",
+      "stars": "2487",
+      "forks": "624",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "12051",
+      "forks": "5258",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "6123",
+      "forks": "900",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "redis",
+      "name": "redis",
+      "full_name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "stars": "70896",
+      "forks": "24229",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13121",
+      "forks": "7918",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-idf",
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "stars": "16245",
+      "forks": "7863",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Unity",
+      "full_name": "ThrowTheSwitch/Unity",
+      "url": "https://github.com/ThrowTheSwitch/Unity",
+      "description": "Simple unit testing for C",
+      "language": "C",
+      "stars": "4764",
+      "forks": "1060",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "zstd",
+      "full_name": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "stars": "25643",
+      "forks": "2311",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "remzi-arpacidusseau",
+      "name": "ostep-projects",
+      "full_name": "remzi-arpacidusseau/ostep-projects",
+      "url": "https://github.com/remzi-arpacidusseau/ostep-projects",
+      "description": "Projects for an undergraduate OS course",
+      "language": "C",
+      "stars": "5109",
+      "forks": "1414",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "libuv",
+      "name": "libuv",
+      "full_name": "libuv/libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "stars": "25812",
+      "forks": "3749",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1148",
+      "forks": "1382",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "neutrinolabs",
+      "name": "xrdp",
+      "full_name": "neutrinolabs/xrdp",
+      "url": "https://github.com/neutrinolabs/xrdp",
+      "description": "xrdp: an open source RDP server",
+      "language": "C",
+      "stars": "6290",
+      "forks": "1718",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5530",
+      "forks": "2253",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "merbanan",
+      "name": "rtl_433",
+      "full_name": "merbanan/rtl_433",
+      "url": "https://github.com/merbanan/rtl_433",
+      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+      "language": "C",
+      "stars": "6867",
+      "forks": "1441",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "utkarshdalal",
+      "name": "GameNative",
+      "full_name": "utkarshdalal/GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Lightweight unofficial Steam client for Android",
+      "language": "C",
+      "stars": "859",
+      "forks": "21",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "12159",
+      "forks": "2835",
+      "today_stars": "12 stars today"
+    }
+  ]
+}
