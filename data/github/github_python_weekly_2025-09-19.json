@@ -1,0 +1,216 @@
+{
+  "language": "python",
+  "period": "weekly",
+  "fetch_time": "2025-09-19 01:07:39",
+  "repositories": [
+    {
+      "author": "sentient-agi",
+      "name": "ROMA",
+      "full_name": "sentient-agi/ROMA",
+      "url": "https://github.com/sentient-agi/ROMA",
+      "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+      "language": "Python",
+      "stars": "2898",
+      "forks": "286",
+      "today_stars": "1,599 stars this week"
+    },
+    {
+      "author": "CorentinJ",
+      "name": "Real-Time-Voice-Cloning",
+      "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+      "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+      "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "language": "Python",
+      "stars": "56488",
+      "forks": "9204",
+      "today_stars": "1,463 stars this week"
+    },
+    {
+      "author": "Physical-Intelligence",
+      "name": "openpi",
+      "full_name": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "description": "",
+      "language": "Python",
+      "stars": "7652",
+      "forks": "858",
+      "today_stars": "1,602 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "78639",
+      "forks": "4318",
+      "today_stars": "5,074 stars this week"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "DeepResearch",
+      "full_name": "Alibaba-NLP/DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+      "language": "Python",
+      "stars": "8939",
+      "forks": "660",
+      "today_stars": "2,036 stars this week"
+    },
+    {
+      "author": "dataease",
+      "name": "SQLBot",
+      "full_name": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+      "language": "Python",
+      "stars": "2385",
+      "forks": "260",
+      "today_stars": "887 stars this week"
+    },
+    {
+      "author": "ml-explore",
+      "name": "mlx-lm",
+      "full_name": "ml-explore/mlx-lm",
+      "url": "https://github.com/ml-explore/mlx-lm",
+      "description": "Run LLMs with MLX",
+      "language": "Python",
+      "stars": "2344",
+      "forks": "252",
+      "today_stars": "502 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "garak",
+      "full_name": "NVIDIA/garak",
+      "url": "https://github.com/NVIDIA/garak",
+      "description": "the LLM vulnerability scanner",
+      "language": "Python",
+      "stars": "5905",
+      "forks": "626",
+      "today_stars": "687 stars this week"
+    },
+    {
+      "author": "opengeos",
+      "name": "geoai",
+      "full_name": "opengeos/geoai",
+      "url": "https://github.com/opengeos/geoai",
+      "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+      "language": "Python",
+      "stars": "1531",
+      "forks": "189",
+      "today_stars": "168 stars this week"
+    },
+    {
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "40990",
+      "forks": "7197",
+      "today_stars": "1,045 stars this week"
+    },
+    {
+      "author": "HKUDS",
+      "name": "AutoAgent",
+      "full_name": "HKUDS/AutoAgent",
+      "url": "https://github.com/HKUDS/AutoAgent",
+      "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+      "language": "Python",
+      "stars": "7139",
+      "forks": "946",
+      "today_stars": "453 stars this week"
+    },
+    {
+      "author": "ccxt",
+      "name": "ccxt",
+      "full_name": "ccxt/ccxt",
+      "url": "https://github.com/ccxt/ccxt",
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+      "language": "Python",
+      "stars": "38815",
+      "forks": "8216",
+      "today_stars": "876 stars this week"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+      "language": "Python",
+      "stars": "54712",
+      "forks": "8661",
+      "today_stars": "1,063 stars this week"
+    },
+    {
+      "author": "deepset-ai",
+      "name": "haystack",
+      "full_name": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "language": "Python",
+      "stars": "22653",
+      "forks": "2383",
+      "today_stars": "481 stars this week"
+    },
+    {
+      "author": "Lightricks",
+      "name": "LTX-Video",
+      "full_name": "Lightricks/LTX-Video",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "description": "Official repository for LTX-Video",
+      "language": "Python",
+      "stars": "8031",
+      "forks": "707",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "unclecode",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": "53522",
+      "forks": "5320",
+      "today_stars": "1,101 stars this week"
+    },
+    {
+      "author": "hiroi-sora",
+      "name": "Umi-OCR",
+      "full_name": "hiroi-sora/Umi-OCR",
+      "url": "https://github.com/hiroi-sora/Umi-OCR",
+      "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+      "language": "Python",
+      "stars": "37596",
+      "forks": "3704",
+      "today_stars": "469 stars this week"
+    },
+    {
+      "author": "khoj-ai",
+      "name": "khoj",
+      "full_name": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "language": "Python",
+      "stars": "31117",
+      "forks": "1807",
+      "today_stars": "211 stars this week"
+    },
+    {
+      "author": "mxrch",
+      "name": "GHunt",
+      "full_name": "mxrch/GHunt",
+      "url": "https://github.com/mxrch/GHunt",
+      "description": "🕵️‍♂️ Offensive Google framework.",
+      "language": "Python",
+      "stars": "17851",
+      "forks": "1506",
+      "today_stars": "441 stars this week"
+    }
+  ]
+}

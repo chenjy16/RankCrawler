@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-09-19 01:10:05",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "37153",
+      "forks": "10533",
+      "today_stars": "608 stars this month"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10888",
+      "forks": "1391",
+      "today_stars": "480 stars this month"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "22134",
+      "forks": "1146",
+      "today_stars": "1,125 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "100301",
+      "forks": "8764",
+      "today_stars": "1,229 stars this month"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "12350",
+      "forks": "3238",
+      "today_stars": "692 stars this month"
+    },
+    {
+      "author": "prusa3d",
+      "name": "PrusaSlicer",
+      "full_name": "prusa3d/PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "language": "C++",
+      "stars": "8382",
+      "forks": "2091",
+      "today_stars": "89 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "43306",
+      "forks": "4702",
+      "today_stars": "927 stars this month"
+    },
+    {
+      "author": "fxsound2",
+      "name": "fxsound-app",
+      "full_name": "fxsound2/fxsound-app",
+      "url": "https://github.com/fxsound2/fxsound-app",
+      "description": "FxSound application and DSP source code",
+      "language": "C++",
+      "stars": "3048",
+      "forks": "245",
+      "today_stars": "182 stars this month"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.",
+      "language": "C++",
+      "stars": "807",
+      "forks": "117",
+      "today_stars": "87 stars this month"
+    },
+    {
+      "author": "diasurgical",
+      "name": "DevilutionX",
+      "full_name": "diasurgical/DevilutionX",
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "description": "Diablo build for modern operating systems",
+      "language": "C++",
+      "stars": "9011",
+      "forks": "908",
+      "today_stars": "176 stars this month"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19809",
+      "forks": "3146",
+      "today_stars": "138 stars this month"
+    },
+    {
+      "author": "daijro",
+      "name": "camoufox",
+      "full_name": "daijro/camoufox",
+      "url": "https://github.com/daijro/camoufox",
+      "description": "🦊 Anti-detect browser",
+      "language": "C++",
+      "stars": "3347",
+      "forks": "277",
+      "today_stars": "406 stars this month"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": "17007",
+      "forks": "19547",
+      "today_stars": "85 stars this month"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13694",
+      "forks": "19394",
+      "today_stars": "368 stars this month"
+    },
+    {
+      "author": "OHF-Voice",
+      "name": "piper1-gpl",
+      "full_name": "OHF-Voice/piper1-gpl",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "description": "Fast and local neural text-to-speech engine",
+      "language": "C++",
+      "stars": "963",
+      "forks": "100",
+      "today_stars": "366 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29863",
+      "forks": "5779",
+      "today_stars": "223 stars this month"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "15972",
+      "forks": "3857",
+      "today_stars": "152 stars this month"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3283",
+      "forks": "207",
+      "today_stars": "320 stars this month"
+    },
+    {
+      "author": "justcallmekoko",
+      "name": "ESP32Marauder",
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "stars": "8486",
+      "forks": "938",
+      "today_stars": "281 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123838",
+      "forks": "24847",
+      "today_stars": "537 stars this month"
+    },
+    {
+      "author": "LibreSprite",
+      "name": "LibreSprite",
+      "full_name": "LibreSprite/LibreSprite",
+      "url": "https://github.com/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "language": "C++",
+      "stars": "6301",
+      "forks": "393",
+      "today_stars": "177 stars this month"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68279",
+      "forks": "11210",
+      "today_stars": "748 stars this month"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84034",
+      "forks": "56286",
+      "today_stars": "563 stars this month"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "weekly",
+  "fetch_time": "2025-09-19 01:09:58",
+  "repositories": [
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "22134",
+      "forks": "1146",
+      "today_stars": "1,006 stars this week"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "12350",
+      "forks": "3238",
+      "today_stars": "578 stars this week"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3283",
+      "forks": "207",
+      "today_stars": "126 stars this week"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10888",
+      "forks": "1391",
+      "today_stars": "215 stars this week"
+    },
+    {
+      "author": "zerotier",
+      "name": "ZeroTierOne",
+      "full_name": "zerotier/ZeroTierOne",
+      "url": "https://github.com/zerotier/ZeroTierOne",
+      "description": "A Smart Ethernet Switch for Earth",
+      "language": "C++",
+      "stars": "15904",
+      "forks": "1835",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29863",
+      "forks": "5779",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13694",
+      "forks": "19394",
+      "today_stars": "216 stars this week"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift",
+      "full_name": "swiftlang/swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "C++",
+      "stars": "69036",
+      "forks": "10536",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "hyprwm",
+      "name": "hyprland-plugins",
+      "full_name": "hyprwm/hyprland-plugins",
+      "url": "https://github.com/hyprwm/hyprland-plugins",
+      "description": "Official plugins for Hyprland",
+      "language": "C++",
+      "stars": "947",
+      "forks": "116",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "30348",
+      "forks": "1334",
+      "today_stars": "225 stars this week"
+    },
+    {
+      "author": "tesseract-ocr",
+      "name": "tesseract",
+      "full_name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": "69718",
+      "forks": "10215",
+      "today_stars": "192 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime",
+      "full_name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "stars": "17910",
+      "forks": "3460",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "4074",
+      "forks": "1016",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69098",
+      "forks": "15867",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "mnh-jansson",
+      "name": "open-battery-information",
+      "full_name": "mnh-jansson/open-battery-information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "description": "",
+      "language": "C++",
+      "stars": "585",
+      "forks": "109",
+      "today_stars": "257 stars this week"
+    },
+    {
+      "author": "sipeed",
+      "name": "NanoKVM",
+      "full_name": "sipeed/NanoKVM",
+      "url": "https://github.com/sipeed/NanoKVM",
+      "description": "Affordable, Multifunctional, Nano RISC-V IP-KVM",
+      "language": "C++",
+      "stars": "5576",
+      "forks": "207",
+      "today_stars": "140 stars this week"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "13034",
+      "forks": "4217",
+      "today_stars": "39 stars this week"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "3972",
+      "forks": "382",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "5592",
+      "forks": "1512",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84034",
+      "forks": "56286",
+      "today_stars": "158 stars this week"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "30598",
+      "forks": "6609",
+      "today_stars": "80 stars this week"
+    }
+  ]
+}

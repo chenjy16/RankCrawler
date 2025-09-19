@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-19 01:08:37",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "4700",
+      "forks": "344",
+      "today_stars": "1,160 stars this week"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22355",
+      "forks": "4571",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "ccfos",
+      "name": "nightingale",
+      "full_name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": "12310",
+      "forks": "1612",
+      "today_stars": "659 stars this week"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37461",
+      "forks": "3430",
+      "today_stars": "391 stars this week"
+    },
+    {
+      "author": "flexprice",
+      "name": "flexprice",
+      "full_name": "flexprice/flexprice",
+      "url": "https://github.com/flexprice/flexprice",
+      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
+      "language": "Go",
+      "stars": "2621",
+      "forks": "54",
+      "today_stars": "859 stars this week"
+    },
+    {
+      "author": "lharries",
+      "name": "whatsapp-mcp",
+      "full_name": "lharries/whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "language": "Go",
+      "stars": "4876",
+      "forks": "725",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "10239",
+      "forks": "1213",
+      "today_stars": "190 stars this week"
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "13640",
+      "forks": "729",
+      "today_stars": "129 stars this week"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "10956",
+      "forks": "988",
+      "today_stars": "801 stars this week"
+    },
+    {
+      "author": "livekit",
+      "name": "livekit",
+      "full_name": "livekit/livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "stars": "14844",
+      "forks": "1403",
+      "today_stars": "309 stars this week"
+    },
+    {
+      "author": "TwiN",
+      "name": "gatus",
+      "full_name": "TwiN/gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "⛑ Automated developer-oriented status page",
+      "language": "Go",
+      "stars": "8447",
+      "forks": "566",
+      "today_stars": "273 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24866",
+      "forks": "1994",
+      "today_stars": "178 stars this week"
+    },
+    {
+      "author": "knadh",
+      "name": "listmonk",
+      "full_name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars": "17840",
+      "forks": "1750",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6909",
+      "forks": "1113",
+      "today_stars": "189 stars this week"
+    },
+    {
+      "author": "go-kratos",
+      "name": "kratos",
+      "full_name": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": "24885",
+      "forks": "4112",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-registry",
+      "full_name": "docker/mcp-registry",
+      "url": "https://github.com/docker/mcp-registry",
+      "description": "Official Docker MCP registry",
+      "language": "Go",
+      "stars": "225",
+      "forks": "292",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-gateway",
+      "full_name": "docker/mcp-gateway",
+      "url": "https://github.com/docker/mcp-gateway",
+      "description": "docker mcp CLI plugin / MCP Gateway",
+      "language": "Go",
+      "stars": "609",
+      "forks": "76",
+      "today_stars": "294 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+      "language": "Go",
+      "stars": "10908",
+      "forks": "1598",
+      "today_stars": "510 stars this week"
+    },
+    {
+      "author": "encoredev",
+      "name": "encore",
+      "full_name": "encoredev/encore",
+      "url": "https://github.com/encoredev/encore",
+      "description": "Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+      "language": "Go",
+      "stars": "10661",
+      "forks": "491",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "22127",
+      "forks": "2051",
+      "today_stars": "705 stars this week"
+    },
+    {
+      "author": "JanDeDobbeleer",
+      "name": "oh-my-posh",
+      "full_name": "JanDeDobbeleer/oh-my-posh",
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "language": "Go",
+      "stars": "20094",
+      "forks": "2590",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "GoogleCloudPlatform",
+      "name": "terraformer",
+      "full_name": "GoogleCloudPlatform/terraformer",
+      "url": "https://github.com/GoogleCloudPlatform/terraformer",
+      "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+      "language": "Go",
+      "stars": "14071",
+      "forks": "1804",
+      "today_stars": "41 stars this week"
+    }
+  ]
+}

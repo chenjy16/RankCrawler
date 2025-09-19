@@ -1,0 +1,205 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-09-19 01:07:13",
+  "repositories": [
+    {
+      "author": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "78639",
+      "forks": "4318",
+      "today_stars": "1,386 stars today"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "Python",
+      "full_name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": "207606",
+      "forks": "47852",
+      "today_stars": "109 stars today"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "39188",
+      "forks": "6876",
+      "today_stars": "271 stars today"
+    },
+    {
+      "author": "flutter",
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars": "172682",
+      "forks": "29226",
+      "today_stars": "190 stars today"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "DeepResearch",
+      "full_name": "Alibaba-NLP/DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+      "language": "Python",
+      "stars": "8939",
+      "forks": "660",
+      "today_stars": "1,346 stars today"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad",
+      "full_name": "category-labs/monad",
+      "url": "https://github.com/category-labs/monad",
+      "description": "",
+      "language": "C++",
+      "stars": "756",
+      "forks": "180",
+      "today_stars": "470 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "7717",
+      "forks": "889",
+      "today_stars": "135 stars today"
+    },
+    {
+      "author": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "stars": "328499",
+      "forks": "80497",
+      "today_stars": "445 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6830",
+      "forks": "986",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "29175",
+      "forks": "1959",
+      "today_stars": "505 stars today"
+    },
+    {
+      "author": "dataease",
+      "name": "SQLBot",
+      "full_name": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+      "language": "Python",
+      "stars": "2385",
+      "forks": "260",
+      "today_stars": "253 stars today"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "2646",
+      "forks": "115",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.",
+      "language": "Python",
+      "stars": "54712",
+      "forks": "8661",
+      "today_stars": "152 stars today"
+    },
+    {
+      "author": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.",
+      "language": "Python",
+      "stars": "45724",
+      "forks": "3729",
+      "today_stars": "56 stars today"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "42587",
+      "forks": "4945",
+      "today_stars": "584 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1173",
+      "forks": "267",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "40990",
+      "forks": "7197",
+      "today_stars": "245 stars today"
+    },
+    {
+      "author": "cypress-io",
+      "name": "cypress",
+      "full_name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "stars": "49003",
+      "forks": "3333",
+      "today_stars": "27 stars today"
+    }
+  ]
+}

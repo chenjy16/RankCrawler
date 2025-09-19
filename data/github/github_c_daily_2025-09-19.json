@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-19 01:09:29",
+  "repositories": [
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "39188",
+      "forks": "6876",
+      "today_stars": "271 stars today"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents.",
+      "language": "C",
+      "stars": "7717",
+      "forks": "889",
+      "today_stars": "135 stars today"
+    },
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6832",
+      "forks": "986",
+      "today_stars": "86 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3496",
+      "forks": "1351",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "documentdb",
+      "name": "documentdb",
+      "full_name": "documentdb/documentdb",
+      "url": "https://github.com/documentdb/documentdb",
+      "description": "MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.",
+      "language": "C",
+      "stars": "2714",
+      "forks": "152",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28553",
+      "forks": "10830",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "torvalds",
+      "name": "linux",
+      "full_name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": "202323",
+      "forks": "57767",
+      "today_stars": "93 stars today"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13121",
+      "forks": "7928",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "12164",
+      "forks": "2837",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3619",
+      "forks": "861",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21413",
+      "forks": "3832",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "libexpat",
+      "name": "libexpat",
+      "full_name": "libexpat/libexpat",
+      "url": "https://github.com/libexpat/libexpat",
+      "description": "🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub",
+      "language": "C",
+      "stars": "1235",
+      "forks": "480",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32585",
+      "forks": "1666",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cuda-samples",
+      "full_name": "NVIDIA/cuda-samples",
+      "url": "https://github.com/NVIDIA/cuda-samples",
+      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "language": "C",
+      "stars": "8130",
+      "forks": "2138",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-nrf",
+      "full_name": "nrfconnect/sdk-nrf",
+      "url": "https://github.com/nrfconnect/sdk-nrf",
+      "description": "nRF Connect SDK main repository",
+      "language": "C",
+      "stars": "1149",
+      "forks": "1383",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4896",
+      "forks": "950",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "MidnightCommander",
+      "name": "mc",
+      "full_name": "MidnightCommander/mc",
+      "url": "https://github.com/MidnightCommander/mc",
+      "description": "Midnight Commander's repository",
+      "language": "C",
+      "stars": "454",
+      "forks": "30",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Avatar",
+      "full_name": "duixcom/Duix.Avatar",
+      "url": "https://github.com/duixcom/Duix.Avatar",
+      "description": "",
+      "language": "C",
+      "stars": "11234",
+      "forks": "1827",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "libsndfile",
+      "name": "libsndfile",
+      "full_name": "libsndfile/libsndfile",
+      "url": "https://github.com/libsndfile/libsndfile",
+      "description": "A C library for reading and writing sound files containing sampled audio data.",
+      "language": "C",
+      "stars": "1614",
+      "forks": "422",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluent-bit",
+      "full_name": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "stars": "7240",
+      "forks": "1766",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "TeraTermProject",
+      "name": "teraterm",
+      "full_name": "TeraTermProject/teraterm",
+      "url": "https://github.com/TeraTermProject/teraterm",
+      "description": "",
+      "language": "C",
+      "stars": "750",
+      "forks": "72",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

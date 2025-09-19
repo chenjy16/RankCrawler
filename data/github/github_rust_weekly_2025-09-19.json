@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-09-19 01:08:55",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "42588",
+      "forks": "4945",
+      "today_stars": "2,323 stars this week"
+    },
+    {
+      "author": "erebe",
+      "name": "wstunnel",
+      "full_name": "erebe/wstunnel",
+      "url": "https://github.com/erebe/wstunnel",
+      "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+      "language": "Rust",
+      "stars": "5511",
+      "forks": "453",
+      "today_stars": "262 stars this week"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16520",
+      "forks": "687",
+      "today_stars": "229 stars this week"
+    },
+    {
+      "author": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": "23752",
+      "forks": "2498",
+      "today_stars": "131 stars this week"
+    },
+    {
+      "author": "oxc-project",
+      "name": "oxc",
+      "full_name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of JavaScript tools written in Rust.",
+      "language": "Rust",
+      "stars": "16397",
+      "forks": "655",
+      "today_stars": "101 stars this week"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad-bft",
+      "full_name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": "367",
+      "forks": "109",
+      "today_stars": "135 stars this week"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "21919",
+      "forks": "997",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "29175",
+      "forks": "1959",
+      "today_stars": "692 stars this week"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21546",
+      "forks": "1562",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "11387",
+      "forks": "423",
+      "today_stars": "278 stars this week"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "65949",
+      "forks": "5322",
+      "today_stars": "537 stars this week"
+    },
+    {
+      "author": "EFForg",
+      "name": "rayhunter",
+      "full_name": "EFForg/rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+      "language": "Rust",
+      "stars": "2895",
+      "forks": "211",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "url": "https://github.com/ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "stars": "2646",
+      "forks": "115",
+      "today_stars": "432 stars this week"
+    },
+    {
+      "author": "diesel-rs",
+      "name": "diesel",
+      "full_name": "diesel-rs/diesel",
+      "url": "https://github.com/diesel-rs/diesel",
+      "description": "A safe, extensible ORM and Query Builder for Rust",
+      "language": "Rust",
+      "stars": "13662",
+      "forks": "1154",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "GyulyVGC",
+      "name": "sniffnet",
+      "full_name": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "stars": "30540",
+      "forks": "1062",
+      "today_stars": "194 stars this week"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "19597",
+      "forks": "819",
+      "today_stars": "1,367 stars this week"
+    },
+    {
+      "author": "qdrant",
+      "name": "qdrant",
+      "full_name": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "stars": "26057",
+      "forks": "1816",
+      "today_stars": "222 stars this week"
+    },
+    {
+      "author": "surrealdb",
+      "name": "surrealdb",
+      "full_name": "surrealdb/surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "stars": "30066",
+      "forks": "1047",
+      "today_stars": "69 stars this week"
+    },
+    {
+      "author": "libnyanpasu",
+      "name": "clash-nyanpasu",
+      "full_name": "libnyanpasu/clash-nyanpasu",
+      "url": "https://github.com/libnyanpasu/clash-nyanpasu",
+      "description": "Clash Nyanpasu～(∠・ω< )⌒☆​",
+      "language": "Rust",
+      "stars": "11972",
+      "forks": "744",
+      "today_stars": "90 stars this week"
+    },
+    {
+      "author": "carthage-software",
+      "name": "mago",
+      "full_name": "carthage-software/mago",
+      "url": "https://github.com/carthage-software/mago",
+      "description": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+      "language": "Rust",
+      "stars": "1671",
+      "forks": "60",
+      "today_stars": "419 stars this week"
+    },
+    {
+      "author": "leptos-rs",
+      "name": "leptos",
+      "full_name": "leptos-rs/leptos",
+      "url": "https://github.com/leptos-rs/leptos",
+      "description": "Build fast web applications with Rust.",
+      "language": "Rust",
+      "stars": "19135",
+      "forks": "792",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "cloud-hypervisor",
+      "name": "cloud-hypervisor",
+      "full_name": "cloud-hypervisor/cloud-hypervisor",
+      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "language": "Rust",
+      "stars": "4809",
+      "forks": "520",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "starship",
+      "name": "starship",
+      "full_name": "starship/starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "language": "Rust",
+      "stars": "51249",
+      "forks": "2234",
+      "today_stars": "221 stars this week"
+    }
+  ]
+}
