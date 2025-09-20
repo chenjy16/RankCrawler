@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-20 01:06:16",
+  "repositories": [
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22373",
+      "forks": "2710",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1206",
+      "forks": "267",
+      "today_stars": "43 stars today"
+    },
+    {
+      "author": "google",
+      "name": "filament",
+      "full_name": "google/filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "stars": "18853",
+      "forks": "2031",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4632",
+      "forks": "585",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad",
+      "full_name": "category-labs/monad",
+      "url": "https://github.com/category-labs/monad",
+      "description": "",
+      "language": "C++",
+      "stars": "824",
+      "forks": "194",
+      "today_stars": "74 stars today"
+    },
+    {
+      "author": "cactus-compute",
+      "name": "cactus",
+      "full_name": "cactus-compute/cactus",
+      "url": "https://github.com/cactus-compute/cactus",
+      "description": "Run AI locally on phones and AI-native devices",
+      "language": "C++",
+      "stars": "3235",
+      "forks": "185",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47252",
+      "forks": "7133",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24756",
+      "forks": "3398",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84097",
+      "forks": "56288",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "32918",
+      "forks": "2596",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "full_name": "espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C++",
+      "stars": "15395",
+      "forks": "7703",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sipeed",
+      "name": "NanoKVM",
+      "full_name": "sipeed/NanoKVM",
+      "url": "https://github.com/sipeed/NanoKVM",
+      "description": "Affordable, Multifunctional, Nano RISC-V IP-KVM",
+      "language": "C++",
+      "stars": "5591",
+      "forks": "207",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "wxWidgets",
+      "name": "wxWidgets",
+      "full_name": "wxWidgets/wxWidgets",
+      "url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "language": "C++",
+      "stars": "6806",
+      "forks": "1841",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Zackriya-Solutions",
+      "name": "meeting-minutes",
+      "full_name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai",
+      "language": "C++",
+      "stars": "7519",
+      "forks": "578",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "PX4",
+      "name": "PX4-Autopilot",
+      "full_name": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
+      "language": "C++",
+      "stars": "10155",
+      "forks": "14470",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6356",
+      "forks": "1667",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ceph",
+      "name": "ceph",
+      "full_name": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "description": "Ceph is a distributed object, block, and file storage platform",
+      "language": "C++",
+      "stars": "15502",
+      "forks": "6165",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ROCm",
+      "name": "rocm-systems",
+      "full_name": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "stars": "89",
+      "forks": "40",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "LightGBM",
+      "full_name": "microsoft/LightGBM",
+      "url": "https://github.com/microsoft/LightGBM",
+      "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "language": "C++",
+      "stars": "17647",
+      "forks": "3939",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "facontidavide",
+      "name": "PlotJuggler",
+      "full_name": "facontidavide/PlotJuggler",
+      "url": "https://github.com/facontidavide/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
+      "language": "C++",
+      "stars": "5357",
+      "forks": "714",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "qinguoyi",
+      "name": "TinyWebServer",
+      "full_name": "qinguoyi/TinyWebServer",
+      "url": "https://github.com/qinguoyi/TinyWebServer",
+      "description": "🔥 Linux下C++轻量级WebServer服务器",
+      "language": "C++",
+      "stars": "18635",
+      "forks": "4152",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27300",
+      "forks": "4908",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
