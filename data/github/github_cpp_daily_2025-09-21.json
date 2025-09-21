@@ -1,0 +1,227 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-21 01:15:01",
+  "repositories": [
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22431",
+      "forks": "2716",
+      "today_stars": "55 stars today"
+    },
+    {
+      "author": "cactus-compute",
+      "name": "cactus",
+      "full_name": "cactus-compute/cactus",
+      "url": "https://github.com/cactus-compute/cactus",
+      "description": "Kernels & AI inference engine for phones.",
+      "language": "C++",
+      "stars": "3250",
+      "forks": "187",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "pybind",
+      "name": "pybind11",
+      "full_name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": "17291",
+      "forks": "2218",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24764",
+      "forks": "3398",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "colmap",
+      "name": "colmap",
+      "full_name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": "9855",
+      "forks": "1785",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84138",
+      "forks": "56289",
+      "today_stars": "95 stars today"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4634",
+      "forks": "586",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "118375",
+      "forks": "16422",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191704",
+      "forks": "74846",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7474",
+      "forks": "875",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "47919",
+      "forks": "2079",
+      "today_stars": "74 stars today"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "26281",
+      "forks": "4788",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ungive",
+      "name": "discord-music-presence",
+      "full_name": "ungive/discord-music-presence",
+      "url": "https://github.com/ungive/discord-music-presence",
+      "description": "The Discord music status that works with any media player",
+      "language": "C++",
+      "stars": "1554",
+      "forks": "31",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "wxWidgets",
+      "name": "wxWidgets",
+      "full_name": "wxWidgets/wxWidgets",
+      "url": "https://github.com/wxWidgets/wxWidgets",
+      "description": "Cross-Platform C++ GUI Library",
+      "language": "C++",
+      "stars": "6807",
+      "forks": "1840",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "bulletphysics",
+      "name": "bullet3",
+      "full_name": "bulletphysics/bullet3",
+      "url": "https://github.com/bulletphysics/bullet3",
+      "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+      "language": "C++",
+      "stars": "13766",
+      "forks": "2988",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1206",
+      "forks": "267",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43679",
+      "forks": "10906",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT",
+      "full_name": "NVIDIA/TensorRT",
+      "url": "https://github.com/NVIDIA/TensorRT",
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": "12168",
+      "forks": "2250",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "alibaba",
+      "name": "MNN",
+      "full_name": "alibaba/MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": "13098",
+      "forks": "2062",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Light-City",
+      "name": "CPlusPlusThings",
+      "full_name": "Light-City/CPlusPlusThings",
+      "url": "https://github.com/Light-City/CPlusPlusThings",
+      "description": "C++那些事",
+      "language": "C++",
+      "stars": "42094",
+      "forks": "8786",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

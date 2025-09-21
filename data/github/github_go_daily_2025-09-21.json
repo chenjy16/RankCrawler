@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-21 01:13:45",
+  "repositories": [
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "26520",
+      "forks": "3788",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "31360",
+      "forks": "2751",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "everywall",
+      "name": "ladder",
+      "full_name": "everywall/ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+      "language": "Go",
+      "stars": "5598",
+      "forks": "251",
+      "today_stars": "102 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-rollouts",
+      "full_name": "argoproj/argo-rollouts",
+      "url": "https://github.com/argoproj/argo-rollouts",
+      "description": "Progressive Delivery for Kubernetes",
+      "language": "Go",
+      "stars": "3246",
+      "forks": "1032",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "full_name": "ThreeDotsLabs/watermill",
+      "url": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Building event-driven applications the easy way in Go.",
+      "language": "Go",
+      "stars": "8923",
+      "forks": "462",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19290",
+      "forks": "3660",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20700",
+      "forks": "6381",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": "152715",
+      "forks": "13195",
+      "today_stars": "75 stars today"
+    },
+    {
+      "author": "projectdiscovery",
+      "name": "subfinder",
+      "full_name": "projectdiscovery/subfinder",
+      "url": "https://github.com/projectdiscovery/subfinder",
+      "description": "Fast passive subdomain enumeration tool.",
+      "language": "Go",
+      "stars": "12306",
+      "forks": "1442",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29315",
+      "forks": "4522",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-go",
+      "full_name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": "6087",
+      "forks": "1220",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "zeromicro",
+      "name": "go-zero",
+      "full_name": "zeromicro/go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "language": "Go",
+      "stars": "31817",
+      "forks": "4200",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "28993",
+      "forks": "2753",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "18602",
+      "forks": "873",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "yaml",
+      "name": "go-yaml",
+      "full_name": "yaml/go-yaml",
+      "url": "https://github.com/yaml/go-yaml",
+      "description": "The YAML org maintained fork of https://github.com/go-yaml/yaml",
+      "language": "Go",
+      "stars": "303",
+      "forks": "25",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ipfs",
+      "name": "kubo",
+      "full_name": "ipfs/kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "An IPFS implementation in Go",
+      "language": "Go",
+      "stars": "16747",
+      "forks": "3105",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49799",
+      "forks": "21250",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tbphp",
+      "name": "gpt-load",
+      "full_name": "tbphp/gpt-load",
+      "url": "https://github.com/tbphp/gpt-load",
+      "description": "Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。",
+      "language": "Go",
+      "stars": "5042",
+      "forks": "442",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "prometheus",
+      "name": "node_exporter",
+      "full_name": "prometheus/node_exporter",
+      "url": "https://github.com/prometheus/node_exporter",
+      "description": "Exporter for machine metrics",
+      "language": "Go",
+      "stars": "12561",
+      "forks": "2542",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "2138",
+      "forks": "183",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ava-labs",
+      "name": "avalanchego",
+      "full_name": "ava-labs/avalanchego",
+      "url": "https://github.com/ava-labs/avalanchego",
+      "description": "Go implementation of an Avalanche node.",
+      "language": "Go",
+      "stars": "2269",
+      "forks": "786",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "krillinai",
+      "name": "KrillinAI",
+      "full_name": "krillinai/KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+      "language": "Go",
+      "stars": "8519",
+      "forks": "690",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "kubernetes",
+      "name": "autoscaler",
+      "full_name": "kubernetes/autoscaler",
+      "url": "https://github.com/kubernetes/autoscaler",
+      "description": "Autoscaling components for Kubernetes",
+      "language": "Go",
+      "stars": "8585",
+      "forks": "4216",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41930",
+      "forks": "3001",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

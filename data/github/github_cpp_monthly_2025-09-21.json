@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-09-21 01:15:13",
+  "repositories": [
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "37174",
+      "forks": "10534",
+      "today_stars": "619 stars this month"
+    },
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "22215",
+      "forks": "1149",
+      "today_stars": "1,181 stars this month"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10910",
+      "forks": "1400",
+      "today_stars": "475 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "100319",
+      "forks": "8770",
+      "today_stars": "1,217 stars this month"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "12418",
+      "forks": "3242",
+      "today_stars": "753 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "43341",
+      "forks": "4710",
+      "today_stars": "881 stars this month"
+    },
+    {
+      "author": "prusa3d",
+      "name": "PrusaSlicer",
+      "full_name": "prusa3d/PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "language": "C++",
+      "stars": "8387",
+      "forks": "2091",
+      "today_stars": "91 stars this month"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19813",
+      "forks": "3148",
+      "today_stars": "132 stars this month"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": "17012",
+      "forks": "19548",
+      "today_stars": "86 stars this month"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84138",
+      "forks": "56289",
+      "today_stars": "626 stars this month"
+    },
+    {
+      "author": "diasurgical",
+      "name": "DevilutionX",
+      "full_name": "diasurgical/DevilutionX",
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "description": "Diablo build for modern operating systems",
+      "language": "C++",
+      "stars": "9015",
+      "forks": "909",
+      "today_stars": "175 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29867",
+      "forks": "5779",
+      "today_stars": "214 stars this month"
+    },
+    {
+      "author": "fxsound2",
+      "name": "fxsound-app",
+      "full_name": "fxsound2/fxsound-app",
+      "url": "https://github.com/fxsound2/fxsound-app",
+      "description": "FxSound application and DSP source code",
+      "language": "C++",
+      "stars": "3053",
+      "forks": "245",
+      "today_stars": "160 stars this month"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68319",
+      "forks": "11212",
+      "today_stars": "734 stars this month"
+    },
+    {
+      "author": "daijro",
+      "name": "camoufox",
+      "full_name": "daijro/camoufox",
+      "url": "https://github.com/daijro/camoufox",
+      "description": "🦊 Anti-detect browser",
+      "language": "C++",
+      "stars": "3366",
+      "forks": "278",
+      "today_stars": "407 stars this month"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13711",
+      "forks": "19404",
+      "today_stars": "380 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123867",
+      "forks": "24849",
+      "today_stars": "530 stars this month"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22431",
+      "forks": "2716",
+      "today_stars": "241 stars this month"
+    },
+    {
+      "author": "OHF-Voice",
+      "name": "piper1-gpl",
+      "full_name": "OHF-Voice/piper1-gpl",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "description": "Fast and local neural text-to-speech engine",
+      "language": "C++",
+      "stars": "982",
+      "forks": "103",
+      "today_stars": "359 stars this month"
+    },
+    {
+      "author": "juce-framework",
+      "name": "JUCE",
+      "full_name": "juce-framework/JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "stars": "7569",
+      "forks": "1893",
+      "today_stars": "88 stars this month"
+    },
+    {
+      "author": "mnh-jansson",
+      "name": "open-battery-information",
+      "full_name": "mnh-jansson/open-battery-information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "description": "",
+      "language": "C++",
+      "stars": "595",
+      "forks": "109",
+      "today_stars": "283 stars this month"
+    }
+  ]
+}
