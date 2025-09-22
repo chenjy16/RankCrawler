@@ -1,0 +1,172 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-09-22 01:15:28",
+  "repositories": [
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57586",
+      "forks": "21971",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22942",
+      "forks": "5469",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15904",
+      "forks": "1162",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14944",
+      "forks": "5151",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40514",
+      "forks": "5940",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "TheOdinProject",
+      "name": "ruby-exercises",
+      "full_name": "TheOdinProject/ruby-exercises",
+      "url": "https://github.com/TheOdinProject/ruby-exercises",
+      "description": "",
+      "language": "Ruby",
+      "stars": "281",
+      "forks": "1272",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13004",
+      "forks": "4720",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1035",
+      "forks": "219",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "homebrew-fb",
+      "full_name": "facebook/homebrew-fb",
+      "url": "https://github.com/facebook/homebrew-fb",
+      "description": "OS X Homebrew formulas to install Meta open source software",
+      "language": "Ruby",
+      "stars": "126",
+      "forks": "174",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "heroku",
+      "name": "heroku-buildpack-python",
+      "full_name": "heroku/heroku-buildpack-python",
+      "url": "https://github.com/heroku/heroku-buildpack-python",
+      "description": "Heroku's classic buildpack for Python applications.",
+      "language": "Ruby",
+      "stars": "988",
+      "forks": "1833",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "heroku",
+      "name": "heroku-buildpack-ruby",
+      "full_name": "heroku/heroku-buildpack-ruby",
+      "url": "https://github.com/heroku/heroku-buildpack-ruby",
+      "description": "Heroku's classic buildpack for Ruby applications.",
+      "language": "Ruby",
+      "stars": "791",
+      "forks": "1866",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "demarches-simplifiees",
+      "name": "demarches-simplifiees.fr",
+      "full_name": "demarches-simplifiees/demarches-simplifiees.fr",
+      "url": "https://github.com/demarches-simplifiees/demarches-simplifiees.fr",
+      "description": "Dématérialiser et simplifier les démarches administratives",
+      "language": "Ruby",
+      "stars": "228",
+      "forks": "99",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "e621ng",
+      "name": "e621ng",
+      "full_name": "e621ng/e621ng",
+      "url": "https://github.com/e621ng/e621ng",
+      "description": "",
+      "language": "Ruby",
+      "stars": "431",
+      "forks": "82",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "activerecord-tenanted",
+      "full_name": "basecamp/activerecord-tenanted",
+      "url": "https://github.com/basecamp/activerecord-tenanted",
+      "description": "Enable a Rails application to have separate databases for each tenant.",
+      "language": "Ruby",
+      "stars": "355",
+      "forks": "11",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5225",
+      "forks": "1188",
+      "today_stars": "3 stars today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-22 01:14:27",
+  "repositories": [
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22482",
+      "forks": "2717",
+      "today_stars": "52 stars today"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "85621",
+      "forks": "37840",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68336",
+      "forks": "11217",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "rocksdb",
+      "full_name": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "stars": "30628",
+      "forks": "6615",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "openscad",
+      "name": "openscad",
+      "full_name": "openscad/openscad",
+      "url": "https://github.com/openscad/openscad",
+      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
+      "language": "C++",
+      "stars": "8234",
+      "forks": "1365",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "28996",
+      "forks": "1372",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84167",
+      "forks": "56288",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "2swap",
+      "name": "swaptube",
+      "full_name": "2swap/swaptube",
+      "url": "https://github.com/2swap/swaptube",
+      "description": "youtube video renderer",
+      "language": "C++",
+      "stars": "984",
+      "forks": "41",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ramensoftware",
+      "name": "windhawk",
+      "full_name": "ramensoftware/windhawk",
+      "url": "https://github.com/ramensoftware/windhawk",
+      "description": "The customization marketplace for Windows programs: https://windhawk.net/",
+      "language": "C++",
+      "stars": "5025",
+      "forks": "137",
+      "today_stars": "105 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": "7045",
+      "forks": "436",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ClassicOldSong",
+      "name": "Apollo",
+      "full_name": "ClassicOldSong/Apollo",
+      "url": "https://github.com/ClassicOldSong/Apollo",
+      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+      "language": "C++",
+      "stars": "5655",
+      "forks": "137",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "skypjack",
+      "name": "entt",
+      "full_name": "skypjack/entt",
+      "url": "https://github.com/skypjack/entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+      "language": "C++",
+      "stars": "11618",
+      "forks": "992",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "TrinityCore",
+      "name": "TrinityCore",
+      "full_name": "TrinityCore/TrinityCore",
+      "url": "https://github.com/TrinityCore/TrinityCore",
+      "description": "TrinityCore Open Source MMO Framework (master = 11.2.0.63305, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
+      "language": "C++",
+      "stars": "10212",
+      "forks": "6225",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10922",
+      "forks": "1400",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "google",
+      "name": "flatbuffers",
+      "full_name": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "stars": "24771",
+      "forks": "3399",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "20289",
+      "forks": "4195",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "full_name": "espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C++",
+      "stars": "15412",
+      "forks": "7705",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "shadps4-emu",
+      "name": "shadPS4",
+      "full_name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": "26266",
+      "forks": "1730",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "luau-lang",
+      "name": "luau",
+      "full_name": "luau-lang/luau",
+      "url": "https://github.com/luau-lang/luau",
+      "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+      "language": "C++",
+      "stars": "4879",
+      "forks": "468",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "zhongyang219",
+      "name": "TrafficMonitor",
+      "full_name": "zhongyang219/TrafficMonitor",
+      "url": "https://github.com/zhongyang219/TrafficMonitor",
+      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "language": "C++",
+      "stars": "41018",
+      "forks": "3500",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "praydog",
+      "name": "UEVR",
+      "full_name": "praydog/UEVR",
+      "url": "https://github.com/praydog/UEVR",
+      "description": "Universal Unreal Engine VR Mod (4.8 - 5.4)",
+      "language": "C++",
+      "stars": "3803",
+      "forks": "203",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "CrowCpp",
+      "name": "Crow",
+      "full_name": "CrowCpp/Crow",
+      "url": "https://github.com/CrowCpp/Crow",
+      "description": "A Fast and Easy to use microframework for the web.",
+      "language": "C++",
+      "stars": "4175",
+      "forks": "481",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "26292",
+      "forks": "4791",
+      "today_stars": "15 stars today"
+    }
+  ]
+}
