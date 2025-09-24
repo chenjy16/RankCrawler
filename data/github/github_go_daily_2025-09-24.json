@@ -1,0 +1,216 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-24 01:07:31",
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "84229",
+      "forks": "8336",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37778",
+      "forks": "1870",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28523",
+      "forks": "7333",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": "7569",
+      "forks": "1842",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46641",
+      "forks": "10032",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "bluenviron",
+      "name": "mediamtx",
+      "full_name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": "16459",
+      "forks": "1964",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform-provider-aws",
+      "full_name": "hashicorp/terraform-provider-aws",
+      "url": "https://github.com/hashicorp/terraform-provider-aws",
+      "description": "The AWS Provider enables Terraform to manage AWS resources.",
+      "language": "Go",
+      "stars": "10513",
+      "forks": "9722",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "full_name": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": "37313",
+      "forks": "8074",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "tulir",
+      "name": "whatsmeow",
+      "full_name": "tulir/whatsmeow",
+      "url": "https://github.com/tulir/whatsmeow",
+      "description": "Go library for the WhatsApp web multidevice API",
+      "language": "Go",
+      "stars": "4363",
+      "forks": "688",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3249",
+      "forks": "1334",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "iam-veeramalla",
+      "name": "observability-zero-to-hero",
+      "full_name": "iam-veeramalla/observability-zero-to-hero",
+      "url": "https://github.com/iam-veeramalla/observability-zero-to-hero",
+      "description": "Repo for learning observability",
+      "language": "Go",
+      "stars": "2380",
+      "forks": "3745",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector",
+      "full_name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "5810",
+      "forks": "1733",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "golangci",
+      "name": "golangci-lint",
+      "full_name": "golangci/golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "stars": "17693",
+      "forks": "1499",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "stars": "30114",
+      "forks": "1647",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "containers",
+      "name": "podman",
+      "full_name": "containers/podman",
+      "url": "https://github.com/containers/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": "28936",
+      "forks": "2803",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "open-policy-agent",
+      "name": "opa",
+      "full_name": "open-policy-agent/opa",
+      "url": "https://github.com/open-policy-agent/opa",
+      "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+      "language": "Go",
+      "stars": "10680",
+      "forks": "1464",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49841",
+      "forks": "21277",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tidwall",
+      "name": "gjson",
+      "full_name": "tidwall/gjson",
+      "url": "https://github.com/tidwall/gjson",
+      "description": "Get JSON values quickly - JSON parser for Go",
+      "language": "Go",
+      "stars": "15228",
+      "forks": "888",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18268",
+      "forks": "1649",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

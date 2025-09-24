@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-24 01:07:51",
+  "repositories": [
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9500",
+      "forks": "2159",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "23627",
+      "forks": "1796",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "19768",
+      "forks": "1739",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "rathole-org",
+      "name": "rathole",
+      "full_name": "rathole-org/rathole",
+      "url": "https://github.com/rathole-org/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "11800",
+      "forks": "626",
+      "today_stars": "45 stars today"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+      "language": "Rust",
+      "stars": "21544",
+      "forks": "902",
+      "today_stars": "126 stars today"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "13647",
+      "forks": "551",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "42290",
+      "forks": "4127",
+      "today_stars": "176 stars today"
+    },
+    {
+      "author": "near",
+      "name": "nearcore",
+      "full_name": "near/nearcore",
+      "url": "https://github.com/near/nearcore",
+      "description": "Reference client for NEAR Protocol",
+      "language": "Rust",
+      "stars": "2489",
+      "forks": "716",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "98725",
+      "forks": "14506",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "DioxusLabs",
+      "name": "dioxus",
+      "full_name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "30624",
+      "forks": "1288",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "bahdotsh",
+      "name": "wrkflw",
+      "full_name": "bahdotsh/wrkflw",
+      "url": "https://github.com/bahdotsh/wrkflw",
+      "description": "Validate and Run GitHub Actions locally.",
+      "language": "Rust",
+      "stars": "2454",
+      "forks": "35",
+      "today_stars": "33 stars today"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "20464",
+      "forks": "721",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "casey",
+      "name": "just",
+      "full_name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "stars": "27781",
+      "forks": "585",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "vi",
+      "name": "websocat",
+      "full_name": "vi/websocat",
+      "url": "https://github.com/vi/websocat",
+      "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+      "language": "Rust",
+      "stars": "8005",
+      "forks": "306",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "postgresml",
+      "name": "postgresml",
+      "full_name": "postgresml/postgresml",
+      "url": "https://github.com/postgresml/postgresml",
+      "description": "Postgres with GPUs for ML/AI apps.",
+      "language": "Rust",
+      "stars": "6559",
+      "forks": "341",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "paradigmxyz",
+      "name": "reth",
+      "full_name": "paradigmxyz/reth",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+      "language": "Rust",
+      "stars": "4997",
+      "forks": "1876",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "aws",
+      "name": "amazon-q-developer-cli",
+      "full_name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": "1616",
+      "forks": "301",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27673",
+      "forks": "1368",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "astral-sh",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": "68214",
+      "forks": "2042",
+      "today_stars": "88 stars today"
+    },
+    {
+      "author": "HelixDB",
+      "name": "helix-db",
+      "full_name": "HelixDB/helix-db",
+      "url": "https://github.com/HelixDB/helix-db",
+      "description": "HelixDB is a database built from scratch to be the backend for any AI application.",
+      "language": "Rust",
+      "stars": "2630",
+      "forks": "120",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "20442",
+      "forks": "869",
+      "today_stars": "118 stars today"
+    },
+    {
+      "author": "mediar-ai",
+      "name": "terminator",
+      "full_name": "mediar-ai/terminator",
+      "url": "https://github.com/mediar-ai/terminator",
+      "description": "AI-powered desktop automation — open source, MIT-licensed, cross-platform, accessibility-first. Works across all apps and browsers. Inspired by GitHub Actions & Playwright. 100x faster than generic AI agents, >95% success rate, no vendor lock-in.",
+      "language": "Rust",
+      "stars": "938",
+      "forks": "134",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "tauri-apps",
+      "name": "tauri",
+      "full_name": "tauri-apps/tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "stars": "96778",
+      "forks": "3071",
+      "today_stars": "36 stars today"
+    }
+  ]
+}

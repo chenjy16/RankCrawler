@@ -1,0 +1,205 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-09-24 01:06:11",
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "84227",
+      "forks": "8336",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "48331",
+      "forks": "2091",
+      "today_stars": "300 stars today"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37776",
+      "forks": "1869",
+      "today_stars": "29 stars today"
+    },
+    {
+      "author": "eslint",
+      "name": "eslint",
+      "full_name": "eslint/eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "stars": "26444",
+      "forks": "4806",
+      "today_stars": "103 stars today"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22534",
+      "forks": "2721",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "mtdvio",
+      "name": "every-programmer-should-know",
+      "full_name": "mtdvio/every-programmer-should-know",
+      "url": "https://github.com/mtdvio/every-programmer-should-know",
+      "description": "A collection of (mostly) technical things every software developer should know about",
+      "language": null,
+      "stars": "90709",
+      "forks": "8201",
+      "today_stars": "797 stars today"
+    },
+    {
+      "author": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": "87056",
+      "forks": "9320",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "OpenZeppelin",
+      "name": "openzeppelin-contracts",
+      "full_name": "OpenZeppelin/openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "Solidity",
+      "stars": "26382",
+      "forks": "12192",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "Gar-b-age",
+      "name": "CookLikeHOC",
+      "full_name": "Gar-b-age/CookLikeHOC",
+      "url": "https://github.com/Gar-b-age/CookLikeHOC",
+      "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+      "language": "JavaScript",
+      "stars": "17360",
+      "forks": "1701",
+      "today_stars": "3,634 stars today"
+    },
+    {
+      "author": "EbookFoundation",
+      "name": "free-programming-books",
+      "full_name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "stars": "370071",
+      "forks": "64286",
+      "today_stars": "441 stars today"
+    },
+    {
+      "author": "WECENG",
+      "name": "ticket-purchase",
+      "full_name": "WECENG/ticket-purchase",
+      "url": "https://github.com/WECENG/ticket-purchase",
+      "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+      "language": "Python",
+      "stars": "3137",
+      "forks": "429",
+      "today_stars": "84 stars today"
+    },
+    {
+      "author": "HKUDS",
+      "name": "AI-Researcher",
+      "full_name": "HKUDS/AI-Researcher",
+      "url": "https://github.com/HKUDS/AI-Researcher",
+      "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+      "language": "Python",
+      "stars": "2885",
+      "forks": "335",
+      "today_stars": "41 stars today"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9500",
+      "forks": "2159",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "TypeScript",
+      "full_name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": "106072",
+      "forks": "13008",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28523",
+      "forks": "7333",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "tldraw",
+      "name": "tldraw",
+      "full_name": "tldraw/tldraw",
+      "url": "https://github.com/tldraw/tldraw",
+      "description": "very good whiteboard SDK / infinite canvas SDK",
+      "language": "TypeScript",
+      "stars": "42705",
+      "forks": "2747",
+      "today_stars": "236 stars today"
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": "7569",
+      "forks": "1842",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "Kludex",
+      "name": "uvicorn",
+      "full_name": "Kludex/uvicorn",
+      "url": "https://github.com/Kludex/uvicorn",
+      "description": "An ASGI web server, for Python. 🦄",
+      "language": "Python",
+      "stars": "9736",
+      "forks": "850",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

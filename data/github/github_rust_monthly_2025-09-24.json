@@ -1,0 +1,271 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-09-24 01:08:05",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "43957",
+      "forks": "5141",
+      "today_stars": "8,119 stars this month"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21641",
+      "forks": "1573",
+      "today_stars": "674 stars this month"
+    },
+    {
+      "author": "firecracker-microvm",
+      "name": "firecracker",
+      "full_name": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "stars": "30546",
+      "forks": "2089",
+      "today_stars": "1,465 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "66202",
+      "forks": "5372",
+      "today_stars": "2,139 stars this month"
+    },
+    {
+      "author": "chroma-core",
+      "name": "chroma",
+      "full_name": "chroma-core/chroma",
+      "url": "https://github.com/chroma-core/chroma",
+      "description": "Open-source search and retrieval database for AI applications.",
+      "language": "Rust",
+      "stars": "23509",
+      "forks": "1844",
+      "today_stars": "1,577 stars this month"
+    },
+    {
+      "author": "google",
+      "name": "comprehensive-rust",
+      "full_name": "google/comprehensive-rust",
+      "url": "https://github.com/google/comprehensive-rust",
+      "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+      "language": "Rust",
+      "stars": "32046",
+      "forks": "1902",
+      "today_stars": "1,506 stars this month"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "34133",
+      "forks": "4201",
+      "today_stars": "9,892 stars this month"
+    },
+    {
+      "author": "tw93",
+      "name": "Pake",
+      "full_name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。",
+      "language": "Rust",
+      "stars": "42350",
+      "forks": "7953",
+      "today_stars": "1,298 stars this month"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "30600",
+      "forks": "2055",
+      "today_stars": "2,508 stars this month"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "13004",
+      "forks": "399",
+      "today_stars": "2,778 stars this month"
+    },
+    {
+      "author": "erebe",
+      "name": "wstunnel",
+      "full_name": "erebe/wstunnel",
+      "url": "https://github.com/erebe/wstunnel",
+      "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available",
+      "language": "Rust",
+      "stars": "5586",
+      "forks": "457",
+      "today_stars": "483 stars this month"
+    },
+    {
+      "author": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+      "language": "Rust",
+      "stars": "7874",
+      "forks": "629",
+      "today_stars": "304 stars this month"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16573",
+      "forks": "692",
+      "today_stars": "700 stars this month"
+    },
+    {
+      "author": "rustdesk",
+      "name": "rustdesk",
+      "full_name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "98725",
+      "forks": "14506",
+      "today_stars": "2,746 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "42290",
+      "forks": "4127",
+      "today_stars": "1,141 stars this month"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "4509",
+      "forks": "310",
+      "today_stars": "1,232 stars this month"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad-bft",
+      "full_name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": "378",
+      "forks": "115",
+      "today_stars": "168 stars this month"
+    },
+    {
+      "author": "iced-rs",
+      "name": "iced",
+      "full_name": "iced-rs/iced",
+      "url": "https://github.com/iced-rs/iced",
+      "description": "A cross-platform GUI library for Rust, inspired by Elm",
+      "language": "Rust",
+      "stars": "27673",
+      "forks": "1368",
+      "today_stars": "341 stars this month"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "5945",
+      "forks": "279",
+      "today_stars": "583 stars this month"
+    },
+    {
+      "author": "ast-grep",
+      "name": "ast-grep",
+      "full_name": "ast-grep/ast-grep",
+      "url": "https://github.com/ast-grep/ast-grep",
+      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "language": "Rust",
+      "stars": "10546",
+      "forks": "271",
+      "today_stars": "1,027 stars this month"
+    },
+    {
+      "author": "jj-vcs",
+      "name": "jj",
+      "full_name": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "stars": "20464",
+      "forks": "721",
+      "today_stars": "1,349 stars this month"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9500",
+      "forks": "2159",
+      "today_stars": "179 stars this month"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "23627",
+      "forks": "1796",
+      "today_stars": "218 stars this month"
+    },
+    {
+      "author": "idootop",
+      "name": "open-xiaoai",
+      "full_name": "idootop/open-xiaoai",
+      "url": "https://github.com/idootop/open-xiaoai",
+      "description": "让小爱音箱「听见你的声音」，解锁无限可能。",
+      "language": "Rust",
+      "stars": "1285",
+      "forks": "122",
+      "today_stars": "394 stars this month"
+    }
+  ]
+}

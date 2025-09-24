@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-24 01:07:38",
+  "repositories": [
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "13760",
+      "forks": "735",
+      "today_stars": "206 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "5031",
+      "forks": "370",
+      "today_stars": "691 stars this week"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "84229",
+      "forks": "8336",
+      "today_stars": "164 stars this week"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28523",
+      "forks": "7333",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "TwiN",
+      "name": "gatus",
+      "full_name": "TwiN/gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "⛑ Automated developer-oriented status page",
+      "language": "Go",
+      "stars": "8555",
+      "forks": "571",
+      "today_stars": "220 stars this week"
+    },
+    {
+      "author": "NexaAI",
+      "name": "nexa-sdk",
+      "full_name": "NexaAI/nexa-sdk",
+      "url": "https://github.com/NexaAI/nexa-sdk",
+      "description": "On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming soon.",
+      "language": "Go",
+      "stars": "4915",
+      "forks": "661",
+      "today_stars": "112 stars this week"
+    },
+    {
+      "author": "everywall",
+      "name": "ladder",
+      "full_name": "everywall/ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+      "language": "Go",
+      "stars": "5801",
+      "forks": "260",
+      "today_stars": "553 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-gateway",
+      "full_name": "docker/mcp-gateway",
+      "url": "https://github.com/docker/mcp-gateway",
+      "description": "docker mcp CLI plugin / MCP Gateway",
+      "language": "Go",
+      "stars": "659",
+      "forks": "84",
+      "today_stars": "86 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37778",
+      "forks": "1870",
+      "today_stars": "110 stars this week"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117646",
+      "forks": "41416",
+      "today_stars": "167 stars this week"
+    },
+    {
+      "author": "ava-labs",
+      "name": "avalanchego",
+      "full_name": "ava-labs/avalanchego",
+      "url": "https://github.com/ava-labs/avalanchego",
+      "description": "Go implementation of an Avalanche node.",
+      "language": "Go",
+      "stars": "2289",
+      "forks": "795",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70773",
+      "forks": "18818",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "v2fly",
+      "name": "domain-list-community",
+      "full_name": "v2fly/domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+      "language": "Go",
+      "stars": "6460",
+      "forks": "1093",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "full_name": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": "37313",
+      "forks": "8074",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "gruntwork-io",
+      "name": "terragrunt",
+      "full_name": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+      "language": "Go",
+      "stars": "8954",
+      "forks": "1089",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "kagent-dev",
+      "name": "kagent",
+      "full_name": "kagent-dev/kagent",
+      "url": "https://github.com/kagent-dev/kagent",
+      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "language": "Go",
+      "stars": "1553",
+      "forks": "270",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "containers",
+      "name": "skopeo",
+      "full_name": "containers/skopeo",
+      "url": "https://github.com/containers/skopeo",
+      "description": "Work with remote images registries - retrieving information, images, signing content",
+      "language": "Go",
+      "stars": "9787",
+      "forks": "862",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "24969",
+      "forks": "2001",
+      "today_stars": "181 stars this week"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+      "language": "Go",
+      "stars": "11035",
+      "forks": "1633",
+      "today_stars": "212 stars this week"
+    },
+    {
+      "author": "quic-go",
+      "name": "quic-go",
+      "full_name": "quic-go/quic-go",
+      "url": "https://github.com/quic-go/quic-go",
+      "description": "A production-ready QUIC implementation in pure Go",
+      "language": "Go",
+      "stars": "11003",
+      "forks": "1439",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "uber-go",
+      "name": "mock",
+      "full_name": "uber-go/mock",
+      "url": "https://github.com/uber-go/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": "3054",
+      "forks": "152",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "1Panel-dev",
+      "name": "1Panel",
+      "full_name": "1Panel-dev/1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+      "language": "Go",
+      "stars": "31399",
+      "forks": "2761",
+      "today_stars": "162 stars this week"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-registry",
+      "full_name": "docker/mcp-registry",
+      "url": "https://github.com/docker/mcp-registry",
+      "description": "Official Docker MCP registry",
+      "language": "Go",
+      "stars": "243",
+      "forks": "301",
+      "today_stars": "32 stars this week"
+    }
+  ]
+}

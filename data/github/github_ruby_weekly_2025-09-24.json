@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "weekly",
+  "fetch_time": "2025-09-24 01:10:01",
+  "repositories": [
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21568",
+      "forks": "11115",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "49040",
+      "forks": "7313",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50796",
+      "forks": "10205",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5226",
+      "forks": "1191",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "stars": "5098",
+      "forks": "869",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24246",
+      "forks": "5531",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2973",
+      "forks": "265",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26945",
+      "forks": "4455",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2966",
+      "forks": "1011",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3825",
+      "forks": "1835",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40529",
+      "forks": "5942",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14653",
+      "forks": "13069",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "25418",
+      "forks": "5415",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "basecamp",
+      "name": "activerecord-tenanted",
+      "full_name": "basecamp/activerecord-tenanted",
+      "url": "https://github.com/basecamp/activerecord-tenanted",
+      "description": "Enable a Rails application to have separate databases for each tenant.",
+      "language": "Ruby",
+      "stars": "359",
+      "forks": "11",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "openstreetmap",
+      "name": "openstreetmap-website",
+      "full_name": "openstreetmap/openstreetmap-website",
+      "url": "https://github.com/openstreetmap/openstreetmap-website",
+      "description": "The Rails application that powers OpenStreetMap",
+      "language": "Ruby",
+      "stars": "2518",
+      "forks": "997",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "499",
+      "forks": "65",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "freeCodeCamp",
+      "name": "devdocs",
+      "full_name": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "stars": "37405",
+      "forks": "2492",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57597",
+      "forks": "21976",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "antiwork",
+      "name": "gumroad",
+      "full_name": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "Sell stuff and see what sticks",
+      "language": "Ruby",
+      "stars": "7056",
+      "forks": "1287",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "12707",
+      "forks": "2824",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44894",
+      "forks": "10526",
+      "today_stars": "80 stars this week"
+    },
+    {
+      "author": "parruda",
+      "name": "claude-swarm",
+      "full_name": "parruda/claude-swarm",
+      "url": "https://github.com/parruda/claude-swarm",
+      "description": "Easily launch a Claude Code session that is connected to a swarm of Claude Code Agents",
+      "language": "Ruby",
+      "stars": "1230",
+      "forks": "94",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3931",
+      "forks": "1460",
+      "today_stars": "6 stars this week"
+    }
+  ]
+}
