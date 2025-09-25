@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "monthly",
+  "fetch_time": "2025-09-25 01:09:22",
+  "repositories": [
+    {
+      "author": "simdjson",
+      "name": "simdjson",
+      "full_name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": "22396",
+      "forks": "1154",
+      "today_stars": "1,355 stars this month"
+    },
+    {
+      "author": "SoftFever",
+      "name": "OrcaSlicer",
+      "full_name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": "10953",
+      "forks": "1405",
+      "today_stars": "463 stars this month"
+    },
+    {
+      "author": "qgis",
+      "name": "QGIS",
+      "full_name": "qgis/QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+      "language": "C++",
+      "stars": "12491",
+      "forks": "3248",
+      "today_stars": "808 stars this month"
+    },
+    {
+      "author": "microsoft",
+      "name": "terminal",
+      "full_name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": "100357",
+      "forks": "8777",
+      "today_stars": "1,200 stars this month"
+    },
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22597",
+      "forks": "2724",
+      "today_stars": "391 stars this month"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84256",
+      "forks": "56295",
+      "today_stars": "697 stars this month"
+    },
+    {
+      "author": "prusa3d",
+      "name": "PrusaSlicer",
+      "full_name": "prusa3d/PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "language": "C++",
+      "stars": "8398",
+      "forks": "2092",
+      "today_stars": "97 stars this month"
+    },
+    {
+      "author": "ArduPilot",
+      "name": "ardupilot",
+      "full_name": "ArduPilot/ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "stars": "13756",
+      "forks": "19430",
+      "today_stars": "397 stars this month"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "43429",
+      "forks": "4731",
+      "today_stars": "842 stars this month"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "123917",
+      "forks": "24852",
+      "today_stars": "545 stars this month"
+    },
+    {
+      "author": "espressif",
+      "name": "arduino-esp32",
+      "full_name": "espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32",
+      "description": "Arduino core for the ESP32",
+      "language": "C++",
+      "stars": "15439",
+      "forks": "7704",
+      "today_stars": "196 stars this month"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68388",
+      "forks": "11224",
+      "today_stars": "730 stars this month"
+    },
+    {
+      "author": "MarlinFirmware",
+      "name": "Marlin",
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": "17019",
+      "forks": "19546",
+      "today_stars": "85 stars this month"
+    },
+    {
+      "author": "meshtastic",
+      "name": "firmware",
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "language": "C++",
+      "stars": "5634",
+      "forks": "1524",
+      "today_stars": "254 stars this month"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "101532",
+      "forks": "23285",
+      "today_stars": "1,160 stars this month"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "nccl",
+      "full_name": "NVIDIA/nccl",
+      "url": "https://github.com/NVIDIA/nccl",
+      "description": "Optimized primitives for collective multi-GPU communication",
+      "language": "C++",
+      "stars": "4096",
+      "forks": "1027",
+      "today_stars": "128 stars this month"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "13059",
+      "forks": "4227",
+      "today_stars": "157 stars this month"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1212",
+      "forks": "271",
+      "today_stars": "124 stars this month"
+    },
+    {
+      "author": "FreeCAD",
+      "name": "FreeCAD",
+      "full_name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": "26338",
+      "forks": "4795",
+      "today_stars": "456 stars this month"
+    },
+    {
+      "author": "kuzudb",
+      "name": "kuzu",
+      "full_name": "kuzudb/kuzu",
+      "url": "https://github.com/kuzudb/kuzu",
+      "description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.",
+      "language": "C++",
+      "stars": "3326",
+      "forks": "210",
+      "today_stars": "328 stars this month"
+    },
+    {
+      "author": "google-ai-edge",
+      "name": "LiteRT",
+      "full_name": "google-ai-edge/LiteRT",
+      "url": "https://github.com/google-ai-edge/LiteRT",
+      "description": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.",
+      "language": "C++",
+      "stars": "819",
+      "forks": "118",
+      "today_stars": "90 stars this month"
+    },
+    {
+      "author": "mnh-jansson",
+      "name": "open-battery-information",
+      "full_name": "mnh-jansson/open-battery-information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "description": "",
+      "language": "C++",
+      "stars": "609",
+      "forks": "109",
+      "today_stars": "298 stars this month"
+    }
+  ]
+}

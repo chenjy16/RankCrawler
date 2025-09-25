@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-09-25 01:10:08",
+  "repositories": [
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13398",
+      "forks": "2458",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "47493",
+      "forks": "4114",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26948",
+      "forks": "4455",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "8055",
+      "forks": "2526",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2976",
+      "forks": "266",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40531",
+      "forks": "5941",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "49043",
+      "forks": "7312",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "CocoaPods",
+      "name": "CocoaPods",
+      "full_name": "CocoaPods/CocoaPods",
+      "url": "https://github.com/CocoaPods/CocoaPods",
+      "description": "The Cocoa Dependency Manager.",
+      "language": "Ruby",
+      "stars": "14752",
+      "forks": "2673",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "CMSgov",
+      "name": "price-transparency-guide",
+      "full_name": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "stars": "419",
+      "forks": "122",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13240",
+      "forks": "625",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2969",
+      "forks": "1011",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "gitlabhq",
+      "name": "gitlabhq",
+      "full_name": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": "24107",
+      "forks": "5767",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Shopify",
+      "name": "liquid",
+      "full_name": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "stars": "11502",
+      "forks": "1475",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50804",
+      "forks": "10204",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "374",
+      "forks": "394",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "forem",
+      "name": "forem",
+      "full_name": "forem/forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "stars": "22455",
+      "forks": "4133",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ytti",
+      "name": "oxidized",
+      "full_name": "ytti/oxidized",
+      "url": "https://github.com/ytti/oxidized",
+      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "language": "Ruby",
+      "stars": "3119",
+      "forks": "991",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubocop",
+      "name": "rubocop",
+      "full_name": "rubocop/rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "stars": "12786",
+      "forks": "3086",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3824",
+      "forks": "1837",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Ceedling",
+      "full_name": "ThrowTheSwitch/Ceedling",
+      "url": "https://github.com/ThrowTheSwitch/Ceedling",
+      "description": "Unit testing and build system for C projects",
+      "language": "Ruby",
+      "stars": "720",
+      "forks": "261",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "25433",
+      "forks": "5422",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15918",
+      "forks": "1161",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21569",
+      "forks": "11119",
+      "today_stars": "3 stars today"
+    }
+  ]
+}
