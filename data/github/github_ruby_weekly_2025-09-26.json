@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "weekly",
+  "fetch_time": "2025-09-26 01:10:14",
+  "repositories": [
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50820",
+      "forks": "10204",
+      "today_stars": "76 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21571",
+      "forks": "11120",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "mastodon",
+      "name": "mastodon",
+      "full_name": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "stars": "49058",
+      "forks": "7317",
+      "today_stars": "50 stars this week"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3825",
+      "forks": "1838",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2978",
+      "forks": "267",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5229",
+      "forks": "1192",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2970",
+      "forks": "1011",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40535",
+      "forks": "5942",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26950",
+      "forks": "4455",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13399",
+      "forks": "2459",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "openstreetmap",
+      "name": "openstreetmap-website",
+      "full_name": "openstreetmap/openstreetmap-website",
+      "url": "https://github.com/openstreetmap/openstreetmap-website",
+      "description": "The Rails application that powers OpenStreetMap",
+      "language": "Ruby",
+      "stars": "2519",
+      "forks": "997",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "25448",
+      "forks": "5434",
+      "today_stars": "88 stars this week"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15920",
+      "forks": "1160",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "502",
+      "forks": "68",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24249",
+      "forks": "5531",
+      "today_stars": "11 stars this week"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "9814",
+      "forks": "764",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "8059",
+      "forks": "2526",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44919",
+      "forks": "10537",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "12721",
+      "forks": "2825",
+      "today_stars": "48 stars this week"
+    },
+    {
+      "author": "puma",
+      "name": "puma",
+      "full_name": "puma/puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "stars": "7814",
+      "forks": "1465",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "CMSgov",
+      "name": "price-transparency-guide",
+      "full_name": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "stars": "419",
+      "forks": "122",
+      "today_stars": "0 stars this week"
+    },
+    {
+      "author": "Shopify",
+      "name": "ruby-lsp",
+      "full_name": "Shopify/ruby-lsp",
+      "url": "https://github.com/Shopify/ruby-lsp",
+      "description": "An opinionated language server for Ruby",
+      "language": "Ruby",
+      "stars": "1898",
+      "forks": "217",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22945",
+      "forks": "5474",
+      "today_stars": "14 stars this week"
+    }
+  ]
+}

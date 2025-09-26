@@ -1,0 +1,205 @@
+{
+  "language": "java",
+  "period": "daily",
+  "fetch_time": "2025-09-26 01:08:28",
+  "repositories": [
+    {
+      "author": "elastic",
+      "name": "elasticsearch",
+      "full_name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": "74700",
+      "forks": "25503",
+      "today_stars": "558 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-java",
+      "full_name": "grpc/grpc-java",
+      "url": "https://github.com/grpc/grpc-java",
+      "description": "The Java gRPC implementation. HTTP/2 based RPC",
+      "language": "Java",
+      "stars": "11856",
+      "forks": "3932",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "keycloak",
+      "name": "keycloak",
+      "full_name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": "29787",
+      "forks": "7648",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "51146",
+      "forks": "11076",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Anuken",
+      "name": "Mindustry",
+      "full_name": "Anuken/Mindustry",
+      "url": "https://github.com/Anuken/Mindustry",
+      "description": "The automation tower defense RTS",
+      "language": "Java",
+      "stars": "24873",
+      "forks": "3179",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "langchain4j",
+      "name": "langchain4j",
+      "full_name": "langchain4j/langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+      "language": "Java",
+      "stars": "9114",
+      "forks": "1676",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "awsdocs",
+      "name": "aws-doc-sdk-examples",
+      "full_name": "awsdocs/aws-doc-sdk-examples",
+      "url": "https://github.com/awsdocs/aws-doc-sdk-examples",
+      "description": "Welcome to the AWS Code Examples Repository. This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.",
+      "language": "Java",
+      "stars": "10217",
+      "forks": "5812",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "dbeaver",
+      "name": "dbeaver",
+      "full_name": "dbeaver/dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "stars": "45539",
+      "forks": "3855",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "questdb",
+      "name": "questdb",
+      "full_name": "questdb/questdb",
+      "url": "https://github.com/questdb/questdb",
+      "description": "QuestDB is a high performance, open-source, time-series database",
+      "language": "Java",
+      "stars": "16170",
+      "forks": "1480",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "camel",
+      "full_name": "apache/camel",
+      "url": "https://github.com/apache/camel",
+      "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
+      "language": "Java",
+      "stars": "5972",
+      "forks": "5075",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "yuliskov",
+      "name": "SmartTube",
+      "full_name": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": "24635",
+      "forks": "1321",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "quarkusio",
+      "name": "quarkus",
+      "full_name": "quarkusio/quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
+      "language": "Java",
+      "stars": "14994",
+      "forks": "2960",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "gravitino",
+      "full_name": "apache/gravitino",
+      "url": "https://github.com/apache/gravitino",
+      "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+      "language": "Java",
+      "stars": "1821",
+      "forks": "613",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "pkl",
+      "full_name": "apple/pkl",
+      "url": "https://github.com/apple/pkl",
+      "description": "A configuration as code language with rich validation and tooling.",
+      "language": "Java",
+      "stars": "10872",
+      "forks": "335",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "bazelbuild",
+      "name": "bazel",
+      "full_name": "bazelbuild/bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "stars": "24593",
+      "forks": "4298",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "wso2",
+      "name": "product-is",
+      "full_name": "wso2/product-is",
+      "url": "https://github.com/wso2/product-is",
+      "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
+      "language": "Java",
+      "stars": "808",
+      "forks": "881",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "xoureldeen",
+      "name": "Vectras-VM-Android",
+      "full_name": "xoureldeen/Vectras-VM-Android",
+      "url": "https://github.com/xoureldeen/Vectras-VM-Android",
+      "description": "It's a Virtual Machine App for Android Which is Based on QEMU",
+      "language": "Java",
+      "stars": "1419",
+      "forks": "129",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "strimzi",
+      "name": "strimzi-kafka-operator",
+      "full_name": "strimzi/strimzi-kafka-operator",
+      "url": "https://github.com/strimzi/strimzi-kafka-operator",
+      "description": "Apache Kafka® running on Kubernetes",
+      "language": "Java",
+      "stars": "5403",
+      "forks": "1408",
+      "today_stars": "8 stars today"
+    }
+  ]
+}

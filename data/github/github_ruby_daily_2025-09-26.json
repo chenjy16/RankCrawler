@@ -1,0 +1,282 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-09-26 01:10:07",
+  "repositories": [
+    {
+      "author": "antiwork",
+      "name": "smallbets",
+      "full_name": "antiwork/smallbets",
+      "url": "https://github.com/antiwork/smallbets",
+      "description": "The software that runs the Small Bets community",
+      "language": "Ruby",
+      "stars": "86",
+      "forks": "41",
+      "today_stars": "22 stars today"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "25448",
+      "forks": "5434",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3825",
+      "forks": "1838",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "10345",
+      "forks": "465",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "sidekiq",
+      "name": "sidekiq",
+      "full_name": "sidekiq/sidekiq",
+      "url": "https://github.com/sidekiq/sidekiq",
+      "description": "Simple, efficient background processing for Ruby",
+      "language": "Ruby",
+      "stars": "13399",
+      "forks": "2459",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "9814",
+      "forks": "764",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Shopify",
+      "name": "ruby-lsp",
+      "full_name": "Shopify/ruby-lsp",
+      "url": "https://github.com/Shopify/ruby-lsp",
+      "description": "An opinionated language server for Ruby",
+      "language": "Ruby",
+      "stars": "1898",
+      "forks": "217",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "47501",
+      "forks": "4114",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26950",
+      "forks": "4455",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "gitlabhq",
+      "name": "gitlabhq",
+      "full_name": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": "24107",
+      "forks": "5767",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "instructure",
+      "name": "canvas-lms",
+      "full_name": "instructure/canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "stars": "6219",
+      "forks": "2754",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40535",
+      "forks": "5942",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22945",
+      "forks": "5474",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "rubocop",
+      "name": "rubocop",
+      "full_name": "rubocop/rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "stars": "12789",
+      "forks": "3086",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5229",
+      "forks": "1192",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "thoughtbot",
+      "name": "factory_bot",
+      "full_name": "thoughtbot/factory_bot",
+      "url": "https://github.com/thoughtbot/factory_bot",
+      "description": "A library for setting up Ruby objects as test data.",
+      "language": "Ruby",
+      "stars": "8212",
+      "forks": "2588",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2978",
+      "forks": "267",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "45148",
+      "forks": "8664",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3932",
+      "forks": "1462",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "stars": "5103",
+      "forks": "870",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "kaminari",
+      "name": "kaminari",
+      "full_name": "kaminari/kaminari",
+      "url": "https://github.com/kaminari/kaminari",
+      "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+      "language": "Ruby",
+      "stars": "8658",
+      "forks": "1077",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13010",
+      "forks": "4725",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "374",
+      "forks": "394",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "aws",
+      "name": "aws-sdk-ruby",
+      "full_name": "aws/aws-sdk-ruby",
+      "url": "https://github.com/aws/aws-sdk-ruby",
+      "description": "The official AWS SDK for Ruby",
+      "language": "Ruby",
+      "stars": "3629",
+      "forks": "1224",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44919",
+      "forks": "10537",
+      "today_stars": "12 stars today"
+    }
+  ]
+}

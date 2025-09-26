@@ -1,0 +1,227 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-09-26 01:08:48",
+  "repositories": [
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5209",
+      "forks": "458",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "76030",
+      "forks": "6163",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "17684",
+      "forks": "895",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32818",
+      "forks": "2819",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "risinek",
+      "name": "esp32-wifi-penetration-tool",
+      "full_name": "risinek/esp32-wifi-penetration-tool",
+      "url": "https://github.com/risinek/esp32-wifi-penetration-tool",
+      "description": "Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.",
+      "language": "C",
+      "stars": "2567",
+      "forks": "402",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4908",
+      "forks": "956",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6130",
+      "forks": "2763",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2201",
+      "forks": "461",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "reactos",
+      "name": "reactos",
+      "full_name": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "stars": "16332",
+      "forks": "1952",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "arthenica",
+      "name": "ffmpeg-kit",
+      "full_name": "arthenica/ffmpeg-kit",
+      "url": "https://github.com/arthenica/ffmpeg-kit",
+      "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",
+      "language": "C",
+      "stars": "5549",
+      "forks": "2265",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "signalwire",
+      "name": "freeswitch",
+      "full_name": "signalwire/freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "stars": "4355",
+      "forks": "1618",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "23045",
+      "forks": "988",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "littlefs-project",
+      "name": "littlefs",
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "language": "C",
+      "stars": "6140",
+      "forks": "907",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "ashvardanian",
+      "name": "StringZilla",
+      "full_name": "ashvardanian/StringZilla",
+      "url": "https://github.com/ashvardanian/StringZilla",
+      "description": "Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖",
+      "language": "C",
+      "stars": "2831",
+      "forks": "98",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "duixcom",
+      "name": "Duix.Avatar",
+      "full_name": "duixcom/Duix.Avatar",
+      "url": "https://github.com/duixcom/Duix.Avatar",
+      "description": "",
+      "language": "C",
+      "stars": "11297",
+      "forks": "1843",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21467",
+      "forks": "3846",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "palera1n",
+      "name": "palera1n",
+      "full_name": "palera1n/palera1n",
+      "url": "https://github.com/palera1n/palera1n",
+      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+      "language": "C",
+      "stars": "5719",
+      "forks": "689",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "libgit2",
+      "name": "libgit2",
+      "full_name": "libgit2/libgit2",
+      "url": "https://github.com/libgit2/libgit2",
+      "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+      "language": "C",
+      "stars": "10141",
+      "forks": "2514",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DPDK",
+      "name": "dpdk",
+      "full_name": "DPDK/dpdk",
+      "url": "https://github.com/DPDK/dpdk",
+      "description": "Data Plane Development Kit",
+      "language": "C",
+      "stars": "3925",
+      "forks": "1363",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "coolsnowwolf",
+      "name": "lede",
+      "full_name": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "description": "Lean's LEDE source",
+      "language": "C",
+      "stars": "30995",
+      "forks": "19552",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

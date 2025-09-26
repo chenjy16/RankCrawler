@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "monthly",
+  "fetch_time": "2025-09-26 01:08:01",
+  "repositories": [
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "5147",
+      "forks": "376",
+      "today_stars": "3,068 stars this month"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "85461",
+      "forks": "8401",
+      "today_stars": "1,601 stars this month"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "22396",
+      "forks": "2065",
+      "today_stars": "2,121 stars this month"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "41997",
+      "forks": "3004",
+      "today_stars": "504 stars this month"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3916",
+      "forks": "748",
+      "today_stars": "66 stars this month"
+    },
+    {
+      "author": "google",
+      "name": "mangle",
+      "full_name": "google/mangle",
+      "url": "https://github.com/google/mangle",
+      "description": "",
+      "language": "Go",
+      "stars": "2769",
+      "forks": "137",
+      "today_stars": "1,142 stars this month"
+    },
+    {
+      "author": "nats-io",
+      "name": "nats-server",
+      "full_name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": "18285",
+      "forks": "1652",
+      "today_stars": "454 stars this month"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "29055",
+      "forks": "2754",
+      "today_stars": "1,058 stars this month"
+    },
+    {
+      "author": "rcourtman",
+      "name": "Pulse",
+      "full_name": "rcourtman/Pulse",
+      "url": "https://github.com/rcourtman/Pulse",
+      "description": "A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes",
+      "language": "Go",
+      "stars": "1601",
+      "forks": "64",
+      "today_stars": "588 stars this month"
+    },
+    {
+      "author": "henrygd",
+      "name": "beszel",
+      "full_name": "henrygd/beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "stars": "15396",
+      "forks": "471",
+      "today_stars": "1,386 stars this month"
+    },
+    {
+      "author": "docker",
+      "name": "mcp-gateway",
+      "full_name": "docker/mcp-gateway",
+      "url": "https://github.com/docker/mcp-gateway",
+      "description": "docker mcp CLI plugin / MCP Gateway",
+      "language": "Go",
+      "stars": "674",
+      "forks": "89",
+      "today_stars": "403 stars this month"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22389",
+      "forks": "4578",
+      "today_stars": "290 stars this month"
+    },
+    {
+      "author": "traefik",
+      "name": "traefik",
+      "full_name": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": "56841",
+      "forks": "5495",
+      "today_stars": "706 stars this month"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117683",
+      "forks": "41427",
+      "today_stars": "747 stars this month"
+    },
+    {
+      "author": "milvus-io",
+      "name": "milvus",
+      "full_name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": "37648",
+      "forks": "3440",
+      "today_stars": "952 stars this month"
+    },
+    {
+      "author": "gohugoio",
+      "name": "hugo",
+      "full_name": "gohugoio/hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "stars": "83783",
+      "forks": "8027",
+      "today_stars": "827 stars this month"
+    },
+    {
+      "author": "TwiN",
+      "name": "gatus",
+      "full_name": "TwiN/gatus",
+      "url": "https://github.com/TwiN/gatus",
+      "description": "⛑ Automated developer-oriented status page",
+      "language": "Go",
+      "stars": "8584",
+      "forks": "574",
+      "today_stars": "590 stars this month"
+    },
+    {
+      "author": "go-task",
+      "name": "task",
+      "full_name": "go-task/task",
+      "url": "https://github.com/go-task/task",
+      "description": "A task runner / simpler Make alternative written in Go",
+      "language": "Go",
+      "stars": "13780",
+      "forks": "736",
+      "today_stars": "404 stars this month"
+    },
+    {
+      "author": "yorukot",
+      "name": "superfile",
+      "full_name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": "15242",
+      "forks": "388",
+      "today_stars": "590 stars this month"
+    },
+    {
+      "author": "rivo",
+      "name": "tview",
+      "full_name": "rivo/tview",
+      "url": "https://github.com/rivo/tview",
+      "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+      "language": "Go",
+      "stars": "12867",
+      "forks": "642",
+      "today_stars": "299 stars this month"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26851",
+      "forks": "3136",
+      "today_stars": "863 stars this month"
+    },
+    {
+      "author": "keploy",
+      "name": "keploy",
+      "full_name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+      "language": "Go",
+      "stars": "11055",
+      "forks": "1644",
+      "today_stars": "794 stars this month"
+    },
+    {
+      "author": "hashicorp",
+      "name": "consul",
+      "full_name": "hashicorp/consul",
+      "url": "https://github.com/hashicorp/consul",
+      "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+      "language": "Go",
+      "stars": "29335",
+      "forks": "4523",
+      "today_stars": "110 stars this month"
+    }
+  ]
+}
