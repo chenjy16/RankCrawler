@@ -1,0 +1,238 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-09-27 01:06:29",
+  "repositories": [
+    {
+      "author": "NVIDIA",
+      "name": "TensorRT-LLM",
+      "full_name": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.",
+      "language": "C++",
+      "stars": "11704",
+      "forks": "1769",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "google",
+      "name": "googletest",
+      "full_name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": "37205",
+      "forks": "10539",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "78",
+      "name": "xiaozhi-esp32",
+      "full_name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "stars": "18874",
+      "forks": "3830",
+      "today_stars": "36 stars today"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68429",
+      "forks": "11226",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "48887",
+      "forks": "2123",
+      "today_stars": "162 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27337",
+      "forks": "4918",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "dalathegreat",
+      "name": "Battery-Emulator",
+      "full_name": "dalathegreat/Battery-Emulator",
+      "url": "https://github.com/dalathegreat/Battery-Emulator",
+      "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+      "language": "C++",
+      "stars": "1744",
+      "forks": "248",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69172",
+      "forks": "15878",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "IntelRealSense",
+      "name": "librealsense",
+      "full_name": "IntelRealSense/librealsense",
+      "url": "https://github.com/IntelRealSense/librealsense",
+      "description": "Intel® RealSense™ SDK",
+      "language": "C++",
+      "stars": "8191",
+      "forks": "4906",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "electron",
+      "name": "electron",
+      "full_name": "electron/electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": "118455",
+      "forks": "16440",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "brpc",
+      "full_name": "apache/brpc",
+      "url": "https://github.com/apache/brpc",
+      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "language": "C++",
+      "stars": "17314",
+      "forks": "4058",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "AutoHotkey",
+      "name": "AutoHotkey",
+      "full_name": "AutoHotkey/AutoHotkey",
+      "url": "https://github.com/AutoHotkey/AutoHotkey",
+      "description": "AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.",
+      "language": "C++",
+      "stars": "11125",
+      "forks": "1056",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "mavlink",
+      "name": "qgroundcontrol",
+      "full_name": "mavlink/qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "stars": "3987",
+      "forks": "4283",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "cutlass",
+      "full_name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": "8501",
+      "forks": "1463",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "capnproto",
+      "name": "capnproto",
+      "full_name": "capnproto/capnproto",
+      "url": "https://github.com/capnproto/capnproto",
+      "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
+      "language": "C++",
+      "stars": "12506",
+      "forks": "982",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "benchmark",
+      "full_name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "stars": "9740",
+      "forks": "1702",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "86969",
+      "forks": "13155",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "Neargye",
+      "name": "magic_enum",
+      "full_name": "Neargye/magic_enum",
+      "url": "https://github.com/Neargye/magic_enum",
+      "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
+      "language": "C++",
+      "stars": "5696",
+      "forks": "509",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7580",
+      "forks": "880",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": "43714",
+      "forks": "10912",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "envoy",
+      "full_name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": "26619",
+      "forks": "5094",
+      "today_stars": "13 stars today"
+    }
+  ]
+}

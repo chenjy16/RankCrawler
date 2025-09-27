@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "monthly",
+  "fetch_time": "2025-09-27 01:06:23",
+  "repositories": [
+    {
+      "author": "BasedHardware",
+      "name": "omi",
+      "full_name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI wearables. Put it on, speak, transcribe, automatically",
+      "language": "C",
+      "stars": "6992",
+      "forks": "1049",
+      "today_stars": "854 stars this month"
+    },
+    {
+      "author": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "stars": "14670",
+      "forks": "4100",
+      "today_stars": "152 stars this month"
+    },
+    {
+      "author": "TEN-framework",
+      "name": "ten-framework",
+      "full_name": "TEN-framework/ten-framework",
+      "url": "https://github.com/TEN-framework/ten-framework",
+      "description": "Open-source framework for conversational voice AI agents",
+      "language": "C",
+      "stars": "8165",
+      "forks": "939",
+      "today_stars": "982 stars this month"
+    },
+    {
+      "author": "documentdb",
+      "name": "documentdb",
+      "full_name": "documentdb/documentdb",
+      "url": "https://github.com/documentdb/documentdb",
+      "description": "MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.",
+      "language": "C",
+      "stars": "2755",
+      "forks": "156",
+      "today_stars": "718 stars this month"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32855",
+      "forks": "2821",
+      "today_stars": "516 stars this month"
+    },
+    {
+      "author": "Genymobile",
+      "name": "scrcpy",
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": "129006",
+      "forks": "12093",
+      "today_stars": "2,091 stars this month"
+    },
+    {
+      "author": "pr3y",
+      "name": "Bruce",
+      "full_name": "pr3y/Bruce",
+      "url": "https://github.com/pr3y/Bruce",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C",
+      "stars": "3687",
+      "forks": "900",
+      "today_stars": "287 stars this month"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8632",
+      "forks": "3341",
+      "today_stars": "223 stars this month"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13574",
+      "forks": "1989",
+      "today_stars": "412 stars this month"
+    },
+    {
+      "author": "openwrt",
+      "name": "openwrt",
+      "full_name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": "24015",
+      "forks": "11573",
+      "today_stars": "636 stars this month"
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "full_name": "radareorg/radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": "22325",
+      "forks": "3125",
+      "today_stars": "200 stars this month"
+    },
+    {
+      "author": "TheAlgorithms",
+      "name": "C",
+      "full_name": "TheAlgorithms/C",
+      "url": "https://github.com/TheAlgorithms/C",
+      "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+      "language": "C",
+      "stars": "20923",
+      "forks": "4597",
+      "today_stars": "279 stars this month"
+    },
+    {
+      "author": "nothings",
+      "name": "stb",
+      "full_name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": "30055",
+      "forks": "7890",
+      "today_stars": "362 stars this month"
+    },
+    {
+      "author": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars": "39391",
+      "forks": "6881",
+      "today_stars": "797 stars this month"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2208",
+      "forks": "463",
+      "today_stars": "80 stars this month"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "full_name": "mit-pdos/xv6-public",
+      "url": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": "8826",
+      "forks": "4296",
+      "today_stars": "106 stars this month"
+    },
+    {
+      "author": "cellos51",
+      "name": "balatro-gba",
+      "full_name": "cellos51/balatro-gba",
+      "url": "https://github.com/cellos51/balatro-gba",
+      "description": "",
+      "language": "C",
+      "stars": "1261",
+      "forks": "43",
+      "today_stars": "1,008 stars this month"
+    },
+    {
+      "author": "openwall",
+      "name": "john",
+      "full_name": "openwall/john",
+      "url": "https://github.com/openwall/john",
+      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+      "language": "C",
+      "stars": "12009",
+      "forks": "2347",
+      "today_stars": "214 stars this month"
+    },
+    {
+      "author": "darktable-org",
+      "name": "darktable",
+      "full_name": "darktable-org/darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "language": "C",
+      "stars": "11398",
+      "forks": "1229",
+      "today_stars": "168 stars this month"
+    },
+    {
+      "author": "pymumu",
+      "name": "smartdns",
+      "full_name": "pymumu/smartdns",
+      "url": "https://github.com/pymumu/smartdns",
+      "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。",
+      "language": "C",
+      "stars": "9988",
+      "forks": "1183",
+      "today_stars": "539 stars this month"
+    },
+    {
+      "author": "valinet",
+      "name": "ExplorerPatcher",
+      "full_name": "valinet/ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "stars": "28956",
+      "forks": "1183",
+      "today_stars": "490 stars this month"
+    },
+    {
+      "author": "ValdikSS",
+      "name": "GoodbyeDPI",
+      "full_name": "ValdikSS/GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "stars": "27230",
+      "forks": "2056",
+      "today_stars": "233 stars this month"
+    }
+  ]
+}

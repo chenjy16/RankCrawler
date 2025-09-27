@@ -1,0 +1,194 @@
+{
+  "language": "all",
+  "period": "monthly",
+  "fetch_time": "2025-09-27 01:04:07",
+  "repositories": [
+    {
+      "author": "twitter",
+      "name": "the-algorithm",
+      "full_name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": "67181",
+      "forks": "12579",
+      "today_stars": "3,787 stars this month"
+    },
+    {
+      "author": "Physical-Intelligence",
+      "name": "openpi",
+      "full_name": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "description": "",
+      "language": "Python",
+      "stars": "7890",
+      "forks": "903",
+      "today_stars": "3,536 stars this month"
+    },
+    {
+      "author": "dockur",
+      "name": "windows",
+      "full_name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": "46244",
+      "forks": "3366",
+      "today_stars": "9,300 stars this month"
+    },
+    {
+      "author": "QuentinFuxa",
+      "name": "WhisperLiveKit",
+      "full_name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+      "language": "Python",
+      "stars": "7121",
+      "forks": "649",
+      "today_stars": "6,170 stars this month"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "44697",
+      "forks": "5238",
+      "today_stars": "8,353 stars this month"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "name": "DeepResearch",
+      "full_name": "Alibaba-NLP/DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+      "language": "Python",
+      "stars": "14790",
+      "forks": "1072",
+      "today_stars": "8,588 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "registry",
+      "full_name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": "5187",
+      "forks": "380",
+      "today_stars": "3,110 stars this month"
+    },
+    {
+      "author": "dataease",
+      "name": "SQLBot",
+      "full_name": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+      "language": "Python",
+      "stars": "3157",
+      "forks": "316",
+      "today_stars": "1,994 stars this month"
+    },
+    {
+      "author": "CorentinJ",
+      "name": "Real-Time-Voice-Cloning",
+      "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+      "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+      "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "language": "Python",
+      "stars": "57416",
+      "forks": "9257",
+      "today_stars": "2,581 stars this month"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21678",
+      "forks": "1580",
+      "today_stars": "696 stars this month"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "85879",
+      "forks": "8418",
+      "today_stars": "2,273 stars this month"
+    },
+    {
+      "author": "ItzCrazyKns",
+      "name": "Perplexica",
+      "full_name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": "25949",
+      "forks": "2688",
+      "today_stars": "2,335 stars this month"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "22435",
+      "forks": "2069",
+      "today_stars": "2,154 stars this month"
+    },
+    {
+      "author": "pedroslopez",
+      "name": "whatsapp-web.js",
+      "full_name": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "stars": "19645",
+      "forks": "4534",
+      "today_stars": "1,949 stars this month"
+    },
+    {
+      "author": "resemble-ai",
+      "name": "chatterbox",
+      "full_name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars": "13413",
+      "forks": "1716",
+      "today_stars": "3,047 stars this month"
+    },
+    {
+      "author": "coinbase",
+      "name": "x402",
+      "full_name": "coinbase/x402",
+      "url": "https://github.com/coinbase/x402",
+      "description": "A payments protocol for the internet. Built on HTTP.",
+      "language": "TypeScript",
+      "stars": "1442",
+      "forks": "252",
+      "today_stars": "594 stars this month"
+    },
+    {
+      "author": "HKUDS",
+      "name": "DeepCode",
+      "full_name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": "7211",
+      "forks": "997",
+      "today_stars": "3,293 stars this month"
+    }
+  ]
+}

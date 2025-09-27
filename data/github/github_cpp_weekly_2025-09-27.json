@@ -1,0 +1,260 @@
+{
+  "language": "cpp",
+  "period": "weekly",
+  "fetch_time": "2025-09-27 01:06:36",
+  "repositories": [
+    {
+      "author": "fmtlib",
+      "name": "fmt",
+      "full_name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "22627",
+      "forks": "2728",
+      "today_stars": "279 stars this week"
+    },
+    {
+      "author": "LizardByte",
+      "name": "Sunshine",
+      "full_name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": "29432",
+      "forks": "1389",
+      "today_stars": "520 stars this week"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "85708",
+      "forks": "37866",
+      "today_stars": "156 stars this week"
+    },
+    {
+      "author": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "48887",
+      "forks": "2123",
+      "today_stars": "1,065 stars this week"
+    },
+    {
+      "author": "deskflow",
+      "name": "deskflow",
+      "full_name": "deskflow/deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "stars": "20525",
+      "forks": "4206",
+      "today_stars": "318 stars this week"
+    },
+    {
+      "author": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "84277",
+      "forks": "56303",
+      "today_stars": "216 stars this week"
+    },
+    {
+      "author": "godotengine",
+      "name": "godot",
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars": "101595",
+      "forks": "23286",
+      "today_stars": "264 stars this week"
+    },
+    {
+      "author": "hyprwm",
+      "name": "Hyprland",
+      "full_name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "30586",
+      "forks": "1350",
+      "today_stars": "245 stars this week"
+    },
+    {
+      "author": "ocornut",
+      "name": "imgui",
+      "full_name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": "68429",
+      "forks": "11226",
+      "today_stars": "162 stars this week"
+    },
+    {
+      "author": "ramensoftware",
+      "name": "windhawk",
+      "full_name": "ramensoftware/windhawk",
+      "url": "https://github.com/ramensoftware/windhawk",
+      "description": "The customization marketplace for Windows programs: https://windhawk.net/",
+      "language": "C++",
+      "stars": "5131",
+      "forks": "139",
+      "today_stars": "326 stars this week"
+    },
+    {
+      "author": "ungive",
+      "name": "discord-music-presence",
+      "full_name": "ungive/discord-music-presence",
+      "url": "https://github.com/ungive/discord-music-presence",
+      "description": "The Discord music status that works with any media player",
+      "language": "C++",
+      "stars": "1602",
+      "forks": "33",
+      "today_stars": "62 stars this week"
+    },
+    {
+      "author": "tenstorrent",
+      "name": "tt-metal",
+      "full_name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "stars": "1212",
+      "forks": "273",
+      "today_stars": "6 stars this week"
+    },
+    {
+      "author": "SerenityOS",
+      "name": "serenity",
+      "full_name": "SerenityOS/serenity",
+      "url": "https://github.com/SerenityOS/serenity",
+      "description": "The Serenity Operating System 🐞",
+      "language": "C++",
+      "stars": "32367",
+      "forks": "3274",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "mongodb",
+      "name": "mongo",
+      "full_name": "mongodb/mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "stars": "27596",
+      "forks": "5689",
+      "today_stars": "43 stars this week"
+    },
+    {
+      "author": "k2-fsa",
+      "name": "sherpa-onnx",
+      "full_name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": "7580",
+      "forks": "880",
+      "today_stars": "127 stars this week"
+    },
+    {
+      "author": "google",
+      "name": "perfetto",
+      "full_name": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "stars": "4662",
+      "forks": "594",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "bmorcelli",
+      "name": "Launcher",
+      "full_name": "bmorcelli/Launcher",
+      "url": "https://github.com/bmorcelli/Launcher",
+      "description": "Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.",
+      "language": "C++",
+      "stars": "879",
+      "forks": "94",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "rizinorg",
+      "name": "cutter",
+      "full_name": "rizinorg/cutter",
+      "url": "https://github.com/rizinorg/cutter",
+      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
+      "language": "C++",
+      "stars": "17301",
+      "forks": "1247",
+      "today_stars": "198 stars this week"
+    },
+    {
+      "author": "cactus-compute",
+      "name": "cactus",
+      "full_name": "cactus-compute/cactus",
+      "url": "https://github.com/cactus-compute/cactus",
+      "description": "Kernels & AI inference engine for phone chips",
+      "language": "C++",
+      "stars": "3342",
+      "forks": "191",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "dalathegreat",
+      "name": "Battery-Emulator",
+      "full_name": "dalathegreat/Battery-Emulator",
+      "url": "https://github.com/dalathegreat/Battery-Emulator",
+      "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
+      "language": "C++",
+      "stars": "1744",
+      "forks": "248",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workerd",
+      "full_name": "cloudflare/workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": "7071",
+      "forks": "441",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "CloudCompare",
+      "name": "CloudCompare",
+      "full_name": "CloudCompare/CloudCompare",
+      "url": "https://github.com/CloudCompare/CloudCompare",
+      "description": "CloudCompare main repository",
+      "language": "C++",
+      "stars": "4135",
+      "forks": "1116",
+      "today_stars": "17 stars this week"
+    },
+    {
+      "author": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "16391",
+      "forks": "2863",
+      "today_stars": "45 stars this week"
+    }
+  ]
+}
