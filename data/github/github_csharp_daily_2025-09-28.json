@@ -1,0 +1,282 @@
+{
+  "language": "csharp",
+  "period": "daily",
+  "fetch_time": "2025-09-28 01:16:31",
+  "repositories": [
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "37163",
+      "forks": "10452",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": "43889",
+      "forks": "3943",
+      "today_stars": "146 stars today"
+    },
+    {
+      "author": "kgrzybek",
+      "name": "modular-monolith-with-ddd",
+      "full_name": "kgrzybek/modular-monolith-with-ddd",
+      "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+      "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+      "language": "C#",
+      "stars": "12837",
+      "forks": "2042",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "28778",
+      "forks": "2494",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "Generative-AI-for-beginners-dotnet",
+      "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
+      "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+      "description": "Five lessons, learn how to really apply AI to your .NET Applications",
+      "language": "C#",
+      "stars": "1906",
+      "forks": "1481",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "bitwarden",
+      "name": "server",
+      "full_name": "bitwarden/server",
+      "url": "https://github.com/bitwarden/server",
+      "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+      "language": "C#",
+      "stars": "17210",
+      "forks": "1455",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "eShop",
+      "full_name": "dotnet/eShop",
+      "url": "https://github.com/dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "language": "C#",
+      "stars": "9170",
+      "forks": "3094",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "AIDotNet",
+      "name": "OpenDeepWiki",
+      "full_name": "AIDotNet/OpenDeepWiki",
+      "url": "https://github.com/AIDotNet/OpenDeepWiki",
+      "description": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.",
+      "language": "C#",
+      "stars": "2151",
+      "forks": "270",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "OrchardCMS",
+      "name": "OrchardCore",
+      "full_name": "OrchardCMS/OrchardCore",
+      "url": "https://github.com/OrchardCMS/OrchardCore",
+      "description": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+      "language": "C#",
+      "stars": "7865",
+      "forks": "2512",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "csharp-sdk",
+      "full_name": "modelcontextprotocol/csharp-sdk",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk",
+      "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
+      "language": "C#",
+      "stars": "3313",
+      "forks": "520",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "BeyondDimension",
+      "name": "SteamTools",
+      "full_name": "BeyondDimension/SteamTools",
+      "url": "https://github.com/BeyondDimension/SteamTools",
+      "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+      "language": "C#",
+      "stars": "23193",
+      "forks": "1510",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "studyzy",
+      "name": "imewlconverter",
+      "full_name": "studyzy/imewlconverter",
+      "url": "https://github.com/studyzy/imewlconverter",
+      "description": "”深蓝词库转换“ 一款开源免费的输入法词库转换程序",
+      "language": "C#",
+      "stars": "9047",
+      "forks": "666",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "mob-sakai",
+      "name": "UIEffect",
+      "full_name": "mob-sakai/UIEffect",
+      "url": "https://github.com/mob-sakai/UIEffect",
+      "description": "UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!",
+      "language": "C#",
+      "stars": "6729",
+      "forks": "863",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "radzenhq",
+      "name": "radzen-blazor",
+      "full_name": "radzenhq/radzen-blazor",
+      "url": "https://github.com/radzenhq/radzen-blazor",
+      "description": "Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",
+      "language": "C#",
+      "stars": "4058",
+      "forks": "914",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "lucasg",
+      "name": "Dependencies",
+      "full_name": "lucasg/Dependencies",
+      "url": "https://github.com/lucasg/Dependencies",
+      "description": "A rewrite of the old legacy software \"depends.exe\" in C# for Windows devs to troubleshoot dll load dependencies issues.",
+      "language": "C#",
+      "stars": "10563",
+      "forks": "849",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fullstackhero",
+      "name": "dotnet-starter-kit",
+      "full_name": "fullstackhero/dotnet-starter-kit",
+      "url": "https://github.com/fullstackhero/dotnet-starter-kit",
+      "description": "Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+      "language": "C#",
+      "stars": "6053",
+      "forks": "1831",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "yaobiao131",
+      "name": "downkyicore",
+      "full_name": "yaobiao131/downkyicore",
+      "url": "https://github.com/yaobiao131/downkyicore",
+      "description": "哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+      "language": "C#",
+      "stars": "5060",
+      "forks": "371",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "builtbybel",
+      "name": "Flyoobe",
+      "full_name": "builtbybel/Flyoobe",
+      "url": "https://github.com/builtbybel/Flyoobe",
+      "description": "Fly through your Windows 11 setup 🐝",
+      "language": "C#",
+      "stars": "4598",
+      "forks": "253",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14381",
+      "forks": "3304",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mcmonkeyprojects",
+      "name": "SwarmUI",
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "language": "C#",
+      "stars": "3161",
+      "forks": "297",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Cleanuparr",
+      "name": "Cleanuparr",
+      "full_name": "Cleanuparr/Cleanuparr",
+      "url": "https://github.com/Cleanuparr/Cleanuparr",
+      "description": "Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.",
+      "language": "C#",
+      "stars": "1309",
+      "forks": "25",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Arcenox-co",
+      "name": "TickerQ",
+      "full_name": "Arcenox-co/TickerQ",
+      "url": "https://github.com/Arcenox-co/TickerQ",
+      "description": "TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.",
+      "language": "C#",
+      "stars": "2706",
+      "forks": "136",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspire",
+      "full_name": "dotnet/aspire",
+      "url": "https://github.com/dotnet/aspire",
+      "description": "Tools, templates, and packages to accelerate building observable, production-ready apps",
+      "language": "C#",
+      "stars": "4870",
+      "forks": "693",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "OpenRA",
+      "name": "OpenRA",
+      "full_name": "OpenRA/OpenRA",
+      "url": "https://github.com/OpenRA/OpenRA",
+      "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+      "language": "C#",
+      "stars": "15983",
+      "forks": "2812",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Flow-Launcher",
+      "name": "Flow.Launcher",
+      "full_name": "Flow-Launcher/Flow.Launcher",
+      "url": "https://github.com/Flow-Launcher/Flow.Launcher",
+      "description": "🔍 Quick file search & app launcher for Windows with community-made plugins",
+      "language": "C#",
+      "stars": "11310",
+      "forks": "438",
+      "today_stars": "27 stars today"
+    }
+  ]
+}
