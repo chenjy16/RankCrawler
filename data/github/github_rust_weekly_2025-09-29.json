@@ -1,0 +1,249 @@
+{
+  "language": "rust",
+  "period": "weekly",
+  "fetch_time": "2025-09-29 01:10:00",
+  "repositories": [
+    {
+      "author": "solana-labs",
+      "name": "solana",
+      "full_name": "solana-labs/solana",
+      "url": "https://github.com/solana-labs/solana",
+      "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+      "language": "Rust",
+      "stars": "14537",
+      "forks": "5214",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "42386",
+      "forks": "4141",
+      "today_stars": "386 stars this week"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9597",
+      "forks": "2169",
+      "today_stars": "139 stars this week"
+    },
+    {
+      "author": "GraphiteEditor",
+      "name": "Graphite",
+      "full_name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
+      "language": "Rust",
+      "stars": "21718",
+      "forks": "912",
+      "today_stars": "418 stars this week"
+    },
+    {
+      "author": "rathole-org",
+      "name": "rathole",
+      "full_name": "rathole-org/rathole",
+      "url": "https://github.com/rathole-org/rathole",
+      "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+      "language": "Rust",
+      "stars": "11898",
+      "forks": "631",
+      "today_stars": "166 stars this week"
+    },
+    {
+      "author": "visioncortex",
+      "name": "vtracer",
+      "full_name": "visioncortex/vtracer",
+      "url": "https://github.com/visioncortex/vtracer",
+      "description": "Raster to Vector Graphics Converter",
+      "language": "Rust",
+      "stars": "4849",
+      "forks": "327",
+      "today_stars": "92 stars this week"
+    },
+    {
+      "author": "clockworklabs",
+      "name": "SpacetimeDB",
+      "full_name": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "17529",
+      "forks": "605",
+      "today_stars": "88 stars this week"
+    },
+    {
+      "author": "eza-community",
+      "name": "eza",
+      "full_name": "eza-community/eza",
+      "url": "https://github.com/eza-community/eza",
+      "description": "A modern alternative to ls",
+      "language": "Rust",
+      "stars": "17570",
+      "forks": "321",
+      "today_stars": "177 stars this week"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "19963",
+      "forks": "1768",
+      "today_stars": "295 stars this week"
+    },
+    {
+      "author": "tursodatabase",
+      "name": "turso",
+      "full_name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso Database is a project to build the next evolution of SQLite.",
+      "language": "Rust",
+      "stars": "13718",
+      "forks": "554",
+      "today_stars": "179 stars this week"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "46105",
+      "forks": "1238",
+      "today_stars": "406 stars this week"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "5186",
+      "forks": "619",
+      "today_stars": "161 stars this week"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "21039",
+      "forks": "906",
+      "today_stars": "904 stars this week"
+    },
+    {
+      "author": "bahdotsh",
+      "name": "wrkflw",
+      "full_name": "bahdotsh/wrkflw",
+      "url": "https://github.com/bahdotsh/wrkflw",
+      "description": "Validate and Run GitHub Actions locally.",
+      "language": "Rust",
+      "stars": "2503",
+      "forks": "35",
+      "today_stars": "151 stars this week"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "104494",
+      "forks": "5720",
+      "today_stars": "219 stars this week"
+    },
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "45023",
+      "forks": "5290",
+      "today_stars": "1,705 stars this week"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "23665",
+      "forks": "1798",
+      "today_stars": "72 stars this week"
+    },
+    {
+      "author": "espanso",
+      "name": "espanso",
+      "full_name": "espanso/espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "stars": "12227",
+      "forks": "347",
+      "today_stars": "74 stars this week"
+    },
+    {
+      "author": "ajeetdsouza",
+      "name": "zoxide",
+      "full_name": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "stars": "30208",
+      "forks": "673",
+      "today_stars": "516 stars this week"
+    },
+    {
+      "author": "meilisearch",
+      "name": "meilisearch",
+      "full_name": "meilisearch/meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": "53410",
+      "forks": "2191",
+      "today_stars": "137 stars this week"
+    },
+    {
+      "author": "bytecodealliance",
+      "name": "wasmtime",
+      "full_name": "bytecodealliance/wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": "16951",
+      "forks": "1512",
+      "today_stars": "47 stars this week"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "30911",
+      "forks": "2086",
+      "today_stars": "782 stars this week"
+    }
+  ]
+}

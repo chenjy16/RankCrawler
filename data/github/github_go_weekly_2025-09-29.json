@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-09-29 01:09:39",
+  "repositories": [
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "86032",
+      "forks": "8425",
+      "today_stars": "2,005 stars this week"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "12374",
+      "forks": "1828",
+      "today_stars": "312 stars this week"
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": "7773",
+      "forks": "1859",
+      "today_stars": "236 stars this week"
+    },
+    {
+      "author": "istio",
+      "name": "istio",
+      "full_name": "istio/istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "stars": "37455",
+      "forks": "8082",
+      "today_stars": "195 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "37977",
+      "forks": "1874",
+      "today_stars": "276 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49895",
+      "forks": "21298",
+      "today_stars": "95 stars this week"
+    },
+    {
+      "author": "NexaAI",
+      "name": "nexa-sdk",
+      "full_name": "NexaAI/nexa-sdk",
+      "url": "https://github.com/NexaAI/nexa-sdk",
+      "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+      "language": "Go",
+      "stars": "5000",
+      "forks": "674",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "hteen",
+      "name": "apple-store-helper",
+      "full_name": "hteen/apple-store-helper",
+      "url": "https://github.com/hteen/apple-store-helper",
+      "description": "Apple Store iPhone预约助手",
+      "language": "Go",
+      "stars": "1339",
+      "forks": "234",
+      "today_stars": "58 stars this week"
+    },
+    {
+      "author": "evcc-io",
+      "name": "evcc",
+      "full_name": "evcc-io/evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "stars": "5336",
+      "forks": "1031",
+      "today_stars": "45 stars this week"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28613",
+      "forks": "7335",
+      "today_stars": "125 stars this week"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117740",
+      "forks": "41445",
+      "today_stars": "176 stars this week"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3259",
+      "forks": "1335",
+      "today_stars": "12 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6870",
+      "forks": "831",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "chaitin",
+      "name": "SafeLine",
+      "full_name": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": "18075",
+      "forks": "1121",
+      "today_stars": "349 stars this week"
+    },
+    {
+      "author": "actions",
+      "name": "actions-runner-controller",
+      "full_name": "actions/actions-runner-controller",
+      "url": "https://github.com/actions/actions-runner-controller",
+      "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+      "language": "Go",
+      "stars": "5669",
+      "forks": "1314",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "abiosoft",
+      "name": "colima",
+      "full_name": "abiosoft/colima",
+      "url": "https://github.com/abiosoft/colima",
+      "description": "Container runtimes on macOS (and Linux) with minimal setup",
+      "language": "Go",
+      "stars": "24782",
+      "forks": "488",
+      "today_stars": "138 stars this week"
+    },
+    {
+      "author": "redis",
+      "name": "go-redis",
+      "full_name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": "21560",
+      "forks": "2501",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "153426",
+      "forks": "12592",
+      "today_stars": "587 stars this week"
+    },
+    {
+      "author": "everywall",
+      "name": "ladder",
+      "full_name": "everywall/ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL",
+      "language": "Go",
+      "stars": "5865",
+      "forks": "260",
+      "today_stars": "179 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "65286",
+      "forks": "2256",
+      "today_stars": "303 stars this week"
+    },
+    {
+      "author": "gtsteffaniak",
+      "name": "filebrowser",
+      "full_name": "gtsteffaniak/filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "3576",
+      "forks": "137",
+      "today_stars": "135 stars this week"
+    },
+    {
+      "author": "grafana",
+      "name": "loki",
+      "full_name": "grafana/loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "stars": "26609",
+      "forks": "3796",
+      "today_stars": "57 stars this week"
+    },
+    {
+      "author": "ava-labs",
+      "name": "avalanchego",
+      "full_name": "ava-labs/avalanchego",
+      "url": "https://github.com/ava-labs/avalanchego",
+      "description": "Go implementation of an Avalanche node.",
+      "language": "Go",
+      "stars": "2291",
+      "forks": "801",
+      "today_stars": "15 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "ruby",
+  "period": "monthly",
+  "fetch_time": "2025-09-29 01:12:04",
+  "repositories": [
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57634",
+      "forks": "21989",
+      "today_stars": "344 stars this month"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44947",
+      "forks": "10542",
+      "today_stars": "367 stars this month"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "2992",
+      "forks": "270",
+      "today_stars": "195 stars this month"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "10354",
+      "forks": "796",
+      "today_stars": "647 stars this month"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22953",
+      "forks": "5480",
+      "today_stars": "108 stars this month"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-core",
+      "full_name": "Homebrew/homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "14663",
+      "forks": "13091",
+      "today_stars": "119 stars this month"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50847",
+      "forks": "10204",
+      "today_stars": "338 stars this month"
+    },
+    {
+      "author": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "25479",
+      "forks": "5455",
+      "today_stars": "423 stars this month"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "47522",
+      "forks": "4117",
+      "today_stars": "419 stars this month"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5230",
+      "forks": "1193",
+      "today_stars": "56 stars this month"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21579",
+      "forks": "11119",
+      "today_stars": "81 stars this month"
+    },
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "36554",
+      "forks": "14540",
+      "today_stars": "325 stars this month"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3932",
+      "forks": "1465",
+      "today_stars": "36 stars this month"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13015",
+      "forks": "4729",
+      "today_stars": "66 stars this month"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40543",
+      "forks": "5942",
+      "today_stars": "127 stars this month"
+    },
+    {
+      "author": "gitlabhq",
+      "name": "gitlabhq",
+      "full_name": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": "24112",
+      "forks": "5768",
+      "today_stars": "57 stars this month"
+    },
+    {
+      "author": "hashicorp",
+      "name": "vagrant",
+      "full_name": "hashicorp/vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "stars": "26963",
+      "forks": "4455",
+      "today_stars": "154 stars this month"
+    },
+    {
+      "author": "endoflife-date",
+      "name": "endoflife.date",
+      "full_name": "endoflife-date/endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "stars": "2972",
+      "forks": "1013",
+      "today_stars": "50 stars this month"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "511",
+      "forks": "69",
+      "today_stars": "94 stars this month"
+    },
+    {
+      "author": "instructure",
+      "name": "canvas-lms",
+      "full_name": "instructure/canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "stars": "6226",
+      "forks": "2756",
+      "today_stars": "60 stars this month"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13261",
+      "forks": "623",
+      "today_stars": "159 stars this month"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14956",
+      "forks": "5151",
+      "today_stars": "111 stars this month"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3825",
+      "forks": "1842",
+      "today_stars": "36 stars this month"
+    }
+  ]
+}

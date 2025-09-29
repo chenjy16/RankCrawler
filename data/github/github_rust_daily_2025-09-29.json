@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "daily",
+  "fetch_time": "2025-09-29 01:09:53",
+  "repositories": [
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "46105",
+      "forks": "1238",
+      "today_stars": "152 stars today"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "21039",
+      "forks": "906",
+      "today_stars": "144 stars today"
+    },
+    {
+      "author": "BloopAI",
+      "name": "vibe-kanban",
+      "full_name": "BloopAI/vibe-kanban",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "description": "Kanban board to manage your AI coding agents",
+      "language": "Rust",
+      "stars": "5213",
+      "forks": "502",
+      "today_stars": "77 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "pingora",
+      "full_name": "cloudflare/pingora",
+      "url": "https://github.com/cloudflare/pingora",
+      "description": "A library for building fast, reliable and evolvable network services.",
+      "language": "Rust",
+      "stars": "25153",
+      "forks": "1472",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "topjohnwu",
+      "name": "Magisk",
+      "full_name": "topjohnwu/Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Rust",
+      "stars": "56066",
+      "forks": "15412",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "davidlattimore",
+      "name": "wild",
+      "full_name": "davidlattimore/wild",
+      "url": "https://github.com/davidlattimore/wild",
+      "description": "A very fast linker for Linux",
+      "language": "Rust",
+      "stars": "2708",
+      "forks": "68",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "YaLTeR",
+      "name": "niri",
+      "full_name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": "11775",
+      "forks": "432",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "cloudflare",
+      "name": "workers-rs",
+      "full_name": "cloudflare/workers-rs",
+      "url": "https://github.com/cloudflare/workers-rs",
+      "description": "Write Cloudflare Workers in 100% Rust via WebAssembly",
+      "language": "Rust",
+      "stars": "3089",
+      "forks": "346",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "MystenLabs",
+      "name": "sui",
+      "full_name": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+      "language": "Rust",
+      "stars": "7360",
+      "forks": "11622",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "19963",
+      "forks": "1768",
+      "today_stars": "44 stars today"
+    },
+    {
+      "author": "btjawa",
+      "name": "BiliTools",
+      "full_name": "btjawa/BiliTools",
+      "url": "https://github.com/btjawa/BiliTools",
+      "description": "A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源",
+      "language": "Rust",
+      "stars": "3722",
+      "forks": "250",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "embassy-rs",
+      "name": "embassy",
+      "full_name": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "description": "Modern embedded framework, using Rust and async.",
+      "language": "Rust",
+      "stars": "7497",
+      "forks": "1186",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "servo",
+      "name": "servo",
+      "full_name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": "31619",
+      "forks": "3258",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "esp-rs",
+      "name": "esp-hal",
+      "full_name": "esp-rs/esp-hal",
+      "url": "https://github.com/esp-rs/esp-hal",
+      "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
+      "language": "Rust",
+      "stars": "1440",
+      "forks": "335",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "helix-editor",
+      "name": "helix",
+      "full_name": "helix-editor/helix",
+      "url": "https://github.com/helix-editor/helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "stars": "40081",
+      "forks": "3052",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "launchbadge",
+      "name": "sqlx",
+      "full_name": "launchbadge/sqlx",
+      "url": "https://github.com/launchbadge/sqlx",
+      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "language": "Rust",
+      "stars": "15705",
+      "forks": "1477",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "nexus-xyz",
+      "name": "nexus-cli",
+      "full_name": "nexus-xyz/nexus-cli",
+      "url": "https://github.com/nexus-xyz/nexus-cli",
+      "description": "Command line interface for supplying proofs to the Nexus network.",
+      "language": "Rust",
+      "stars": "1025",
+      "forks": "575",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "wezterm",
+      "name": "wezterm",
+      "full_name": "wezterm/wezterm",
+      "url": "https://github.com/wezterm/wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "stars": "22029",
+      "forks": "1000",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "sxyazi",
+      "name": "yazi",
+      "full_name": "sxyazi/yazi",
+      "url": "https://github.com/sxyazi/yazi",
+      "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+      "language": "Rust",
+      "stars": "28581",
+      "forks": "613",
+      "today_stars": "39 stars today"
+    },
+    {
+      "author": "abenz1267",
+      "name": "walker",
+      "full_name": "abenz1267/walker",
+      "url": "https://github.com/abenz1267/walker",
+      "description": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.",
+      "language": "Rust",
+      "stars": "1525",
+      "forks": "58",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "dynamo",
+      "full_name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "5186",
+      "forks": "619",
+      "today_stars": "100 stars today"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "106782",
+      "forks": "13783",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "6110",
+      "forks": "285",
+      "today_stars": "26 stars today"
+    }
+  ]
+}

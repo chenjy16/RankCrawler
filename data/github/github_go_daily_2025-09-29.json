@@ -1,0 +1,249 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-09-29 01:09:32",
+  "repositories": [
+    {
+      "author": "cli",
+      "name": "cli",
+      "full_name": "cli/cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "stars": "40853",
+      "forks": "7159",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "12374",
+      "forks": "1828",
+      "today_stars": "215 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "13271",
+      "forks": "679",
+      "today_stars": "48 stars today"
+    },
+    {
+      "author": "chaitin",
+      "name": "SafeLine",
+      "full_name": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": "18075",
+      "forks": "1121",
+      "today_stars": "68 stars today"
+    },
+    {
+      "author": "pion",
+      "name": "webrtc",
+      "full_name": "pion/webrtc",
+      "url": "https://github.com/pion/webrtc",
+      "description": "Pure Go implementation of the WebRTC API",
+      "language": "Go",
+      "stars": "15386",
+      "forks": "1779",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "Jguer",
+      "name": "yay",
+      "full_name": "Jguer/yay",
+      "url": "https://github.com/Jguer/yay",
+      "description": "Yet another Yogurt - An AUR Helper written in Go",
+      "language": "Go",
+      "stars": "12461",
+      "forks": "382",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars": "25053",
+      "forks": "2007",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "SagerNet",
+      "name": "sing-box",
+      "full_name": "SagerNet/sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "stars": "26915",
+      "forks": "3136",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "cockroachdb",
+      "name": "cockroach",
+      "full_name": "cockroachdb/cockroach",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "language": "Go",
+      "stars": "31334",
+      "forks": "3973",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "XIU2",
+      "name": "CloudflareSpeedTest",
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "url": "https://github.com/XIU2/CloudflareSpeedTest",
+      "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+      "language": "Go",
+      "stars": "23037",
+      "forks": "4555",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "github",
+      "name": "github-mcp-server",
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": "23074",
+      "forks": "2628",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6220",
+      "forks": "3723",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "authelia",
+      "name": "authelia",
+      "full_name": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "stars": "25371",
+      "forks": "1278",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "coredns",
+      "name": "coredns",
+      "full_name": "coredns/coredns",
+      "url": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
+      "language": "Go",
+      "stars": "13392",
+      "forks": "2318",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "mayswind",
+      "name": "ezbookkeeping",
+      "full_name": "mayswind/ezbookkeeping",
+      "url": "https://github.com/mayswind/ezbookkeeping",
+      "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+      "language": "Go",
+      "stars": "2037",
+      "forks": "208",
+      "today_stars": "35 stars today"
+    },
+    {
+      "author": "aaPanel",
+      "name": "BillionMail",
+      "full_name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": "11320",
+      "forks": "1021",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "pulumi",
+      "name": "pulumi",
+      "full_name": "pulumi/pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "stars": "23843",
+      "forks": "1238",
+      "today_stars": "10 stars today"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "153426",
+      "forks": "12592",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "full_name": "vitessio/vitess",
+      "url": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": "20229",
+      "forks": "2257",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "EndlessCheng",
+      "name": "codeforces-go",
+      "full_name": "EndlessCheng/codeforces-go",
+      "url": "https://github.com/EndlessCheng/codeforces-go",
+      "description": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+      "language": "Go",
+      "stars": "7481",
+      "forks": "741",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "marcopiovanello",
+      "name": "yt-dlp-web-ui",
+      "full_name": "marcopiovanello/yt-dlp-web-ui",
+      "url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
+      "description": "A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.",
+      "language": "Go",
+      "stars": "1990",
+      "forks": "186",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "containerd",
+      "name": "containerd",
+      "full_name": "containerd/containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "stars": "19346",
+      "forks": "3666",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
