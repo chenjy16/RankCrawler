@@ -1,0 +1,238 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-09-30 01:11:08",
+  "repositories": [
+    {
+      "author": "rapid7",
+      "name": "metasploit-framework",
+      "full_name": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
+      "language": "Ruby",
+      "stars": "36616",
+      "forks": "14551",
+      "today_stars": "104 stars today"
+    },
+    {
+      "author": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": "10407",
+      "forks": "804",
+      "today_stars": "70 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22964",
+      "forks": "5481",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57640",
+      "forks": "21992",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13267",
+      "forks": "623",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "stars": "6880",
+      "forks": "202",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "fluent",
+      "name": "fluentd",
+      "full_name": "fluent/fluentd",
+      "url": "https://github.com/fluent/fluentd",
+      "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+      "language": "Ruby",
+      "stars": "13325",
+      "forks": "1365",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14958",
+      "forks": "5150",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "freeCodeCamp",
+      "name": "devdocs",
+      "full_name": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "stars": "37442",
+      "forks": "2503",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13016",
+      "forks": "4730",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "47528",
+      "forks": "4118",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44959",
+      "forks": "10547",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1036",
+      "forks": "219",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems",
+      "full_name": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "stars": "3825",
+      "forks": "1842",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "crmne",
+      "name": "ruby_llm",
+      "full_name": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "stars": "3007",
+      "forks": "273",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "github",
+      "name": "choosealicense.com",
+      "full_name": "github/choosealicense.com",
+      "url": "https://github.com/github/choosealicense.com",
+      "description": "A site to provide non-judgmental guidance on choosing a license for your open source project",
+      "language": "Ruby",
+      "stars": "3933",
+      "forks": "1466",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "homebrew-cask",
+      "full_name": "Homebrew/homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+      "language": "Ruby",
+      "stars": "21587",
+      "forks": "11120",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "manyfold3d",
+      "name": "manyfold",
+      "full_name": "manyfold3d/manyfold",
+      "url": "https://github.com/manyfold3d/manyfold",
+      "description": "A self-hosted digital asset manager for 3d print files.",
+      "language": "Ruby",
+      "stars": "1413",
+      "forks": "82",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Cute-Dress",
+      "name": "Dress",
+      "full_name": "Cute-Dress/Dress",
+      "url": "https://github.com/Cute-Dress/Dress",
+      "description": "好耶 是女装 | 备份·接受PR",
+      "language": "Ruby",
+      "stars": "1673",
+      "forks": "273",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "greatghoul",
+      "name": "remote-working",
+      "full_name": "greatghoul/remote-working",
+      "url": "https://github.com/greatghoul/remote-working",
+      "description": "收集整理远程工作相关的资料",
+      "language": "Ruby",
+      "stars": "11083",
+      "forks": "874",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "heroku",
+      "name": "heroku-buildpack-python",
+      "full_name": "heroku/heroku-buildpack-python",
+      "url": "https://github.com/heroku/heroku-buildpack-python",
+      "description": "Heroku's classic buildpack for Python applications.",
+      "language": "Ruby",
+      "stars": "988",
+      "forks": "1830",
+      "today_stars": "0 stars today"
+    }
+  ]
+}
