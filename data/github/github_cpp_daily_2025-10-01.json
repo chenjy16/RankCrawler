@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-10-01 01:17:02",
+  "repositories": [
+    {
+      "author": "nomic-ai",
+      "name": "gpt4all",
+      "full_name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": "76746",
+      "forks": "8277",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "winget-cli",
+      "full_name": "microsoft/winget-cli",
+      "url": "https://github.com/microsoft/winget-cli",
+      "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+      "language": "C++",
+      "stars": "24843",
+      "forks": "1608",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "NickvisionApps",
+      "name": "Parabolic",
+      "full_name": "NickvisionApps/Parabolic",
+      "url": "https://github.com/NickvisionApps/Parabolic",
+      "description": "Download web video and audio",
+      "language": "C++",
+      "stars": "3810",
+      "forks": "179",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "43560",
+      "forks": "4769",
+      "today_stars": "40 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6377",
+      "forks": "1670",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mhogomchungu",
+      "name": "media-downloader",
+      "full_name": "mhogomchungu/media-downloader",
+      "url": "https://github.com/mhogomchungu/media-downloader",
+      "description": "Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..",
+      "language": "C++",
+      "stars": "2809",
+      "forks": "207",
+      "today_stars": "46 stars today"
+    },
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "85792",
+      "forks": "37919",
+      "today_stars": "31 stars today"
+    },
+    {
+      "author": "ClickHouse",
+      "name": "ClickHouse",
+      "full_name": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": "43130",
+      "forks": "7678",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69217",
+      "forks": "15883",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "nlohmann",
+      "name": "json",
+      "full_name": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "stars": "47356",
+      "forks": "7148",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19839",
+      "forks": "3155",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "google",
+      "name": "draco",
+      "full_name": "google/draco",
+      "url": "https://github.com/google/draco",
+      "description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.",
+      "language": "C++",
+      "stars": "6972",
+      "forks": "1019",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "kvcache-ai",
+      "name": "Mooncake",
+      "full_name": "kvcache-ai/Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "stars": "4042",
+      "forks": "388",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "CrowCpp",
+      "name": "Crow",
+      "full_name": "CrowCpp/Crow",
+      "url": "https://github.com/CrowCpp/Crow",
+      "description": "A Fast and Easy to use microframework for the web.",
+      "language": "C++",
+      "stars": "4274",
+      "forks": "487",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "google",
+      "name": "highway",
+      "full_name": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "stars": "5049",
+      "forks": "383",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "moveit",
+      "name": "moveit2",
+      "full_name": "moveit/moveit2",
+      "url": "https://github.com/moveit/moveit2",
+      "description": "🤖 MoveIt for ROS 2",
+      "language": "C++",
+      "stars": "1493",
+      "forks": "667",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "arrow",
+      "full_name": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": "16011",
+      "forks": "3870",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Lymphatus",
+      "name": "caesium-image-compressor",
+      "full_name": "Lymphatus/caesium-image-compressor",
+      "url": "https://github.com/Lymphatus/caesium-image-compressor",
+      "description": "Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",
+      "language": "C++",
+      "stars": "5144",
+      "forks": "310",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "CleverRaven",
+      "name": "Cataclysm-DDA",
+      "full_name": "CleverRaven/Cataclysm-DDA",
+      "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+      "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+      "language": "C++",
+      "stars": "11645",
+      "forks": "4364",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "OHF-Voice",
+      "name": "piper1-gpl",
+      "full_name": "OHF-Voice/piper1-gpl",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "description": "Fast and local neural text-to-speech engine",
+      "language": "C++",
+      "stars": "1083",
+      "forks": "112",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29911",
+      "forks": "5780",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "praydog",
+      "name": "REFramework",
+      "full_name": "praydog/REFramework",
+      "url": "https://github.com/praydog/REFramework",
+      "description": "Scripting platform, modding framework and VR support for all RE Engine games",
+      "language": "C++",
+      "stars": "4022",
+      "forks": "431",
+      "today_stars": "19 stars today"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-10-01 01:15:42",
+  "repositories": [
+    {
+      "author": "Done-0",
+      "name": "fuck-u-code",
+      "full_name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+      "language": "Go",
+      "stars": "4521",
+      "forks": "224",
+      "today_stars": "488 stars today"
+    },
+    {
+      "author": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": "16301",
+      "forks": "5720",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "crush",
+      "full_name": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "The glamourous AI coding agent for your favourite terminal 💘",
+      "language": "Go",
+      "stars": "13412",
+      "forks": "689",
+      "today_stars": "85 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "23465",
+      "forks": "1792",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "29123",
+      "forks": "2759",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "moby",
+      "name": "moby",
+      "full_name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": "70831",
+      "forks": "18820",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49941",
+      "forks": "21336",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "12655",
+      "forks": "1840",
+      "today_stars": "184 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "full_name": "gorilla/mux",
+      "url": "https://github.com/gorilla/mux",
+      "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": "21601",
+      "forks": "1875",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "open-telemetry",
+      "name": "opentelemetry-collector-contrib",
+      "full_name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "stars": "4042",
+      "forks": "3034",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "alireza0",
+      "name": "s-ui",
+      "full_name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+      "language": "Go",
+      "stars": "5313",
+      "forks": "885",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "bnb-chain",
+      "name": "bsc",
+      "full_name": "bnb-chain/bsc",
+      "url": "https://github.com/bnb-chain/bsc",
+      "description": "A BNB Smart Chain client based on the go-ethereum fork",
+      "language": "Go",
+      "stars": "3115",
+      "forks": "1761",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "NexaAI",
+      "name": "nexa-sdk",
+      "full_name": "NexaAI/nexa-sdk",
+      "url": "https://github.com/NexaAI/nexa-sdk",
+      "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+      "language": "Go",
+      "stars": "5114",
+      "forks": "685",
+      "today_stars": "90 stars today"
+    },
+    {
+      "author": "kedacore",
+      "name": "keda",
+      "full_name": "kedacore/keda",
+      "url": "https://github.com/kedacore/keda",
+      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "language": "Go",
+      "stars": "9508",
+      "forks": "1234",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "francoismichel",
+      "name": "ssh3",
+      "full_name": "francoismichel/ssh3",
+      "url": "https://github.com/francoismichel/ssh3",
+      "description": "SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/",
+      "language": "Go",
+      "stars": "4592",
+      "forks": "108",
+      "today_stars": "76 stars today"
+    },
+    {
+      "author": "zitadel",
+      "name": "zitadel",
+      "full_name": "zitadel/zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "stars": "11872",
+      "forks": "829",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "joho",
+      "name": "godotenv",
+      "full_name": "joho/godotenv",
+      "url": "https://github.com/joho/godotenv",
+      "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+      "language": "Go",
+      "stars": "9819",
+      "forks": "435",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38924",
+      "forks": "4104",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "full_name": "kubernetes-sigs/kind",
+      "url": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": "14606",
+      "forks": "1668",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-workflows",
+      "full_name": "argoproj/argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "stars": "16059",
+      "forks": "3387",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "labstack",
+      "name": "echo",
+      "full_name": "labstack/echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
+      "language": "Go",
+      "stars": "31633",
+      "forks": "2288",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "dbos-inc",
+      "name": "dbos-transact-golang",
+      "full_name": "dbos-inc/dbos-transact-golang",
+      "url": "https://github.com/dbos-inc/dbos-transact-golang",
+      "description": "Durable Workflow Orchestration with Golang and Postgres",
+      "language": "Go",
+      "stars": "246",
+      "forks": "35",
+      "today_stars": "21 stars today"
+    },
+    {
+      "author": "docker",
+      "name": "compose",
+      "full_name": "docker/compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "stars": "36229",
+      "forks": "5518",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "usememos",
+      "name": "memos",
+      "full_name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.",
+      "language": "Go",
+      "stars": "44652",
+      "forks": "3194",
+      "today_stars": "41 stars today"
+    }
+  ]
+}

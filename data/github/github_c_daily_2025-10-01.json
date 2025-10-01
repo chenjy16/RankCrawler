@@ -1,0 +1,238 @@
+{
+  "language": "c",
+  "period": "daily",
+  "fetch_time": "2025-10-01 01:16:42",
+  "repositories": [
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28667",
+      "forks": "10845",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "raysan5",
+      "name": "raylib",
+      "full_name": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "stars": "28330",
+      "forks": "2689",
+      "today_stars": "16 stars today"
+    },
+    {
+      "author": "pygame",
+      "name": "pygame",
+      "full_name": "pygame/pygame",
+      "url": "https://github.com/pygame/pygame",
+      "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "language": "C",
+      "stars": "8312",
+      "forks": "3783",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "jqlang",
+      "name": "jq",
+      "full_name": "jqlang/jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars": "32677",
+      "forks": "1671",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "nrfconnect",
+      "name": "sdk-zephyr",
+      "full_name": "nrfconnect/sdk-zephyr",
+      "url": "https://github.com/nrfconnect/sdk-zephyr",
+      "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
+      "language": "C",
+      "stars": "341",
+      "forks": "710",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "Adaptix-Framework",
+      "name": "AdaptixC2",
+      "full_name": "Adaptix-Framework/AdaptixC2",
+      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
+      "description": "",
+      "language": "C",
+      "stars": "2019",
+      "forks": "369",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "apache",
+      "name": "nuttx",
+      "full_name": "apache/nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "stars": "3497",
+      "forks": "1484",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "MidnightCommander",
+      "name": "mc",
+      "full_name": "MidnightCommander/mc",
+      "url": "https://github.com/MidnightCommander/mc",
+      "description": "Midnight Commander's repository",
+      "language": "C",
+      "stars": "492",
+      "forks": "33",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6484",
+      "forks": "1847",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "arendst",
+      "name": "Tasmota",
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "stars": "23713",
+      "forks": "4975",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-public",
+      "full_name": "mit-pdos/xv6-public",
+      "url": "https://github.com/mit-pdos/xv6-public",
+      "description": "xv6 OS",
+      "language": "C",
+      "stars": "8843",
+      "forks": "4301",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "nanopb",
+      "name": "nanopb",
+      "full_name": "nanopb/nanopb",
+      "url": "https://github.com/nanopb/nanopb",
+      "description": "Protocol Buffers with small code size",
+      "language": "C",
+      "stars": "4912",
+      "forks": "959",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "iNavFlight",
+      "name": "inav",
+      "full_name": "iNavFlight/inav",
+      "url": "https://github.com/iNavFlight/inav",
+      "description": "INAV: Navigation-enabled flight control software",
+      "language": "C",
+      "stars": "3740",
+      "forks": "1666",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "lz4",
+      "name": "lz4",
+      "full_name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": "11340",
+      "forks": "1467",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "qmk",
+      "name": "qmk_firmware",
+      "full_name": "qmk/qmk_firmware",
+      "url": "https://github.com/qmk/qmk_firmware",
+      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "language": "C",
+      "stars": "19645",
+      "forks": "42651",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "lvgl",
+      "name": "lvgl",
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": "21515",
+      "forks": "3850",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "mit-pdos",
+      "name": "xv6-riscv",
+      "full_name": "mit-pdos/xv6-riscv",
+      "url": "https://github.com/mit-pdos/xv6-riscv",
+      "description": "Xv6 for RISC-V",
+      "language": "C",
+      "stars": "8657",
+      "forks": "3360",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "wazuh",
+      "name": "wazuh",
+      "full_name": "wazuh/wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C",
+      "stars": "13598",
+      "forks": "1995",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Mbed-TLS",
+      "name": "mbedtls",
+      "full_name": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "stars": "6142",
+      "forks": "2764",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "esnet",
+      "name": "iperf",
+      "full_name": "esnet/iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "stars": "7898",
+      "forks": "1373",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "cesanta",
+      "name": "mongoose",
+      "full_name": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+      "language": "C",
+      "stars": "12199",
+      "forks": "2842",
+      "today_stars": "5 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-10-01 01:16:49",
+  "repositories": [
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "76257",
+      "forks": "6184",
+      "today_stars": "304 stars this week"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5314",
+      "forks": "460",
+      "today_stars": "165 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32924",
+      "forks": "2826",
+      "today_stars": "175 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "67189",
+      "forks": "8708",
+      "today_stars": "232 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "443",
+      "forks": "99",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "12090",
+      "forks": "5267",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "28142",
+      "forks": "7533",
+      "today_stars": "83 stars this week"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "32195",
+      "forks": "3133",
+      "today_stars": "84 stars this week"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "4163",
+      "forks": "1307",
+      "today_stars": "20 stars this week"
+    },
+    {
+      "author": "taosdata",
+      "name": "TDengine",
+      "full_name": "taosdata/TDengine",
+      "url": "https://github.com/taosdata/TDengine",
+      "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+      "language": "C",
+      "stars": "24363",
+      "forks": "4960",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "zephyrproject-rtos",
+      "name": "zephyr",
+      "full_name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": "13202",
+      "forks": "7983",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6484",
+      "forks": "1847",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "radareorg",
+      "name": "radare2",
+      "full_name": "radareorg/radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "stars": "22353",
+      "forks": "3126",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "23088",
+      "forks": "992",
+      "today_stars": "75 stars this week"
+    },
+    {
+      "author": "palera1n",
+      "name": "palera1n",
+      "full_name": "palera1n/palera1n",
+      "url": "https://github.com/palera1n/palera1n",
+      "description": "Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",
+      "language": "C",
+      "stars": "5732",
+      "forks": "689",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "full_name": "cfenollosa/os-tutorial",
+      "url": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": "29470",
+      "forks": "3475",
+      "today_stars": "600 stars this week"
+    },
+    {
+      "author": "axboe",
+      "name": "fio",
+      "full_name": "axboe/fio",
+      "url": "https://github.com/axboe/fio",
+      "description": "Flexible I/O Tester",
+      "language": "C",
+      "stars": "5840",
+      "forks": "1336",
+      "today_stars": "7 stars this week"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2225",
+      "forks": "463",
+      "today_stars": "40 stars this week"
+    },
+    {
+      "author": "OpenEtherCATsociety",
+      "name": "SOEM",
+      "full_name": "OpenEtherCATsociety/SOEM",
+      "url": "https://github.com/OpenEtherCATsociety/SOEM",
+      "description": "Simple Open Source EtherCAT Master",
+      "language": "C",
+      "stars": "1675",
+      "forks": "780",
+      "today_stars": "16 stars this week"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3550",
+      "forks": "1357",
+      "today_stars": "35 stars this week"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6404",
+      "forks": "2622",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "17756",
+      "forks": "900",
+      "today_stars": "126 stars this week"
+    }
+  ]
+}
