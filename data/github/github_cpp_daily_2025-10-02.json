@@ -1,0 +1,249 @@
+{
+  "language": "cpp",
+  "period": "daily",
+  "fetch_time": "2025-10-02 01:07:34",
+  "repositories": [
+    {
+      "author": "bitcoin",
+      "name": "bitcoin",
+      "full_name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "stars": "85804",
+      "forks": "37928",
+      "today_stars": "23 stars today"
+    },
+    {
+      "author": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": "69227",
+      "forks": "15889",
+      "today_stars": "26 stars today"
+    },
+    {
+      "author": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": "6378",
+      "forks": "1670",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "deepseek-ai",
+      "name": "FlashMLA",
+      "full_name": "deepseek-ai/FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "stars": "11773",
+      "forks": "904",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "chromium",
+      "name": "chromium",
+      "full_name": "chromium/chromium",
+      "url": "https://github.com/chromium/chromium",
+      "description": "The official GitHub mirror of the Chromium source",
+      "language": "C++",
+      "stars": "21798",
+      "forks": "8043",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "rapidsai",
+      "name": "cudf",
+      "full_name": "rapidsai/cudf",
+      "url": "https://github.com/rapidsai/cudf",
+      "description": "cuDF - GPU DataFrame Library",
+      "language": "C++",
+      "stars": "9230",
+      "forks": "974",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "zaphoyd",
+      "name": "websocketpp",
+      "full_name": "zaphoyd/websocketpp",
+      "url": "https://github.com/zaphoyd/websocketpp",
+      "description": "C++ websocket client/server library",
+      "language": "C++",
+      "stars": "7502",
+      "forks": "2065",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "Atmosphere-NX",
+      "name": "Atmosphere",
+      "full_name": "Atmosphere-NX/Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "stars": "16996",
+      "forks": "1335",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "react-native",
+      "full_name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": "124006",
+      "forks": "24854",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars": "19839",
+      "forks": "3155",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ai-dynamo",
+      "name": "nixl",
+      "full_name": "ai-dynamo/nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "language": "C++",
+      "stars": "653",
+      "forks": "150",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "redpanda-data",
+      "name": "redpanda",
+      "full_name": "redpanda-data/redpanda",
+      "url": "https://github.com/redpanda-data/redpanda",
+      "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+      "language": "C++",
+      "stars": "11068",
+      "forks": "679",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "brave",
+      "name": "brave-core",
+      "full_name": "brave/brave-core",
+      "url": "https://github.com/brave/brave-core",
+      "description": "Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues",
+      "language": "C++",
+      "stars": "2845",
+      "forks": "1060",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": "191885",
+      "forks": "74892",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "duckdb",
+      "name": "duckdb",
+      "full_name": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": "33151",
+      "forks": "2623",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "carla-simulator",
+      "name": "carla",
+      "full_name": "carla-simulator/carla",
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research.",
+      "language": "C++",
+      "stars": "13081",
+      "forks": "4231",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "ggml-org",
+      "name": "whisper.cpp",
+      "full_name": "ggml-org/whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "stars": "43579",
+      "forks": "4768",
+      "today_stars": "17 stars today"
+    },
+    {
+      "author": "facebook",
+      "name": "folly",
+      "full_name": "facebook/folly",
+      "url": "https://github.com/facebook/folly",
+      "description": "An open-source C++ library developed and used at Facebook.",
+      "language": "C++",
+      "stars": "29915",
+      "forks": "5780",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "tranek",
+      "name": "GASDocumentation",
+      "full_name": "tranek/GASDocumentation",
+      "url": "https://github.com/tranek/GASDocumentation",
+      "description": "My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.",
+      "language": "C++",
+      "stars": "5344",
+      "forks": "934",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "gabime",
+      "name": "spdlog",
+      "full_name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "stars": "27370",
+      "forks": "4919",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "juce-framework",
+      "name": "JUCE",
+      "full_name": "juce-framework/JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "stars": "7601",
+      "forks": "1897",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "microsoft",
+      "name": "onnxruntime-genai",
+      "full_name": "microsoft/onnxruntime-genai",
+      "url": "https://github.com/microsoft/onnxruntime-genai",
+      "description": "Generative AI extensions for onnxruntime",
+      "language": "C++",
+      "stars": "843",
+      "forks": "219",
+      "today_stars": "2 stars today"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "language": "c",
+  "period": "weekly",
+  "fetch_time": "2025-10-02 01:07:21",
+  "repositories": [
+    {
+      "author": "netdata",
+      "name": "netdata",
+      "full_name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": "76266",
+      "forks": "6184",
+      "today_stars": "293 stars this week"
+    },
+    {
+      "author": "pbatard",
+      "name": "rufus",
+      "full_name": "pbatard/rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "stars": "32937",
+      "forks": "2827",
+      "today_stars": "164 stars this week"
+    },
+    {
+      "author": "espressif",
+      "name": "esp-brookesia",
+      "full_name": "espressif/esp-brookesia",
+      "url": "https://github.com/espressif/esp-brookesia",
+      "description": "ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.",
+      "language": "C",
+      "stars": "444",
+      "forks": "99",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "mackron",
+      "name": "miniaudio",
+      "full_name": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "stars": "5319",
+      "forks": "460",
+      "today_stars": "143 stars this week"
+    },
+    {
+      "author": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars": "28151",
+      "forks": "7537",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "obsproject",
+      "name": "obs-studio",
+      "full_name": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "stars": "67206",
+      "forks": "8707",
+      "today_stars": "223 stars this week"
+    },
+    {
+      "author": "riscv-collab",
+      "name": "riscv-gnu-toolchain",
+      "full_name": "riscv-collab/riscv-gnu-toolchain",
+      "url": "https://github.com/riscv-collab/riscv-gnu-toolchain",
+      "description": "GNU toolchain for RISC-V, including GCC",
+      "language": "C",
+      "stars": "4164",
+      "forks": "1307",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "cfenollosa",
+      "name": "os-tutorial",
+      "full_name": "cfenollosa/os-tutorial",
+      "url": "https://github.com/cfenollosa/os-tutorial",
+      "description": "How to create an OS from scratch",
+      "language": "C",
+      "stars": "29529",
+      "forks": "3479",
+      "today_stars": "703 stars this week"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS",
+      "full_name": "FreeRTOS/FreeRTOS",
+      "url": "https://github.com/FreeRTOS/FreeRTOS",
+      "description": "'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.",
+      "language": "C",
+      "stars": "6490",
+      "forks": "1847",
+      "today_stars": "42 stars this week"
+    },
+    {
+      "author": "openssl",
+      "name": "openssl",
+      "full_name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": "28673",
+      "forks": "10844",
+      "today_stars": "89 stars this week"
+    },
+    {
+      "author": "pgvector",
+      "name": "pgvector",
+      "full_name": "pgvector/pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "stars": "17775",
+      "forks": "900",
+      "today_stars": "119 stars this week"
+    },
+    {
+      "author": "mpv-player",
+      "name": "mpv",
+      "full_name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "stars": "32200",
+      "forks": "3132",
+      "today_stars": "79 stars this week"
+    },
+    {
+      "author": "libretro",
+      "name": "RetroArch",
+      "full_name": "libretro/RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "stars": "11946",
+      "forks": "1964",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "OpenEtherCATsociety",
+      "name": "SOEM",
+      "full_name": "OpenEtherCATsociety/SOEM",
+      "url": "https://github.com/OpenEtherCATsociety/SOEM",
+      "description": "Simple Open Source EtherCAT Master",
+      "language": "C",
+      "stars": "1675",
+      "forks": "780",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "FreeRTOS",
+      "name": "FreeRTOS-Kernel",
+      "full_name": "FreeRTOS/FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "stars": "3552",
+      "forks": "1357",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "39503",
+      "forks": "7946",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars": "16982",
+      "forks": "578",
+      "today_stars": "242 stars this week"
+    },
+    {
+      "author": "valkey-io",
+      "name": "valkey",
+      "full_name": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "stars": "23094",
+      "forks": "992",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "raspberrypi",
+      "name": "linux",
+      "full_name": "raspberrypi/linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "stars": "12092",
+      "forks": "5266",
+      "today_stars": "26 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "mimalloc",
+      "full_name": "microsoft/mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "stars": "12000",
+      "forks": "992",
+      "today_stars": "32 stars this week"
+    },
+    {
+      "author": "madler",
+      "name": "zlib",
+      "full_name": "madler/zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "stars": "6404",
+      "forks": "2622",
+      "today_stars": "18 stars this week"
+    },
+    {
+      "author": "BitMaker-hub",
+      "name": "NerdMiner_v2",
+      "full_name": "BitMaker-hub/NerdMiner_v2",
+      "url": "https://github.com/BitMaker-hub/NerdMiner_v2",
+      "description": "Improved version of first ESP32 NerdMiner",
+      "language": "C",
+      "stars": "2227",
+      "forks": "465",
+      "today_stars": "29 stars this week"
+    }
+  ]
+}

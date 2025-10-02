@@ -1,0 +1,282 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-10-02 01:06:14",
+  "repositories": [
+    {
+      "author": "Done-0",
+      "name": "fuck-u-code",
+      "full_name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+      "language": "Go",
+      "stars": "4670",
+      "forks": "229",
+      "today_stars": "156 stars today"
+    },
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "29203",
+      "forks": "2761",
+      "today_stars": "37 stars today"
+    },
+    {
+      "author": "IceWhaleTech",
+      "name": "CasaOS",
+      "full_name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "stars": "31891",
+      "forks": "1762",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "full_name": "rook/rook",
+      "url": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": "13076",
+      "forks": "2774",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "crawlab-team",
+      "name": "crawlab",
+      "full_name": "crawlab-team/crawlab",
+      "url": "https://github.com/crawlab-team/crawlab",
+      "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架",
+      "language": "Go",
+      "stars": "11990",
+      "forks": "1870",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "fluxcd",
+      "name": "flux2",
+      "full_name": "fluxcd/flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "stars": "7449",
+      "forks": "679",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "charlie0129",
+      "name": "batt",
+      "full_name": "charlie0129/batt",
+      "url": "https://github.com/charlie0129/batt",
+      "description": "Control and limit battery charging on Apple Silicon MacBooks.",
+      "language": "Go",
+      "stars": "1008",
+      "forks": "44",
+      "today_stars": "12 stars today"
+    },
+    {
+      "author": "gitleaks",
+      "name": "gitleaks",
+      "full_name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "stars": "23483",
+      "forks": "1796",
+      "today_stars": "28 stars today"
+    },
+    {
+      "author": "kubernetes-sigs",
+      "name": "kind",
+      "full_name": "kubernetes-sigs/kind",
+      "url": "https://github.com/kubernetes-sigs/kind",
+      "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
+      "language": "Go",
+      "stars": "14609",
+      "forks": "1668",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "coreybutler",
+      "name": "nvm-windows",
+      "full_name": "coreybutler/nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "stars": "43049",
+      "forks": "3624",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6234",
+      "forks": "3727",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "go-gorm",
+      "name": "gorm",
+      "full_name": "go-gorm/gorm",
+      "url": "https://github.com/go-gorm/gorm",
+      "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+      "language": "Go",
+      "stars": "38930",
+      "forks": "4105",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "gofr-dev",
+      "name": "gofr",
+      "full_name": "gofr-dev/gofr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+      "language": "Go",
+      "stars": "12999",
+      "forks": "1704",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "gorilla",
+      "name": "mux",
+      "full_name": "gorilla/mux",
+      "url": "https://github.com/gorilla/mux",
+      "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
+      "language": "Go",
+      "stars": "21606",
+      "forks": "1875",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "golang-migrate",
+      "name": "migrate",
+      "full_name": "golang-migrate/migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "description": "Database migrations. CLI and Golang library.",
+      "language": "Go",
+      "stars": "17448",
+      "forks": "1513",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "mudler",
+      "name": "LocalAI",
+      "full_name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "language": "Go",
+      "stars": "35591",
+      "forks": "2801",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "mock",
+      "full_name": "uber-go/mock",
+      "url": "https://github.com/uber-go/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": "3070",
+      "forks": "152",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "42052",
+      "forks": "3006",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ThreeDotsLabs",
+      "name": "watermill",
+      "full_name": "ThreeDotsLabs/watermill",
+      "url": "https://github.com/ThreeDotsLabs/watermill",
+      "description": "Building event-driven applications the easy way in Go.",
+      "language": "Go",
+      "stars": "9013",
+      "forks": "462",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "charmbracelet",
+      "name": "bubbletea",
+      "full_name": "charmbracelet/bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "stars": "35440",
+      "forks": "998",
+      "today_stars": "34 stars today"
+    },
+    {
+      "author": "helm",
+      "name": "helm",
+      "full_name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": "28626",
+      "forks": "7340",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "NexaAI",
+      "name": "nexa-sdk",
+      "full_name": "NexaAI/nexa-sdk",
+      "url": "https://github.com/NexaAI/nexa-sdk",
+      "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+      "language": "Go",
+      "stars": "5141",
+      "forks": "687",
+      "today_stars": "42 stars today"
+    },
+    {
+      "author": "fleetdm",
+      "name": "fleet",
+      "full_name": "fleetdm/fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "stars": "5588",
+      "forks": "678",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "grpc",
+      "name": "grpc-go",
+      "full_name": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "stars": "22413",
+      "forks": "4585",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "gravitational",
+      "name": "teleport",
+      "full_name": "gravitational/teleport",
+      "url": "https://github.com/gravitational/teleport",
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "language": "Go",
+      "stars": "19198",
+      "forks": "1923",
+      "today_stars": "11 stars today"
+    }
+  ]
+}

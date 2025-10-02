@@ -1,0 +1,271 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-10-02 01:08:34",
+  "repositories": [
+    {
+      "author": "chef",
+      "name": "chef",
+      "full_name": "chef/chef",
+      "url": "https://github.com/chef/chef",
+      "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
+      "language": "Ruby",
+      "stars": "8089",
+      "forks": "2526",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13023",
+      "forks": "4738",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "instructure",
+      "name": "canvas-lms",
+      "full_name": "instructure/canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "stars": "6235",
+      "forks": "2757",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "antiwork",
+      "name": "flexile",
+      "full_name": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments",
+      "language": "Ruby",
+      "stars": "741",
+      "forks": "341",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "522",
+      "forks": "70",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "Freika",
+      "name": "dawarich",
+      "full_name": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "stars": "6886",
+      "forks": "202",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "puma",
+      "name": "puma",
+      "full_name": "puma/puma",
+      "url": "https://github.com/puma/puma",
+      "description": "A Ruby/Rack web server built for parallelism",
+      "language": "Ruby",
+      "stars": "7817",
+      "forks": "1467",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24258",
+      "forks": "5532",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "45189",
+      "forks": "8670",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "zammad",
+      "name": "zammad",
+      "full_name": "zammad/zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "stars": "5111",
+      "forks": "874",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubygems",
+      "name": "rubygems.org",
+      "full_name": "rubygems/rubygems.org",
+      "url": "https://github.com/rubygems/rubygems.org",
+      "description": "The Ruby community's gem hosting service.",
+      "language": "Ruby",
+      "stars": "2399",
+      "forks": "968",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "10363",
+      "forks": "469",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "parruda",
+      "name": "claude-swarm",
+      "full_name": "parruda/claude-swarm",
+      "url": "https://github.com/parruda/claude-swarm",
+      "description": "Easily launch a Claude Code session that is connected to a swarm of Claude Code Agents",
+      "language": "Ruby",
+      "stars": "1254",
+      "forks": "96",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "374",
+      "forks": "394",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "manyfold3d",
+      "name": "manyfold",
+      "full_name": "manyfold3d/manyfold",
+      "url": "https://github.com/manyfold3d/manyfold",
+      "description": "A self-hosted digital asset manager for 3d print files.",
+      "language": "Ruby",
+      "stars": "1415",
+      "forks": "82",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "rails",
+      "full_name": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": "57655",
+      "forks": "21991",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "rails",
+      "name": "solid_queue",
+      "full_name": "rails/solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
+      "language": "Ruby",
+      "stars": "2222",
+      "forks": "198",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40544",
+      "forks": "5944",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "huginn",
+      "name": "huginn",
+      "full_name": "huginn/huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "stars": "47549",
+      "forks": "4118",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "department-of-veterans-affairs",
+      "name": "vets-api",
+      "full_name": "department-of-veterans-affairs/vets-api",
+      "url": "https://github.com/department-of-veterans-affairs/vets-api",
+      "description": "API powering VA.gov",
+      "language": "Ruby",
+      "stars": "249",
+      "forks": "77",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "12754",
+      "forks": "2831",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "sinatra",
+      "name": "sinatra",
+      "full_name": "sinatra/sinatra",
+      "url": "https://github.com/sinatra/sinatra",
+      "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+      "language": "Ruby",
+      "stars": "12367",
+      "forks": "2072",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "spree",
+      "name": "spree",
+      "full_name": "spree/spree",
+      "url": "https://github.com/spree/spree",
+      "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
+      "language": "Ruby",
+      "stars": "14959",
+      "forks": "5151",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "basecamp",
+      "name": "kamal",
+      "full_name": "basecamp/kamal",
+      "url": "https://github.com/basecamp/kamal",
+      "description": "Deploy web apps anywhere.",
+      "language": "Ruby",
+      "stars": "13273",
+      "forks": "624",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

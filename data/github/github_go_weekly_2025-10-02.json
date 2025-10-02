@@ -1,0 +1,282 @@
+{
+  "language": "go",
+  "period": "weekly",
+  "fetch_time": "2025-10-02 01:06:21",
+  "repositories": [
+    {
+      "author": "oauth2-proxy",
+      "name": "oauth2-proxy",
+      "full_name": "oauth2-proxy/oauth2-proxy",
+      "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+      "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+      "language": "Go",
+      "stars": "12701",
+      "forks": "1845",
+      "today_stars": "631 stars this week"
+    },
+    {
+      "author": "gin-gonic",
+      "name": "gin",
+      "full_name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": "86146",
+      "forks": "8428",
+      "today_stars": "1,552 stars this week"
+    },
+    {
+      "author": "Done-0",
+      "name": "fuck-u-code",
+      "full_name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+      "language": "Go",
+      "stars": "4670",
+      "forks": "229",
+      "today_stars": "917 stars this week"
+    },
+    {
+      "author": "pulumi",
+      "name": "pulumi",
+      "full_name": "pulumi/pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "stars": "23865",
+      "forks": "1239",
+      "today_stars": "56 stars this week"
+    },
+    {
+      "author": "chaitin",
+      "name": "SafeLine",
+      "full_name": "chaitin/SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": "18120",
+      "forks": "1127",
+      "today_stars": "387 stars this week"
+    },
+    {
+      "author": "smartcontractkit",
+      "name": "chainlink",
+      "full_name": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": "7779",
+      "forks": "1862",
+      "today_stars": "141 stars this week"
+    },
+    {
+      "author": "NexaAI",
+      "name": "nexa-sdk",
+      "full_name": "NexaAI/nexa-sdk",
+      "url": "https://github.com/NexaAI/nexa-sdk",
+      "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+      "language": "Go",
+      "stars": "5141",
+      "forks": "687",
+      "today_stars": "214 stars this week"
+    },
+    {
+      "author": "ethereum",
+      "name": "go-ethereum",
+      "full_name": "ethereum/go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": "49943",
+      "forks": "21340",
+      "today_stars": "108 stars this week"
+    },
+    {
+      "author": "gofiber",
+      "name": "fiber",
+      "full_name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": "38009",
+      "forks": "1877",
+      "today_stars": "148 stars this week"
+    },
+    {
+      "author": "etcd-io",
+      "name": "etcd",
+      "full_name": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": "50464",
+      "forks": "10190",
+      "today_stars": "73 stars this week"
+    },
+    {
+      "author": "rancher",
+      "name": "rancher",
+      "full_name": "rancher/rancher",
+      "url": "https://github.com/rancher/rancher",
+      "description": "Complete container management platform",
+      "language": "Go",
+      "stars": "24735",
+      "forks": "3103",
+      "today_stars": "41 stars this week"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "153664",
+      "forks": "12601",
+      "today_stars": "636 stars this week"
+    },
+    {
+      "author": "DataDog",
+      "name": "datadog-agent",
+      "full_name": "DataDog/datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "stars": "3260",
+      "forks": "1336",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "go-git",
+      "name": "go-git",
+      "full_name": "go-git/go-git",
+      "url": "https://github.com/go-git/go-git",
+      "description": "A highly extensible Git implementation in pure Go.",
+      "language": "Go",
+      "stars": "6883",
+      "forks": "831",
+      "today_stars": "31 stars this week"
+    },
+    {
+      "author": "filebrowser",
+      "name": "filebrowser",
+      "full_name": "filebrowser/filebrowser",
+      "url": "https://github.com/filebrowser/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "stars": "31394",
+      "forks": "3517",
+      "today_stars": "118 stars this week"
+    },
+    {
+      "author": "akuity",
+      "name": "kargo",
+      "full_name": "akuity/kargo",
+      "url": "https://github.com/akuity/kargo",
+      "description": "Application lifecycle orchestration",
+      "language": "Go",
+      "stars": "2745",
+      "forks": "274",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "jesseduffield",
+      "name": "lazygit",
+      "full_name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": "65394",
+      "forks": "2262",
+      "today_stars": "316 stars this week"
+    },
+    {
+      "author": "quic-go",
+      "name": "quic-go",
+      "full_name": "quic-go/quic-go",
+      "url": "https://github.com/quic-go/quic-go",
+      "description": "A production-ready QUIC implementation in pure Go",
+      "language": "Go",
+      "stars": "11034",
+      "forks": "1444",
+      "today_stars": "25 stars this week"
+    },
+    {
+      "author": "kubernetes",
+      "name": "kubernetes",
+      "full_name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": "117788",
+      "forks": "41463",
+      "today_stars": "152 stars this week"
+    },
+    {
+      "author": "abiosoft",
+      "name": "colima",
+      "full_name": "abiosoft/colima",
+      "url": "https://github.com/abiosoft/colima",
+      "description": "Container runtimes on macOS (and Linux) with minimal setup",
+      "language": "Go",
+      "stars": "24844",
+      "forks": "489",
+      "today_stars": "142 stars this week"
+    },
+    {
+      "author": "pingcap",
+      "name": "tidb",
+      "full_name": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": "39116",
+      "forks": "6019",
+      "today_stars": "49 stars this week"
+    },
+    {
+      "author": "bytebase",
+      "name": "bytebase",
+      "full_name": "bytebase/bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "description": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
+      "language": "Go",
+      "stars": "13073",
+      "forks": "848",
+      "today_stars": "46 stars this week"
+    },
+    {
+      "author": "obot-platform",
+      "name": "obot",
+      "full_name": "obot-platform/obot",
+      "url": "https://github.com/obot-platform/obot",
+      "description": "Open-source MCP Gateway and AI Platform",
+      "language": "Go",
+      "stars": "365",
+      "forks": "72",
+      "today_stars": "37 stars this week"
+    },
+    {
+      "author": "putyy",
+      "name": "res-downloader",
+      "full_name": "putyy/res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "stars": "10485",
+      "forks": "1253",
+      "today_stars": "144 stars this week"
+    },
+    {
+      "author": "cosmos",
+      "name": "cosmos-sdk",
+      "full_name": "cosmos/cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+      "language": "Go",
+      "stars": "6779",
+      "forks": "4043",
+      "today_stars": "20 stars this week"
+    }
+  ]
+}

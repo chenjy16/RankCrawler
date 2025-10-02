@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-10-02 01:08:55",
+  "repositories": [
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13948",
+      "forks": "1586",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ios",
+      "full_name": "stripe/stripe-ios",
+      "url": "https://github.com/stripe/stripe-ios",
+      "description": "Stripe iOS SDK",
+      "language": "Swift",
+      "stars": "2451",
+      "forks": "1023",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "nicklockwood",
+      "name": "SwiftFormat",
+      "full_name": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "description": "A command-line tool and Xcode Extension for formatting Swift code",
+      "language": "Swift",
+      "stars": "8535",
+      "forks": "660",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26470",
+      "forks": "3821",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-collections",
+      "full_name": "apple/swift-collections",
+      "url": "https://github.com/apple/swift-collections",
+      "description": "Commonly used data structures for Swift",
+      "language": "Swift",
+      "stars": "4194",
+      "forks": "341",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-nio",
+      "full_name": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "stars": "8267",
+      "forks": "702",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "vapor",
+      "name": "vapor",
+      "full_name": "vapor/vapor",
+      "url": "https://github.com/vapor/vapor",
+      "description": "💧 A server-side Swift HTTP web framework.",
+      "language": "Swift",
+      "stars": "25595",
+      "forks": "1499",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-protobuf",
+      "full_name": "apple/swift-protobuf",
+      "url": "https://github.com/apple/swift-protobuf",
+      "description": "Plugin and runtime library for using protobuf with Swift",
+      "language": "Swift",
+      "stars": "4763",
+      "forks": "484",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "github",
+      "name": "CopilotForXcode",
+      "full_name": "github/CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "description": "Xcode extension for GitHub Copilot",
+      "language": "Swift",
+      "stars": "4968",
+      "forks": "1335",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "jacklandrin",
+      "name": "OnlySwitch",
+      "full_name": "jacklandrin/OnlySwitch",
+      "url": "https://github.com/jacklandrin/OnlySwitch",
+      "description": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+      "language": "Swift",
+      "stars": "5158",
+      "forks": "219",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3985",
+      "forks": "749",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "aws-amplify",
+      "name": "amplify-swift",
+      "full_name": "aws-amplify/amplify-swift",
+      "url": "https://github.com/aws-amplify/amplify-swift",
+      "description": "A declarative library for application development using cloud services.",
+      "language": "Swift",
+      "stars": "508",
+      "forks": "221",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": "20730",
+      "forks": "454",
+      "today_stars": "69 stars today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27956",
+      "forks": "6046",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "hmlongco",
+      "name": "Factory",
+      "full_name": "hmlongco/Factory",
+      "url": "https://github.com/hmlongco/Factory",
+      "description": "A modern approach to Container-Based Dependency Injection for Swift and SwiftUI.",
+      "language": "Swift",
+      "stars": "2572",
+      "forks": "157",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-package-manager",
+      "full_name": "swiftlang/swift-package-manager",
+      "url": "https://github.com/swiftlang/swift-package-manager",
+      "description": "The Package Manager for the Swift Programming Language",
+      "language": "Swift",
+      "stars": "10012",
+      "forks": "1417",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mrousavy",
+      "name": "react-native-vision-camera",
+      "full_name": "mrousavy/react-native-vision-camera",
+      "url": "https://github.com/mrousavy/react-native-vision-camera",
+      "description": "📸 A powerful, high-performance React Native Camera library.",
+      "language": "Swift",
+      "stars": "8874",
+      "forks": "1280",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6284",
+      "forks": "397",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "daltoniam",
+      "name": "Starscream",
+      "full_name": "daltoniam/Starscream",
+      "url": "https://github.com/daltoniam/Starscream",
+      "description": "Websockets in swift for iOS and OSX",
+      "language": "Swift",
+      "stars": "8576",
+      "forks": "1256",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "4037",
+      "forks": "631",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "quoid",
+      "name": "userscripts",
+      "full_name": "quoid/userscripts",
+      "url": "https://github.com/quoid/userscripts",
+      "description": "An open-source userscript manager for Safari",
+      "language": "Swift",
+      "stars": "4007",
+      "forks": "320",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "getsentry",
+      "name": "sentry-cocoa",
+      "full_name": "getsentry/sentry-cocoa",
+      "url": "https://github.com/getsentry/sentry-cocoa",
+      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS.",
+      "language": "Swift",
+      "stars": "962",
+      "forks": "366",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "khcrysalis",
+      "name": "Feather",
+      "full_name": "khcrysalis/Feather",
+      "url": "https://github.com/khcrysalis/Feather",
+      "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
+      "language": "Swift",
+      "stars": "2878",
+      "forks": "239",
+      "today_stars": "8 stars today"
+    }
+  ]
+}
