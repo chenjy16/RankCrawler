@@ -1,0 +1,238 @@
+{
+  "language": "php",
+  "period": "weekly",
+  "fetch_time": "2025-10-03 01:08:30",
+  "repositories": [
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "32247",
+      "forks": "4515",
+      "today_stars": "1,079 stars this week"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "45872",
+      "forks": "3007",
+      "today_stars": "444 stars this week"
+    },
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "7973",
+      "forks": "879",
+      "today_stars": "65 stars this week"
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21834",
+      "forks": "9871",
+      "today_stars": "117 stars this week"
+    },
+    {
+      "author": "pterodactyl",
+      "name": "panel",
+      "full_name": "pterodactyl/panel",
+      "url": "https://github.com/pterodactyl/panel",
+      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "language": "PHP",
+      "stars": "8151",
+      "forks": "2264",
+      "today_stars": "27 stars this week"
+    },
+    {
+      "author": "linuxserver",
+      "name": "Heimdall",
+      "full_name": "linuxserver/Heimdall",
+      "url": "https://github.com/linuxserver/Heimdall",
+      "description": "An Application dashboard and launcher",
+      "language": "PHP",
+      "stars": "8680",
+      "forks": "592",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "Dolibarr",
+      "name": "dolibarr",
+      "full_name": "Dolibarr/dolibarr",
+      "url": "https://github.com/Dolibarr/dolibarr",
+      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+      "language": "PHP",
+      "stars": "6550",
+      "forks": "3111",
+      "today_stars": "28 stars this week"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+      "language": "PHP",
+      "stars": "26780",
+      "forks": "3814",
+      "today_stars": "180 stars this week"
+    },
+    {
+      "author": "FreshRSS",
+      "name": "FreshRSS",
+      "full_name": "FreshRSS/FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
+      "language": "PHP",
+      "stars": "12580",
+      "forks": "1017",
+      "today_stars": "59 stars this week"
+    },
+    {
+      "author": "PrestaShop",
+      "name": "PrestaShop",
+      "full_name": "PrestaShop/PrestaShop",
+      "url": "https://github.com/PrestaShop/PrestaShop",
+      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "language": "PHP",
+      "stars": "8782",
+      "forks": "4967",
+      "today_stars": "10 stars this week"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30619",
+      "forks": "9713",
+      "today_stars": "34 stars this week"
+    },
+    {
+      "author": "phpstan",
+      "name": "phpstan",
+      "full_name": "phpstan/phpstan",
+      "url": "https://github.com/phpstan/phpstan",
+      "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+      "language": "PHP",
+      "stars": "13642",
+      "forks": "929",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "Qloapps",
+      "name": "QloApps",
+      "full_name": "Qloapps/QloApps",
+      "url": "https://github.com/Qloapps/QloApps",
+      "description": "QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.",
+      "language": "PHP",
+      "stars": "9796",
+      "forks": "632",
+      "today_stars": "318 stars this week"
+    },
+    {
+      "author": "monicahq",
+      "name": "monica",
+      "full_name": "monicahq/monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "stars": "23474",
+      "forks": "2358",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "WordPress",
+      "name": "wordpress-develop",
+      "full_name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": "3097",
+      "forks": "3082",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "34131",
+      "forks": "11569",
+      "today_stars": "29 stars this week"
+    },
+    {
+      "author": "glpi-project",
+      "name": "glpi",
+      "full_name": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "stars": "5185",
+      "forks": "1484",
+      "today_stars": "23 stars this week"
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "full_name": "matomo-org/matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "stars": "20887",
+      "forks": "2766",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "statamic",
+      "name": "cms",
+      "full_name": "statamic/cms",
+      "url": "https://github.com/statamic/cms",
+      "description": "The core Laravel CMS Composer package",
+      "language": "PHP",
+      "stars": "4563",
+      "forks": "588",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "danog",
+      "name": "MadelineProto",
+      "full_name": "danog/MadelineProto",
+      "url": "https://github.com/danog/MadelineProto",
+      "description": "Async PHP client API for the telegram MTProto protocol",
+      "language": "PHP",
+      "stars": "3228",
+      "forks": "768",
+      "today_stars": "13 stars this week"
+    },
+    {
+      "author": "firefly-iii",
+      "name": "firefly-iii",
+      "full_name": "firefly-iii/firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "stars": "20533",
+      "forks": "1876",
+      "today_stars": "72 stars this week"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "language": "php",
+  "period": "daily",
+  "fetch_time": "2025-10-03 01:08:23",
+  "repositories": [
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "32247",
+      "forks": "4515",
+      "today_stars": "218 stars today"
+    },
+    {
+      "author": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+      "language": "PHP",
+      "stars": "45872",
+      "forks": "3007",
+      "today_stars": "72 stars today"
+    },
+    {
+      "author": "glpi-project",
+      "name": "glpi",
+      "full_name": "glpi-project/glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "stars": "5185",
+      "forks": "1484",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "PHPMailer",
+      "name": "PHPMailer",
+      "full_name": "PHPMailer/PHPMailer",
+      "url": "https://github.com/PHPMailer/PHPMailer",
+      "description": "The classic email sending library for PHP",
+      "language": "PHP",
+      "stars": "21834",
+      "forks": "9871",
+      "today_stars": "83 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "symfony",
+      "full_name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": "30619",
+      "forks": "9713",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "filamentphp",
+      "name": "filament",
+      "full_name": "filamentphp/filament",
+      "url": "https://github.com/filamentphp/filament",
+      "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
+      "language": "PHP",
+      "stars": "26780",
+      "forks": "3814",
+      "today_stars": "24 stars today"
+    },
+    {
+      "author": "nextcloud",
+      "name": "all-in-one",
+      "full_name": "nextcloud/all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "stars": "7973",
+      "forks": "879",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "laravel",
+      "name": "framework",
+      "full_name": "laravel/framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "The Laravel Framework.",
+      "language": "PHP",
+      "stars": "34131",
+      "forks": "11569",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "grokability",
+      "name": "snipe-it",
+      "full_name": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": "12803",
+      "forks": "3581",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "danielmiessler",
+      "name": "SecLists",
+      "full_name": "danielmiessler/SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "stars": "66015",
+      "forks": "24659",
+      "today_stars": "20 stars today"
+    },
+    {
+      "author": "elementor",
+      "name": "elementor",
+      "full_name": "elementor/elementor",
+      "url": "https://github.com/elementor/elementor",
+      "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "language": "PHP",
+      "stars": "6761",
+      "forks": "1478",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "rectorphp",
+      "name": "rector",
+      "full_name": "rectorphp/rector",
+      "url": "https://github.com/rectorphp/rector",
+      "description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code",
+      "language": "PHP",
+      "stars": "9982",
+      "forks": "727",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "matomo-org",
+      "name": "matomo",
+      "full_name": "matomo-org/matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "stars": "20887",
+      "forks": "2766",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "blueimp",
+      "name": "jQuery-File-Upload",
+      "full_name": "blueimp/jQuery-File-Upload",
+      "url": "https://github.com/blueimp/jQuery-File-Upload",
+      "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+      "language": "PHP",
+      "stars": "30876",
+      "forks": "7867",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "symfony",
+      "name": "ai",
+      "full_name": "symfony/ai",
+      "url": "https://github.com/symfony/ai",
+      "description": "Symfony AI is a set of components that integrate AI capabilities into PHP applications",
+      "language": "PHP",
+      "stars": "696",
+      "forks": "101",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "monicahq",
+      "name": "monica",
+      "full_name": "monicahq/monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "stars": "23474",
+      "forks": "2358",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "barryvdh",
+      "name": "laravel-ide-helper",
+      "full_name": "barryvdh/laravel-ide-helper",
+      "url": "https://github.com/barryvdh/laravel-ide-helper",
+      "description": "IDE Helper for Laravel",
+      "language": "PHP",
+      "stars": "14733",
+      "forks": "1187",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "drush-ops",
+      "name": "drush",
+      "full_name": "drush-ops/drush",
+      "url": "https://github.com/drush-ops/drush",
+      "description": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",
+      "language": "PHP",
+      "stars": "2369",
+      "forks": "1103",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "roundcube",
+      "name": "roundcubemail",
+      "full_name": "roundcube/roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "stars": "6546",
+      "forks": "1707",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "dompdf",
+      "name": "dompdf",
+      "full_name": "dompdf/dompdf",
+      "url": "https://github.com/dompdf/dompdf",
+      "description": "HTML to PDF converter for PHP",
+      "language": "PHP",
+      "stars": "10942",
+      "forks": "1814",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-php",
+      "full_name": "DataDog/dd-trace-php",
+      "url": "https://github.com/DataDog/dd-trace-php",
+      "description": "Datadog PHP Clients",
+      "language": "PHP",
+      "stars": "537",
+      "forks": "167",
+      "today_stars": "0 stars today"
+    }
+  ]
+}

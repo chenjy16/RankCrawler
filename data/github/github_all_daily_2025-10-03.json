@@ -1,0 +1,238 @@
+{
+  "language": "all",
+  "period": "daily",
+  "fetch_time": "2025-10-03 01:05:06",
+  "repositories": [
+    {
+      "author": "nextcloud",
+      "name": "server",
+      "full_name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": "32248",
+      "forks": "4515",
+      "today_stars": "218 stars today"
+    },
+    {
+      "author": "google",
+      "name": "tunix",
+      "full_name": "google/tunix",
+      "url": "https://github.com/google/tunix",
+      "description": "A JAX-native LLM Post-Training Library",
+      "language": "Python",
+      "stars": "905",
+      "forks": "81",
+      "today_stars": "131 stars today"
+    },
+    {
+      "author": "pathwaycom",
+      "name": "pathway",
+      "full_name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": "43985",
+      "forks": "1344",
+      "today_stars": "95 stars today"
+    },
+    {
+      "author": "cjpais",
+      "name": "Handy",
+      "full_name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": "1570",
+      "forks": "87",
+      "today_stars": "90 stars today"
+    },
+    {
+      "author": "anthropics",
+      "name": "claude-agent-sdk-python",
+      "full_name": "anthropics/claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "description": "",
+      "language": "Python",
+      "stars": "1986",
+      "forks": "252",
+      "today_stars": "267 stars today"
+    },
+    {
+      "author": "atuinsh",
+      "name": "desktop",
+      "full_name": "atuinsh/desktop",
+      "url": "https://github.com/atuinsh/desktop",
+      "description": "📖 Runbooks that run",
+      "language": "TypeScript",
+      "stars": "963",
+      "forks": "26",
+      "today_stars": "224 stars today"
+    },
+    {
+      "author": "SDWebImage",
+      "name": "SDWebImage",
+      "full_name": "SDWebImage/SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": "25700",
+      "forks": "5999",
+      "today_stars": "54 stars today"
+    },
+    {
+      "author": "Lightricks",
+      "name": "LTX-Video",
+      "full_name": "Lightricks/LTX-Video",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "description": "Official repository for LTX-Video",
+      "language": "Python",
+      "stars": "8195",
+      "forks": "731",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "34882",
+      "forks": "4248",
+      "today_stars": "583 stars today"
+    },
+    {
+      "author": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "78897",
+      "forks": "4146",
+      "today_stars": "405 stars today"
+    },
+    {
+      "author": "chiphuyen",
+      "name": "aie-book",
+      "full_name": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "language": "Jupyter Notebook",
+      "stars": "9809",
+      "forks": "1346",
+      "today_stars": "134 stars today"
+    },
+    {
+      "author": "actions",
+      "name": "runner-images",
+      "full_name": "actions/runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "stars": "11982",
+      "forks": "3518",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "45477",
+      "forks": "6357",
+      "today_stars": "1,178 stars today"
+    },
+    {
+      "author": "simstudioai",
+      "name": "sim",
+      "full_name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": "16082",
+      "forks": "2036",
+      "today_stars": "157 stars today"
+    },
+    {
+      "author": "MudBlazor",
+      "name": "MudBlazor",
+      "full_name": "MudBlazor/MudBlazor",
+      "url": "https://github.com/MudBlazor/MudBlazor",
+      "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+      "language": "C#",
+      "stars": "9601",
+      "forks": "1518",
+      "today_stars": "11 stars today"
+    },
+    {
+      "author": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": "7789",
+      "forks": "1895",
+      "today_stars": "258 stars today"
+    },
+    {
+      "author": "quarkusio",
+      "name": "quarkus",
+      "full_name": "quarkusio/quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
+      "language": "Java",
+      "stars": "15051",
+      "forks": "2969",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": "35300",
+      "forks": "2185",
+      "today_stars": "116 stars today"
+    },
+    {
+      "author": "enescingoz",
+      "name": "awesome-n8n-templates",
+      "full_name": "enescingoz/awesome-n8n-templates",
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
+      "language": null,
+      "stars": "12948",
+      "forks": "3791",
+      "today_stars": "100 stars today"
+    },
+    {
+      "author": "kestra-io",
+      "name": "kestra",
+      "full_name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+      "language": "Java",
+      "stars": "21530",
+      "forks": "1911",
+      "today_stars": "27 stars today"
+    },
+    {
+      "author": "tigerbeetle",
+      "name": "tigerbeetle",
+      "full_name": "tigerbeetle/tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "stars": "13714",
+      "forks": "673",
+      "today_stars": "71 stars today"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "language": "ruby",
+  "period": "daily",
+  "fetch_time": "2025-10-03 01:08:43",
+  "repositories": [
+    {
+      "author": "fastlane",
+      "name": "fastlane",
+      "full_name": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "stars": "40549",
+      "forks": "5945",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "discourse",
+      "name": "discourse",
+      "full_name": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "stars": "45214",
+      "forks": "8670",
+      "today_stars": "25 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "ruby-sdk",
+      "full_name": "modelcontextprotocol/ruby-sdk",
+      "url": "https://github.com/modelcontextprotocol/ruby-sdk",
+      "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
+      "language": "Ruby",
+      "stars": "525",
+      "forks": "71",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "CMSgov",
+      "name": "price-transparency-guide",
+      "full_name": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "stars": "419",
+      "forks": "122",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "parruda",
+      "name": "claude-swarm",
+      "full_name": "parruda/claude-swarm",
+      "url": "https://github.com/parruda/claude-swarm",
+      "description": "Easily launch a Claude Code session that is connected to a swarm of Claude Code Agents",
+      "language": "Ruby",
+      "stars": "1265",
+      "forks": "96",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ubicloud",
+      "name": "ubicloud",
+      "full_name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": "10364",
+      "forks": "470",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "github-linguist",
+      "name": "linguist",
+      "full_name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": "13025",
+      "forks": "4739",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "Homebrew",
+      "name": "brew",
+      "full_name": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": "44988",
+      "forks": "10554",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "DataDog",
+      "name": "dd-trace-rb",
+      "full_name": "DataDog/dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "stars": "374",
+      "forks": "394",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "jekyll",
+      "name": "jekyll",
+      "full_name": "jekyll/jekyll",
+      "url": "https://github.com/jekyll/jekyll",
+      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": "50878",
+      "forks": "10214",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "dependabot",
+      "name": "dependabot-core",
+      "full_name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": "5236",
+      "forks": "1194",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "heartcombo",
+      "name": "devise",
+      "full_name": "heartcombo/devise",
+      "url": "https://github.com/heartcombo/devise",
+      "description": "Flexible authentication solution for Rails with Warden.",
+      "language": "Ruby",
+      "stars": "24259",
+      "forks": "5533",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "ruby-grape",
+      "name": "grape",
+      "full_name": "ruby-grape/grape",
+      "url": "https://github.com/ruby-grape/grape",
+      "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+      "language": "Ruby",
+      "stars": "9969",
+      "forks": "1230",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "postalserver",
+      "name": "postal",
+      "full_name": "postalserver/postal",
+      "url": "https://github.com/postalserver/postal",
+      "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "language": "Ruby",
+      "stars": "15946",
+      "forks": "1165",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "ThrowTheSwitch",
+      "name": "Ceedling",
+      "full_name": "ThrowTheSwitch/Ceedling",
+      "url": "https://github.com/ThrowTheSwitch/Ceedling",
+      "description": "Unit testing and build system for C projects",
+      "language": "Ruby",
+      "stars": "724",
+      "forks": "263",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "opf",
+      "name": "openproject",
+      "full_name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": "12759",
+      "forks": "2832",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "paper-trail-gem",
+      "name": "paper_trail",
+      "full_name": "paper-trail-gem/paper_trail",
+      "url": "https://github.com/paper-trail-gem/paper_trail",
+      "description": "Track changes to your rails models",
+      "language": "Ruby",
+      "stars": "6939",
+      "forks": "908",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ruby",
+      "name": "ruby",
+      "full_name": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "22974",
+      "forks": "5481",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "rubysec",
+      "name": "ruby-advisory-db",
+      "full_name": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "stars": "1036",
+      "forks": "219",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "hanami",
+      "name": "hanami",
+      "full_name": "hanami/hanami",
+      "url": "https://github.com/hanami/hanami",
+      "description": "A flexible framework for maintainable Ruby apps",
+      "language": "Ruby",
+      "stars": "6310",
+      "forks": "546",
+      "today_stars": "2 stars today"
+    }
+  ]
+}
