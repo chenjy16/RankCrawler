@@ -1,0 +1,271 @@
+{
+  "language": "csharp",
+  "period": "weekly",
+  "fetch_time": "2025-10-04 01:05:28",
+  "repositories": [
+    {
+      "author": "jellyfin",
+      "name": "jellyfin",
+      "full_name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": "44263",
+      "forks": "3975",
+      "today_stars": "580 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "37215",
+      "forks": "10463",
+      "today_stars": "98 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "roslyn",
+      "full_name": "dotnet/roslyn",
+      "url": "https://github.com/dotnet/roslyn",
+      "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+      "language": "C#",
+      "stars": "19870",
+      "forks": "4174",
+      "today_stars": "30 stars this week"
+    },
+    {
+      "author": "CoplayDev",
+      "name": "unity-mcp",
+      "full_name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.",
+      "language": "C#",
+      "stars": "3355",
+      "forks": "450",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "rmcrackan",
+      "name": "Libation",
+      "full_name": "rmcrackan/Libation",
+      "url": "https://github.com/rmcrackan/Libation",
+      "description": "Libation: Liberate your Library",
+      "language": "C#",
+      "stars": "4614",
+      "forks": "228",
+      "today_stars": "81 stars this week"
+    },
+    {
+      "author": "NickeManarin",
+      "name": "ScreenToGif",
+      "full_name": "NickeManarin/ScreenToGif",
+      "url": "https://github.com/NickeManarin/ScreenToGif",
+      "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+      "language": "C#",
+      "stars": "25765",
+      "forks": "2298",
+      "today_stars": "78 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "efcore",
+      "full_name": "dotnet/efcore",
+      "url": "https://github.com/dotnet/efcore",
+      "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+      "language": "C#",
+      "stars": "14391",
+      "forks": "3307",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "OpenTabletDriver",
+      "name": "OpenTabletDriver",
+      "full_name": "OpenTabletDriver/OpenTabletDriver",
+      "url": "https://github.com/OpenTabletDriver/OpenTabletDriver",
+      "description": "Open source, cross-platform, user-mode tablet driver",
+      "language": "C#",
+      "stars": "3309",
+      "forks": "413",
+      "today_stars": "36 stars this week"
+    },
+    {
+      "author": "AvaloniaUI",
+      "name": "Avalonia",
+      "full_name": "AvaloniaUI/Avalonia",
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+      "language": "C#",
+      "stars": "28822",
+      "forks": "2500",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "Tichau",
+      "name": "FileConverter",
+      "full_name": "Tichau/FileConverter",
+      "url": "https://github.com/Tichau/FileConverter",
+      "description": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
+      "language": "C#",
+      "stars": "11468",
+      "forks": "775",
+      "today_stars": "124 stars this week"
+    },
+    {
+      "author": "ClassIsland",
+      "name": "ClassIsland",
+      "full_name": "ClassIsland/ClassIsland",
+      "url": "https://github.com/ClassIsland/ClassIsland",
+      "description": "一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。",
+      "language": "C#",
+      "stars": "1572",
+      "forks": "150",
+      "today_stars": "122 stars this week"
+    },
+    {
+      "author": "mcmonkeyprojects",
+      "name": "SwarmUI",
+      "full_name": "mcmonkeyprojects/SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+      "language": "C#",
+      "stars": "3187",
+      "forks": "300",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "studyzy",
+      "name": "imewlconverter",
+      "full_name": "studyzy/imewlconverter",
+      "url": "https://github.com/studyzy/imewlconverter",
+      "description": "”深蓝词库转换“ 一款开源免费的输入法词库转换程序",
+      "language": "C#",
+      "stars": "9087",
+      "forks": "667",
+      "today_stars": "60 stars this week"
+    },
+    {
+      "author": "OrchardCMS",
+      "name": "OrchardCore",
+      "full_name": "OrchardCMS/OrchardCore",
+      "url": "https://github.com/OrchardCMS/OrchardCore",
+      "description": "Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",
+      "language": "C#",
+      "stars": "7876",
+      "forks": "2515",
+      "today_stars": "21 stars this week"
+    },
+    {
+      "author": "BeyondDimension",
+      "name": "SteamTools",
+      "full_name": "BeyondDimension/SteamTools",
+      "url": "https://github.com/BeyondDimension/SteamTools",
+      "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+      "language": "C#",
+      "stars": "23246",
+      "forks": "1514",
+      "today_stars": "70 stars this week"
+    },
+    {
+      "author": "MudBlazor",
+      "name": "MudBlazor",
+      "full_name": "MudBlazor/MudBlazor",
+      "url": "https://github.com/MudBlazor/MudBlazor",
+      "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
+      "language": "C#",
+      "stars": "9632",
+      "forks": "1522",
+      "today_stars": "121 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "WinUI-Gallery",
+      "full_name": "microsoft/WinUI-Gallery",
+      "url": "https://github.com/microsoft/WinUI-Gallery",
+      "description": "This app demonstrates the controls available in WinUI and the Fluent Design System.",
+      "language": "C#",
+      "stars": "3240",
+      "forks": "701",
+      "today_stars": "33 stars this week"
+    },
+    {
+      "author": "stride3d",
+      "name": "stride",
+      "full_name": "stride3d/stride",
+      "url": "https://github.com/stride3d/stride",
+      "description": "Stride (formerly Xenko), a free and open-source cross-platform C# game engine.",
+      "language": "C#",
+      "stars": "7189",
+      "forks": "1043",
+      "today_stars": "14 stars this week"
+    },
+    {
+      "author": "yaobiao131",
+      "name": "downkyicore",
+      "full_name": "yaobiao131/downkyicore",
+      "url": "https://github.com/yaobiao131/downkyicore",
+      "description": "哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+      "language": "C#",
+      "stars": "5122",
+      "forks": "378",
+      "today_stars": "77 stars this week"
+    },
+    {
+      "author": "DevToys-app",
+      "name": "DevToys",
+      "full_name": "DevToys-app/DevToys",
+      "url": "https://github.com/DevToys-app/DevToys",
+      "description": "A Swiss Army knife for developers.",
+      "language": "C#",
+      "stars": "30053",
+      "forks": "1644",
+      "today_stars": "97 stars this week"
+    },
+    {
+      "author": "dotnet",
+      "name": "runtime",
+      "full_name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+      "language": "C#",
+      "stars": "16970",
+      "forks": "5187",
+      "today_stars": "38 stars this week"
+    },
+    {
+      "author": "JasperFx",
+      "name": "wolverine",
+      "full_name": "JasperFx/wolverine",
+      "url": "https://github.com/JasperFx/wolverine",
+      "description": "Supercharged .NET server side development!",
+      "language": "C#",
+      "stars": "1722",
+      "forks": "237",
+      "today_stars": "19 stars this week"
+    },
+    {
+      "author": "microsoft",
+      "name": "garnet",
+      "full_name": "microsoft/garnet",
+      "url": "https://github.com/microsoft/garnet",
+      "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+      "language": "C#",
+      "stars": "11506",
+      "forks": "609",
+      "today_stars": "8 stars this week"
+    },
+    {
+      "author": "bloxstraplabs",
+      "name": "bloxstrap",
+      "full_name": "bloxstraplabs/bloxstrap",
+      "url": "https://github.com/bloxstraplabs/bloxstrap",
+      "description": "An alternative bootstrapper for Roblox with a bunch of extra features.",
+      "language": "C#",
+      "stars": "2580",
+      "forks": "726",
+      "today_stars": "22 stars this week"
+    }
+  ]
+}

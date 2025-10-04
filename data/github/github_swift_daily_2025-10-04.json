@@ -1,0 +1,260 @@
+{
+  "language": "swift",
+  "period": "daily",
+  "fetch_time": "2025-10-04 01:06:20",
+  "repositories": [
+    {
+      "author": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": "20852",
+      "forks": "461",
+      "today_stars": "82 stars today"
+    },
+    {
+      "author": "siteline",
+      "name": "swiftui-introspect",
+      "full_name": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "description": "Introspect underlying UIKit/AppKit components from SwiftUI",
+      "language": "Swift",
+      "stars": "6290",
+      "forks": "398",
+      "today_stars": "3 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-composable-architecture",
+      "full_name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": "13953",
+      "forks": "1588",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "realm",
+      "name": "SwiftLint",
+      "full_name": "realm/SwiftLint",
+      "url": "https://github.com/realm/SwiftLint",
+      "description": "A tool to enforce Swift style and conventions.",
+      "language": "Swift",
+      "stars": "19218",
+      "forks": "2269",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "apollographql",
+      "name": "apollo-ios",
+      "full_name": "apollographql/apollo-ios",
+      "url": "https://github.com/apollographql/apollo-ios",
+      "description": "📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",
+      "language": "Swift",
+      "stars": "3986",
+      "forks": "749",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "groue",
+      "name": "GRDB.swift",
+      "full_name": "groue/GRDB.swift",
+      "url": "https://github.com/groue/GRDB.swift",
+      "description": "A toolkit for SQLite databases, with a focus on application development",
+      "language": "Swift",
+      "stars": "7832",
+      "forks": "789",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-nio",
+      "full_name": "apple/swift-nio",
+      "url": "https://github.com/apple/swift-nio",
+      "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+      "language": "Swift",
+      "stars": "8268",
+      "forks": "702",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "ChartsOrg",
+      "name": "Charts",
+      "full_name": "ChartsOrg/Charts",
+      "url": "https://github.com/ChartsOrg/Charts",
+      "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+      "language": "Swift",
+      "stars": "27955",
+      "forks": "6048",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "MrKai77",
+      "name": "Loop",
+      "full_name": "MrKai77/Loop",
+      "url": "https://github.com/MrKai77/Loop",
+      "description": "Window management made elegant.",
+      "language": "Swift",
+      "stars": "9296",
+      "forks": "193",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "RevenueCat",
+      "name": "purchases-ios",
+      "full_name": "RevenueCat/purchases-ios",
+      "url": "https://github.com/RevenueCat/purchases-ios",
+      "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
+      "language": "Swift",
+      "stars": "2779",
+      "forks": "388",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "nicklockwood",
+      "name": "SwiftFormat",
+      "full_name": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "description": "A command-line tool and Xcode Extension for formatting Swift code",
+      "language": "Swift",
+      "stars": "8539",
+      "forks": "660",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-snapshot-testing",
+      "full_name": "pointfreeco/swift-snapshot-testing",
+      "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+      "description": "📸 Delightful Swift snapshot testing.",
+      "language": "Swift",
+      "stars": "4038",
+      "forks": "631",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "ianyh",
+      "name": "Amethyst",
+      "full_name": "ianyh/Amethyst",
+      "url": "https://github.com/ianyh/Amethyst",
+      "description": "Automatic tiling window manager for macOS à la xmonad.",
+      "language": "Swift",
+      "stars": "15722",
+      "forks": "503",
+      "today_stars": "5 stars today"
+    },
+    {
+      "author": "apple",
+      "name": "swift-async-algorithms",
+      "full_name": "apple/swift-async-algorithms",
+      "url": "https://github.com/apple/swift-async-algorithms",
+      "description": "Async Algorithms for Swift",
+      "language": "Swift",
+      "stars": "3432",
+      "forks": "180",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "tuist",
+      "name": "tuist",
+      "full_name": "tuist/tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "A virtual platform team for mobile devs who ship",
+      "language": "Swift",
+      "stars": "5297",
+      "forks": "663",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "facebook",
+      "name": "facebook-ios-sdk",
+      "full_name": "facebook/facebook-ios-sdk",
+      "url": "https://github.com/facebook/facebook-ios-sdk",
+      "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "language": "Swift",
+      "stars": "7948",
+      "forks": "3646",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "stripe",
+      "name": "stripe-ios",
+      "full_name": "stripe/stripe-ios",
+      "url": "https://github.com/stripe/stripe-ios",
+      "description": "Stripe iOS SDK",
+      "language": "Swift",
+      "stars": "2451",
+      "forks": "1024",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "daltoniam",
+      "name": "Starscream",
+      "full_name": "daltoniam/Starscream",
+      "url": "https://github.com/daltoniam/Starscream",
+      "description": "Websockets in swift for iOS and OSX",
+      "language": "Swift",
+      "stars": "8577",
+      "forks": "1257",
+      "today_stars": "1 star today"
+    },
+    {
+      "author": "mapbox",
+      "name": "mapbox-maps-ios",
+      "full_name": "mapbox/mapbox-maps-ios",
+      "url": "https://github.com/mapbox/mapbox-maps-ios",
+      "description": "Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal",
+      "language": "Swift",
+      "stars": "554",
+      "forks": "187",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "pointfreeco",
+      "name": "swift-dependencies",
+      "full_name": "pointfreeco/swift-dependencies",
+      "url": "https://github.com/pointfreeco/swift-dependencies",
+      "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+      "language": "Swift",
+      "stars": "1973",
+      "forks": "157",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "airbnb",
+      "name": "lottie-ios",
+      "full_name": "airbnb/lottie-ios",
+      "url": "https://github.com/airbnb/lottie-ios",
+      "description": "An iOS library to natively render After Effects vector animations",
+      "language": "Swift",
+      "stars": "26473",
+      "forks": "3820",
+      "today_stars": "2 stars today"
+    },
+    {
+      "author": "aws-amplify",
+      "name": "amplify-swift",
+      "full_name": "aws-amplify/amplify-swift",
+      "url": "https://github.com/aws-amplify/amplify-swift",
+      "description": "A declarative library for application development using cloud services.",
+      "language": "Swift",
+      "stars": "508",
+      "forks": "221",
+      "today_stars": "0 stars today"
+    },
+    {
+      "author": "swiftlang",
+      "name": "swift-syntax",
+      "full_name": "swiftlang/swift-syntax",
+      "url": "https://github.com/swiftlang/swift-syntax",
+      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "language": "Swift",
+      "stars": "3538",
+      "forks": "455",
+      "today_stars": "1 star today"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "language": "rust",
+  "period": "monthly",
+  "fetch_time": "2025-10-04 01:04:16",
+  "repositories": [
+    {
+      "author": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "45822",
+      "forks": "5431",
+      "today_stars": "7,762 stars this month"
+    },
+    {
+      "author": "uutils",
+      "name": "coreutils",
+      "full_name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "21776",
+      "forks": "1589",
+      "today_stars": "765 stars this month"
+    },
+    {
+      "author": "zama-ai",
+      "name": "fhevm",
+      "full_name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": "22022",
+      "forks": "983",
+      "today_stars": "5,695 stars this month"
+    },
+    {
+      "author": "category-labs",
+      "name": "monad-bft",
+      "full_name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": "510",
+      "forks": "209",
+      "today_stars": "291 stars this month"
+    },
+    {
+      "author": "linera-io",
+      "name": "linera-protocol",
+      "full_name": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "description": "Main repository for the Linera protocol",
+      "language": "Rust",
+      "stars": "31090",
+      "forks": "2108",
+      "today_stars": "2,935 stars this month"
+    },
+    {
+      "author": "Eventual-Inc",
+      "name": "Daft",
+      "full_name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": "4549",
+      "forks": "315",
+      "today_stars": "1,222 stars this month"
+    },
+    {
+      "author": "juspay",
+      "name": "hyperswitch",
+      "full_name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": "35057",
+      "forks": "4262",
+      "today_stars": "8,806 stars this month"
+    },
+    {
+      "author": "typst",
+      "name": "typst",
+      "full_name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": "46553",
+      "forks": "1256",
+      "today_stars": "1,333 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "zed",
+      "full_name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": "66631",
+      "forks": "5445",
+      "today_stars": "1,920 stars this month"
+    },
+    {
+      "author": "zed-industries",
+      "name": "agent-client-protocol",
+      "full_name": "zed-industries/agent-client-protocol",
+      "url": "https://github.com/zed-industries/agent-client-protocol",
+      "description": "A protocol for connecting any editor to any agent",
+      "language": "Rust",
+      "stars": "832",
+      "forks": "61",
+      "today_stars": "367 stars this month"
+    },
+    {
+      "author": "actix",
+      "name": "actix-web",
+      "full_name": "actix/actix-web",
+      "url": "https://github.com/actix/actix-web",
+      "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+      "language": "Rust",
+      "stars": "23707",
+      "forks": "1799",
+      "today_stars": "226 stars this month"
+    },
+    {
+      "author": "eza-community",
+      "name": "eza",
+      "full_name": "eza-community/eza",
+      "url": "https://github.com/eza-community/eza",
+      "description": "A modern alternative to ls",
+      "language": "Rust",
+      "stars": "17673",
+      "forks": "326",
+      "today_stars": "560 stars this month"
+    },
+    {
+      "author": "eythaann",
+      "name": "Seelen-UI",
+      "full_name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": "13566",
+      "forks": "407",
+      "today_stars": "1,675 stars this month"
+    },
+    {
+      "author": "rust-lang",
+      "name": "rust",
+      "full_name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": "106897",
+      "forks": "13805",
+      "today_stars": "848 stars this month"
+    },
+    {
+      "author": "glzr-io",
+      "name": "glazewm",
+      "full_name": "glzr-io/glazewm",
+      "url": "https://github.com/glzr-io/glazewm",
+      "description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
+      "language": "Rust",
+      "stars": "10043",
+      "forks": "294",
+      "today_stars": "438 stars this month"
+    },
+    {
+      "author": "foundry-rs",
+      "name": "foundry",
+      "full_name": "foundry-rs/foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "stars": "9608",
+      "forks": "2182",
+      "today_stars": "243 stars this month"
+    },
+    {
+      "author": "gitbutlerapp",
+      "name": "gitbutler",
+      "full_name": "gitbutlerapp/gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "16678",
+      "forks": "697",
+      "today_stars": "543 stars this month"
+    },
+    {
+      "author": "FuelLabs",
+      "name": "sway",
+      "full_name": "FuelLabs/sway",
+      "url": "https://github.com/FuelLabs/sway",
+      "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+      "language": "Rust",
+      "stars": "62139",
+      "forks": "5424",
+      "today_stars": "63 stars this month"
+    },
+    {
+      "author": "BoundaryML",
+      "name": "baml",
+      "full_name": "BoundaryML/baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
+      "language": "Rust",
+      "stars": "6213",
+      "forks": "288",
+      "today_stars": "589 stars this month"
+    },
+    {
+      "author": "Orange-OpenSource",
+      "name": "hurl",
+      "full_name": "Orange-OpenSource/hurl",
+      "url": "https://github.com/Orange-OpenSource/hurl",
+      "description": "Hurl, run and test HTTP requests with plain text.",
+      "language": "Rust",
+      "stars": "17819",
+      "forks": "692",
+      "today_stars": "605 stars this month"
+    },
+    {
+      "author": "denoland",
+      "name": "deno",
+      "full_name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": "104578",
+      "forks": "5727",
+      "today_stars": "617 stars this month"
+    },
+    {
+      "author": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars": "19710",
+      "forks": "655",
+      "today_stars": "931 stars this month"
+    },
+    {
+      "author": "bevyengine",
+      "name": "bevy",
+      "full_name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": "42495",
+      "forks": "4159",
+      "today_stars": "850 stars this month"
+    }
+  ]
+}

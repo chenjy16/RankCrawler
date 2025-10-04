@@ -1,0 +1,260 @@
+{
+  "language": "go",
+  "period": "daily",
+  "fetch_time": "2025-10-04 01:03:44",
+  "repositories": [
+    {
+      "author": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": "29284",
+      "forks": "2762",
+      "today_stars": "15 stars today"
+    },
+    {
+      "author": "modelcontextprotocol",
+      "name": "go-sdk",
+      "full_name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": "2316",
+      "forks": "204",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "url": "https://github.com/microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars": "22337",
+      "forks": "709",
+      "today_stars": "18 stars today"
+    },
+    {
+      "author": "m1k1o",
+      "name": "neko",
+      "full_name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": "15541",
+      "forks": "1029",
+      "today_stars": "32 stars today"
+    },
+    {
+      "author": "netbirdio",
+      "name": "netbird",
+      "full_name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": "18734",
+      "forks": "889",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "jackc",
+      "name": "pgx",
+      "full_name": "jackc/pgx",
+      "url": "https://github.com/jackc/pgx",
+      "description": "PostgreSQL driver and toolkit for Go",
+      "language": "Go",
+      "stars": "12562",
+      "forks": "946",
+      "today_stars": "6 stars today"
+    },
+    {
+      "author": "openbao",
+      "name": "openbao",
+      "full_name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": "4612",
+      "forks": "261",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "opencontainers",
+      "name": "image-spec",
+      "full_name": "opencontainers/image-spec",
+      "url": "https://github.com/opencontainers/image-spec",
+      "description": "OCI Image Format",
+      "language": "Go",
+      "stars": "3941",
+      "forks": "754",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "derailed",
+      "name": "k9s",
+      "full_name": "derailed/k9s",
+      "url": "https://github.com/derailed/k9s",
+      "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+      "language": "Go",
+      "stars": "31357",
+      "forks": "1973",
+      "today_stars": "14 stars today"
+    },
+    {
+      "author": "openfga",
+      "name": "openfga",
+      "full_name": "openfga/openfga",
+      "url": "https://github.com/openfga/openfga",
+      "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+      "language": "Go",
+      "stars": "4196",
+      "forks": "310",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "rook",
+      "name": "rook",
+      "full_name": "rook/rook",
+      "url": "https://github.com/rook/rook",
+      "description": "Storage Orchestration for Kubernetes",
+      "language": "Go",
+      "stars": "13087",
+      "forks": "2776",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "uber-go",
+      "name": "mock",
+      "full_name": "uber-go/mock",
+      "url": "https://github.com/uber-go/mock",
+      "description": "GoMock is a mocking framework for the Go programming language.",
+      "language": "Go",
+      "stars": "3078",
+      "forks": "154",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "trufflesecurity",
+      "name": "trufflehog",
+      "full_name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": "22646",
+      "forks": "2079",
+      "today_stars": "38 stars today"
+    },
+    {
+      "author": "envoyproxy",
+      "name": "gateway",
+      "full_name": "envoyproxy/gateway",
+      "url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "language": "Go",
+      "stars": "2129",
+      "forks": "556",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars": "46695",
+      "forks": "10050",
+      "today_stars": "8 stars today"
+    },
+    {
+      "author": "NVIDIA",
+      "name": "gpu-operator",
+      "full_name": "NVIDIA/gpu-operator",
+      "url": "https://github.com/NVIDIA/gpu-operator",
+      "description": "NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",
+      "language": "Go",
+      "stars": "2327",
+      "forks": "389",
+      "today_stars": "7 stars today"
+    },
+    {
+      "author": "avelino",
+      "name": "awesome-go",
+      "full_name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "stars": "153844",
+      "forks": "12609",
+      "today_stars": "106 stars today"
+    },
+    {
+      "author": "spf13",
+      "name": "cobra",
+      "full_name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": "42066",
+      "forks": "3008",
+      "today_stars": "9 stars today"
+    },
+    {
+      "author": "kyverno",
+      "name": "kyverno",
+      "full_name": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Cloud Native Policy Management",
+      "language": "Go",
+      "stars": "6947",
+      "forks": "1122",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": "20821",
+      "forks": "6414",
+      "today_stars": "13 stars today"
+    },
+    {
+      "author": "ethereum-optimism",
+      "name": "optimism",
+      "full_name": "ethereum-optimism/optimism",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism is Ethereum, scaled.",
+      "language": "Go",
+      "stars": "6242",
+      "forks": "3735",
+      "today_stars": "4 stars today"
+    },
+    {
+      "author": "vitessio",
+      "name": "vitess",
+      "full_name": "vitessio/vitess",
+      "url": "https://github.com/vitessio/vitess",
+      "description": "Vitess is a database clustering system for horizontal scaling of MySQL.",
+      "language": "Go",
+      "stars": "20276",
+      "forks": "2262",
+      "today_stars": "19 stars today"
+    },
+    {
+      "author": "charlie0129",
+      "name": "batt",
+      "full_name": "charlie0129/batt",
+      "url": "https://github.com/charlie0129/batt",
+      "description": "Control and limit battery charging on Apple Silicon MacBooks.",
+      "language": "Go",
+      "stars": "1032",
+      "forks": "45",
+      "today_stars": "13 stars today"
+    }
+  ]
+}
